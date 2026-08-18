@@ -1,4 +1,11 @@
 {
+  "a mother's love": [
+    {
+      "title": "Todo sobre mi madre (All About My Mother)",
+      "page": "reviews/elliott-0019-todo-sobre-mi-madre-all-about-my-mother.html",
+      "id": "Elliott_0019"
+    }
+  ],
   "accepting help": [
     {
       "title": "Annapolis",
@@ -34,6 +41,13 @@
       "id": "Elliott_0021"
     }
   ],
+  "authenticity": [
+    {
+      "title": "Todo sobre mi madre (All About My Mother)",
+      "page": "reviews/elliott-0019-todo-sobre-mi-madre-all-about-my-mother.html",
+      "id": "Elliott_0019"
+    }
+  ],
   "behavior patterns": [
     {
       "title": "After the Sunset",
@@ -51,6 +65,13 @@
       "title": "Arlington Road",
       "page": "reviews/elliott-0047-arlington-road.html",
       "id": "Elliott_0047"
+    }
+  ],
+  "belonging": [
+    {
+      "title": "Lilo & Stitch",
+      "page": "reviews/elliott-0003-lilo-stitch.html",
+      "id": "Elliott_0003"
     }
   ],
   "bestiality": [
@@ -74,6 +95,13 @@
       "id": "Elliott_0025"
     }
   ],
+  "calling": [
+    {
+      "title": "Along Came A Spider",
+      "page": "reviews/elliott-0013-along-came-a-spider.html",
+      "id": "Elliott_0013"
+    }
+  ],
   "change": [
     {
       "title": "After the Sunset",
@@ -86,6 +114,20 @@
       "title": "American Pie 2",
       "page": "reviews/elliott-0036-american-pie-2.html",
       "id": "Elliott_0036"
+    }
+  ],
+  "Childlike belief": [
+    {
+      "title": "The Adventures of Rocky and Bullwinkle",
+      "page": "reviews/elliott-0015-the-adventures-of-rocky-and-bullwinkle.html",
+      "id": "Elliott_0015"
+    }
+  ],
+  "Choices and consequences": [
+    {
+      "title": "All The Pretty Horses",
+      "page": "reviews/elliott-0014-all-the-pretty-horses.html",
+      "id": "Elliott_0014"
     }
   ],
   "Christian parenting": [
@@ -121,6 +163,27 @@
       "id": "Elliott_0040"
     }
   ],
+  "contentment": [
+    {
+      "title": "The Thomas Crown Affair",
+      "page": "reviews/elliott-0011-the-thomas-crown-affair.html",
+      "id": "Elliott_0011"
+    }
+  ],
+  "conviction": [
+    {
+      "title": "The Adventures of Rocky and Bullwinkle",
+      "page": "reviews/elliott-0015-the-adventures-of-rocky-and-bullwinkle.html",
+      "id": "Elliott_0015"
+    }
+  ],
+  "counsel": [
+    {
+      "title": "Thirteen Days",
+      "page": "reviews/elliott-0005-thirteen-days.html",
+      "id": "Elliott_0005"
+    }
+  ],
   "Counsel": [
     {
       "title": "Alexander",
@@ -128,11 +191,47 @@
       "id": "Elliott_0031"
     }
   ],
+  "Counterfeiting": [
+    {
+      "title": "Rush Hour 2",
+      "page": "reviews/elliott-0004-rush-hour-2.html",
+      "id": "Elliott_0004"
+    }
+  ],
   "courage": [
+    {
+      "title": "Thirteen Days",
+      "page": "reviews/elliott-0005-thirteen-days.html",
+      "id": "Elliott_0005"
+    },
+    {
+      "title": "Along Came A Spider",
+      "page": "reviews/elliott-0013-along-came-a-spider.html",
+      "id": "Elliott_0013"
+    },
+    {
+      "title": "Anna and the King",
+      "page": "reviews/elliott-0020-anna-and-the-king.html",
+      "id": "Elliott_0020"
+    },
     {
       "title": "The Alamo",
       "page": "reviews/elliott-0044-the-alamo.html",
       "id": "Elliott_0044"
+    }
+  ],
+  "courtship and chivalry": [
+    {
+      "title": "Kate and Leopold",
+      "page": "reviews/elliott-0002-kate-and-leopold.html",
+      "id": "Elliott_0002"
+    }
+  ],
+  "Creation": [
+    {
+      "title": "Todo sobre mi madre (All About My Mother)",
+      "page": "reviews/elliott-0019-todo-sobre-mi-madre-all-about-my-mother.html",
+      "id": "Elliott_0019"
     }
   ],
   "creation": [
@@ -142,7 +241,7 @@
       "id": "Elliott_0026"
     }
   ],
-  "Creation": [
+  "Creation and kinds": [
     {
       "title": "The Animal",
       "page": "reviews/elliott-0038-the-animal.html",
@@ -156,11 +255,78 @@
       "id": "Elliott_0039"
     }
   ],
+  "death and afterlife": [
+    {
+      "title": "Gothika",
+      "page": "reviews/elliott-0009-gothika.html",
+      "id": "Elliott_0009"
+    }
+  ],
+  "deception": [
+    {
+      "title": "Rush Hour 2",
+      "page": "reviews/elliott-0004-rush-hour-2.html",
+      "id": "Elliott_0004"
+    },
+    {
+      "title": "The Art of War",
+      "page": "reviews/elliott-0017-the-art-of-war.html",
+      "id": "Elliott_0017"
+    }
+  ],
+  "Deception": [
+    {
+      "title": "The Truth About Charlie",
+      "page": "reviews/elliott-0012-the-truth-about-charlie.html",
+      "id": "Elliott_0012"
+    }
+  ],
+  "decision-making": [
+    {
+      "title": "All The Pretty Horses",
+      "page": "reviews/elliott-0014-all-the-pretty-horses.html",
+      "id": "Elliott_0014"
+    }
+  ],
+  "Demonic possession": [
+    {
+      "title": "Gothika",
+      "page": "reviews/elliott-0009-gothika.html",
+      "id": "Elliott_0009"
+    }
+  ],
   "Discernment": [
     {
       "title": "Exit Wounds",
       "page": "reviews/elliott-0001-exit-wounds.html",
       "id": "Elliott_0001"
+    }
+  ],
+  "discernment": [
+    {
+      "title": "Rush Hour 2",
+      "page": "reviews/elliott-0004-rush-hour-2.html",
+      "id": "Elliott_0004"
+    },
+    {
+      "title": "Drowning Mona",
+      "page": "reviews/elliott-0007-drowning-mona.html",
+      "id": "Elliott_0007"
+    },
+    {
+      "title": "Heartbreakers",
+      "page": "reviews/elliott-0010-heartbreakers.html",
+      "id": "Elliott_0010"
+    },
+    {
+      "title": "The Truth About Charlie",
+      "page": "reviews/elliott-0012-the-truth-about-charlie.html",
+      "id": "Elliott_0012"
+    },
+    {
+      "title": "The Art of War",
+      "page": "reviews/elliott-0017-the-art-of-war.html",
+      "id": "Elliott_0017"
     }
   ],
   "discipline": [
@@ -173,6 +339,13 @@
       "title": "After the Sunset",
       "page": "reviews/elliott-0041-after-the-sunset.html",
       "id": "Elliott_0041"
+    }
+  ],
+  "divine strength": [
+    {
+      "title": "Anna and the King",
+      "page": "reviews/elliott-0020-anna-and-the-king.html",
+      "id": "Elliott_0020"
     }
   ],
   "doubt": [
@@ -203,6 +376,13 @@
       "id": "Elliott_0021"
     }
   ],
+  "evil": [
+    {
+      "title": "Gothika",
+      "page": "reviews/elliott-0009-gothika.html",
+      "id": "Elliott_0009"
+    }
+  ],
   "evil influence": [
     {
       "title": "Apt Pupil",
@@ -224,11 +404,44 @@
       "id": "Elliott_0026"
     }
   ],
+  "faith": [
+    {
+      "title": "The Adventures of Rocky and Bullwinkle",
+      "page": "reviews/elliott-0015-the-adventures-of-rocky-and-bullwinkle.html",
+      "id": "Elliott_0015"
+    }
+  ],
+  "Faith against odds": [
+    {
+      "title": "Anna and the King",
+      "page": "reviews/elliott-0020-anna-and-the-king.html",
+      "id": "Elliott_0020"
+    }
+  ],
   "faithfulness": [
+    {
+      "title": "Angela's Ashes",
+      "page": "reviews/elliott-0018-angela-s-ashes.html",
+      "id": "Elliott_0018"
+    },
     {
       "title": "American Pie",
       "page": "reviews/elliott-0045-american-pie.html",
       "id": "Elliott_0045"
+    }
+  ],
+  "false and selfish love": [
+    {
+      "title": "Amores perros (Love’s A Bitch)",
+      "page": "reviews/elliott-0040-amores-perros-love-s-a-bitch.html",
+      "id": "Elliott_0040"
+    }
+  ],
+  "false apostles": [
+    {
+      "title": "Rush Hour 2",
+      "page": "reviews/elliott-0004-rush-hour-2.html",
+      "id": "Elliott_0004"
     }
   ],
   "false prophets": [
@@ -238,11 +451,11 @@
       "id": "Elliott_0001"
     }
   ],
-  "false/selfish love": [
+  "Family": [
     {
-      "title": "Amores perros (Love’s A Bitch)",
-      "page": "reviews/elliott-0040-amores-perros-love-s-a-bitch.html",
-      "id": "Elliott_0040"
+      "title": "Lilo & Stitch",
+      "page": "reviews/elliott-0003-lilo-stitch.html",
+      "id": "Elliott_0003"
     }
   ],
   "Fear": [
@@ -255,6 +468,13 @@
       "title": "Arlington Road",
       "page": "reviews/elliott-0047-arlington-road.html",
       "id": "Elliott_0047"
+    }
+  ],
+  "Financial wealth": [
+    {
+      "title": "The Thomas Crown Affair",
+      "page": "reviews/elliott-0011-the-thomas-crown-affair.html",
+      "id": "Elliott_0011"
     }
   ],
   "Finding common ground": [
@@ -285,6 +505,20 @@
       "id": "Elliott_0042"
     }
   ],
+  "free will": [
+    {
+      "title": "Gothika",
+      "page": "reviews/elliott-0009-gothika.html",
+      "id": "Elliott_0009"
+    }
+  ],
+  "gender": [
+    {
+      "title": "Todo sobre mi madre (All About My Mother)",
+      "page": "reviews/elliott-0019-todo-sobre-mi-madre-all-about-my-mother.html",
+      "id": "Elliott_0019"
+    }
+  ],
   "Gifts": [
     {
       "title": "Benji: Off the Leash",
@@ -292,32 +526,67 @@
       "id": "Elliott_0028"
     }
   ],
-  "gifts": [
+  "gifts of holy spirit": [
     {
       "title": "Atlantis: The Lost Empire",
       "page": "reviews/elliott-0037-atlantis-the-lost-empire.html",
       "id": "Elliott_0037"
     }
   ],
-  "giving one’s life": [
+  "giving one's life": [
     {
       "title": "The Alamo",
       "page": "reviews/elliott-0044-the-alamo.html",
       "id": "Elliott_0044"
     }
   ],
-  "God’s creation": [
+  "God's definition of love": [
+    {
+      "title": "Amores perros (Love’s A Bitch)",
+      "page": "reviews/elliott-0040-amores-perros-love-s-a-bitch.html",
+      "id": "Elliott_0040"
+    }
+  ],
+  "God's prepared home": [
     {
       "title": "Aeon Flux",
       "page": "reviews/elliott-0035-aeon-flux.html",
       "id": "Elliott_0035"
     }
   ],
-  "God’s promise": [
+  "God's promise": [
     {
       "title": "Angel Eyes",
       "page": "reviews/elliott-0039-angel-eyes.html",
       "id": "Elliott_0039"
+    }
+  ],
+  "God's provision": [
+    {
+      "title": "Angela's Ashes",
+      "page": "reviews/elliott-0018-angela-s-ashes.html",
+      "id": "Elliott_0018"
+    }
+  ],
+  "God's Word": [
+    {
+      "title": "Autumn in New York",
+      "page": "reviews/elliott-0016-autumn-in-new-york.html",
+      "id": "Elliott_0016"
+    }
+  ],
+  "godly leadership": [
+    {
+      "title": "Thirteen Days",
+      "page": "reviews/elliott-0005-thirteen-days.html",
+      "id": "Elliott_0005"
+    }
+  ],
+  "grace": [
+    {
+      "title": "Along Came A Spider",
+      "page": "reviews/elliott-0013-along-came-a-spider.html",
+      "id": "Elliott_0013"
     }
   ],
   "greed": [
@@ -353,6 +622,13 @@
       "id": "Elliott_0048"
     }
   ],
+  "guidance": [
+    {
+      "title": "Drowning Mona",
+      "page": "reviews/elliott-0007-drowning-mona.html",
+      "id": "Elliott_0007"
+    }
+  ],
   "Habit": [
     {
       "title": "After the Sunset",
@@ -372,6 +648,13 @@
       "id": "Elliott_0050"
     }
   ],
+  "Hearing God": [
+    {
+      "title": "Drowning Mona",
+      "page": "reviews/elliott-0007-drowning-mona.html",
+      "id": "Elliott_0007"
+    }
+  ],
   "heaven": [
     {
       "title": "Aeon Flux",
@@ -384,6 +667,13 @@
       "title": "Breakin' All the Rules",
       "page": "reviews/elliott-0027-breakin-all-the-rules.html",
       "id": "Elliott_0027"
+    }
+  ],
+  "honoring wives": [
+    {
+      "title": "Kate and Leopold",
+      "page": "reviews/elliott-0002-kate-and-leopold.html",
+      "id": "Elliott_0002"
     }
   ],
   "hope": [
@@ -402,9 +692,28 @@
   ],
   "humility": [
     {
+      "title": "The Adventures of Rocky and Bullwinkle",
+      "page": "reviews/elliott-0015-the-adventures-of-rocky-and-bullwinkle.html",
+      "id": "Elliott_0015"
+    },
+    {
       "title": "Around the World in 80 Days",
       "page": "reviews/elliott-0043-around-the-world-in-80-days.html",
       "id": "Elliott_0043"
+    }
+  ],
+  "hunger and thirst": [
+    {
+      "title": "Autumn in New York",
+      "page": "reviews/elliott-0016-autumn-in-new-york.html",
+      "id": "Elliott_0016"
+    }
+  ],
+  "inclusion": [
+    {
+      "title": "Lilo & Stitch",
+      "page": "reviews/elliott-0003-lilo-stitch.html",
+      "id": "Elliott_0003"
     }
   ],
   "Inner beauty": [
@@ -435,11 +744,11 @@
       "id": "Elliott_0024"
     }
   ],
-  "kinds": [
+  "leadership": [
     {
-      "title": "The Animal",
-      "page": "reviews/elliott-0038-the-animal.html",
-      "id": "Elliott_0038"
+      "title": "Anna and the King",
+      "page": "reviews/elliott-0020-anna-and-the-king.html",
+      "id": "Elliott_0020"
     }
   ],
   "Leadership": [
@@ -463,6 +772,13 @@
       "id": "Elliott_0042"
     }
   ],
+  "Light versus darkness": [
+    {
+      "title": "Thirteen Days",
+      "page": "reviews/elliott-0005-thirteen-days.html",
+      "id": "Elliott_0005"
+    }
+  ],
   "longsuffering": [
     {
       "title": "Are We There Yet?",
@@ -475,6 +791,13 @@
       "title": "Angel Eyes",
       "page": "reviews/elliott-0039-angel-eyes.html",
       "id": "Elliott_0039"
+    }
+  ],
+  "love": [
+    {
+      "title": "Whipped",
+      "page": "reviews/elliott-0006-whipped.html",
+      "id": "Elliott_0006"
     }
   ],
   "Love": [
@@ -494,6 +817,18 @@
       "title": "Boiler Room",
       "page": "reviews/elliott-0022-boiler-room.html",
       "id": "Elliott_0022"
+    }
+  ],
+  "Marriage": [
+    {
+      "title": "Kate and Leopold",
+      "page": "reviews/elliott-0002-kate-and-leopold.html",
+      "id": "Elliott_0002"
+    },
+    {
+      "title": "Whipped",
+      "page": "reviews/elliott-0006-whipped.html",
+      "id": "Elliott_0006"
     }
   ],
   "maturity": [
@@ -517,6 +852,20 @@
       "id": "Elliott_0034"
     }
   ],
+  "national security and morality": [
+    {
+      "title": "The Good Shepherd",
+      "page": "reviews/elliott-0008-the-good-shepherd.html",
+      "id": "Elliott_0008"
+    }
+  ],
+  "objectification": [
+    {
+      "title": "Whipped",
+      "page": "reviews/elliott-0006-whipped.html",
+      "id": "Elliott_0006"
+    }
+  ],
   "one body": [
     {
       "title": "Annapolis",
@@ -531,7 +880,7 @@
       "id": "Elliott_0050"
     }
   ],
-  "Paradise/Creation": [
+  "Paradise and creation": [
     {
       "title": "Aeon Flux",
       "page": "reviews/elliott-0035-aeon-flux.html",
@@ -561,12 +910,22 @@
   ],
   "peace": [
     {
+      "title": "Thirteen Days",
+      "page": "reviews/elliott-0005-thirteen-days.html",
+      "id": "Elliott_0005"
+    },
+    {
       "title": "Arlington Road",
       "page": "reviews/elliott-0047-arlington-road.html",
       "id": "Elliott_0047"
     }
   ],
   "perseverance": [
+    {
+      "title": "Angela's Ashes",
+      "page": "reviews/elliott-0018-angela-s-ashes.html",
+      "id": "Elliott_0018"
+    },
     {
       "title": "The Aviator",
       "page": "reviews/elliott-0049-the-aviator.html",
@@ -578,6 +937,13 @@
       "title": "Benji: Off the Leash",
       "page": "reviews/elliott-0028-benji-off-the-leash.html",
       "id": "Elliott_0028"
+    }
+  ],
+  "physical attraction": [
+    {
+      "title": "Heartbreakers",
+      "page": "reviews/elliott-0010-heartbreakers.html",
+      "id": "Elliott_0010"
     }
   ],
   "positive influence": [
@@ -602,6 +968,16 @@
     }
   ],
   "relationships": [
+    {
+      "title": "Kate and Leopold",
+      "page": "reviews/elliott-0002-kate-and-leopold.html",
+      "id": "Elliott_0002"
+    },
+    {
+      "title": "Heartbreakers",
+      "page": "reviews/elliott-0010-heartbreakers.html",
+      "id": "Elliott_0010"
+    },
     {
       "title": "Breakin' All the Rules",
       "page": "reviews/elliott-0027-breakin-all-the-rules.html",
@@ -643,11 +1019,32 @@
       "id": "Elliott_0023"
     }
   ],
+  "righteousness": [
+    {
+      "title": "Angela's Ashes",
+      "page": "reviews/elliott-0018-angela-s-ashes.html",
+      "id": "Elliott_0018"
+    }
+  ],
   "Sacrifice": [
     {
       "title": "The Alamo",
       "page": "reviews/elliott-0044-the-alamo.html",
       "id": "Elliott_0044"
+    }
+  ],
+  "secrecy": [
+    {
+      "title": "The Good Shepherd",
+      "page": "reviews/elliott-0008-the-good-shepherd.html",
+      "id": "Elliott_0008"
+    }
+  ],
+  "Secrets": [
+    {
+      "title": "The Good Shepherd",
+      "page": "reviews/elliott-0008-the-good-shepherd.html",
+      "id": "Elliott_0008"
     }
   ],
   "self-control": [
@@ -685,6 +1082,13 @@
       "id": "Elliott_0032"
     }
   ],
+  "sexual ethics": [
+    {
+      "title": "Whipped",
+      "page": "reviews/elliott-0006-whipped.html",
+      "id": "Elliott_0006"
+    }
+  ],
   "Sexual obsession": [
     {
       "title": "American Pie",
@@ -692,11 +1096,25 @@
       "id": "Elliott_0045"
     }
   ],
+  "Sexual temptation": [
+    {
+      "title": "Heartbreakers",
+      "page": "reviews/elliott-0010-heartbreakers.html",
+      "id": "Elliott_0010"
+    }
+  ],
   "shepherding": [
     {
       "title": "Assault on Precinct 13",
       "page": "reviews/elliott-0032-assault-on-precinct-13.html",
       "id": "Elliott_0032"
+    }
+  ],
+  "sowing and reaping": [
+    {
+      "title": "All The Pretty Horses",
+      "page": "reviews/elliott-0014-all-the-pretty-horses.html",
+      "id": "Elliott_0014"
     }
   ],
   "species": [
@@ -713,6 +1131,13 @@
       "id": "Elliott_0001"
     }
   ],
+  "Spiritual gifts": [
+    {
+      "title": "Along Came A Spider",
+      "page": "reviews/elliott-0013-along-came-a-spider.html",
+      "id": "Elliott_0013"
+    }
+  ],
   "spiritual goals": [
     {
       "title": "The Aviator",
@@ -727,11 +1152,25 @@
       "id": "Elliott_0046"
     }
   ],
+  "Spiritual nourishment": [
+    {
+      "title": "Autumn in New York",
+      "page": "reviews/elliott-0016-autumn-in-new-york.html",
+      "id": "Elliott_0016"
+    }
+  ],
   "Spiritual power": [
     {
       "title": "Atlantis: The Lost Empire",
       "page": "reviews/elliott-0037-atlantis-the-lost-empire.html",
       "id": "Elliott_0037"
+    }
+  ],
+  "spiritual riches": [
+    {
+      "title": "The Thomas Crown Affair",
+      "page": "reviews/elliott-0011-the-thomas-crown-affair.html",
+      "id": "Elliott_0011"
     }
   ],
   "Spiritual sight": [
@@ -743,9 +1182,28 @@
   ],
   "spiritual truth": [
     {
+      "title": "The Truth About Charlie",
+      "page": "reviews/elliott-0012-the-truth-about-charlie.html",
+      "id": "Elliott_0012"
+    },
+    {
       "title": "Alexander",
       "page": "reviews/elliott-0031-alexander.html",
       "id": "Elliott_0031"
+    }
+  ],
+  "spiritual warfare": [
+    {
+      "title": "Gothika",
+      "page": "reviews/elliott-0009-gothika.html",
+      "id": "Elliott_0009"
+    }
+  ],
+  "Spiritual warfare": [
+    {
+      "title": "The Art of War",
+      "page": "reviews/elliott-0017-the-art-of-war.html",
+      "id": "Elliott_0017"
     }
   ],
   "Steadfastness": [
@@ -755,7 +1213,7 @@
       "id": "Elliott_0049"
     }
   ],
-  "studying God’s Word": [
+  "studying God's Word": [
     {
       "title": "Atlantis: The Lost Empire",
       "page": "reviews/elliott-0037-atlantis-the-lost-empire.html",
@@ -783,6 +1241,13 @@
       "id": "Elliott_0022"
     }
   ],
+  "the still small voice": [
+    {
+      "title": "Drowning Mona",
+      "page": "reviews/elliott-0007-drowning-mona.html",
+      "id": "Elliott_0007"
+    }
+  ],
   "thought life": [
     {
       "title": "American Pie",
@@ -799,16 +1264,47 @@
   ],
   "transformation": [
     {
+      "title": "Lilo & Stitch",
+      "page": "reviews/elliott-0003-lilo-stitch.html",
+      "id": "Elliott_0003"
+    },
+    {
       "title": "Antwone Fisher",
       "page": "reviews/elliott-0050-antwone-fisher.html",
       "id": "Elliott_0050"
     }
   ],
+  "trust": [
+    {
+      "title": "The Truth About Charlie",
+      "page": "reviews/elliott-0012-the-truth-about-charlie.html",
+      "id": "Elliott_0012"
+    }
+  ],
+  "trust and honesty": [
+    {
+      "title": "The Thomas Crown Affair",
+      "page": "reviews/elliott-0011-the-thomas-crown-affair.html",
+      "id": "Elliott_0011"
+    }
+  ],
   "truth": [
+    {
+      "title": "The Art of War",
+      "page": "reviews/elliott-0017-the-art-of-war.html",
+      "id": "Elliott_0017"
+    },
     {
       "title": "Birth",
       "page": "reviews/elliott-0029-birth.html",
       "id": "Elliott_0029"
+    }
+  ],
+  "truth and revelation": [
+    {
+      "title": "The Good Shepherd",
+      "page": "reviews/elliott-0008-the-good-shepherd.html",
+      "id": "Elliott_0008"
     }
   ],
   "unbelief": [
@@ -816,6 +1312,13 @@
       "title": "The Big Bounce",
       "page": "reviews/elliott-0026-the-big-bounce.html",
       "id": "Elliott_0026"
+    }
+  ],
+  "unconditional love": [
+    {
+      "title": "Lilo & Stitch",
+      "page": "reviews/elliott-0003-lilo-stitch.html",
+      "id": "Elliott_0003"
     }
   ],
   "understanding": [
@@ -832,11 +1335,18 @@
       "id": "Elliott_0034"
     }
   ],
-  "violence/cruelty": [
+  "violence": [
     {
       "title": "Amores perros (Love’s A Bitch)",
       "page": "reviews/elliott-0040-amores-perros-love-s-a-bitch.html",
       "id": "Elliott_0040"
+    }
+  ],
+  "virtuous relationships": [
+    {
+      "title": "Whipped",
+      "page": "reviews/elliott-0006-whipped.html",
+      "id": "Elliott_0006"
     }
   ],
   "virtuous woman": [
