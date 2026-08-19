@@ -102,6 +102,20 @@
       "id": "Elliott_0013"
     }
   ],
+  "calming influence": [
+    {
+      "title": "Cherish",
+      "page": "reviews/elliott-0055-cherish.html",
+      "id": "Elliott_0055"
+    }
+  ],
+  "care for animals": [
+    {
+      "title": "The Crocodile Hunter: Collision Course",
+      "page": "reviews/elliott-0054-the-crocodile-hunter-collision-course.html",
+      "id": "Elliott_0054"
+    }
+  ],
   "change": [
     {
       "title": "After the Sunset",
@@ -123,6 +137,13 @@
       "id": "Elliott_0015"
     }
   ],
+  "choices": [
+    {
+      "title": "City by the Sea",
+      "page": "reviews/elliott-0052-city-by-the-sea.html",
+      "id": "Elliott_0052"
+    }
+  ],
   "Choices and consequences": [
     {
       "title": "All The Pretty Horses",
@@ -130,11 +151,32 @@
       "id": "Elliott_0014"
     }
   ],
+  "choosing the right path": [
+    {
+      "title": "Centro do Brasil [Central Station]",
+      "page": "reviews/elliott-0056-centro-do-brasil-central-station.html",
+      "id": "Elliott_0056"
+    }
+  ],
   "Christian parenting": [
     {
       "title": "Atlantis: The Lost Empire",
       "page": "reviews/elliott-0037-atlantis-the-lost-empire.html",
       "id": "Elliott_0037"
+    }
+  ],
+  "church growth": [
+    {
+      "title": "The Country Bears",
+      "page": "reviews/elliott-0053-the-country-bears.html",
+      "id": "Elliott_0053"
+    }
+  ],
+  "comfort": [
+    {
+      "title": "Cherish",
+      "page": "reviews/elliott-0055-cherish.html",
+      "id": "Elliott_0055"
     }
   ],
   "communication": [
@@ -232,6 +274,11 @@
       "title": "Todo sobre mi madre (All About My Mother)",
       "page": "reviews/elliott-0019-todo-sobre-mi-madre-all-about-my-mother.html",
       "id": "Elliott_0019"
+    },
+    {
+      "title": "The Crocodile Hunter: Collision Course",
+      "page": "reviews/elliott-0054-the-crocodile-hunter-collision-course.html",
+      "id": "Elliott_0054"
     }
   ],
   "creation": [
@@ -295,6 +342,13 @@
       "id": "Elliott_0009"
     }
   ],
+  "direction": [
+    {
+      "title": "Centro do Brasil [Central Station]",
+      "page": "reviews/elliott-0056-centro-do-brasil-central-station.html",
+      "id": "Elliott_0056"
+    }
+  ],
   "Discernment": [
     {
       "title": "Exit Wounds",
@@ -339,6 +393,11 @@
       "title": "After the Sunset",
       "page": "reviews/elliott-0041-after-the-sunset.html",
       "id": "Elliott_0041"
+    },
+    {
+      "title": "Coach Carter",
+      "page": "reviews/elliott-0060-coach-carter.html",
+      "id": "Elliott_0060"
     }
   ],
   "divine strength": [
@@ -348,11 +407,39 @@
       "id": "Elliott_0020"
     }
   ],
+  "dominion": [
+    {
+      "title": "The Crocodile Hunter: Collision Course",
+      "page": "reviews/elliott-0054-the-crocodile-hunter-collision-course.html",
+      "id": "Elliott_0054"
+    }
+  ],
   "doubt": [
     {
       "title": "Bridget Jones: The Edge of Reason",
       "page": "reviews/elliott-0030-bridget-jones-the-edge-of-reason.html",
       "id": "Elliott_0030"
+    }
+  ],
+  "duty": [
+    {
+      "title": "Collateral Damage",
+      "page": "reviews/elliott-0059-collateral-damage.html",
+      "id": "Elliott_0059"
+    }
+  ],
+  "education": [
+    {
+      "title": "Coach Carter",
+      "page": "reviews/elliott-0060-coach-carter.html",
+      "id": "Elliott_0060"
+    }
+  ],
+  "emotional healing": [
+    {
+      "title": "Cherish",
+      "page": "reviews/elliott-0055-cherish.html",
+      "id": "Elliott_0055"
     }
   ],
   "emotions": [
@@ -367,6 +454,13 @@
       "title": "A Bug's Life",
       "page": "reviews/elliott-0025-a-bug-s-life.html",
       "id": "Elliott_0025"
+    }
+  ],
+  "entertainment and responsibility": [
+    {
+      "title": "Confessions of a Dangerous Mind",
+      "page": "reviews/elliott-0051-confessions-of-a-dangerous-mind.html",
+      "id": "Elliott_0051"
     }
   ],
   "evangelism": [
@@ -404,6 +498,13 @@
       "id": "Elliott_0026"
     }
   ],
+  "expectations": [
+    {
+      "title": "Coach Carter",
+      "page": "reviews/elliott-0060-coach-carter.html",
+      "id": "Elliott_0060"
+    }
+  ],
   "faith": [
     {
       "title": "The Adventures of Rocky and Bullwinkle",
@@ -428,6 +529,13 @@
       "title": "American Pie",
       "page": "reviews/elliott-0045-american-pie.html",
       "id": "Elliott_0045"
+    }
+  ],
+  "Faithfulness": [
+    {
+      "title": "Collateral Damage",
+      "page": "reviews/elliott-0059-collateral-damage.html",
+      "id": "Elliott_0059"
     }
   ],
   "false and selfish love": [
@@ -468,6 +576,13 @@
       "title": "Arlington Road",
       "page": "reviews/elliott-0047-arlington-road.html",
       "id": "Elliott_0047"
+    }
+  ],
+  "fear": [
+    {
+      "title": "Crush",
+      "page": "reviews/elliott-0057-crush.html",
+      "id": "Elliott_0057"
     }
   ],
   "Financial wealth": [
@@ -512,11 +627,25 @@
       "id": "Elliott_0009"
     }
   ],
+  "Free will": [
+    {
+      "title": "City by the Sea",
+      "page": "reviews/elliott-0052-city-by-the-sea.html",
+      "id": "Elliott_0052"
+    }
+  ],
   "gender": [
     {
       "title": "Todo sobre mi madre (All About My Mother)",
       "page": "reviews/elliott-0019-todo-sobre-mi-madre-all-about-my-mother.html",
       "id": "Elliott_0019"
+    }
+  ],
+  "generational responsibility": [
+    {
+      "title": "City by the Sea",
+      "page": "reviews/elliott-0052-city-by-the-sea.html",
+      "id": "Elliott_0052"
     }
   ],
   "Gifts": [
@@ -573,6 +702,13 @@
       "title": "Autumn in New York",
       "page": "reviews/elliott-0016-autumn-in-new-york.html",
       "id": "Elliott_0016"
+    }
+  ],
+  "God's Word as a guide": [
+    {
+      "title": "Centro do Brasil [Central Station]",
+      "page": "reviews/elliott-0056-centro-do-brasil-central-station.html",
+      "id": "Elliott_0056"
     }
   ],
   "godly leadership": [
@@ -662,11 +798,23 @@
       "id": "Elliott_0035"
     }
   ],
+  "heroism": [
+    {
+      "title": "Collateral Damage",
+      "page": "reviews/elliott-0059-collateral-damage.html",
+      "id": "Elliott_0059"
+    }
+  ],
   "honesty": [
     {
       "title": "Breakin' All the Rules",
       "page": "reviews/elliott-0027-breakin-all-the-rules.html",
       "id": "Elliott_0027"
+    },
+    {
+      "title": "Crush",
+      "page": "reviews/elliott-0057-crush.html",
+      "id": "Elliott_0057"
     }
   ],
   "honoring wives": [
@@ -749,6 +897,11 @@
       "title": "Anna and the King",
       "page": "reviews/elliott-0020-anna-and-the-king.html",
       "id": "Elliott_0020"
+    },
+    {
+      "title": "Coach Carter",
+      "page": "reviews/elliott-0060-coach-carter.html",
+      "id": "Elliott_0060"
     }
   ],
   "Leadership": [
@@ -810,6 +963,11 @@
       "title": "Amores perros (Love’s A Bitch)",
       "page": "reviews/elliott-0040-amores-perros-love-s-a-bitch.html",
       "id": "Elliott_0040"
+    },
+    {
+      "title": "Crush",
+      "page": "reviews/elliott-0057-crush.html",
+      "id": "Elliott_0057"
     }
   ],
   "Love of money": [
@@ -838,11 +996,32 @@
       "id": "Elliott_0033"
     }
   ],
+  "meaningful contribution": [
+    {
+      "title": "Confessions of a Dangerous Mind",
+      "page": "reviews/elliott-0051-confessions-of-a-dangerous-mind.html",
+      "id": "Elliott_0051"
+    }
+  ],
+  "messengers versus the message": [
+    {
+      "title": "The Country Bears",
+      "page": "reviews/elliott-0053-the-country-bears.html",
+      "id": "Elliott_0053"
+    }
+  ],
   "moral compromise": [
     {
       "title": "Boiler Room",
       "page": "reviews/elliott-0022-boiler-room.html",
       "id": "Elliott_0022"
+    }
+  ],
+  "Music": [
+    {
+      "title": "Cherish",
+      "page": "reviews/elliott-0055-cherish.html",
+      "id": "Elliott_0055"
     }
   ],
   "mutual care": [
@@ -899,6 +1078,11 @@
       "title": "Are We There Yet?",
       "page": "reviews/elliott-0033-are-we-there-yet.html",
       "id": "Elliott_0033"
+    },
+    {
+      "title": "City by the Sea",
+      "page": "reviews/elliott-0052-city-by-the-sea.html",
+      "id": "Elliott_0052"
     }
   ],
   "Patience": [
@@ -960,6 +1144,13 @@
       "id": "Elliott_0042"
     }
   ],
+  "Purpose": [
+    {
+      "title": "Confessions of a Dangerous Mind",
+      "page": "reviews/elliott-0051-confessions-of-a-dangerous-mind.html",
+      "id": "Elliott_0051"
+    }
+  ],
   "reconciliation": [
     {
       "title": "Around the Bend",
@@ -982,6 +1173,11 @@
       "title": "Breakin' All the Rules",
       "page": "reviews/elliott-0027-breakin-all-the-rules.html",
       "id": "Elliott_0027"
+    },
+    {
+      "title": "Crush",
+      "page": "reviews/elliott-0057-crush.html",
+      "id": "Elliott_0057"
     }
   ],
   "relationships beyond sex": [
@@ -1010,6 +1206,11 @@
       "title": "Assault on Precinct 13",
       "page": "reviews/elliott-0032-assault-on-precinct-13.html",
       "id": "Elliott_0032"
+    },
+    {
+      "title": "Collateral Damage",
+      "page": "reviews/elliott-0059-collateral-damage.html",
+      "id": "Elliott_0059"
     }
   ],
   "right and wrong": [
@@ -1038,6 +1239,11 @@
       "title": "The Good Shepherd",
       "page": "reviews/elliott-0008-the-good-shepherd.html",
       "id": "Elliott_0008"
+    },
+    {
+      "title": "Crush",
+      "page": "reviews/elliott-0057-crush.html",
+      "id": "Elliott_0057"
     }
   ],
   "Secrets": [
@@ -1152,6 +1358,20 @@
       "id": "Elliott_0046"
     }
   ],
+  "spiritual journey": [
+    {
+      "title": "Centro do Brasil [Central Station]",
+      "page": "reviews/elliott-0056-centro-do-brasil-central-station.html",
+      "id": "Elliott_0056"
+    }
+  ],
+  "spiritual leadership": [
+    {
+      "title": "The Country Bears",
+      "page": "reviews/elliott-0053-the-country-bears.html",
+      "id": "Elliott_0053"
+    }
+  ],
   "Spiritual nourishment": [
     {
       "title": "Autumn in New York",
@@ -1213,6 +1433,18 @@
       "id": "Elliott_0049"
     }
   ],
+  "stewardship": [
+    {
+      "title": "The Crocodile Hunter: Collision Course",
+      "page": "reviews/elliott-0054-the-crocodile-hunter-collision-course.html",
+      "id": "Elliott_0054"
+    },
+    {
+      "title": "Clockstoppers",
+      "page": "reviews/elliott-0058-clockstoppers.html",
+      "id": "Elliott_0058"
+    }
+  ],
   "studying God's Word": [
     {
       "title": "Atlantis: The Lost Empire",
@@ -1260,6 +1492,13 @@
       "title": "Apt Pupil",
       "page": "reviews/elliott-0048-apt-pupil.html",
       "id": "Elliott_0048"
+    }
+  ],
+  "Time": [
+    {
+      "title": "Clockstoppers",
+      "page": "reviews/elliott-0058-clockstoppers.html",
+      "id": "Elliott_0058"
     }
   ],
   "transformation": [
@@ -1333,6 +1572,25 @@
       "title": "Annapolis",
       "page": "reviews/elliott-0034-annapolis.html",
       "id": "Elliott_0034"
+    },
+    {
+      "title": "The Country Bears",
+      "page": "reviews/elliott-0053-the-country-bears.html",
+      "id": "Elliott_0053"
+    }
+  ],
+  "usefulness": [
+    {
+      "title": "Confessions of a Dangerous Mind",
+      "page": "reviews/elliott-0051-confessions-of-a-dangerous-mind.html",
+      "id": "Elliott_0051"
+    }
+  ],
+  "using life well": [
+    {
+      "title": "Clockstoppers",
+      "page": "reviews/elliott-0058-clockstoppers.html",
+      "id": "Elliott_0058"
     }
   ],
   "violence": [
@@ -1363,6 +1621,13 @@
       "id": "Elliott_0049"
     }
   ],
+  "Vision": [
+    {
+      "title": "Coach Carter",
+      "page": "reviews/elliott-0060-coach-carter.html",
+      "id": "Elliott_0060"
+    }
+  ],
   "wisdom": [
     {
       "title": "Alexander",
@@ -1373,6 +1638,11 @@
       "title": "Around the World in 80 Days",
       "page": "reviews/elliott-0043-around-the-world-in-80-days.html",
       "id": "Elliott_0043"
+    },
+    {
+      "title": "Clockstoppers",
+      "page": "reviews/elliott-0058-clockstoppers.html",
+      "id": "Elliott_0058"
     }
   ],
   "wise decisions": [
