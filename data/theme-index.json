@@ -55,6 +55,13 @@
       "id": "Elliott_0041"
     }
   ],
+  "belief": [
+    {
+      "title": "Dreamer: Inspired by a True Story",
+      "page": "reviews/elliott-0061-dreamer-inspired-by-a-true-story.html",
+      "id": "Elliott_0061"
+    }
+  ],
   "believing": [
     {
       "title": "Bridget Jones: The Edge of Reason",
@@ -79,6 +86,13 @@
       "title": "The Animal",
       "page": "reviews/elliott-0038-the-animal.html",
       "id": "Elliott_0038"
+    }
+  ],
+  "biblical examples": [
+    {
+      "title": "A Dog of Flanders",
+      "page": "reviews/elliott-0070-a-dog-of-flanders.html",
+      "id": "Elliott_0070"
     }
   ],
   "bondage": [
@@ -193,6 +207,20 @@
       "id": "Elliott_0032"
     }
   ],
+  "compromise": [
+    {
+      "title": "Dreamgirls",
+      "page": "reviews/elliott-0062-dreamgirls.html",
+      "id": "Elliott_0062"
+    }
+  ],
+  "confession": [
+    {
+      "title": "Divine Secrets of the Ya-Ya Sisterhood",
+      "page": "reviews/elliott-0066-divine-secrets-of-the-ya-ya-sisterhood.html",
+      "id": "Elliott_0066"
+    }
+  ],
   "consequences": [
     {
       "title": "Alexander",
@@ -217,13 +245,11 @@
       "title": "The Adventures of Rocky and Bullwinkle",
       "page": "reviews/elliott-0015-the-adventures-of-rocky-and-bullwinkle.html",
       "id": "Elliott_0015"
-    }
-  ],
-  "counsel": [
+    },
     {
-      "title": "Thirteen Days",
-      "page": "reviews/elliott-0005-thirteen-days.html",
-      "id": "Elliott_0005"
+      "title": "Domino",
+      "page": "reviews/elliott-0069-domino.html",
+      "id": "Elliott_0069"
     }
   ],
   "Counsel": [
@@ -231,6 +257,13 @@
       "title": "Alexander",
       "page": "reviews/elliott-0031-alexander.html",
       "id": "Elliott_0031"
+    }
+  ],
+  "counsel": [
+    {
+      "title": "Thirteen Days",
+      "page": "reviews/elliott-0005-thirteen-days.html",
+      "id": "Elliott_0005"
     }
   ],
   "Counterfeiting": [
@@ -286,6 +319,11 @@
       "title": "The Big Bounce",
       "page": "reviews/elliott-0026-the-big-bounce.html",
       "id": "Elliott_0026"
+    },
+    {
+      "title": "The Day After Tomorrow",
+      "page": "reviews/elliott-0065-the-day-after-tomorrow.html",
+      "id": "Elliott_0065"
     }
   ],
   "Creation and kinds": [
@@ -309,6 +347,13 @@
       "id": "Elliott_0009"
     }
   ],
+  "Deception": [
+    {
+      "title": "The Truth About Charlie",
+      "page": "reviews/elliott-0012-the-truth-about-charlie.html",
+      "id": "Elliott_0012"
+    }
+  ],
   "deception": [
     {
       "title": "Rush Hour 2",
@@ -319,13 +364,6 @@
       "title": "The Art of War",
       "page": "reviews/elliott-0017-the-art-of-war.html",
       "id": "Elliott_0017"
-    }
-  ],
-  "Deception": [
-    {
-      "title": "The Truth About Charlie",
-      "page": "reviews/elliott-0012-the-truth-about-charlie.html",
-      "id": "Elliott_0012"
     }
   ],
   "decision-making": [
@@ -381,6 +419,11 @@
       "title": "The Art of War",
       "page": "reviews/elliott-0017-the-art-of-war.html",
       "id": "Elliott_0017"
+    },
+    {
+      "title": "Domino",
+      "page": "reviews/elliott-0069-domino.html",
+      "id": "Elliott_0069"
     }
   ],
   "discipline": [
@@ -419,6 +462,13 @@
       "title": "Bridget Jones: The Edge of Reason",
       "page": "reviews/elliott-0030-bridget-jones-the-edge-of-reason.html",
       "id": "Elliott_0030"
+    }
+  ],
+  "Dreams": [
+    {
+      "title": "Dreamer: Inspired by a True Story",
+      "page": "reviews/elliott-0061-dreamer-inspired-by-a-true-story.html",
+      "id": "Elliott_0061"
     }
   ],
   "duty": [
@@ -461,6 +511,13 @@
       "title": "Confessions of a Dangerous Mind",
       "page": "reviews/elliott-0051-confessions-of-a-dangerous-mind.html",
       "id": "Elliott_0051"
+    }
+  ],
+  "environment": [
+    {
+      "title": "The Day After Tomorrow",
+      "page": "reviews/elliott-0065-the-day-after-tomorrow.html",
+      "id": "Elliott_0065"
     }
   ],
   "evangelism": [
@@ -510,6 +567,16 @@
       "title": "The Adventures of Rocky and Bullwinkle",
       "page": "reviews/elliott-0015-the-adventures-of-rocky-and-bullwinkle.html",
       "id": "Elliott_0015"
+    },
+    {
+      "title": "Dreamer: Inspired by a True Story",
+      "page": "reviews/elliott-0061-dreamer-inspired-by-a-true-story.html",
+      "id": "Elliott_0061"
+    },
+    {
+      "title": "A Dog of Flanders",
+      "page": "reviews/elliott-0070-a-dog-of-flanders.html",
+      "id": "Elliott_0070"
     }
   ],
   "Faith against odds": [
@@ -517,6 +584,13 @@
       "title": "Anna and the King",
       "page": "reviews/elliott-0020-anna-and-the-king.html",
       "id": "Elliott_0020"
+    }
+  ],
+  "Faithfulness": [
+    {
+      "title": "Collateral Damage",
+      "page": "reviews/elliott-0059-collateral-damage.html",
+      "id": "Elliott_0059"
     }
   ],
   "faithfulness": [
@@ -529,13 +603,6 @@
       "title": "American Pie",
       "page": "reviews/elliott-0045-american-pie.html",
       "id": "Elliott_0045"
-    }
-  ],
-  "Faithfulness": [
-    {
-      "title": "Collateral Damage",
-      "page": "reviews/elliott-0059-collateral-damage.html",
-      "id": "Elliott_0059"
     }
   ],
   "false and selfish love": [
@@ -606,6 +673,18 @@
       "id": "Elliott_0026"
     }
   ],
+  "Forgiveness": [
+    {
+      "title": "Around the Bend",
+      "page": "reviews/elliott-0042-around-the-bend.html",
+      "id": "Elliott_0042"
+    },
+    {
+      "title": "Divine Secrets of the Ya-Ya Sisterhood",
+      "page": "reviews/elliott-0066-divine-secrets-of-the-ya-ya-sisterhood.html",
+      "id": "Elliott_0066"
+    }
+  ],
   "forgiveness": [
     {
       "title": "Are We There Yet?",
@@ -613,11 +692,11 @@
       "id": "Elliott_0033"
     }
   ],
-  "Forgiveness": [
+  "Free will": [
     {
-      "title": "Around the Bend",
-      "page": "reviews/elliott-0042-around-the-bend.html",
-      "id": "Elliott_0042"
+      "title": "City by the Sea",
+      "page": "reviews/elliott-0052-city-by-the-sea.html",
+      "id": "Elliott_0052"
     }
   ],
   "free will": [
@@ -625,13 +704,6 @@
       "title": "Gothika",
       "page": "reviews/elliott-0009-gothika.html",
       "id": "Elliott_0009"
-    }
-  ],
-  "Free will": [
-    {
-      "title": "City by the Sea",
-      "page": "reviews/elliott-0052-city-by-the-sea.html",
-      "id": "Elliott_0052"
     }
   ],
   "gender": [
@@ -878,6 +950,13 @@
       "id": "Elliott_0023"
     }
   ],
+  "integrity": [
+    {
+      "title": "Dreamgirls",
+      "page": "reviews/elliott-0062-dreamgirls.html",
+      "id": "Elliott_0062"
+    }
+  ],
   "judging beyond appearances": [
     {
       "title": "Benji: Off the Leash",
@@ -892,6 +971,13 @@
       "id": "Elliott_0024"
     }
   ],
+  "Leadership": [
+    {
+      "title": "Assault on Precinct 13",
+      "page": "reviews/elliott-0032-assault-on-precinct-13.html",
+      "id": "Elliott_0032"
+    }
+  ],
   "leadership": [
     {
       "title": "Anna and the King",
@@ -904,13 +990,6 @@
       "id": "Elliott_0060"
     }
   ],
-  "Leadership": [
-    {
-      "title": "Assault on Precinct 13",
-      "page": "reviews/elliott-0032-assault-on-precinct-13.html",
-      "id": "Elliott_0032"
-    }
-  ],
   "Learning": [
     {
       "title": "Around the World in 80 Days",
@@ -918,11 +997,30 @@
       "id": "Elliott_0043"
     }
   ],
+  "Learning from the past": [
+    {
+      "title": "A Dog of Flanders",
+      "page": "reviews/elliott-0070-a-dog-of-flanders.html",
+      "id": "Elliott_0070"
+    }
+  ],
   "letting go of the past": [
     {
       "title": "Around the Bend",
       "page": "reviews/elliott-0042-around-the-bend.html",
       "id": "Elliott_0042"
+    }
+  ],
+  "Lies": [
+    {
+      "title": "The Departed",
+      "page": "reviews/elliott-0063-the-departed.html",
+      "id": "Elliott_0063"
+    },
+    {
+      "title": "Down in the Valley",
+      "page": "reviews/elliott-0068-down-in-the-valley.html",
+      "id": "Elliott_0068"
     }
   ],
   "Light versus darkness": [
@@ -946,13 +1044,6 @@
       "id": "Elliott_0039"
     }
   ],
-  "love": [
-    {
-      "title": "Whipped",
-      "page": "reviews/elliott-0006-whipped.html",
-      "id": "Elliott_0006"
-    }
-  ],
   "Love": [
     {
       "title": "Breakin' All the Rules",
@@ -968,6 +1059,13 @@
       "title": "Crush",
       "page": "reviews/elliott-0057-crush.html",
       "id": "Elliott_0057"
+    }
+  ],
+  "love": [
+    {
+      "title": "Whipped",
+      "page": "reviews/elliott-0006-whipped.html",
+      "id": "Elliott_0006"
     }
   ],
   "Love of money": [
@@ -1052,6 +1150,13 @@
       "id": "Elliott_0034"
     }
   ],
+  "overcoming fear": [
+    {
+      "title": "Dreamer: Inspired by a True Story",
+      "page": "reviews/elliott-0061-dreamer-inspired-by-a-true-story.html",
+      "id": "Elliott_0061"
+    }
+  ],
   "overcoming the past": [
     {
       "title": "Antwone Fisher",
@@ -1085,6 +1190,13 @@
       "id": "Elliott_0052"
     }
   ],
+  "Past": [
+    {
+      "title": "Deja Vu",
+      "page": "reviews/elliott-0064-deja-vu.html",
+      "id": "Elliott_0064"
+    }
+  ],
   "Patience": [
     {
       "title": "Are We There Yet?",
@@ -1114,6 +1226,11 @@
       "title": "The Aviator",
       "page": "reviews/elliott-0049-the-aviator.html",
       "id": "Elliott_0049"
+    },
+    {
+      "title": "A Dog of Flanders",
+      "page": "reviews/elliott-0070-a-dog-of-flanders.html",
+      "id": "Elliott_0070"
     }
   ],
   "personal worth": [
@@ -1156,6 +1273,18 @@
       "title": "Around the Bend",
       "page": "reviews/elliott-0042-around-the-bend.html",
       "id": "Elliott_0042"
+    },
+    {
+      "title": "Divine Secrets of the Ya-Ya Sisterhood",
+      "page": "reviews/elliott-0066-divine-secrets-of-the-ya-ya-sisterhood.html",
+      "id": "Elliott_0066"
+    }
+  ],
+  "regret": [
+    {
+      "title": "Divine Secrets of the Ya-Ya Sisterhood",
+      "page": "reviews/elliott-0066-divine-secrets-of-the-ya-ya-sisterhood.html",
+      "id": "Elliott_0066"
     }
   ],
   "relationships": [
@@ -1194,6 +1323,13 @@
       "id": "Elliott_0050"
     }
   ],
+  "resisting compromise": [
+    {
+      "title": "Domino",
+      "page": "reviews/elliott-0069-domino.html",
+      "id": "Elliott_0069"
+    }
+  ],
   "resisting evil": [
     {
       "title": "Apt Pupil",
@@ -1211,6 +1347,11 @@
       "title": "Collateral Damage",
       "page": "reviews/elliott-0059-collateral-damage.html",
       "id": "Elliott_0059"
+    },
+    {
+      "title": "The Day After Tomorrow",
+      "page": "reviews/elliott-0065-the-day-after-tomorrow.html",
+      "id": "Elliott_0065"
     }
   ],
   "right and wrong": [
@@ -1412,13 +1553,6 @@
       "id": "Elliott_0031"
     }
   ],
-  "spiritual warfare": [
-    {
-      "title": "Gothika",
-      "page": "reviews/elliott-0009-gothika.html",
-      "id": "Elliott_0009"
-    }
-  ],
   "Spiritual warfare": [
     {
       "title": "The Art of War",
@@ -1426,11 +1560,25 @@
       "id": "Elliott_0017"
     }
   ],
+  "spiritual warfare": [
+    {
+      "title": "Gothika",
+      "page": "reviews/elliott-0009-gothika.html",
+      "id": "Elliott_0009"
+    }
+  ],
   "Steadfastness": [
     {
       "title": "The Aviator",
       "page": "reviews/elliott-0049-the-aviator.html",
       "id": "Elliott_0049"
+    }
+  ],
+  "Stewardship": [
+    {
+      "title": "The Day After Tomorrow",
+      "page": "reviews/elliott-0065-the-day-after-tomorrow.html",
+      "id": "Elliott_0065"
     }
   ],
   "stewardship": [
@@ -1450,6 +1598,20 @@
       "title": "Atlantis: The Lost Empire",
       "page": "reviews/elliott-0037-atlantis-the-lost-empire.html",
       "id": "Elliott_0037"
+    }
+  ],
+  "success": [
+    {
+      "title": "Dreamgirls",
+      "page": "reviews/elliott-0062-dreamgirls.html",
+      "id": "Elliott_0062"
+    }
+  ],
+  "Talents": [
+    {
+      "title": "Dreamgirls",
+      "page": "reviews/elliott-0062-dreamgirls.html",
+      "id": "Elliott_0062"
     }
   ],
   "teaching and training": [
@@ -1480,18 +1642,18 @@
       "id": "Elliott_0007"
     }
   ],
-  "thought life": [
-    {
-      "title": "American Pie",
-      "page": "reviews/elliott-0045-american-pie.html",
-      "id": "Elliott_0045"
-    }
-  ],
   "Thought life": [
     {
       "title": "Apt Pupil",
       "page": "reviews/elliott-0048-apt-pupil.html",
       "id": "Elliott_0048"
+    }
+  ],
+  "thought life": [
+    {
+      "title": "American Pie",
+      "page": "reviews/elliott-0045-american-pie.html",
+      "id": "Elliott_0045"
     }
   ],
   "Time": [
@@ -1527,6 +1689,18 @@
       "id": "Elliott_0011"
     }
   ],
+  "Truth": [
+    {
+      "title": "The DaVinci Code",
+      "page": "reviews/elliott-0067-the-davinci-code.html",
+      "id": "Elliott_0067"
+    },
+    {
+      "title": "Domino",
+      "page": "reviews/elliott-0069-domino.html",
+      "id": "Elliott_0069"
+    }
+  ],
   "truth": [
     {
       "title": "The Art of War",
@@ -1551,6 +1725,11 @@
       "title": "The Big Bounce",
       "page": "reviews/elliott-0026-the-big-bounce.html",
       "id": "Elliott_0026"
+    },
+    {
+      "title": "Dreamer: Inspired by a True Story",
+      "page": "reviews/elliott-0061-dreamer-inspired-by-a-true-story.html",
+      "id": "Elliott_0061"
     }
   ],
   "unconditional love": [
@@ -1614,18 +1793,18 @@
       "id": "Elliott_0036"
     }
   ],
-  "vision": [
-    {
-      "title": "The Aviator",
-      "page": "reviews/elliott-0049-the-aviator.html",
-      "id": "Elliott_0049"
-    }
-  ],
   "Vision": [
     {
       "title": "Coach Carter",
       "page": "reviews/elliott-0060-coach-carter.html",
       "id": "Elliott_0060"
+    }
+  ],
+  "vision": [
+    {
+      "title": "The Aviator",
+      "page": "reviews/elliott-0049-the-aviator.html",
+      "id": "Elliott_0049"
     }
   ],
   "wisdom": [
