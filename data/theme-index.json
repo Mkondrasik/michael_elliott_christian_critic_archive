@@ -62,6 +62,13 @@
       "id": "Elliott_0061"
     }
   ],
+  "Believing": [
+    {
+      "title": "Elf",
+      "page": "reviews/elliott-0074-elf.html",
+      "id": "Elliott_0074"
+    }
+  ],
   "believing": [
     {
       "title": "Bridget Jones: The Edge of Reason",
@@ -151,6 +158,13 @@
       "id": "Elliott_0015"
     }
   ],
+  "choice": [
+    {
+      "title": "Ella Enchanted",
+      "page": "reviews/elliott-0079-ella-enchanted.html",
+      "id": "Elliott_0079"
+    }
+  ],
   "choices": [
     {
       "title": "City by the Sea",
@@ -205,6 +219,11 @@
       "title": "Assault on Precinct 13",
       "page": "reviews/elliott-0032-assault-on-precinct-13.html",
       "id": "Elliott_0032"
+    },
+    {
+      "title": "Erin Brockovich",
+      "page": "reviews/elliott-0071-erin-brockovich.html",
+      "id": "Elliott_0071"
     }
   ],
   "compromise": [
@@ -238,6 +257,11 @@
       "title": "The Thomas Crown Affair",
       "page": "reviews/elliott-0011-the-thomas-crown-affair.html",
       "id": "Elliott_0011"
+    },
+    {
+      "title": "Envy",
+      "page": "reviews/elliott-0078-envy.html",
+      "id": "Elliott_0078"
     }
   ],
   "conviction": [
@@ -300,6 +324,13 @@
       "title": "Kate and Leopold",
       "page": "reviews/elliott-0002-kate-and-leopold.html",
       "id": "Elliott_0002"
+    }
+  ],
+  "covetousness": [
+    {
+      "title": "Envy",
+      "page": "reviews/elliott-0078-envy.html",
+      "id": "Elliott_0078"
     }
   ],
   "Creation": [
@@ -378,6 +409,13 @@
       "title": "Gothika",
       "page": "reviews/elliott-0009-gothika.html",
       "id": "Elliott_0009"
+    }
+  ],
+  "demonic possession": [
+    {
+      "title": "The Exorcism of Emily Rose",
+      "page": "reviews/elliott-0075-the-exorcism-of-emily-rose.html",
+      "id": "Elliott_0075"
     }
   ],
   "direction": [
@@ -478,6 +516,13 @@
       "id": "Elliott_0059"
     }
   ],
+  "earning trust": [
+    {
+      "title": "Erin Brockovich",
+      "page": "reviews/elliott-0071-erin-brockovich.html",
+      "id": "Elliott_0071"
+    }
+  ],
   "education": [
     {
       "title": "Coach Carter",
@@ -520,11 +565,25 @@
       "id": "Elliott_0065"
     }
   ],
+  "Envy": [
+    {
+      "title": "Envy",
+      "page": "reviews/elliott-0078-envy.html",
+      "id": "Elliott_0078"
+    }
+  ],
   "evangelism": [
     {
       "title": "Blue Streak",
       "page": "reviews/elliott-0021-blue-streak.html",
       "id": "Elliott_0021"
+    }
+  ],
+  "Evil": [
+    {
+      "title": "Exorcist: The Beginning",
+      "page": "reviews/elliott-0077-exorcist-the-beginning.html",
+      "id": "Elliott_0077"
     }
   ],
   "evil": [
@@ -577,6 +636,11 @@
       "title": "A Dog of Flanders",
       "page": "reviews/elliott-0070-a-dog-of-flanders.html",
       "id": "Elliott_0070"
+    },
+    {
+      "title": "Elf",
+      "page": "reviews/elliott-0074-elf.html",
+      "id": "Elliott_0074"
     }
   ],
   "Faith against odds": [
@@ -690,6 +754,11 @@
       "title": "Are We There Yet?",
       "page": "reviews/elliott-0033-are-we-there-yet.html",
       "id": "Elliott_0033"
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "page": "reviews/elliott-0080-eternal-sunshine-of-the-spotless-mind.html",
+      "id": "Elliott_0080"
     }
   ],
   "Free will": [
@@ -697,6 +766,11 @@
       "title": "City by the Sea",
       "page": "reviews/elliott-0052-city-by-the-sea.html",
       "id": "Elliott_0052"
+    },
+    {
+      "title": "Ella Enchanted",
+      "page": "reviews/elliott-0079-ella-enchanted.html",
+      "id": "Elliott_0079"
     }
   ],
   "free will": [
@@ -734,6 +808,13 @@
       "id": "Elliott_0037"
     }
   ],
+  "giving": [
+    {
+      "title": "Erin Brockovich",
+      "page": "reviews/elliott-0071-erin-brockovich.html",
+      "id": "Elliott_0071"
+    }
+  ],
   "giving one's life": [
     {
       "title": "The Alamo",
@@ -746,6 +827,13 @@
       "title": "Amores perros (Love’s A Bitch)",
       "page": "reviews/elliott-0040-amores-perros-love-s-a-bitch.html",
       "id": "Elliott_0040"
+    }
+  ],
+  "God's power over death": [
+    {
+      "title": "Elektra",
+      "page": "reviews/elliott-0076-elektra.html",
+      "id": "Elliott_0076"
     }
   ],
   "God's prepared home": [
@@ -868,6 +956,13 @@
       "title": "Aeon Flux",
       "page": "reviews/elliott-0035-aeon-flux.html",
       "id": "Elliott_0035"
+    }
+  ],
+  "helping others": [
+    {
+      "title": "Erin Brockovich",
+      "page": "reviews/elliott-0071-erin-brockovich.html",
+      "id": "Elliott_0071"
     }
   ],
   "heroism": [
@@ -1066,6 +1161,11 @@
       "title": "Whipped",
       "page": "reviews/elliott-0006-whipped.html",
       "id": "Elliott_0006"
+    },
+    {
+      "title": "Ella Enchanted",
+      "page": "reviews/elliott-0079-ella-enchanted.html",
+      "id": "Elliott_0079"
     }
   ],
   "Love of money": [
@@ -1101,6 +1201,13 @@
       "id": "Elliott_0051"
     }
   ],
+  "Memory": [
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "page": "reviews/elliott-0080-eternal-sunshine-of-the-spotless-mind.html",
+      "id": "Elliott_0080"
+    }
+  ],
   "messengers versus the message": [
     {
       "title": "The Country Bears",
@@ -1134,6 +1241,13 @@
       "title": "The Good Shepherd",
       "page": "reviews/elliott-0008-the-good-shepherd.html",
       "id": "Elliott_0008"
+    }
+  ],
+  "obedience": [
+    {
+      "title": "Ella Enchanted",
+      "page": "reviews/elliott-0079-ella-enchanted.html",
+      "id": "Elliott_0079"
     }
   ],
   "objectification": [
@@ -1202,6 +1316,13 @@
       "title": "Are We There Yet?",
       "page": "reviews/elliott-0033-are-we-there-yet.html",
       "id": "Elliott_0033"
+    }
+  ],
+  "patience": [
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "page": "reviews/elliott-0080-eternal-sunshine-of-the-spotless-mind.html",
+      "id": "Elliott_0080"
     }
   ],
   "peace": [
@@ -1307,6 +1428,11 @@
       "title": "Crush",
       "page": "reviews/elliott-0057-crush.html",
       "id": "Elliott_0057"
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "page": "reviews/elliott-0080-eternal-sunshine-of-the-spotless-mind.html",
+      "id": "Elliott_0080"
     }
   ],
   "relationships beyond sex": [
@@ -1321,6 +1447,18 @@
       "title": "Antwone Fisher",
       "page": "reviews/elliott-0050-antwone-fisher.html",
       "id": "Elliott_0050"
+    },
+    {
+      "title": "Enemy at the Gates",
+      "page": "reviews/elliott-0072-enemy-at-the-gates.html",
+      "id": "Elliott_0072"
+    }
+  ],
+  "renewing the mind": [
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "page": "reviews/elliott-0080-eternal-sunshine-of-the-spotless-mind.html",
+      "id": "Elliott_0080"
     }
   ],
   "resisting compromise": [
@@ -1335,6 +1473,13 @@
       "title": "Apt Pupil",
       "page": "reviews/elliott-0048-apt-pupil.html",
       "id": "Elliott_0048"
+    }
+  ],
+  "resisting the devil": [
+    {
+      "title": "Exorcist: The Beginning",
+      "page": "reviews/elliott-0077-exorcist-the-beginning.html",
+      "id": "Elliott_0077"
     }
   ],
   "responsibility": [
@@ -1352,6 +1497,20 @@
       "title": "The Day After Tomorrow",
       "page": "reviews/elliott-0065-the-day-after-tomorrow.html",
       "id": "Elliott_0065"
+    }
+  ],
+  "Resurrection": [
+    {
+      "title": "Elektra",
+      "page": "reviews/elliott-0076-elektra.html",
+      "id": "Elliott_0076"
+    }
+  ],
+  "Revelation": [
+    {
+      "title": "Evan Almighty",
+      "page": "reviews/elliott-0073-evan-almighty.html",
+      "id": "Elliott_0073"
     }
   ],
   "right and wrong": [
@@ -1373,6 +1532,13 @@
       "title": "The Alamo",
       "page": "reviews/elliott-0044-the-alamo.html",
       "id": "Elliott_0044"
+    }
+  ],
+  "second chances": [
+    {
+      "title": "Elektra",
+      "page": "reviews/elliott-0076-elektra.html",
+      "id": "Elliott_0076"
     }
   ],
   "secrecy": [
@@ -1422,6 +1588,13 @@
       "id": "Elliott_0027"
     }
   ],
+  "Service": [
+    {
+      "title": "Erin Brockovich",
+      "page": "reviews/elliott-0071-erin-brockovich.html",
+      "id": "Elliott_0071"
+    }
+  ],
   "service": [
     {
       "title": "Assault on Precinct 13",
@@ -1469,6 +1642,13 @@
       "title": "The Animal",
       "page": "reviews/elliott-0038-the-animal.html",
       "id": "Elliott_0038"
+    }
+  ],
+  "Spiritual discernment": [
+    {
+      "title": "The Exorcism of Emily Rose",
+      "page": "reviews/elliott-0075-the-exorcism-of-emily-rose.html",
+      "id": "Elliott_0075"
     }
   ],
   "spiritual fruit": [
@@ -1527,6 +1707,20 @@
       "id": "Elliott_0037"
     }
   ],
+  "spiritual power": [
+    {
+      "title": "Elf",
+      "page": "reviews/elliott-0074-elf.html",
+      "id": "Elliott_0074"
+    }
+  ],
+  "spiritual realities": [
+    {
+      "title": "The Exorcism of Emily Rose",
+      "page": "reviews/elliott-0075-the-exorcism-of-emily-rose.html",
+      "id": "Elliott_0075"
+    }
+  ],
   "spiritual riches": [
     {
       "title": "The Thomas Crown Affair",
@@ -1565,6 +1759,11 @@
       "title": "Gothika",
       "page": "reviews/elliott-0009-gothika.html",
       "id": "Elliott_0009"
+    },
+    {
+      "title": "Exorcist: The Beginning",
+      "page": "reviews/elliott-0077-exorcist-the-beginning.html",
+      "id": "Elliott_0077"
     }
   ],
   "Steadfastness": [
@@ -1635,11 +1834,32 @@
       "id": "Elliott_0022"
     }
   ],
+  "thankfulness": [
+    {
+      "title": "Envy",
+      "page": "reviews/elliott-0078-envy.html",
+      "id": "Elliott_0078"
+    }
+  ],
+  "the new man": [
+    {
+      "title": "Enemy at the Gates",
+      "page": "reviews/elliott-0072-enemy-at-the-gates.html",
+      "id": "Elliott_0072"
+    }
+  ],
   "the still small voice": [
     {
       "title": "Drowning Mona",
       "page": "reviews/elliott-0007-drowning-mona.html",
       "id": "Elliott_0007"
+    }
+  ],
+  "the Word of God": [
+    {
+      "title": "Exorcist: The Beginning",
+      "page": "reviews/elliott-0077-exorcist-the-beginning.html",
+      "id": "Elliott_0077"
     }
   ],
   "Thought life": [
@@ -1673,6 +1893,11 @@
       "title": "Antwone Fisher",
       "page": "reviews/elliott-0050-antwone-fisher.html",
       "id": "Elliott_0050"
+    },
+    {
+      "title": "Enemy at the Gates",
+      "page": "reviews/elliott-0072-enemy-at-the-gates.html",
+      "id": "Elliott_0072"
     }
   ],
   "trust": [
@@ -1711,6 +1936,16 @@
       "title": "Birth",
       "page": "reviews/elliott-0029-birth.html",
       "id": "Elliott_0029"
+    },
+    {
+      "title": "Enemy at the Gates",
+      "page": "reviews/elliott-0072-enemy-at-the-gates.html",
+      "id": "Elliott_0072"
+    },
+    {
+      "title": "The Exorcism of Emily Rose",
+      "page": "reviews/elliott-0075-the-exorcism-of-emily-rose.html",
+      "id": "Elliott_0075"
     }
   ],
   "truth and revelation": [
