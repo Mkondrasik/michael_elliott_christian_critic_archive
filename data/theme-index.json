@@ -79,6 +79,11 @@
       "title": "Arlington Road",
       "page": "reviews/elliott-0047-arlington-road.html",
       "id": "Elliott_0047"
+    },
+    {
+      "title": "Finding Neverland",
+      "page": "reviews/elliott-0084-finding-neverland.html",
+      "id": "Elliott_0084"
     }
   ],
   "belonging": [
@@ -158,11 +163,25 @@
       "id": "Elliott_0015"
     }
   ],
+  "Childlike faith": [
+    {
+      "title": "Finding Neverland",
+      "page": "reviews/elliott-0084-finding-neverland.html",
+      "id": "Elliott_0084"
+    }
+  ],
   "choice": [
     {
       "title": "Ella Enchanted",
       "page": "reviews/elliott-0079-ella-enchanted.html",
       "id": "Elliott_0079"
+    }
+  ],
+  "Choices": [
+    {
+      "title": "Fracture",
+      "page": "reviews/elliott-0086-fracture.html",
+      "id": "Elliott_0086"
     }
   ],
   "choices": [
@@ -198,6 +217,13 @@
       "title": "The Country Bears",
       "page": "reviews/elliott-0053-the-country-bears.html",
       "id": "Elliott_0053"
+    }
+  ],
+  "Comfort": [
+    {
+      "title": "Failure to Launch",
+      "page": "reviews/elliott-0089-failure-to-launch.html",
+      "id": "Elliott_0089"
     }
   ],
   "comfort": [
@@ -395,6 +421,11 @@
       "title": "The Art of War",
       "page": "reviews/elliott-0017-the-art-of-war.html",
       "id": "Elliott_0017"
+    },
+    {
+      "title": "Frailty",
+      "page": "reviews/elliott-0082-frailty.html",
+      "id": "Elliott_0082"
     }
   ],
   "decision-making": [
@@ -416,6 +447,13 @@
       "title": "The Exorcism of Emily Rose",
       "page": "reviews/elliott-0075-the-exorcism-of-emily-rose.html",
       "id": "Elliott_0075"
+    }
+  ],
+  "devilish influence": [
+    {
+      "title": "Fight Club",
+      "page": "reviews/elliott-0087-fight-club.html",
+      "id": "Elliott_0087"
     }
   ],
   "direction": [
@@ -549,6 +587,11 @@
       "title": "A Bug's Life",
       "page": "reviews/elliott-0025-a-bug-s-life.html",
       "id": "Elliott_0025"
+    },
+    {
+      "title": "Failure to Launch",
+      "page": "reviews/elliott-0089-failure-to-launch.html",
+      "id": "Elliott_0089"
     }
   ],
   "entertainment and responsibility": [
@@ -607,6 +650,13 @@
       "id": "Elliott_0038"
     }
   ],
+  "excellence": [
+    {
+      "title": "Friday Night Lights",
+      "page": "reviews/elliott-0083-friday-night-lights.html",
+      "id": "Elliott_0083"
+    }
+  ],
   "Existence of God": [
     {
       "title": "The Big Bounce",
@@ -641,6 +691,11 @@
       "title": "Elf",
       "page": "reviews/elliott-0074-elf.html",
       "id": "Elliott_0074"
+    },
+    {
+      "title": "Facing the Giants",
+      "page": "reviews/elliott-0088-facing-the-giants.html",
+      "id": "Elliott_0088"
     }
   ],
   "Faith against odds": [
@@ -820,6 +875,20 @@
       "title": "The Alamo",
       "page": "reviews/elliott-0044-the-alamo.html",
       "id": "Elliott_0044"
+    }
+  ],
+  "giving your all": [
+    {
+      "title": "Friday Night Lights",
+      "page": "reviews/elliott-0083-friday-night-lights.html",
+      "id": "Elliott_0083"
+    }
+  ],
+  "God": [
+    {
+      "title": "Facing the Giants",
+      "page": "reviews/elliott-0088-facing-the-giants.html",
+      "id": "Elliott_0088"
     }
   ],
   "God's definition of love": [
@@ -1015,6 +1084,11 @@
       "title": "Around the World in 80 Days",
       "page": "reviews/elliott-0043-around-the-world-in-80-days.html",
       "id": "Elliott_0043"
+    },
+    {
+      "title": "Facing the Giants",
+      "page": "reviews/elliott-0088-facing-the-giants.html",
+      "id": "Elliott_0088"
     }
   ],
   "hunger and thirst": [
@@ -1022,6 +1096,20 @@
       "title": "Autumn in New York",
       "page": "reviews/elliott-0016-autumn-in-new-york.html",
       "id": "Elliott_0016"
+    }
+  ],
+  "Idolatry": [
+    {
+      "title": "The Fast and the Furious",
+      "page": "reviews/elliott-0081-the-fast-and-the-furious.html",
+      "id": "Elliott_0081"
+    }
+  ],
+  "imagination": [
+    {
+      "title": "Finding Neverland",
+      "page": "reviews/elliott-0084-finding-neverland.html",
+      "id": "Elliott_0084"
     }
   ],
   "inclusion": [
@@ -1192,6 +1280,11 @@
       "title": "Are We There Yet?",
       "page": "reviews/elliott-0033-are-we-there-yet.html",
       "id": "Elliott_0033"
+    },
+    {
+      "title": "Failure to Launch",
+      "page": "reviews/elliott-0089-failure-to-launch.html",
+      "id": "Elliott_0089"
     }
   ],
   "meaningful contribution": [
@@ -1285,6 +1378,13 @@
       "id": "Elliott_0035"
     }
   ],
+  "parental love": [
+    {
+      "title": "Flightplan",
+      "page": "reviews/elliott-0090-flightplan.html",
+      "id": "Elliott_0090"
+    }
+  ],
   "Parenting": [
     {
       "title": "Big Daddy",
@@ -1302,6 +1402,18 @@
       "title": "City by the Sea",
       "page": "reviews/elliott-0052-city-by-the-sea.html",
       "id": "Elliott_0052"
+    },
+    {
+      "title": "Failure to Launch",
+      "page": "reviews/elliott-0089-failure-to-launch.html",
+      "id": "Elliott_0089"
+    }
+  ],
+  "passion": [
+    {
+      "title": "The Fast and the Furious",
+      "page": "reviews/elliott-0081-the-fast-and-the-furious.html",
+      "id": "Elliott_0081"
     }
   ],
   "Past": [
@@ -1335,6 +1447,13 @@
       "title": "Arlington Road",
       "page": "reviews/elliott-0047-arlington-road.html",
       "id": "Elliott_0047"
+    }
+  ],
+  "Perfection": [
+    {
+      "title": "Friday Night Lights",
+      "page": "reviews/elliott-0083-friday-night-lights.html",
+      "id": "Elliott_0083"
     }
   ],
   "perseverance": [
@@ -1375,6 +1494,20 @@
       "id": "Elliott_0025"
     }
   ],
+  "possibilities": [
+    {
+      "title": "Facing the Giants",
+      "page": "reviews/elliott-0088-facing-the-giants.html",
+      "id": "Elliott_0088"
+    }
+  ],
+  "priorities": [
+    {
+      "title": "The Fast and the Furious",
+      "page": "reviews/elliott-0081-the-fast-and-the-furious.html",
+      "id": "Elliott_0081"
+    }
+  ],
   "prodigal son": [
     {
       "title": "Around the Bend",
@@ -1389,6 +1522,13 @@
       "id": "Elliott_0051"
     }
   ],
+  "putting God first": [
+    {
+      "title": "The Fast and the Furious",
+      "page": "reviews/elliott-0081-the-fast-and-the-furious.html",
+      "id": "Elliott_0081"
+    }
+  ],
   "reconciliation": [
     {
       "title": "Around the Bend",
@@ -1399,6 +1539,11 @@
       "title": "Divine Secrets of the Ya-Ya Sisterhood",
       "page": "reviews/elliott-0066-divine-secrets-of-the-ya-ya-sisterhood.html",
       "id": "Elliott_0066"
+    },
+    {
+      "title": "Flightplan",
+      "page": "reviews/elliott-0090-flightplan.html",
+      "id": "Elliott_0090"
     }
   ],
   "regret": [
@@ -1534,6 +1679,13 @@
       "id": "Elliott_0044"
     }
   ],
+  "salvation": [
+    {
+      "title": "Flightplan",
+      "page": "reviews/elliott-0090-flightplan.html",
+      "id": "Elliott_0090"
+    }
+  ],
   "second chances": [
     {
       "title": "Elektra",
@@ -1600,6 +1752,11 @@
       "title": "Assault on Precinct 13",
       "page": "reviews/elliott-0032-assault-on-precinct-13.html",
       "id": "Elliott_0032"
+    },
+    {
+      "title": "Friday Night Lights",
+      "page": "reviews/elliott-0083-friday-night-lights.html",
+      "id": "Elliott_0083"
     }
   ],
   "sexual ethics": [
@@ -1644,11 +1801,23 @@
       "id": "Elliott_0038"
     }
   ],
+  "spiritual darkness": [
+    {
+      "title": "Fight Club",
+      "page": "reviews/elliott-0087-fight-club.html",
+      "id": "Elliott_0087"
+    }
+  ],
   "Spiritual discernment": [
     {
       "title": "The Exorcism of Emily Rose",
       "page": "reviews/elliott-0075-the-exorcism-of-emily-rose.html",
       "id": "Elliott_0075"
+    },
+    {
+      "title": "Frailty",
+      "page": "reviews/elliott-0082-frailty.html",
+      "id": "Elliott_0082"
     }
   ],
   "spiritual fruit": [
@@ -1752,6 +1921,11 @@
       "title": "The Art of War",
       "page": "reviews/elliott-0017-the-art-of-war.html",
       "id": "Elliott_0017"
+    },
+    {
+      "title": "Fight Club",
+      "page": "reviews/elliott-0087-fight-club.html",
+      "id": "Elliott_0087"
     }
   ],
   "spiritual warfare": [
@@ -1792,6 +1966,13 @@
       "id": "Elliott_0058"
     }
   ],
+  "strength": [
+    {
+      "title": "Failure to Launch",
+      "page": "reviews/elliott-0089-failure-to-launch.html",
+      "id": "Elliott_0089"
+    }
+  ],
   "studying God's Word": [
     {
       "title": "Atlantis: The Lost Empire",
@@ -1811,6 +1992,13 @@
       "title": "Dreamgirls",
       "page": "reviews/elliott-0062-dreamgirls.html",
       "id": "Elliott_0062"
+    }
+  ],
+  "Teachers": [
+    {
+      "title": "Freedom Writers",
+      "page": "reviews/elliott-0085-freedom-writers.html",
+      "id": "Elliott_0085"
     }
   ],
   "teaching and training": [
@@ -1834,11 +2022,32 @@
       "id": "Elliott_0022"
     }
   ],
+  "testing spirits": [
+    {
+      "title": "Frailty",
+      "page": "reviews/elliott-0082-frailty.html",
+      "id": "Elliott_0082"
+    }
+  ],
   "thankfulness": [
     {
       "title": "Envy",
       "page": "reviews/elliott-0078-envy.html",
       "id": "Elliott_0078"
+    }
+  ],
+  "The lost": [
+    {
+      "title": "Flightplan",
+      "page": "reviews/elliott-0090-flightplan.html",
+      "id": "Elliott_0090"
+    }
+  ],
+  "the nature of God": [
+    {
+      "title": "Frailty",
+      "page": "reviews/elliott-0082-frailty.html",
+      "id": "Elliott_0082"
     }
   ],
   "the new man": [
@@ -1905,6 +2114,11 @@
       "title": "The Truth About Charlie",
       "page": "reviews/elliott-0012-the-truth-about-charlie.html",
       "id": "Elliott_0012"
+    },
+    {
+      "title": "Finding Neverland",
+      "page": "reviews/elliott-0084-finding-neverland.html",
+      "id": "Elliott_0084"
     }
   ],
   "trust and honesty": [
@@ -1912,6 +2126,13 @@
       "title": "The Thomas Crown Affair",
       "page": "reviews/elliott-0011-the-thomas-crown-affair.html",
       "id": "Elliott_0011"
+    }
+  ],
+  "trusting God": [
+    {
+      "title": "Facing the Giants",
+      "page": "reviews/elliott-0088-facing-the-giants.html",
+      "id": "Elliott_0088"
     }
   ],
   "Truth": [
@@ -2012,6 +2233,11 @@
       "title": "Amores perros (Love’s A Bitch)",
       "page": "reviews/elliott-0040-amores-perros-love-s-a-bitch.html",
       "id": "Elliott_0040"
+    },
+    {
+      "title": "Fight Club",
+      "page": "reviews/elliott-0087-fight-club.html",
+      "id": "Elliott_0087"
     }
   ],
   "virtuous relationships": [
