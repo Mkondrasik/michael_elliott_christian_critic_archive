@@ -13,11 +13,23 @@
       "id": "Elliott_0034"
     }
   ],
+  "Accountability": [
+    {
+      "title": "Go",
+      "page": "reviews/elliott-0100-go.html",
+      "id": "Elliott_0100"
+    }
+  ],
   "accountability": [
     {
       "title": "Brokedown Palace",
       "page": "reviews/elliott-0024-brokedown-palace.html",
       "id": "Elliott_0024"
+    },
+    {
+      "title": "Gossip",
+      "page": "reviews/elliott-0096-gossip.html",
+      "id": "Elliott_0096"
     }
   ],
   "actions": [
@@ -39,6 +51,13 @@
       "title": "Blue Streak",
       "page": "reviews/elliott-0021-blue-streak.html",
       "id": "Elliott_0021"
+    }
+  ],
+  "Arguments": [
+    {
+      "title": "The Glass Jar",
+      "page": "reviews/elliott-0097-the-glass-jar.html",
+      "id": "Elliott_0097"
     }
   ],
   "authenticity": [
@@ -84,6 +103,11 @@
       "title": "Finding Neverland",
       "page": "reviews/elliott-0084-finding-neverland.html",
       "id": "Elliott_0084"
+    },
+    {
+      "title": "Gun Shy",
+      "page": "reviews/elliott-0095-gun-shy.html",
+      "id": "Elliott_0095"
     }
   ],
   "belonging": [
@@ -276,6 +300,11 @@
       "title": "Amores perros (Love’s A Bitch)",
       "page": "reviews/elliott-0040-amores-perros-love-s-a-bitch.html",
       "id": "Elliott_0040"
+    },
+    {
+      "title": "Go",
+      "page": "reviews/elliott-0100-go.html",
+      "id": "Elliott_0100"
     }
   ],
   "contentment": [
@@ -561,6 +590,13 @@
       "id": "Elliott_0071"
     }
   ],
+  "edifying speech": [
+    {
+      "title": "Gossip",
+      "page": "reviews/elliott-0096-gossip.html",
+      "id": "Elliott_0096"
+    }
+  ],
   "education": [
     {
       "title": "Coach Carter",
@@ -592,6 +628,13 @@
       "title": "Failure to Launch",
       "page": "reviews/elliott-0089-failure-to-launch.html",
       "id": "Elliott_0089"
+    }
+  ],
+  "endurance": [
+    {
+      "title": "George Washington",
+      "page": "reviews/elliott-0092-george-washington.html",
+      "id": "Elliott_0092"
     }
   ],
   "entertainment and responsibility": [
@@ -671,6 +714,13 @@
       "id": "Elliott_0060"
     }
   ],
+  "exposing evil": [
+    {
+      "title": "The General's Daughter",
+      "page": "reviews/elliott-0098-the-general-s-daughter.html",
+      "id": "Elliott_0098"
+    }
+  ],
   "faith": [
     {
       "title": "The Adventures of Rocky and Bullwinkle",
@@ -696,6 +746,11 @@
       "title": "Facing the Giants",
       "page": "reviews/elliott-0088-facing-the-giants.html",
       "id": "Elliott_0088"
+    },
+    {
+      "title": "George Washington",
+      "page": "reviews/elliott-0092-george-washington.html",
+      "id": "Elliott_0092"
     }
   ],
   "Faith against odds": [
@@ -762,6 +817,11 @@
       "title": "Arlington Road",
       "page": "reviews/elliott-0047-arlington-road.html",
       "id": "Elliott_0047"
+    },
+    {
+      "title": "Gun Shy",
+      "page": "reviews/elliott-0095-gun-shy.html",
+      "id": "Elliott_0095"
     }
   ],
   "fear": [
@@ -783,6 +843,13 @@
       "title": "Blue Streak",
       "page": "reviews/elliott-0021-blue-streak.html",
       "id": "Elliott_0021"
+    }
+  ],
+  "foolish disputes": [
+    {
+      "title": "The Glass Jar",
+      "page": "reviews/elliott-0097-the-glass-jar.html",
+      "id": "Elliott_0097"
     }
   ],
   "foolishness": [
@@ -814,6 +881,11 @@
       "title": "Eternal Sunshine of the Spotless Mind",
       "page": "reviews/elliott-0080-eternal-sunshine-of-the-spotless-mind.html",
       "id": "Elliott_0080"
+    },
+    {
+      "title": "Get Carter",
+      "page": "reviews/elliott-0091-get-carter.html",
+      "id": "Elliott_0091"
     }
   ],
   "Free will": [
@@ -891,6 +963,20 @@
       "id": "Elliott_0088"
     }
   ],
+  "God as the source of power": [
+    {
+      "title": "Godzilla 2000",
+      "page": "reviews/elliott-0094-godzilla-2000.html",
+      "id": "Elliott_0094"
+    }
+  ],
+  "God gives the increase": [
+    {
+      "title": "God's Army",
+      "page": "reviews/elliott-0093-god-s-army.html",
+      "id": "Elliott_0093"
+    }
+  ],
   "God's definition of love": [
     {
       "title": "Amores perros (Love’s A Bitch)",
@@ -931,6 +1017,11 @@
       "title": "Autumn in New York",
       "page": "reviews/elliott-0016-autumn-in-new-york.html",
       "id": "Elliott_0016"
+    },
+    {
+      "title": "Gloria",
+      "page": "reviews/elliott-0099-gloria.html",
+      "id": "Elliott_0099"
     }
   ],
   "God's Word as a guide": [
@@ -945,6 +1036,13 @@
       "title": "Thirteen Days",
       "page": "reviews/elliott-0005-thirteen-days.html",
       "id": "Elliott_0005"
+    }
+  ],
+  "Gossip": [
+    {
+      "title": "Gossip",
+      "page": "reviews/elliott-0096-gossip.html",
+      "id": "Elliott_0096"
     }
   ],
   "grace": [
@@ -1060,6 +1158,13 @@
       "id": "Elliott_0002"
     }
   ],
+  "Hope": [
+    {
+      "title": "George Washington",
+      "page": "reviews/elliott-0092-george-washington.html",
+      "id": "Elliott_0092"
+    }
+  ],
   "hope": [
     {
       "title": "Angel Eyes",
@@ -1089,6 +1194,11 @@
       "title": "Facing the Giants",
       "page": "reviews/elliott-0088-facing-the-giants.html",
       "id": "Elliott_0088"
+    },
+    {
+      "title": "God's Army",
+      "page": "reviews/elliott-0093-god-s-army.html",
+      "id": "Elliott_0093"
     }
   ],
   "hunger and thirst": [
@@ -1103,6 +1213,13 @@
       "title": "The Fast and the Furious",
       "page": "reviews/elliott-0081-the-fast-and-the-furious.html",
       "id": "Elliott_0081"
+    }
+  ],
+  "idolatry": [
+    {
+      "title": "Godzilla 2000",
+      "page": "reviews/elliott-0094-godzilla-2000.html",
+      "id": "Elliott_0094"
     }
   ],
   "imagination": [
@@ -1152,6 +1269,34 @@
       "title": "Brokedown Palace",
       "page": "reviews/elliott-0024-brokedown-palace.html",
       "id": "Elliott_0024"
+    }
+  ],
+  "judgment": [
+    {
+      "title": "Go",
+      "page": "reviews/elliott-0100-go.html",
+      "id": "Elliott_0100"
+    }
+  ],
+  "Justice": [
+    {
+      "title": "The General's Daughter",
+      "page": "reviews/elliott-0098-the-general-s-daughter.html",
+      "id": "Elliott_0098"
+    }
+  ],
+  "justice": [
+    {
+      "title": "Get Carter",
+      "page": "reviews/elliott-0091-get-carter.html",
+      "id": "Elliott_0091"
+    }
+  ],
+  "knowing the adversary": [
+    {
+      "title": "Gloria",
+      "page": "reviews/elliott-0099-gloria.html",
+      "id": "Elliott_0099"
     }
   ],
   "Leadership": [
@@ -1292,6 +1437,13 @@
       "title": "Confessions of a Dangerous Mind",
       "page": "reviews/elliott-0051-confessions-of-a-dangerous-mind.html",
       "id": "Elliott_0051"
+    }
+  ],
+  "meekness": [
+    {
+      "title": "The Glass Jar",
+      "page": "reviews/elliott-0097-the-glass-jar.html",
+      "id": "Elliott_0097"
     }
   ],
   "Memory": [
@@ -1447,6 +1599,11 @@
       "title": "Arlington Road",
       "page": "reviews/elliott-0047-arlington-road.html",
       "id": "Elliott_0047"
+    },
+    {
+      "title": "Gun Shy",
+      "page": "reviews/elliott-0095-gun-shy.html",
+      "id": "Elliott_0095"
     }
   ],
   "Perfection": [
@@ -1501,6 +1658,13 @@
       "id": "Elliott_0088"
     }
   ],
+  "Power": [
+    {
+      "title": "Godzilla 2000",
+      "page": "reviews/elliott-0094-godzilla-2000.html",
+      "id": "Elliott_0094"
+    }
+  ],
   "priorities": [
     {
       "title": "The Fast and the Furious",
@@ -1513,6 +1677,13 @@
       "title": "Around the Bend",
       "page": "reviews/elliott-0042-around-the-bend.html",
       "id": "Elliott_0042"
+    }
+  ],
+  "promises of God": [
+    {
+      "title": "George Washington",
+      "page": "reviews/elliott-0092-george-washington.html",
+      "id": "Elliott_0092"
     }
   ],
   "Purpose": [
@@ -1642,6 +1813,16 @@
       "title": "The Day After Tomorrow",
       "page": "reviews/elliott-0065-the-day-after-tomorrow.html",
       "id": "Elliott_0065"
+    },
+    {
+      "title": "The General's Daughter",
+      "page": "reviews/elliott-0098-the-general-s-daughter.html",
+      "id": "Elliott_0098"
+    },
+    {
+      "title": "Go",
+      "page": "reviews/elliott-0100-go.html",
+      "id": "Elliott_0100"
     }
   ],
   "Resurrection": [
@@ -1656,6 +1837,13 @@
       "title": "Evan Almighty",
       "page": "reviews/elliott-0073-evan-almighty.html",
       "id": "Elliott_0073"
+    }
+  ],
+  "Revenge": [
+    {
+      "title": "Get Carter",
+      "page": "reviews/elliott-0091-get-carter.html",
+      "id": "Elliott_0091"
     }
   ],
   "right and wrong": [
@@ -1801,6 +1989,13 @@
       "id": "Elliott_0038"
     }
   ],
+  "spiritual danger": [
+    {
+      "title": "Godzilla 2000",
+      "page": "reviews/elliott-0094-godzilla-2000.html",
+      "id": "Elliott_0094"
+    }
+  ],
   "spiritual darkness": [
     {
       "title": "Fight Club",
@@ -1860,6 +2055,11 @@
       "title": "The Country Bears",
       "page": "reviews/elliott-0053-the-country-bears.html",
       "id": "Elliott_0053"
+    },
+    {
+      "title": "God's Army",
+      "page": "reviews/elliott-0093-god-s-army.html",
+      "id": "Elliott_0093"
     }
   ],
   "Spiritual nourishment": [
@@ -1938,6 +2138,11 @@
       "title": "Exorcist: The Beginning",
       "page": "reviews/elliott-0077-exorcist-the-beginning.html",
       "id": "Elliott_0077"
+    },
+    {
+      "title": "Gloria",
+      "page": "reviews/elliott-0099-gloria.html",
+      "id": "Elliott_0099"
     }
   ],
   "Steadfastness": [
@@ -1999,6 +2204,13 @@
       "title": "Freedom Writers",
       "page": "reviews/elliott-0085-freedom-writers.html",
       "id": "Elliott_0085"
+    }
+  ],
+  "Teaching": [
+    {
+      "title": "God's Army",
+      "page": "reviews/elliott-0093-god-s-army.html",
+      "id": "Elliott_0093"
     }
   ],
   "teaching and training": [
@@ -2119,6 +2331,11 @@
       "title": "Finding Neverland",
       "page": "reviews/elliott-0084-finding-neverland.html",
       "id": "Elliott_0084"
+    },
+    {
+      "title": "Gun Shy",
+      "page": "reviews/elliott-0095-gun-shy.html",
+      "id": "Elliott_0095"
     }
   ],
   "trust and honesty": [
@@ -2133,6 +2350,11 @@
       "title": "Facing the Giants",
       "page": "reviews/elliott-0088-facing-the-giants.html",
       "id": "Elliott_0088"
+    },
+    {
+      "title": "Get Carter",
+      "page": "reviews/elliott-0091-get-carter.html",
+      "id": "Elliott_0091"
     }
   ],
   "Truth": [
@@ -2167,6 +2389,21 @@
       "title": "The Exorcism of Emily Rose",
       "page": "reviews/elliott-0075-the-exorcism-of-emily-rose.html",
       "id": "Elliott_0075"
+    },
+    {
+      "title": "The Glass Jar",
+      "page": "reviews/elliott-0097-the-glass-jar.html",
+      "id": "Elliott_0097"
+    },
+    {
+      "title": "The General's Daughter",
+      "page": "reviews/elliott-0098-the-general-s-daughter.html",
+      "id": "Elliott_0098"
+    },
+    {
+      "title": "Gloria",
+      "page": "reviews/elliott-0099-gloria.html",
+      "id": "Elliott_0099"
     }
   ],
   "truth and revelation": [
@@ -2226,6 +2463,13 @@
       "title": "Clockstoppers",
       "page": "reviews/elliott-0058-clockstoppers.html",
       "id": "Elliott_0058"
+    }
+  ],
+  "vengeance": [
+    {
+      "title": "Get Carter",
+      "page": "reviews/elliott-0091-get-carter.html",
+      "id": "Elliott_0091"
     }
   ],
   "violence": [
@@ -2297,6 +2541,13 @@
       "title": "A Bug's Life",
       "page": "reviews/elliott-0025-a-bug-s-life.html",
       "id": "Elliott_0025"
+    }
+  ],
+  "words": [
+    {
+      "title": "Gossip",
+      "page": "reviews/elliott-0096-gossip.html",
+      "id": "Elliott_0096"
     }
   ]
 }

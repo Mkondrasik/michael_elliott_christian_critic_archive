@@ -209,6 +209,13 @@
       "id": "Elliott_0062"
     }
   ],
+  "Job 31:35": [
+    {
+      "title": "Gloria",
+      "page": "reviews/elliott-0099-gloria.html",
+      "id": "Elliott_0099"
+    }
+  ],
   "Job 42:2": [
     {
       "title": "Facing the Giants",
@@ -270,6 +277,20 @@
       "title": "After the Sunset",
       "page": "reviews/elliott-0041-after-the-sunset.html",
       "id": "Elliott_0041"
+    }
+  ],
+  "Psalms 62:11": [
+    {
+      "title": "Godzilla 2000",
+      "page": "reviews/elliott-0094-godzilla-2000.html",
+      "id": "Elliott_0094"
+    }
+  ],
+  "Psalms 64:1-10": [
+    {
+      "title": "Gloria",
+      "page": "reviews/elliott-0099-gloria.html",
+      "id": "Elliott_0099"
     }
   ],
   "Psalms 73:21-24": [
@@ -487,6 +508,13 @@
       "id": "Elliott_0069"
     }
   ],
+  "Proverbs 21:3": [
+    {
+      "title": "The General's Daughter",
+      "page": "reviews/elliott-0098-the-general-s-daughter.html",
+      "id": "Elliott_0098"
+    }
+  ],
   "Proverbs 21:6": [
     {
       "title": "Boiler Room",
@@ -506,6 +534,13 @@
       "title": "A Bug's Life",
       "page": "reviews/elliott-0025-a-bug-s-life.html",
       "id": "Elliott_0025"
+    }
+  ],
+  "Proverbs 26:22": [
+    {
+      "title": "Gossip",
+      "page": "reviews/elliott-0096-gossip.html",
+      "id": "Elliott_0096"
     }
   ],
   "Proverbs 27:5": [
@@ -550,6 +585,13 @@
       "id": "Elliott_0060"
     }
   ],
+  "Proverbs 29:25": [
+    {
+      "title": "Gun Shy",
+      "page": "reviews/elliott-0095-gun-shy.html",
+      "id": "Elliott_0095"
+    }
+  ],
   "Proverbs 31:10": [
     {
       "title": "Kate and Leopold",
@@ -585,11 +627,25 @@
       "id": "Elliott_0011"
     }
   ],
+  "Ecclesiastes 8:11": [
+    {
+      "title": "The General's Daughter",
+      "page": "reviews/elliott-0098-the-general-s-daughter.html",
+      "id": "Elliott_0098"
+    }
+  ],
   "Ecclesiastes 9:10": [
     {
       "title": "Gothika",
       "page": "reviews/elliott-0009-gothika.html",
       "id": "Elliott_0009"
+    }
+  ],
+  "Ecclesiastes 12:13": [
+    {
+      "title": "Gun Shy",
+      "page": "reviews/elliott-0095-gun-shy.html",
+      "id": "Elliott_0095"
     }
   ],
   "Ecclesiastes 12:14": [
@@ -641,6 +697,13 @@
       "id": "Elliott_0068"
     }
   ],
+  "Isaiah 46:9": [
+    {
+      "title": "Godzilla 2000",
+      "page": "reviews/elliott-0094-godzilla-2000.html",
+      "id": "Elliott_0094"
+    }
+  ],
   "Isaiah 50:4": [
     {
       "title": "Blue Streak",
@@ -660,6 +723,13 @@
       "title": "Deja Vu",
       "page": "reviews/elliott-0064-deja-vu.html",
       "id": "Elliott_0064"
+    }
+  ],
+  "Isaiah 59:4": [
+    {
+      "title": "The General's Daughter",
+      "page": "reviews/elliott-0098-the-general-s-daughter.html",
+      "id": "Elliott_0098"
     }
   ],
   "Jeremiah 4:22": [
@@ -709,6 +779,13 @@
       "title": "City by the Sea",
       "page": "reviews/elliott-0052-city-by-the-sea.html",
       "id": "Elliott_0052"
+    }
+  ],
+  "Ezekiel 25:12": [
+    {
+      "title": "Get Carter",
+      "page": "reviews/elliott-0091-get-carter.html",
+      "id": "Elliott_0091"
     }
   ],
   "Ezekiel 34:8": [
@@ -781,6 +858,13 @@
       "id": "Elliott_0048"
     }
   ],
+  "Matthew 12:36": [
+    {
+      "title": "Gossip",
+      "page": "reviews/elliott-0096-gossip.html",
+      "id": "Elliott_0096"
+    }
+  ],
   "Matthew 12:43-45": [
     {
       "title": "Gothika",
@@ -828,6 +912,13 @@
       "title": "Elf",
       "page": "reviews/elliott-0074-elf.html",
       "id": "Elliott_0074"
+    }
+  ],
+  "Mark 4:14-15": [
+    {
+      "title": "Gloria",
+      "page": "reviews/elliott-0099-gloria.html",
+      "id": "Elliott_0099"
     }
   ],
   "Mark 4:22": [
@@ -884,6 +975,13 @@
       "id": "Elliott_0030"
     }
   ],
+  "Luke 4:6-8": [
+    {
+      "title": "Godzilla 2000",
+      "page": "reviews/elliott-0094-godzilla-2000.html",
+      "id": "Elliott_0094"
+    }
+  ],
   "Luke 6:37": [
     {
       "title": "Divine Secrets of the Ya-Ya Sisterhood",
@@ -903,6 +1001,13 @@
       "title": "The Exorcism of Emily Rose",
       "page": "reviews/elliott-0075-the-exorcism-of-emily-rose.html",
       "id": "Elliott_0075"
+    }
+  ],
+  "Luke 9:5": [
+    {
+      "title": "The Glass Jar",
+      "page": "reviews/elliott-0097-the-glass-jar.html",
+      "id": "Elliott_0097"
     }
   ],
   "Luke 9:62": [
@@ -1017,6 +1122,13 @@
       "id": "Elliott_0083"
     }
   ],
+  "John 14:27": [
+    {
+      "title": "Gun Shy",
+      "page": "reviews/elliott-0095-gun-shy.html",
+      "id": "Elliott_0095"
+    }
+  ],
   "John 15:13": [
     {
       "title": "The Alamo",
@@ -1094,6 +1206,13 @@
       "id": "Elliott_0014"
     }
   ],
+  "Romans 8:24": [
+    {
+      "title": "George Washington",
+      "page": "reviews/elliott-0092-george-washington.html",
+      "id": "Elliott_0092"
+    }
+  ],
   "Romans 12:1": [
     {
       "title": "Fracture",
@@ -1115,11 +1234,32 @@
       "id": "Elliott_0027"
     }
   ],
+  "Romans 12:17": [
+    {
+      "title": "Get Carter",
+      "page": "reviews/elliott-0091-get-carter.html",
+      "id": "Elliott_0091"
+    }
+  ],
+  "Romans 12:19": [
+    {
+      "title": "Get Carter",
+      "page": "reviews/elliott-0091-get-carter.html",
+      "id": "Elliott_0091"
+    }
+  ],
   "Romans 13:12": [
     {
       "title": "Thirteen Days",
       "page": "reviews/elliott-0005-thirteen-days.html",
       "id": "Elliott_0005"
+    }
+  ],
+  "Romans 14:11-12": [
+    {
+      "title": "Go",
+      "page": "reviews/elliott-0100-go.html",
+      "id": "Elliott_0100"
     }
   ],
   "Romans 14:12": [
@@ -1157,6 +1297,13 @@
       "id": "Elliott_0075"
     }
   ],
+  "1 Corinthians 3:4-7": [
+    {
+      "title": "God's Army",
+      "page": "reviews/elliott-0093-god-s-army.html",
+      "id": "Elliott_0093"
+    }
+  ],
   "1 Corinthians 3:6-7": [
     {
       "title": "The Country Bears",
@@ -1190,6 +1337,13 @@
       "title": "Collateral Damage",
       "page": "reviews/elliott-0059-collateral-damage.html",
       "id": "Elliott_0059"
+    }
+  ],
+  "1 Corinthians 8:2": [
+    {
+      "title": "The Glass Jar",
+      "page": "reviews/elliott-0097-the-glass-jar.html",
+      "id": "Elliott_0097"
     }
   ],
   "1 Corinthians 9:19-23": [
@@ -1272,6 +1426,11 @@
       "title": "Brokedown Palace",
       "page": "reviews/elliott-0024-brokedown-palace.html",
       "id": "Elliott_0024"
+    },
+    {
+      "title": "Go",
+      "page": "reviews/elliott-0100-go.html",
+      "id": "Elliott_0100"
     }
   ],
   "2 Corinthians 11:13-15": [
@@ -1314,6 +1473,11 @@
       "title": "The Country Bears",
       "page": "reviews/elliott-0053-the-country-bears.html",
       "id": "Elliott_0053"
+    },
+    {
+      "title": "God's Army",
+      "page": "reviews/elliott-0093-god-s-army.html",
+      "id": "Elliott_0093"
     }
   ],
   "Galatians 6:7-8": [
@@ -1478,6 +1642,13 @@
       "id": "Elliott_0049"
     }
   ],
+  "Colossians 2:8": [
+    {
+      "title": "God's Army",
+      "page": "reviews/elliott-0093-god-s-army.html",
+      "id": "Elliott_0093"
+    }
+  ],
   "Colossians 3:5-10": [
     {
       "title": "American Pie",
@@ -1609,6 +1780,20 @@
       "id": "Elliott_0051"
     }
   ],
+  "Titus 1:2": [
+    {
+      "title": "George Washington",
+      "page": "reviews/elliott-0092-george-washington.html",
+      "id": "Elliott_0092"
+    }
+  ],
+  "Titus 3:9-10": [
+    {
+      "title": "The Glass Jar",
+      "page": "reviews/elliott-0097-the-glass-jar.html",
+      "id": "Elliott_0097"
+    }
+  ],
   "Hebrews 2:11-12": [
     {
       "title": "Lilo & Stitch",
@@ -1637,6 +1822,13 @@
       "id": "Elliott_0061"
     }
   ],
+  "Hebrews 6:18-19a": [
+    {
+      "title": "George Washington",
+      "page": "reviews/elliott-0092-george-washington.html",
+      "id": "Elliott_0092"
+    }
+  ],
   "Hebrews 11:1-12:1": [
     {
       "title": "A Dog of Flanders",
@@ -1663,6 +1855,13 @@
       "title": "A Bug's Life",
       "page": "reviews/elliott-0025-a-bug-s-life.html",
       "id": "Elliott_0025"
+    }
+  ],
+  "James 3:5-6": [
+    {
+      "title": "Gossip",
+      "page": "reviews/elliott-0096-gossip.html",
+      "id": "Elliott_0096"
     }
   ],
   "James 4:1-3": [
@@ -1821,6 +2020,13 @@
       "title": "The Thomas Crown Affair",
       "page": "reviews/elliott-0011-the-thomas-crown-affair.html",
       "id": "Elliott_0011"
+    }
+  ],
+  "Revelation 20:12-13": [
+    {
+      "title": "Go",
+      "page": "reviews/elliott-0100-go.html",
+      "id": "Elliott_0100"
     }
   ],
   "Revelation 21:1-4": [
