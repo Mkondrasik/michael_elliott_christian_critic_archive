@@ -55,6 +55,13 @@
       "id": "Elliott_0078"
     }
   ],
+  "Exodus 23:12": [
+    {
+      "title": "Hanging Up",
+      "page": "reviews/elliott-0109-hanging-up.html",
+      "id": "Elliott_0109"
+    }
+  ],
   "Leviticus 18:23": [
     {
       "title": "The Animal",
@@ -223,6 +230,13 @@
       "id": "Elliott_0088"
     }
   ],
+  "Psalms 7:15-16": [
+    {
+      "title": "The Hunted",
+      "page": "reviews/elliott-0101-the-hunted.html",
+      "id": "Elliott_0101"
+    }
+  ],
   "Psalms 8:6-8": [
     {
       "title": "The Crocodile Hunter: Collision Course",
@@ -256,6 +270,13 @@
       "title": "Angela's Ashes",
       "page": "reviews/elliott-0018-angela-s-ashes.html",
       "id": "Elliott_0018"
+    }
+  ],
+  "Psalms 42:1-2": [
+    {
+      "title": "Holy Man",
+      "page": "reviews/elliott-0110-holy-man.html",
+      "id": "Elliott_0110"
     }
   ],
   "Psalms 51:13": [
@@ -307,6 +328,13 @@
       "id": "Elliott_0055"
     }
   ],
+  "Psalms 84:2": [
+    {
+      "title": "Holy Man",
+      "page": "reviews/elliott-0110-holy-man.html",
+      "id": "Elliott_0110"
+    }
+  ],
   "Psalms 90:12": [
     {
       "title": "Clockstoppers",
@@ -319,6 +347,13 @@
       "title": "Fracture",
       "page": "reviews/elliott-0086-fracture.html",
       "id": "Elliott_0086"
+    }
+  ],
+  "Psalms 103:11-12": [
+    {
+      "title": "Half Past Dead",
+      "page": "reviews/elliott-0103-half-past-dead.html",
+      "id": "Elliott_0103"
     }
   ],
   "Psalms 106:39": [
@@ -363,11 +398,25 @@
       "id": "Elliott_0079"
     }
   ],
+  "Psalms 119:73": [
+    {
+      "title": "Hollow Man",
+      "page": "reviews/elliott-0107-hollow-man.html",
+      "id": "Elliott_0107"
+    }
+  ],
   "Psalms 139:14": [
     {
       "title": "Todo sobre mi madre (All About My Mother)",
       "page": "reviews/elliott-0019-todo-sobre-mi-madre-all-about-my-mother.html",
       "id": "Elliott_0019"
+    }
+  ],
+  "Psalms 139:14-15": [
+    {
+      "title": "Hollow Man",
+      "page": "reviews/elliott-0107-hollow-man.html",
+      "id": "Elliott_0107"
     }
   ],
   "Proverbs 1:5": [
@@ -508,6 +557,13 @@
       "id": "Elliott_0069"
     }
   ],
+  "Proverbs 20:1": [
+    {
+      "title": "High Crimes",
+      "page": "reviews/elliott-0104-high-crimes.html",
+      "id": "Elliott_0104"
+    }
+  ],
   "Proverbs 21:3": [
     {
       "title": "The General's Daughter",
@@ -548,6 +604,13 @@
       "title": "Crush",
       "page": "reviews/elliott-0057-crush.html",
       "id": "Elliott_0057"
+    }
+  ],
+  "Proverbs 28:9": [
+    {
+      "title": "Hamlet",
+      "page": "reviews/elliott-0108-hamlet.html",
+      "id": "Elliott_0108"
     }
   ],
   "Proverbs 28:13": [
@@ -620,6 +683,13 @@
       "id": "Elliott_0034"
     }
   ],
+  "Ecclesiastes 5:3": [
+    {
+      "title": "Hamlet",
+      "page": "reviews/elliott-0108-hamlet.html",
+      "id": "Elliott_0108"
+    }
+  ],
   "Ecclesiastes 5:10": [
     {
       "title": "The Thomas Crown Affair",
@@ -681,6 +751,11 @@
       "title": "Angel Eyes",
       "page": "reviews/elliott-0039-angel-eyes.html",
       "id": "Elliott_0039"
+    },
+    {
+      "title": "Highlander: Endgame",
+      "page": "reviews/elliott-0106-highlander-endgame.html",
+      "id": "Elliott_0106"
     }
   ],
   "Isaiah 28:15": [
@@ -688,6 +763,20 @@
       "title": "The Departed",
       "page": "reviews/elliott-0063-the-departed.html",
       "id": "Elliott_0063"
+    }
+  ],
+  "Isaiah 40:31": [
+    {
+      "title": "Hanging Up",
+      "page": "reviews/elliott-0109-hanging-up.html",
+      "id": "Elliott_0109"
+    }
+  ],
+  "Isaiah 43:25": [
+    {
+      "title": "Half Past Dead",
+      "page": "reviews/elliott-0103-half-past-dead.html",
+      "id": "Elliott_0103"
     }
   ],
   "Isaiah 44:20": [
@@ -730,6 +819,13 @@
       "title": "The General's Daughter",
       "page": "reviews/elliott-0098-the-general-s-daughter.html",
       "id": "Elliott_0098"
+    }
+  ],
+  "Isaiah 64:8": [
+    {
+      "title": "Hollow Man",
+      "page": "reviews/elliott-0107-hollow-man.html",
+      "id": "Elliott_0107"
     }
   ],
   "Jeremiah 4:22": [
@@ -823,11 +919,25 @@
       "id": "Elliott_0042"
     }
   ],
+  "Matthew 5:6": [
+    {
+      "title": "Holy Man",
+      "page": "reviews/elliott-0110-holy-man.html",
+      "id": "Elliott_0110"
+    }
+  ],
   "Matthew 5:48": [
     {
       "title": "Friday Night Lights",
       "page": "reviews/elliott-0083-friday-night-lights.html",
       "id": "Elliott_0083"
+    }
+  ],
+  "Matthew 6:7": [
+    {
+      "title": "Hamlet",
+      "page": "reviews/elliott-0108-hamlet.html",
+      "id": "Elliott_0108"
     }
   ],
   "Matthew 7:15-18": [
@@ -912,6 +1022,20 @@
       "title": "Elf",
       "page": "reviews/elliott-0074-elf.html",
       "id": "Elliott_0074"
+    }
+  ],
+  "Matthew 26:52": [
+    {
+      "title": "The Hunted",
+      "page": "reviews/elliott-0101-the-hunted.html",
+      "id": "Elliott_0101"
+    }
+  ],
+  "Mark 2:27": [
+    {
+      "title": "Hanging Up",
+      "page": "reviews/elliott-0109-hanging-up.html",
+      "id": "Elliott_0109"
     }
   ],
   "Mark 4:14-15": [
@@ -1017,6 +1141,13 @@
       "id": "Elliott_0064"
     }
   ],
+  "Luke 11:24-26": [
+    {
+      "title": "High Crimes",
+      "page": "reviews/elliott-0104-high-crimes.html",
+      "id": "Elliott_0104"
+    }
+  ],
   "Luke 12:2-3": [
     {
       "title": "The Good Shepherd",
@@ -1106,6 +1237,13 @@
       "title": "Finding Neverland",
       "page": "reviews/elliott-0084-finding-neverland.html",
       "id": "Elliott_0084"
+    }
+  ],
+  "John 13:34": [
+    {
+      "title": "How To Lose A Guy in Ten Days",
+      "page": "reviews/elliott-0102-how-to-lose-a-guy-in-ten-days.html",
+      "id": "Elliott_0102"
     }
   ],
   "John 14:6": [
@@ -1199,6 +1337,13 @@
       "id": "Elliott_0017"
     }
   ],
+  "Acts 26:9-11": [
+    {
+      "title": "Half Past Dead",
+      "page": "reviews/elliott-0103-half-past-dead.html",
+      "id": "Elliott_0103"
+    }
+  ],
   "Romans 2:6-10": [
     {
       "title": "All The Pretty Horses",
@@ -1211,6 +1356,13 @@
       "title": "George Washington",
       "page": "reviews/elliott-0092-george-washington.html",
       "id": "Elliott_0092"
+    }
+  ],
+  "Romans 8:35-37": [
+    {
+      "title": "Hardball",
+      "page": "reviews/elliott-0105-hardball.html",
+      "id": "Elliott_0105"
     }
   ],
   "Romans 12:1": [
@@ -1447,6 +1599,13 @@
       "id": "Elliott_0012"
     }
   ],
+  "2 Corinthians 11:24-27": [
+    {
+      "title": "Hardball",
+      "page": "reviews/elliott-0105-hardball.html",
+      "id": "Elliott_0105"
+    }
+  ],
   "Galatians 1:3-4": [
     {
       "title": "The Alamo",
@@ -1478,6 +1637,13 @@
       "title": "God's Army",
       "page": "reviews/elliott-0093-god-s-army.html",
       "id": "Elliott_0093"
+    }
+  ],
+  "Galatians 6:7": [
+    {
+      "title": "The Hunted",
+      "page": "reviews/elliott-0101-the-hunted.html",
+      "id": "Elliott_0101"
     }
   ],
   "Galatians 6:7-8": [
@@ -1579,6 +1745,13 @@
       "id": "Elliott_0051"
     }
   ],
+  "Ephesians 5:2": [
+    {
+      "title": "How To Lose A Guy in Ten Days",
+      "page": "reviews/elliott-0102-how-to-lose-a-guy-in-ten-days.html",
+      "id": "Elliott_0102"
+    }
+  ],
   "Ephesians 5:15-16": [
     {
       "title": "Clockstoppers",
@@ -1605,6 +1778,13 @@
       "title": "Fight Club",
       "page": "reviews/elliott-0087-fight-club.html",
       "id": "Elliott_0087"
+    }
+  ],
+  "Philippians 2:4-5": [
+    {
+      "title": "How To Lose A Guy in Ten Days",
+      "page": "reviews/elliott-0102-how-to-lose-a-guy-in-ten-days.html",
+      "id": "Elliott_0102"
     }
   ],
   "Philippians 3:13-14": [
@@ -1773,6 +1953,13 @@
       "id": "Elliott_0037"
     }
   ],
+  "2 Timothy 1:9-10": [
+    {
+      "title": "Highlander: Endgame",
+      "page": "reviews/elliott-0106-highlander-endgame.html",
+      "id": "Elliott_0106"
+    }
+  ],
   "2 Timothy 2:20-21": [
     {
       "title": "Confessions of a Dangerous Mind",
@@ -1906,6 +2093,13 @@
       "id": "Elliott_0046"
     }
   ],
+  "2 Peter 2:21-22": [
+    {
+      "title": "High Crimes",
+      "page": "reviews/elliott-0104-high-crimes.html",
+      "id": "Elliott_0104"
+    }
+  ],
   "2 Peter 3:13": [
     {
       "title": "Aeon Flux",
@@ -1975,6 +2169,11 @@
       "title": "The Adventures of Rocky and Bullwinkle",
       "page": "reviews/elliott-0015-the-adventures-of-rocky-and-bullwinkle.html",
       "id": "Elliott_0015"
+    },
+    {
+      "title": "Hardball",
+      "page": "reviews/elliott-0105-hardball.html",
+      "id": "Elliott_0105"
     }
   ],
   "1 John 4:8": [
@@ -2041,6 +2240,11 @@
       "title": "Angel Eyes",
       "page": "reviews/elliott-0039-angel-eyes.html",
       "id": "Elliott_0039"
+    },
+    {
+      "title": "Highlander: Endgame",
+      "page": "reviews/elliott-0106-highlander-endgame.html",
+      "id": "Elliott_0106"
     }
   ],
   "1 King 17:9-24": [
