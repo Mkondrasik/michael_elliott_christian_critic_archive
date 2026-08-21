@@ -152,6 +152,13 @@
       "id": "Elliott_0025"
     }
   ],
+  "business ethics": [
+    {
+      "title": "In Good Company",
+      "page": "reviews/elliott-0120-in-good-company.html",
+      "id": "Elliott_0120"
+    }
+  ],
   "calling": [
     {
       "title": "Along Came A Spider",
@@ -336,6 +343,11 @@
       "title": "Holy Man",
       "page": "reviews/elliott-0110-holy-man.html",
       "id": "Elliott_0110"
+    },
+    {
+      "title": "In Good Company",
+      "page": "reviews/elliott-0120-in-good-company.html",
+      "id": "Elliott_0120"
     }
   ],
   "conviction": [
@@ -417,6 +429,11 @@
       "title": "The Crocodile Hunter: Collision Course",
       "page": "reviews/elliott-0054-the-crocodile-hunter-collision-course.html",
       "id": "Elliott_0054"
+    },
+    {
+      "title": "The Jungle Book 2",
+      "page": "reviews/elliott-0111-the-jungle-book-2.html",
+      "id": "Elliott_0111"
     }
   ],
   "creation": [
@@ -507,11 +524,25 @@
       "id": "Elliott_0075"
     }
   ],
+  "despair": [
+    {
+      "title": "Judas",
+      "page": "reviews/elliott-0116-judas.html",
+      "id": "Elliott_0116"
+    }
+  ],
   "devilish influence": [
     {
       "title": "Fight Club",
       "page": "reviews/elliott-0087-fight-club.html",
       "id": "Elliott_0087"
+    }
+  ],
+  "diligence": [
+    {
+      "title": "Inspector Gadget 2",
+      "page": "reviews/elliott-0112-inspector-gadget-2.html",
+      "id": "Elliott_0112"
     }
   ],
   "direction": [
@@ -575,6 +606,13 @@
       "title": "Coach Carter",
       "page": "reviews/elliott-0060-coach-carter.html",
       "id": "Elliott_0060"
+    }
+  ],
+  "disciplined thinking": [
+    {
+      "title": "Identity",
+      "page": "reviews/elliott-0113-identity.html",
+      "id": "Elliott_0113"
     }
   ],
   "divine strength": [
@@ -734,6 +772,13 @@
       "id": "Elliott_0038"
     }
   ],
+  "example": [
+    {
+      "title": "Johnson Family Vacation",
+      "page": "reviews/elliott-0115-johnson-family-vacation.html",
+      "id": "Elliott_0115"
+    }
+  ],
   "excellence": [
     {
       "title": "Friday Night Lights",
@@ -846,6 +891,11 @@
       "title": "Lilo & Stitch",
       "page": "reviews/elliott-0003-lilo-stitch.html",
       "id": "Elliott_0003"
+    },
+    {
+      "title": "It Runs In The Family",
+      "page": "reviews/elliott-0114-it-runs-in-the-family.html",
+      "id": "Elliott_0114"
     }
   ],
   "family": [
@@ -853,6 +903,18 @@
       "title": "Hanging Up",
       "page": "reviews/elliott-0109-hanging-up.html",
       "id": "Elliott_0109"
+    },
+    {
+      "title": "Johnson Family Vacation",
+      "page": "reviews/elliott-0115-johnson-family-vacation.html",
+      "id": "Elliott_0115"
+    }
+  ],
+  "Fatherhood": [
+    {
+      "title": "Johnson Family Vacation",
+      "page": "reviews/elliott-0115-johnson-family-vacation.html",
+      "id": "Elliott_0115"
     }
   ],
   "Fear": [
@@ -877,6 +939,11 @@
       "title": "Crush",
       "page": "reviews/elliott-0057-crush.html",
       "id": "Elliott_0057"
+    },
+    {
+      "title": "Identity",
+      "page": "reviews/elliott-0113-identity.html",
+      "id": "Elliott_0113"
     }
   ],
   "Financial wealth": [
@@ -898,6 +965,13 @@
       "title": "The Glass Jar",
       "page": "reviews/elliott-0097-the-glass-jar.html",
       "id": "Elliott_0097"
+    }
+  ],
+  "foolish questions": [
+    {
+      "title": "I ♥ Huckabees",
+      "page": "reviews/elliott-0118-i-huckabees.html",
+      "id": "Elliott_0118"
     }
   ],
   "foolishness": [
@@ -922,6 +996,11 @@
       "title": "Half Past Dead",
       "page": "reviews/elliott-0103-half-past-dead.html",
       "id": "Elliott_0103"
+    },
+    {
+      "title": "Judas",
+      "page": "reviews/elliott-0116-judas.html",
+      "id": "Elliott_0116"
     }
   ],
   "forgiveness": [
@@ -1021,6 +1100,18 @@
       "id": "Elliott_0088"
     }
   ],
+  "God as Father": [
+    {
+      "title": "It Runs In The Family",
+      "page": "reviews/elliott-0114-it-runs-in-the-family.html",
+      "id": "Elliott_0114"
+    },
+    {
+      "title": "Johnson Family Vacation",
+      "page": "reviews/elliott-0115-johnson-family-vacation.html",
+      "id": "Elliott_0115"
+    }
+  ],
   "God as the source of power": [
     {
       "title": "Godzilla 2000",
@@ -1108,6 +1199,18 @@
       "title": "Hollow Man",
       "page": "reviews/elliott-0107-hollow-man.html",
       "id": "Elliott_0107"
+    },
+    {
+      "title": "The Jungle Book 2",
+      "page": "reviews/elliott-0111-the-jungle-book-2.html",
+      "id": "Elliott_0111"
+    }
+  ],
+  "God’s Word": [
+    {
+      "title": "Identity",
+      "page": "reviews/elliott-0113-identity.html",
+      "id": "Elliott_0113"
     }
   ],
   "Gossip": [
@@ -1127,6 +1230,11 @@
       "title": "Half Past Dead",
       "page": "reviews/elliott-0103-half-past-dead.html",
       "id": "Elliott_0103"
+    },
+    {
+      "title": "Judas",
+      "page": "reviews/elliott-0116-judas.html",
+      "id": "Elliott_0116"
     }
   ],
   "greed": [
@@ -1207,6 +1315,11 @@
       "title": "Erin Brockovich",
       "page": "reviews/elliott-0071-erin-brockovich.html",
       "id": "Elliott_0071"
+    },
+    {
+      "title": "Head in the Clouds",
+      "page": "reviews/elliott-0119-head-in-the-clouds.html",
+      "id": "Elliott_0119"
     }
   ],
   "heroism": [
@@ -1261,6 +1374,13 @@
       "id": "Elliott_0035"
     }
   ],
+  "humanity": [
+    {
+      "title": "The Jungle Book 2",
+      "page": "reviews/elliott-0111-the-jungle-book-2.html",
+      "id": "Elliott_0111"
+    }
+  ],
   "humility": [
     {
       "title": "The Adventures of Rocky and Bullwinkle",
@@ -1288,6 +1408,13 @@
       "title": "Autumn in New York",
       "page": "reviews/elliott-0016-autumn-in-new-york.html",
       "id": "Elliott_0016"
+    }
+  ],
+  "identity": [
+    {
+      "title": "The Jungle Book 2",
+      "page": "reviews/elliott-0111-the-jungle-book-2.html",
+      "id": "Elliott_0111"
     }
   ],
   "Idolatry": [
@@ -1337,6 +1464,18 @@
       "title": "Dreamgirls",
       "page": "reviews/elliott-0062-dreamgirls.html",
       "id": "Elliott_0062"
+    },
+    {
+      "title": "In Good Company",
+      "page": "reviews/elliott-0120-in-good-company.html",
+      "id": "Elliott_0120"
+    }
+  ],
+  "Judas": [
+    {
+      "title": "Judas",
+      "page": "reviews/elliott-0116-judas.html",
+      "id": "Elliott_0116"
     }
   ],
   "judging beyond appearances": [
@@ -1500,6 +1639,11 @@
       "title": "Ella Enchanted",
       "page": "reviews/elliott-0079-ella-enchanted.html",
       "id": "Elliott_0079"
+    },
+    {
+      "title": "It Runs In The Family",
+      "page": "reviews/elliott-0114-it-runs-in-the-family.html",
+      "id": "Elliott_0114"
     }
   ],
   "Love of money": [
@@ -1507,6 +1651,13 @@
       "title": "Boiler Room",
       "page": "reviews/elliott-0022-boiler-room.html",
       "id": "Elliott_0022"
+    }
+  ],
+  "mankind": [
+    {
+      "title": "The Jungle Book 2",
+      "page": "reviews/elliott-0111-the-jungle-book-2.html",
+      "id": "Elliott_0111"
     }
   ],
   "Marriage": [
@@ -1531,6 +1682,13 @@
       "title": "Failure to Launch",
       "page": "reviews/elliott-0089-failure-to-launch.html",
       "id": "Elliott_0089"
+    }
+  ],
+  "Meaning of life": [
+    {
+      "title": "I ♥ Huckabees",
+      "page": "reviews/elliott-0118-i-huckabees.html",
+      "id": "Elliott_0118"
     }
   ],
   "meaningful contribution": [
@@ -1559,6 +1717,13 @@
       "title": "The Country Bears",
       "page": "reviews/elliott-0053-the-country-bears.html",
       "id": "Elliott_0053"
+    }
+  ],
+  "money": [
+    {
+      "title": "In Good Company",
+      "page": "reviews/elliott-0120-in-good-company.html",
+      "id": "Elliott_0120"
     }
   ],
   "moral compromise": [
@@ -1752,6 +1917,13 @@
       "id": "Elliott_0028"
     }
   ],
+  "philosophy": [
+    {
+      "title": "I ♥ Huckabees",
+      "page": "reviews/elliott-0118-i-huckabees.html",
+      "id": "Elliott_0118"
+    }
+  ],
   "physical attraction": [
     {
       "title": "Heartbreakers",
@@ -1925,6 +2097,13 @@
       "id": "Elliott_0080"
     }
   ],
+  "research": [
+    {
+      "title": "Inspector Gadget 2",
+      "page": "reviews/elliott-0112-inspector-gadget-2.html",
+      "id": "Elliott_0112"
+    }
+  ],
   "resisting compromise": [
     {
       "title": "Domino",
@@ -1976,6 +2155,11 @@
       "title": "The Hunted",
       "page": "reviews/elliott-0101-the-hunted.html",
       "id": "Elliott_0101"
+    },
+    {
+      "title": "Johnson Family Vacation",
+      "page": "reviews/elliott-0115-johnson-family-vacation.html",
+      "id": "Elliott_0115"
     }
   ],
   "Rest": [
@@ -2034,11 +2218,23 @@
       "id": "Elliott_0044"
     }
   ],
+  "sacrifice": [
+    {
+      "title": "Head in the Clouds",
+      "page": "reviews/elliott-0119-head-in-the-clouds.html",
+      "id": "Elliott_0119"
+    }
+  ],
   "salvation": [
     {
       "title": "Flightplan",
       "page": "reviews/elliott-0090-flightplan.html",
       "id": "Elliott_0090"
+    },
+    {
+      "title": "Judas",
+      "page": "reviews/elliott-0116-judas.html",
+      "id": "Elliott_0116"
     }
   ],
   "second chances": [
@@ -2072,6 +2268,18 @@
       "title": "Holy Man",
       "page": "reviews/elliott-0110-holy-man.html",
       "id": "Elliott_0110"
+    },
+    {
+      "title": "I ♥ Huckabees",
+      "page": "reviews/elliott-0118-i-huckabees.html",
+      "id": "Elliott_0118"
+    }
+  ],
+  "seeking knowledge": [
+    {
+      "title": "Inspector Gadget 2",
+      "page": "reviews/elliott-0112-inspector-gadget-2.html",
+      "id": "Elliott_0112"
     }
   ],
   "self-control": [
@@ -2105,6 +2313,11 @@
       "title": "How To Lose A Guy in Ten Days",
       "page": "reviews/elliott-0102-how-to-lose-a-guy-in-ten-days.html",
       "id": "Elliott_0102"
+    },
+    {
+      "title": "Head in the Clouds",
+      "page": "reviews/elliott-0119-head-in-the-clouds.html",
+      "id": "Elliott_0119"
     }
   ],
   "Service": [
@@ -2112,6 +2325,11 @@
       "title": "Erin Brockovich",
       "page": "reviews/elliott-0071-erin-brockovich.html",
       "id": "Elliott_0071"
+    },
+    {
+      "title": "Head in the Clouds",
+      "page": "reviews/elliott-0119-head-in-the-clouds.html",
+      "id": "Elliott_0119"
     }
   ],
   "service": [
@@ -2175,6 +2393,13 @@
       "id": "Elliott_0104"
     }
   ],
+  "sonship": [
+    {
+      "title": "It Runs In The Family",
+      "page": "reviews/elliott-0114-it-runs-in-the-family.html",
+      "id": "Elliott_0114"
+    }
+  ],
   "sowing and reaping": [
     {
       "title": "All The Pretty Horses",
@@ -2225,6 +2450,13 @@
       "title": "Frailty",
       "page": "reviews/elliott-0082-frailty.html",
       "id": "Elliott_0082"
+    }
+  ],
+  "spiritual family": [
+    {
+      "title": "It Runs In The Family",
+      "page": "reviews/elliott-0114-it-runs-in-the-family.html",
+      "id": "Elliott_0114"
     }
   ],
   "spiritual fruit": [
@@ -2362,6 +2594,11 @@
       "title": "Gloria",
       "page": "reviews/elliott-0099-gloria.html",
       "id": "Elliott_0099"
+    },
+    {
+      "title": "Identity",
+      "page": "reviews/elliott-0113-identity.html",
+      "id": "Elliott_0113"
     }
   ],
   "Steadfastness": [
@@ -2397,6 +2634,13 @@
       "id": "Elliott_0089"
     }
   ],
+  "Study": [
+    {
+      "title": "Inspector Gadget 2",
+      "page": "reviews/elliott-0112-inspector-gadget-2.html",
+      "id": "Elliott_0112"
+    }
+  ],
   "studying God's Word": [
     {
       "title": "Atlantis: The Lost Empire",
@@ -2430,6 +2674,11 @@
       "title": "God's Army",
       "page": "reviews/elliott-0093-god-s-army.html",
       "id": "Elliott_0093"
+    },
+    {
+      "title": "Jesus Camp",
+      "page": "reviews/elliott-0117-jesus-camp.html",
+      "id": "Elliott_0117"
     }
   ],
   "teaching and training": [
@@ -2491,6 +2740,13 @@
       "title": "Flightplan",
       "page": "reviews/elliott-0090-flightplan.html",
       "id": "Elliott_0090"
+    }
+  ],
+  "The mind": [
+    {
+      "title": "Identity",
+      "page": "reviews/elliott-0113-identity.html",
+      "id": "Elliott_0113"
     }
   ],
   "the nature of God": [
@@ -2784,6 +3040,16 @@
       "title": "Clockstoppers",
       "page": "reviews/elliott-0058-clockstoppers.html",
       "id": "Elliott_0058"
+    },
+    {
+      "title": "Inspector Gadget 2",
+      "page": "reviews/elliott-0112-inspector-gadget-2.html",
+      "id": "Elliott_0112"
+    },
+    {
+      "title": "I ♥ Huckabees",
+      "page": "reviews/elliott-0118-i-huckabees.html",
+      "id": "Elliott_0118"
     }
   ],
   "wise decisions": [
@@ -2791,6 +3057,13 @@
       "title": "Birth",
       "page": "reviews/elliott-0029-birth.html",
       "id": "Elliott_0029"
+    }
+  ],
+  "witness": [
+    {
+      "title": "Head in the Clouds",
+      "page": "reviews/elliott-0119-head-in-the-clouds.html",
+      "id": "Elliott_0119"
     }
   ],
   "Words": [
@@ -2805,6 +3078,13 @@
       "title": "Gossip",
       "page": "reviews/elliott-0096-gossip.html",
       "id": "Elliott_0096"
+    }
+  ],
+  "Work": [
+    {
+      "title": "In Good Company",
+      "page": "reviews/elliott-0120-in-good-company.html",
+      "id": "Elliott_0120"
     }
   ],
   "workmanship": [
