@@ -151,11 +151,23 @@
       "id": "Elliott_0031"
     }
   ],
+  "Deuteronomy 32:30": [
+    {
+      "title": "Kiss of the Dragon",
+      "page": "reviews/elliott-0124-kiss-of-the-dragon.html",
+      "id": "Elliott_0124"
+    }
+  ],
   "Joshua 23:10": [
     {
       "title": "Anna and the King",
       "page": "reviews/elliott-0020-anna-and-the-king.html",
       "id": "Elliott_0020"
+    },
+    {
+      "title": "Kiss of the Dragon",
+      "page": "reviews/elliott-0124-kiss-of-the-dragon.html",
+      "id": "Elliott_0124"
     }
   ],
   "Joshua 24:15": [
@@ -170,6 +182,13 @@
       "title": "Drowning Mona",
       "page": "reviews/elliott-0007-drowning-mona.html",
       "id": "Elliott_0007"
+    }
+  ],
+  "1 Samuel 14:6": [
+    {
+      "title": "Kiss of the Dragon",
+      "page": "reviews/elliott-0124-kiss-of-the-dragon.html",
+      "id": "Elliott_0124"
     }
   ],
   "1 Samuel 16:7": [
@@ -219,6 +238,13 @@
       "title": "Bridget Jones: The Edge of Reason",
       "page": "reviews/elliott-0030-bridget-jones-the-edge-of-reason.html",
       "id": "Elliott_0030"
+    }
+  ],
+  "Job 6:27": [
+    {
+      "title": "Kangaroo Jack",
+      "page": "reviews/elliott-0125-kangaroo-jack.html",
+      "id": "Elliott_0125"
     }
   ],
   "Job 23:12": [
@@ -326,6 +352,13 @@
       "id": "Elliott_0041"
     }
   ],
+  "Psalms 61:8": [
+    {
+      "title": "Keeping The Faith",
+      "page": "reviews/elliott-0122-keeping-the-faith.html",
+      "id": "Elliott_0122"
+    }
+  ],
   "Psalms 62:11": [
     {
       "title": "Godzilla 2000",
@@ -366,6 +399,13 @@
       "title": "Clockstoppers",
       "page": "reviews/elliott-0058-clockstoppers.html",
       "id": "Elliott_0058"
+    }
+  ],
+  "Psalms 94:1-2": [
+    {
+      "title": "Kill Bill Vol. 1",
+      "page": "reviews/elliott-0121-kill-bill-vol-1.html",
+      "id": "Elliott_0121"
     }
   ],
   "Psalms 94:16": [
@@ -485,6 +525,13 @@
       "title": "Centro do Brasil [Central Station]",
       "page": "reviews/elliott-0056-centro-do-brasil-central-station.html",
       "id": "Elliott_0056"
+    }
+  ],
+  "Proverbs 3:25-26": [
+    {
+      "title": "The King and I (1999)",
+      "page": "reviews/elliott-0123-the-king-and-i-1999.html",
+      "id": "Elliott_0123"
     }
   ],
   "Proverbs 4:14-19": [
@@ -679,6 +726,13 @@
       "id": "Elliott_0057"
     }
   ],
+  "Proverbs 27:17": [
+    {
+      "title": "Kangaroo Jack",
+      "page": "reviews/elliott-0125-kangaroo-jack.html",
+      "id": "Elliott_0125"
+    }
+  ],
   "Proverbs 28:9": [
     {
       "title": "Hamlet",
@@ -731,6 +785,11 @@
       "title": "Gun Shy",
       "page": "reviews/elliott-0095-gun-shy.html",
       "id": "Elliott_0095"
+    },
+    {
+      "title": "The King and I (1999)",
+      "page": "reviews/elliott-0123-the-king-and-i-1999.html",
+      "id": "Elliott_0123"
     }
   ],
   "Proverbs 31:10": [
@@ -1168,6 +1227,11 @@
       "title": "Finding Neverland",
       "page": "reviews/elliott-0084-finding-neverland.html",
       "id": "Elliott_0084"
+    },
+    {
+      "title": "Kill Bill Vol. 2",
+      "page": "reviews/elliott-0129-kill-bill-vol-2.html",
+      "id": "Elliott_0129"
     }
   ],
   "Mark 10:7": [
@@ -1196,6 +1260,11 @@
       "title": "Bridget Jones: The Edge of Reason",
       "page": "reviews/elliott-0030-bridget-jones-the-edge-of-reason.html",
       "id": "Elliott_0030"
+    },
+    {
+      "title": "Kill Bill Vol. 2",
+      "page": "reviews/elliott-0129-kill-bill-vol-2.html",
+      "id": "Elliott_0129"
     }
   ],
   "Luke 4:6-8": [
@@ -1441,6 +1510,13 @@
       "id": "Elliott_0075"
     }
   ],
+  "Acts 20:29-30": [
+    {
+      "title": "King Arthur",
+      "page": "reviews/elliott-0127-king-arthur.html",
+      "id": "Elliott_0127"
+    }
+  ],
   "Acts 20:30": [
     {
       "title": "The Art of War",
@@ -1493,6 +1569,11 @@
       "title": "Antwone Fisher",
       "page": "reviews/elliott-0050-antwone-fisher.html",
       "id": "Elliott_0050"
+    },
+    {
+      "title": "Keeping The Faith",
+      "page": "reviews/elliott-0122-keeping-the-faith.html",
+      "id": "Elliott_0122"
     }
   ],
   "Romans 12:9": [
@@ -1514,6 +1595,11 @@
       "title": "Get Carter",
       "page": "reviews/elliott-0091-get-carter.html",
       "id": "Elliott_0091"
+    },
+    {
+      "title": "Kill Bill Vol. 1",
+      "page": "reviews/elliott-0121-kill-bill-vol-1.html",
+      "id": "Elliott_0121"
     }
   ],
   "Romans 13:12": [
@@ -1549,6 +1635,13 @@
       "title": "A Dog of Flanders",
       "page": "reviews/elliott-0070-a-dog-of-flanders.html",
       "id": "Elliott_0070"
+    }
+  ],
+  "Romans 15:13-14": [
+    {
+      "title": "K-Pax",
+      "page": "reviews/elliott-0128-k-pax.html",
+      "id": "Elliott_0128"
     }
   ],
   "Romans 16:18": [
@@ -1666,6 +1759,11 @@
       "title": "Lilo & Stitch",
       "page": "reviews/elliott-0003-lilo-stitch.html",
       "id": "Elliott_0003"
+    },
+    {
+      "title": "King Kong",
+      "page": "reviews/elliott-0126-king-kong.html",
+      "id": "Elliott_0126"
     }
   ],
   "1 Corinthians 15:33": [
@@ -1701,6 +1799,13 @@
       "title": "The Country Bears",
       "page": "reviews/elliott-0053-the-country-bears.html",
       "id": "Elliott_0053"
+    }
+  ],
+  "2 Corinthians 4:16": [
+    {
+      "title": "Keeping The Faith",
+      "page": "reviews/elliott-0122-keeping-the-faith.html",
+      "id": "Elliott_0122"
     }
   ],
   "2 Corinthians 5:10": [
@@ -1748,6 +1853,20 @@
       "title": "The Alamo",
       "page": "reviews/elliott-0044-the-alamo.html",
       "id": "Elliott_0044"
+    }
+  ],
+  "Galatians 3:16": [
+    {
+      "title": "A Knight's Tale",
+      "page": "reviews/elliott-0130-a-knight-s-tale.html",
+      "id": "Elliott_0130"
+    }
+  ],
+  "Galatians 3:26-29": [
+    {
+      "title": "A Knight's Tale",
+      "page": "reviews/elliott-0130-a-knight-s-tale.html",
+      "id": "Elliott_0130"
     }
   ],
   "Galatians 4:4-7": [
@@ -1823,6 +1942,13 @@
       "title": "Along Came A Spider",
       "page": "reviews/elliott-0013-along-came-a-spider.html",
       "id": "Elliott_0013"
+    }
+  ],
+  "Ephesians 2:13": [
+    {
+      "title": "A Knight's Tale",
+      "page": "reviews/elliott-0130-a-knight-s-tale.html",
+      "id": "Elliott_0130"
     }
   ],
   "Ephesians 2:14-15": [
@@ -2036,6 +2162,13 @@
       "id": "Elliott_0071"
     }
   ],
+  "1 Thessalonians 2:13": [
+    {
+      "title": "Kill Bill Vol. 2",
+      "page": "reviews/elliott-0129-kill-bill-vol-2.html",
+      "id": "Elliott_0129"
+    }
+  ],
   "1 Thessalonians 4:13-18": [
     {
       "title": "Angel Eyes",
@@ -2135,6 +2268,11 @@
       "title": "Identity",
       "page": "reviews/elliott-0113-identity.html",
       "id": "Elliott_0113"
+    },
+    {
+      "title": "The King and I (1999)",
+      "page": "reviews/elliott-0123-the-king-and-i-1999.html",
+      "id": "Elliott_0123"
     }
   ],
   "2 Timothy 1:9-10": [
@@ -2170,6 +2308,13 @@
       "title": "George Washington",
       "page": "reviews/elliott-0092-george-washington.html",
       "id": "Elliott_0092"
+    }
+  ],
+  "Titus 3:3-4": [
+    {
+      "title": "King Kong",
+      "page": "reviews/elliott-0126-king-kong.html",
+      "id": "Elliott_0126"
     }
   ],
   "Titus 3:9-10": [
@@ -2212,6 +2357,20 @@
       "title": "George Washington",
       "page": "reviews/elliott-0092-george-washington.html",
       "id": "Elliott_0092"
+    }
+  ],
+  "Hebrews 10:24-25": [
+    {
+      "title": "Kangaroo Jack",
+      "page": "reviews/elliott-0125-kangaroo-jack.html",
+      "id": "Elliott_0125"
+    }
+  ],
+  "Hebrews 10:30": [
+    {
+      "title": "Kill Bill Vol. 1",
+      "page": "reviews/elliott-0121-kill-bill-vol-1.html",
+      "id": "Elliott_0121"
     }
   ],
   "Hebrews 11:1-12:1": [
@@ -2270,6 +2429,20 @@
       "id": "Elliott_0020"
     }
   ],
+  "1 Peter 1:13": [
+    {
+      "title": "K-Pax",
+      "page": "reviews/elliott-0128-k-pax.html",
+      "id": "Elliott_0128"
+    }
+  ],
+  "1 Peter 2:21": [
+    {
+      "title": "K-Pax",
+      "page": "reviews/elliott-0128-k-pax.html",
+      "id": "Elliott_0128"
+    }
+  ],
   "1 Peter 3:3-4": [
     {
       "title": "American Pie 2",
@@ -2289,6 +2462,13 @@
       "title": "At First Sight",
       "page": "reviews/elliott-0046-at-first-sight.html",
       "id": "Elliott_0046"
+    }
+  ],
+  "2 Peter 2:1": [
+    {
+      "title": "King Arthur",
+      "page": "reviews/elliott-0127-king-arthur.html",
+      "id": "Elliott_0127"
     }
   ],
   "2 Peter 2:21-22": [
@@ -2400,6 +2580,13 @@
       "id": "Elliott_0057"
     }
   ],
+  "1 John 4:19": [
+    {
+      "title": "King Kong",
+      "page": "reviews/elliott-0126-king-kong.html",
+      "id": "Elliott_0126"
+    }
+  ],
   "1 John 5:21": [
     {
       "title": "The Fast and the Furious",
@@ -2417,6 +2604,13 @@
       "title": "Ella Enchanted",
       "page": "reviews/elliott-0079-ella-enchanted.html",
       "id": "Elliott_0079"
+    }
+  ],
+  "Jude 1:4": [
+    {
+      "title": "King Arthur",
+      "page": "reviews/elliott-0127-king-arthur.html",
+      "id": "Elliott_0127"
     }
   ],
   "Revelation 3:17": [

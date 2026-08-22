@@ -30,6 +30,11 @@
       "title": "Gossip",
       "page": "reviews/elliott-0096-gossip.html",
       "id": "Elliott_0096"
+    },
+    {
+      "title": "Kangaroo Jack",
+      "page": "reviews/elliott-0125-kangaroo-jack.html",
+      "id": "Elliott_0125"
     }
   ],
   "actions": [
@@ -93,6 +98,11 @@
       "title": "Elf",
       "page": "reviews/elliott-0074-elf.html",
       "id": "Elliott_0074"
+    },
+    {
+      "title": "Kill Bill Vol. 2",
+      "page": "reviews/elliott-0129-kill-bill-vol-2.html",
+      "id": "Elliott_0129"
     }
   ],
   "believing": [
@@ -136,6 +146,13 @@
       "title": "A Dog of Flanders",
       "page": "reviews/elliott-0070-a-dog-of-flanders.html",
       "id": "Elliott_0070"
+    }
+  ],
+  "bloodline": [
+    {
+      "title": "A Knight's Tale",
+      "page": "reviews/elliott-0130-a-knight-s-tale.html",
+      "id": "Elliott_0130"
     }
   ],
   "bondage": [
@@ -236,6 +253,13 @@
       "id": "Elliott_0014"
     }
   ],
+  "choosing friends wisely": [
+    {
+      "title": "Kangaroo Jack",
+      "page": "reviews/elliott-0125-kangaroo-jack.html",
+      "id": "Elliott_0125"
+    }
+  ],
   "choosing the right path": [
     {
       "title": "Centro do Brasil [Central Station]",
@@ -271,6 +295,13 @@
       "id": "Elliott_0055"
     }
   ],
+  "Commitment": [
+    {
+      "title": "Keeping The Faith",
+      "page": "reviews/elliott-0122-keeping-the-faith.html",
+      "id": "Elliott_0122"
+    }
+  ],
   "communication": [
     {
       "title": "Blue Streak",
@@ -288,6 +319,11 @@
       "title": "Erin Brockovich",
       "page": "reviews/elliott-0071-erin-brockovich.html",
       "id": "Elliott_0071"
+    },
+    {
+      "title": "K-Pax",
+      "page": "reviews/elliott-0128-k-pax.html",
+      "id": "Elliott_0128"
     }
   ],
   "compromise": [
@@ -403,6 +439,16 @@
       "title": "The Alamo",
       "page": "reviews/elliott-0044-the-alamo.html",
       "id": "Elliott_0044"
+    },
+    {
+      "title": "The King and I (1999)",
+      "page": "reviews/elliott-0123-the-king-and-i-1999.html",
+      "id": "Elliott_0123"
+    },
+    {
+      "title": "Kiss of the Dragon",
+      "page": "reviews/elliott-0124-kiss-of-the-dragon.html",
+      "id": "Elliott_0124"
     }
   ],
   "courtship and chivalry": [
@@ -501,6 +547,11 @@
       "title": "Frailty",
       "page": "reviews/elliott-0082-frailty.html",
       "id": "Elliott_0082"
+    },
+    {
+      "title": "King Arthur",
+      "page": "reviews/elliott-0127-king-arthur.html",
+      "id": "Elliott_0127"
     }
   ],
   "decision-making": [
@@ -589,6 +640,11 @@
       "title": "Domino",
       "page": "reviews/elliott-0069-domino.html",
       "id": "Elliott_0069"
+    },
+    {
+      "title": "King Arthur",
+      "page": "reviews/elliott-0127-king-arthur.html",
+      "id": "Elliott_0127"
     }
   ],
   "discipline": [
@@ -695,6 +751,11 @@
       "title": "Failure to Launch",
       "page": "reviews/elliott-0089-failure-to-launch.html",
       "id": "Elliott_0089"
+    },
+    {
+      "title": "Kangaroo Jack",
+      "page": "reviews/elliott-0125-kangaroo-jack.html",
+      "id": "Elliott_0125"
     }
   ],
   "endurance": [
@@ -728,6 +789,13 @@
       "title": "Envy",
       "page": "reviews/elliott-0078-envy.html",
       "id": "Elliott_0078"
+    }
+  ],
+  "equality": [
+    {
+      "title": "A Knight's Tale",
+      "page": "reviews/elliott-0130-a-knight-s-tale.html",
+      "id": "Elliott_0130"
     }
   ],
   "Eternal life": [
@@ -770,6 +838,13 @@
       "title": "The Animal",
       "page": "reviews/elliott-0038-the-animal.html",
       "id": "Elliott_0038"
+    }
+  ],
+  "Example": [
+    {
+      "title": "K-Pax",
+      "page": "reviews/elliott-0128-k-pax.html",
+      "id": "Elliott_0128"
     }
   ],
   "example": [
@@ -837,6 +912,11 @@
       "title": "George Washington",
       "page": "reviews/elliott-0092-george-washington.html",
       "id": "Elliott_0092"
+    },
+    {
+      "title": "Kill Bill Vol. 2",
+      "page": "reviews/elliott-0129-kill-bill-vol-2.html",
+      "id": "Elliott_0129"
     }
   ],
   "Faith against odds": [
@@ -863,6 +943,11 @@
       "title": "American Pie",
       "page": "reviews/elliott-0045-american-pie.html",
       "id": "Elliott_0045"
+    },
+    {
+      "title": "Keeping The Faith",
+      "page": "reviews/elliott-0122-keeping-the-faith.html",
+      "id": "Elliott_0122"
     }
   ],
   "false and selfish love": [
@@ -884,6 +969,13 @@
       "title": "Exit Wounds",
       "page": "reviews/elliott-0001-exit-wounds.html",
       "id": "Elliott_0001"
+    }
+  ],
+  "False teachers": [
+    {
+      "title": "King Arthur",
+      "page": "reviews/elliott-0127-king-arthur.html",
+      "id": "Elliott_0127"
     }
   ],
   "Family": [
@@ -932,6 +1024,11 @@
       "title": "Gun Shy",
       "page": "reviews/elliott-0095-gun-shy.html",
       "id": "Elliott_0095"
+    },
+    {
+      "title": "The King and I (1999)",
+      "page": "reviews/elliott-0123-the-king-and-i-1999.html",
+      "id": "Elliott_0123"
     }
   ],
   "fear": [
@@ -1018,6 +1115,11 @@
       "title": "Get Carter",
       "page": "reviews/elliott-0091-get-carter.html",
       "id": "Elliott_0091"
+    },
+    {
+      "title": "Kill Bill Vol. 1",
+      "page": "reviews/elliott-0121-kill-bill-vol-1.html",
+      "id": "Elliott_0121"
     }
   ],
   "Free will": [
@@ -1037,6 +1139,13 @@
       "title": "Gothika",
       "page": "reviews/elliott-0009-gothika.html",
       "id": "Elliott_0009"
+    }
+  ],
+  "Friendship": [
+    {
+      "title": "Kangaroo Jack",
+      "page": "reviews/elliott-0125-kangaroo-jack.html",
+      "id": "Elliott_0125"
     }
   ],
   "gender": [
@@ -1206,11 +1315,28 @@
       "id": "Elliott_0111"
     }
   ],
+  "God’s power": [
+    {
+      "title": "Kiss of the Dragon",
+      "page": "reviews/elliott-0124-kiss-of-the-dragon.html",
+      "id": "Elliott_0124"
+    }
+  ],
   "God’s Word": [
     {
       "title": "Identity",
       "page": "reviews/elliott-0113-identity.html",
       "id": "Elliott_0113"
+    },
+    {
+      "title": "King Arthur",
+      "page": "reviews/elliott-0127-king-arthur.html",
+      "id": "Elliott_0127"
+    },
+    {
+      "title": "Kill Bill Vol. 2",
+      "page": "reviews/elliott-0129-kill-bill-vol-2.html",
+      "id": "Elliott_0129"
     }
   ],
   "Gossip": [
@@ -1320,6 +1446,11 @@
       "title": "Head in the Clouds",
       "page": "reviews/elliott-0119-head-in-the-clouds.html",
       "id": "Elliott_0119"
+    },
+    {
+      "title": "K-Pax",
+      "page": "reviews/elliott-0128-k-pax.html",
+      "id": "Elliott_0128"
     }
   ],
   "heroism": [
@@ -1365,6 +1496,11 @@
       "title": "Highlander: Endgame",
       "page": "reviews/elliott-0106-highlander-endgame.html",
       "id": "Elliott_0106"
+    },
+    {
+      "title": "K-Pax",
+      "page": "reviews/elliott-0128-k-pax.html",
+      "id": "Elliott_0128"
     }
   ],
   "human imperfection": [
@@ -1417,6 +1553,13 @@
       "id": "Elliott_0111"
     }
   ],
+  "identity in Christ": [
+    {
+      "title": "A Knight's Tale",
+      "page": "reviews/elliott-0130-a-knight-s-tale.html",
+      "id": "Elliott_0130"
+    }
+  ],
   "Idolatry": [
     {
       "title": "The Fast and the Furious",
@@ -1443,6 +1586,13 @@
       "title": "Lilo & Stitch",
       "page": "reviews/elliott-0003-lilo-stitch.html",
       "id": "Elliott_0003"
+    }
+  ],
+  "influence": [
+    {
+      "title": "K-Pax",
+      "page": "reviews/elliott-0128-k-pax.html",
+      "id": "Elliott_0128"
     }
   ],
   "Inner beauty": [
@@ -1511,6 +1661,11 @@
       "title": "Get Carter",
       "page": "reviews/elliott-0091-get-carter.html",
       "id": "Elliott_0091"
+    },
+    {
+      "title": "Kill Bill Vol. 1",
+      "page": "reviews/elliott-0121-kill-bill-vol-1.html",
+      "id": "Elliott_0121"
     }
   ],
   "keeping God first": [
@@ -1627,6 +1782,11 @@
       "title": "How To Lose A Guy in Ten Days",
       "page": "reviews/elliott-0102-how-to-lose-a-guy-in-ten-days.html",
       "id": "Elliott_0102"
+    },
+    {
+      "title": "King Kong",
+      "page": "reviews/elliott-0126-king-kong.html",
+      "id": "Elliott_0126"
     }
   ],
   "love": [
@@ -1789,6 +1949,13 @@
       "id": "Elliott_0105"
     }
   ],
+  "overcoming odds": [
+    {
+      "title": "Kiss of the Dragon",
+      "page": "reviews/elliott-0124-kiss-of-the-dragon.html",
+      "id": "Elliott_0124"
+    }
+  ],
   "overcoming the past": [
     {
       "title": "Antwone Fisher",
@@ -1908,6 +2075,11 @@
       "title": "A Dog of Flanders",
       "page": "reviews/elliott-0070-a-dog-of-flanders.html",
       "id": "Elliott_0070"
+    },
+    {
+      "title": "Kill Bill Vol. 2",
+      "page": "reviews/elliott-0129-kill-bill-vol-2.html",
+      "id": "Elliott_0129"
     }
   ],
   "personal worth": [
@@ -1943,6 +2115,13 @@
       "title": "Facing the Giants",
       "page": "reviews/elliott-0088-facing-the-giants.html",
       "id": "Elliott_0088"
+    }
+  ],
+  "possibility": [
+    {
+      "title": "Kill Bill Vol. 2",
+      "page": "reviews/elliott-0129-kill-bill-vol-2.html",
+      "id": "Elliott_0129"
     }
   ],
   "Power": [
@@ -2095,6 +2274,11 @@
       "title": "Eternal Sunshine of the Spotless Mind",
       "page": "reviews/elliott-0080-eternal-sunshine-of-the-spotless-mind.html",
       "id": "Elliott_0080"
+    },
+    {
+      "title": "Keeping The Faith",
+      "page": "reviews/elliott-0122-keeping-the-faith.html",
+      "id": "Elliott_0122"
     }
   ],
   "research": [
@@ -2188,6 +2372,11 @@
       "title": "Get Carter",
       "page": "reviews/elliott-0091-get-carter.html",
       "id": "Elliott_0091"
+    },
+    {
+      "title": "Kill Bill Vol. 1",
+      "page": "reviews/elliott-0121-kill-bill-vol-1.html",
+      "id": "Elliott_0121"
     }
   ],
   "right and wrong": [
@@ -2223,6 +2412,13 @@
       "title": "Head in the Clouds",
       "page": "reviews/elliott-0119-head-in-the-clouds.html",
       "id": "Elliott_0119"
+    }
+  ],
+  "Salvation": [
+    {
+      "title": "A Knight's Tale",
+      "page": "reviews/elliott-0130-a-knight-s-tale.html",
+      "id": "Elliott_0130"
     }
   ],
   "salvation": [
@@ -2398,6 +2594,11 @@
       "title": "It Runs In The Family",
       "page": "reviews/elliott-0114-it-runs-in-the-family.html",
       "id": "Elliott_0114"
+    },
+    {
+      "title": "A Knight's Tale",
+      "page": "reviews/elliott-0130-a-knight-s-tale.html",
+      "id": "Elliott_0130"
     }
   ],
   "sowing and reaping": [
@@ -2450,6 +2651,13 @@
       "title": "Frailty",
       "page": "reviews/elliott-0082-frailty.html",
       "id": "Elliott_0082"
+    }
+  ],
+  "spiritual discipline": [
+    {
+      "title": "Keeping The Faith",
+      "page": "reviews/elliott-0122-keeping-the-faith.html",
+      "id": "Elliott_0122"
     }
   ],
   "spiritual family": [
@@ -2599,6 +2807,11 @@
       "title": "Identity",
       "page": "reviews/elliott-0113-identity.html",
       "id": "Elliott_0113"
+    },
+    {
+      "title": "The King and I (1999)",
+      "page": "reviews/elliott-0123-the-king-and-i-1999.html",
+      "id": "Elliott_0123"
     }
   ],
   "Steadfastness": [
@@ -2856,6 +3069,21 @@
       "title": "Get Carter",
       "page": "reviews/elliott-0091-get-carter.html",
       "id": "Elliott_0091"
+    },
+    {
+      "title": "Kill Bill Vol. 1",
+      "page": "reviews/elliott-0121-kill-bill-vol-1.html",
+      "id": "Elliott_0121"
+    },
+    {
+      "title": "The King and I (1999)",
+      "page": "reviews/elliott-0123-the-king-and-i-1999.html",
+      "id": "Elliott_0123"
+    },
+    {
+      "title": "Kiss of the Dragon",
+      "page": "reviews/elliott-0124-kiss-of-the-dragon.html",
+      "id": "Elliott_0124"
     }
   ],
   "Truth": [
@@ -2905,6 +3133,16 @@
       "title": "Gloria",
       "page": "reviews/elliott-0099-gloria.html",
       "id": "Elliott_0099"
+    },
+    {
+      "title": "The King and I (1999)",
+      "page": "reviews/elliott-0123-the-king-and-i-1999.html",
+      "id": "Elliott_0123"
+    },
+    {
+      "title": "King Arthur",
+      "page": "reviews/elliott-0127-king-arthur.html",
+      "id": "Elliott_0127"
     }
   ],
   "truth and revelation": [
@@ -2978,6 +3216,11 @@
       "title": "Get Carter",
       "page": "reviews/elliott-0091-get-carter.html",
       "id": "Elliott_0091"
+    },
+    {
+      "title": "Kill Bill Vol. 1",
+      "page": "reviews/elliott-0121-kill-bill-vol-1.html",
+      "id": "Elliott_0121"
     }
   ],
   "violence": [
