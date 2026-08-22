@@ -168,6 +168,11 @@
       "title": "Kiss of the Dragon",
       "page": "reviews/elliott-0124-kiss-of-the-dragon.html",
       "id": "Elliott_0124"
+    },
+    {
+      "title": "Legally Blonde 2: Red, White & Blonde",
+      "page": "reviews/elliott-0138-legally-blonde-2-red-white-and-blonde.html",
+      "id": "Elliott_0138"
     }
   ],
   "Joshua 24:15": [
@@ -217,6 +222,13 @@
       "title": "Drowning Mona",
       "page": "reviews/elliott-0007-drowning-mona.html",
       "id": "Elliott_0007"
+    }
+  ],
+  "1 Chronicles 15:16": [
+    {
+      "title": "Little Voice",
+      "page": "reviews/elliott-0137-little-voice.html",
+      "id": "Elliott_0137"
     }
   ],
   "2 Chronicles 18:20-21": [
@@ -275,6 +287,13 @@
       "id": "Elliott_0088"
     }
   ],
+  "Psalms 1:3": [
+    {
+      "title": "The Legend of Zorro",
+      "page": "reviews/elliott-0134-the-legend-of-zorro.html",
+      "id": "Elliott_0134"
+    }
+  ],
   "Psalms 7:15-16": [
     {
       "title": "The Hunted",
@@ -331,6 +350,13 @@
       "id": "Elliott_0110"
     }
   ],
+  "Psalms 46:1-3": [
+    {
+      "title": "Lemony Snicket's A Series of Unfortunate Events",
+      "page": "reviews/elliott-0131-lemony-snicket-s-a-series-of-unfortunate-events.html",
+      "id": "Elliott_0131"
+    }
+  ],
   "Psalms 51:13": [
     {
       "title": "Freedom Writers",
@@ -385,6 +411,11 @@
       "title": "Cherish",
       "page": "reviews/elliott-0055-cherish.html",
       "id": "Elliott_0055"
+    },
+    {
+      "title": "Little Voice",
+      "page": "reviews/elliott-0137-little-voice.html",
+      "id": "Elliott_0137"
     }
   ],
   "Psalms 84:2": [
@@ -527,6 +558,13 @@
       "id": "Elliott_0056"
     }
   ],
+  "Proverbs 3:25": [
+    {
+      "title": "Lemony Snicket's A Series of Unfortunate Events",
+      "page": "reviews/elliott-0131-lemony-snicket-s-a-series-of-unfortunate-events.html",
+      "id": "Elliott_0131"
+    }
+  ],
   "Proverbs 3:25-26": [
     {
       "title": "The King and I (1999)",
@@ -609,6 +647,13 @@
       "title": "Dreamgirls",
       "page": "reviews/elliott-0062-dreamgirls.html",
       "id": "Elliott_0062"
+    }
+  ],
+  "Proverbs 13:20": [
+    {
+      "title": "The Ladykillers",
+      "page": "reviews/elliott-0133-the-ladykillers.html",
+      "id": "Elliott_0133"
     }
   ],
   "Proverbs 14:30": [
@@ -790,6 +835,11 @@
       "title": "The King and I (1999)",
       "page": "reviews/elliott-0123-the-king-and-i-1999.html",
       "id": "Elliott_0123"
+    },
+    {
+      "title": "The Legend of 1900",
+      "page": "reviews/elliott-0135-the-legend-of-1900.html",
+      "id": "Elliott_0135"
     }
   ],
   "Proverbs 31:10": [
@@ -853,6 +903,20 @@
       "title": "Gothika",
       "page": "reviews/elliott-0009-gothika.html",
       "id": "Elliott_0009"
+    }
+  ],
+  "Ecclesiastes 10:3": [
+    {
+      "title": "The Ladykillers",
+      "page": "reviews/elliott-0133-the-ladykillers.html",
+      "id": "Elliott_0133"
+    }
+  ],
+  "Ecclesiastes 10:12-14": [
+    {
+      "title": "The Ladykillers",
+      "page": "reviews/elliott-0133-the-ladykillers.html",
+      "id": "Elliott_0133"
     }
   ],
   "Ecclesiastes 12:13": [
@@ -930,6 +994,13 @@
       "id": "Elliott_0068"
     }
   ],
+  "Isaiah 45:18": [
+    {
+      "title": "The Legend of 1900",
+      "page": "reviews/elliott-0135-the-legend-of-1900.html",
+      "id": "Elliott_0135"
+    }
+  ],
   "Isaiah 46:9": [
     {
       "title": "Godzilla 2000",
@@ -963,6 +1034,13 @@
       "title": "The General's Daughter",
       "page": "reviews/elliott-0098-the-general-s-daughter.html",
       "id": "Elliott_0098"
+    }
+  ],
+  "Isaiah 60:1-3": [
+    {
+      "title": "The Last Samurai",
+      "page": "reviews/elliott-0140-the-last-samurai.html",
+      "id": "Elliott_0140"
     }
   ],
   "Isaiah 64:8": [
@@ -1077,6 +1155,13 @@
       "id": "Elliott_0119"
     }
   ],
+  "Matthew 5:16": [
+    {
+      "title": "The Last Samurai",
+      "page": "reviews/elliott-0140-the-last-samurai.html",
+      "id": "Elliott_0140"
+    }
+  ],
   "Matthew 5:48": [
     {
       "title": "Friday Night Lights",
@@ -1091,11 +1176,25 @@
       "id": "Elliott_0108"
     }
   ],
+  "Matthew 6:25-34": [
+    {
+      "title": "The Legend of 1900",
+      "page": "reviews/elliott-0135-the-legend-of-1900.html",
+      "id": "Elliott_0135"
+    }
+  ],
   "Matthew 7:15-18": [
     {
       "title": "Exit Wounds",
       "page": "reviews/elliott-0001-exit-wounds.html",
       "id": "Elliott_0001"
+    }
+  ],
+  "Matthew 7:24-27": [
+    {
+      "title": "The Legend of Zorro",
+      "page": "reviews/elliott-0134-the-legend-of-zorro.html",
+      "id": "Elliott_0134"
     }
   ],
   "Matthew 9:36": [
@@ -1538,6 +1637,20 @@
       "id": "Elliott_0014"
     }
   ],
+  "Romans 5:8": [
+    {
+      "title": "Ladder 49",
+      "page": "reviews/elliott-0132-ladder-49.html",
+      "id": "Elliott_0132"
+    }
+  ],
+  "Romans 5:19": [
+    {
+      "title": "Legally Blonde 2: Red, White & Blonde",
+      "page": "reviews/elliott-0138-legally-blonde-2-red-white-and-blonde.html",
+      "id": "Elliott_0138"
+    }
+  ],
   "Romans 8:24": [
     {
       "title": "George Washington",
@@ -1600,6 +1713,13 @@
       "title": "Kill Bill Vol. 1",
       "page": "reviews/elliott-0121-kill-bill-vol-1.html",
       "id": "Elliott_0121"
+    }
+  ],
+  "Romans 13:11-13": [
+    {
+      "title": "The Limey",
+      "page": "reviews/elliott-0136-the-limey.html",
+      "id": "Elliott_0136"
     }
   ],
   "Romans 13:12": [
@@ -1700,6 +1820,13 @@
       "id": "Elliott_0059"
     }
   ],
+  "1 Corinthians 6:20": [
+    {
+      "title": "Ladder 49",
+      "page": "reviews/elliott-0132-ladder-49.html",
+      "id": "Elliott_0132"
+    }
+  ],
   "1 Corinthians 8:1-3": [
     {
       "title": "I ♥ Huckabees",
@@ -1719,6 +1846,13 @@
       "title": "Blue Streak",
       "page": "reviews/elliott-0021-blue-streak.html",
       "id": "Elliott_0021"
+    }
+  ],
+  "1 Corinthians 10:13": [
+    {
+      "title": "Lemony Snicket's A Series of Unfortunate Events",
+      "page": "reviews/elliott-0131-lemony-snicket-s-a-series-of-unfortunate-events.html",
+      "id": "Elliott_0131"
     }
   ],
   "1 Corinthians 10:33": [
@@ -1773,6 +1907,13 @@
       "id": "Elliott_0048"
     }
   ],
+  "1 Corinthians 15:34": [
+    {
+      "title": "The Limey",
+      "page": "reviews/elliott-0136-the-limey.html",
+      "id": "Elliott_0136"
+    }
+  ],
   "1 Corinthians 15:58": [
     {
       "title": "The Aviator",
@@ -1792,6 +1933,13 @@
       "title": "Judas",
       "page": "reviews/elliott-0116-judas.html",
       "id": "Elliott_0116"
+    }
+  ],
+  "2 Corinthians 3:2-3": [
+    {
+      "title": "The Last Samurai",
+      "page": "reviews/elliott-0140-the-last-samurai.html",
+      "id": "Elliott_0140"
     }
   ],
   "2 Corinthians 4:5": [
@@ -2041,6 +2189,18 @@
       "title": "Clockstoppers",
       "page": "reviews/elliott-0058-clockstoppers.html",
       "id": "Elliott_0058"
+    },
+    {
+      "title": "The Limey",
+      "page": "reviews/elliott-0136-the-limey.html",
+      "id": "Elliott_0136"
+    }
+  ],
+  "Ephesians 5:19-20": [
+    {
+      "title": "Little Voice",
+      "page": "reviews/elliott-0137-little-voice.html",
+      "id": "Elliott_0137"
     }
   ],
   "Ephesians 5:25-33": [
@@ -2062,6 +2222,13 @@
       "title": "Fight Club",
       "page": "reviews/elliott-0087-fight-club.html",
       "id": "Elliott_0087"
+    }
+  ],
+  "Ephesians 6:13-18": [
+    {
+      "title": "Lord of the Rings: The Two Towers",
+      "page": "reviews/elliott-0139-lord-of-the-rings-the-two-towers.html",
+      "id": "Elliott_0139"
     }
   ],
   "Philippians 2:4-5": [
@@ -2104,6 +2271,13 @@
       "title": "The Aviator",
       "page": "reviews/elliott-0049-the-aviator.html",
       "id": "Elliott_0049"
+    }
+  ],
+  "Colossians 2:6-7": [
+    {
+      "title": "The Legend of Zorro",
+      "page": "reviews/elliott-0134-the-legend-of-zorro.html",
+      "id": "Elliott_0134"
     }
   ],
   "Colossians 2:8": [
@@ -2352,6 +2526,13 @@
       "id": "Elliott_0061"
     }
   ],
+  "Hebrews 6:18-19": [
+    {
+      "title": "Lord of the Rings: The Two Towers",
+      "page": "reviews/elliott-0139-lord-of-the-rings-the-two-towers.html",
+      "id": "Elliott_0139"
+    }
+  ],
   "Hebrews 6:18-19a": [
     {
       "title": "George Washington",
@@ -2427,6 +2608,11 @@
       "title": "Anna and the King",
       "page": "reviews/elliott-0020-anna-and-the-king.html",
       "id": "Elliott_0020"
+    },
+    {
+      "title": "Legally Blonde 2: Red, White & Blonde",
+      "page": "reviews/elliott-0138-legally-blonde-2-red-white-and-blonde.html",
+      "id": "Elliott_0138"
     }
   ],
   "1 Peter 1:13": [
@@ -2434,6 +2620,18 @@
       "title": "K-Pax",
       "page": "reviews/elliott-0128-k-pax.html",
       "id": "Elliott_0128"
+    },
+    {
+      "title": "Lord of the Rings: The Two Towers",
+      "page": "reviews/elliott-0139-lord-of-the-rings-the-two-towers.html",
+      "id": "Elliott_0139"
+    }
+  ],
+  "1 Peter 1:18-22": [
+    {
+      "title": "Ladder 49",
+      "page": "reviews/elliott-0132-ladder-49.html",
+      "id": "Elliott_0132"
     }
   ],
   "1 Peter 2:21": [
