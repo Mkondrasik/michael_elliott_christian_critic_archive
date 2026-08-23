@@ -18,6 +18,13 @@
       "id": "Elliott_0054"
     }
   ],
+  "Genesis 1:28": [
+    {
+      "title": "102 Dalmatians",
+      "page": "reviews/elliott-0161-102-dalmatians.html",
+      "id": "Elliott_0161"
+    }
+  ],
   "Genesis 1:29": [
     {
       "title": "The Day After Tomorrow",
@@ -51,6 +58,20 @@
       "title": "The Crocodile Hunter: Collision Course",
       "page": "reviews/elliott-0054-the-crocodile-hunter-collision-course.html",
       "id": "Elliott_0054"
+    }
+  ],
+  "Genesis 9:1-3": [
+    {
+      "title": "102 Dalmatians",
+      "page": "reviews/elliott-0161-102-dalmatians.html",
+      "id": "Elliott_0161"
+    }
+  ],
+  "Genesis 9:9": [
+    {
+      "title": "The Original Kings of Comedy",
+      "page": "reviews/elliott-0162-the-original-kings-of-comedy.html",
+      "id": "Elliott_0162"
     }
   ],
   "Exodus 15:1": [
@@ -149,6 +170,13 @@
       "title": "Drowning Mona",
       "page": "reviews/elliott-0007-drowning-mona.html",
       "id": "Elliott_0007"
+    }
+  ],
+  "Deuteronomy 30:10-20": [
+    {
+      "title": "The Omega Code",
+      "page": "reviews/elliott-0165-the-omega-code.html",
+      "id": "Elliott_0165"
     }
   ],
   "Deuteronomy 30:15": [
@@ -362,6 +390,20 @@
       "id": "Elliott_0026"
     }
   ],
+  "Psalms 18:29": [
+    {
+      "title": "The Out-of-Towners",
+      "page": "reviews/elliott-0163-the-out-of-towners.html",
+      "id": "Elliott_0163"
+    }
+  ],
+  "Psalms 32:5": [
+    {
+      "title": "Out of Time",
+      "page": "reviews/elliott-0168-out-of-time.html",
+      "id": "Elliott_0168"
+    }
+  ],
   "Psalms 37:23": [
     {
       "title": "Evan Almighty",
@@ -549,6 +591,13 @@
       "id": "Elliott_0107"
     }
   ],
+  "Psalms 131:1-2": [
+    {
+      "title": "The Other Sister",
+      "page": "reviews/elliott-0169-the-other-sister.html",
+      "id": "Elliott_0169"
+    }
+  ],
   "Psalms 139:14": [
     {
       "title": "Todo sobre mi madre (All About My Mother)",
@@ -689,6 +738,13 @@
       "id": "Elliott_0036"
     }
   ],
+  "Proverbs 12:25": [
+    {
+      "title": "One True Thing",
+      "page": "reviews/elliott-0166-one-true-thing.html",
+      "id": "Elliott_0166"
+    }
+  ],
   "Proverbs 13:7": [
     {
       "title": "The Thomas Crown Affair",
@@ -736,6 +792,13 @@
       "title": "Centro do Brasil [Central Station]",
       "page": "reviews/elliott-0056-centro-do-brasil-central-station.html",
       "id": "Elliott_0056"
+    }
+  ],
+  "Proverbs 17:22": [
+    {
+      "title": "One True Thing",
+      "page": "reviews/elliott-0166-one-true-thing.html",
+      "id": "Elliott_0166"
     }
   ],
   "Proverbs 18:16": [
@@ -790,6 +853,11 @@
       "title": "Jesus Camp",
       "page": "reviews/elliott-0117-jesus-camp.html",
       "id": "Elliott_0117"
+    },
+    {
+      "title": "Outside Providence",
+      "page": "reviews/elliott-0164-outside-providence.html",
+      "id": "Elliott_0164"
     }
   ],
   "Proverbs 22:15": [
@@ -851,6 +919,11 @@
       "title": "Divine Secrets of the Ya-Ya Sisterhood",
       "page": "reviews/elliott-0066-divine-secrets-of-the-ya-ya-sisterhood.html",
       "id": "Elliott_0066"
+    },
+    {
+      "title": "Out of Time",
+      "page": "reviews/elliott-0168-out-of-time.html",
+      "id": "Elliott_0168"
     }
   ],
   "Proverbs 28:20": [
@@ -1034,6 +1107,13 @@
       "title": "The Fast and the Furious",
       "page": "reviews/elliott-0081-the-fast-and-the-furious.html",
       "id": "Elliott_0081"
+    }
+  ],
+  "Isaiah 5:20": [
+    {
+      "title": "Ocean's Eleven",
+      "page": "reviews/elliott-0170-ocean-s-eleven.html",
+      "id": "Elliott_0170"
     }
   ],
   "Isaiah 5:21": [
@@ -1249,6 +1329,13 @@
       "id": "Elliott_0042"
     }
   ],
+  "Malachi 2:10": [
+    {
+      "title": "The Original Kings of Comedy",
+      "page": "reviews/elliott-0162-the-original-kings-of-comedy.html",
+      "id": "Elliott_0162"
+    }
+  ],
   "Matthew 5:6": [
     {
       "title": "Holy Man",
@@ -1354,6 +1441,13 @@
       "id": "Elliott_0061"
     }
   ],
+  "Matthew 18:3-4": [
+    {
+      "title": "The Other Sister",
+      "page": "reviews/elliott-0169-the-other-sister.html",
+      "id": "Elliott_0169"
+    }
+  ],
   "Matthew 18:4": [
     {
       "title": "The Adventures of Rocky and Bullwinkle",
@@ -1387,6 +1481,13 @@
       "title": "Todo sobre mi madre (All About My Mother)",
       "page": "reviews/elliott-0019-todo-sobre-mi-madre-all-about-my-mother.html",
       "id": "Elliott_0019"
+    }
+  ],
+  "Matthew 21:16": [
+    {
+      "title": "The Other Sister",
+      "page": "reviews/elliott-0169-the-other-sister.html",
+      "id": "Elliott_0169"
     }
   ],
   "Matthew 21:22": [
@@ -1563,6 +1664,20 @@
       "title": "Around the Bend",
       "page": "reviews/elliott-0042-around-the-bend.html",
       "id": "Elliott_0042"
+    }
+  ],
+  "Luke 16:15": [
+    {
+      "title": "Ocean's Eleven",
+      "page": "reviews/elliott-0170-ocean-s-eleven.html",
+      "id": "Elliott_0170"
+    }
+  ],
+  "Luke 18:11": [
+    {
+      "title": "Ocean's Twelve",
+      "page": "reviews/elliott-0167-ocean-s-twelve.html",
+      "id": "Elliott_0167"
     }
   ],
   "John 1:5": [
@@ -1752,6 +1867,13 @@
       "id": "Elliott_0112"
     }
   ],
+  "Acts 17:26a": [
+    {
+      "title": "The Original Kings of Comedy",
+      "page": "reviews/elliott-0162-the-original-kings-of-comedy.html",
+      "id": "Elliott_0162"
+    }
+  ],
   "Acts 19:11-16": [
     {
       "title": "The Exorcism of Emily Rose",
@@ -1827,6 +1949,13 @@
       "title": "Hardball",
       "page": "reviews/elliott-0105-hardball.html",
       "id": "Elliott_0105"
+    }
+  ],
+  "Romans 8:35-39": [
+    {
+      "title": "The Out-of-Towners",
+      "page": "reviews/elliott-0163-the-out-of-towners.html",
+      "id": "Elliott_0163"
     }
   ],
   "Romans 10:9-10": [
@@ -1954,6 +2083,13 @@
       "title": "The Art of War",
       "page": "reviews/elliott-0017-the-art-of-war.html",
       "id": "Elliott_0017"
+    }
+  ],
+  "Romans 16:25-26": [
+    {
+      "title": "The Omega Code",
+      "page": "reviews/elliott-0165-the-omega-code.html",
+      "id": "Elliott_0165"
     }
   ],
   "1 Corinthians 2:14": [
@@ -2200,6 +2336,13 @@
       "id": "Elliott_0115"
     }
   ],
+  "2 Corinthians 10:12": [
+    {
+      "title": "Ocean's Twelve",
+      "page": "reviews/elliott-0167-ocean-s-twelve.html",
+      "id": "Elliott_0167"
+    }
+  ],
   "2 Corinthians 11:13-15": [
     {
       "title": "Rush Hour 2",
@@ -2219,6 +2362,13 @@
       "title": "Hardball",
       "page": "reviews/elliott-0105-hardball.html",
       "id": "Elliott_0105"
+    }
+  ],
+  "2 Corinthians 11:25-30": [
+    {
+      "title": "The Out-of-Towners",
+      "page": "reviews/elliott-0163-the-out-of-towners.html",
+      "id": "Elliott_0163"
     }
   ],
   "Galatians 1:3-4": [
@@ -2480,6 +2630,13 @@
       "id": "Elliott_0160"
     }
   ],
+  "Ephesians 6:4": [
+    {
+      "title": "Outside Providence",
+      "page": "reviews/elliott-0164-outside-providence.html",
+      "id": "Elliott_0164"
+    }
+  ],
   "Ephesians 6:11-17": [
     {
       "title": "Exorcist: The Beginning",
@@ -2499,6 +2656,13 @@
       "title": "Lord of the Rings: The Two Towers",
       "page": "reviews/elliott-0139-lord-of-the-rings-the-two-towers.html",
       "id": "Elliott_0139"
+    }
+  ],
+  "Philippians 2:3": [
+    {
+      "title": "Ocean's Twelve",
+      "page": "reviews/elliott-0167-ocean-s-twelve.html",
+      "id": "Elliott_0167"
     }
   ],
   "Philippians 2:4": [
@@ -2632,6 +2796,13 @@
       "id": "Elliott_0160"
     }
   ],
+  "Colossians 3:21": [
+    {
+      "title": "Outside Providence",
+      "page": "reviews/elliott-0164-outside-providence.html",
+      "id": "Elliott_0164"
+    }
+  ],
   "Colossians 4:5": [
     {
       "title": "Clockstoppers",
@@ -2677,6 +2848,13 @@
       "title": "Failure to Launch",
       "page": "reviews/elliott-0089-failure-to-launch.html",
       "id": "Elliott_0089"
+    }
+  ],
+  "1 Thessalonians 5:18": [
+    {
+      "title": "One True Thing",
+      "page": "reviews/elliott-0166-one-true-thing.html",
+      "id": "Elliott_0166"
     }
   ],
   "1 Thessalonians 5:19": [
@@ -2960,6 +3138,13 @@
       "id": "Elliott_0096"
     }
   ],
+  "James 3:7": [
+    {
+      "title": "102 Dalmatians",
+      "page": "reviews/elliott-0161-102-dalmatians.html",
+      "id": "Elliott_0161"
+    }
+  ],
   "James 4:1-3": [
     {
       "title": "Fight Club",
@@ -3038,6 +3223,13 @@
       "id": "Elliott_0156"
     }
   ],
+  "2 Peter 1:3-4": [
+    {
+      "title": "The Omega Code",
+      "page": "reviews/elliott-0165-the-omega-code.html",
+      "id": "Elliott_0165"
+    }
+  ],
   "2 Peter 1:4-9": [
     {
       "title": "At First Sight",
@@ -3078,6 +3270,11 @@
       "title": "Divine Secrets of the Ya-Ya Sisterhood",
       "page": "reviews/elliott-0066-divine-secrets-of-the-ya-ya-sisterhood.html",
       "id": "Elliott_0066"
+    },
+    {
+      "title": "Out of Time",
+      "page": "reviews/elliott-0168-out-of-time.html",
+      "id": "Elliott_0168"
     }
   ],
   "1 John 2:15-16": [
@@ -3209,6 +3406,11 @@
     }
   ],
   "Revelation 3:17": [
+    {
+      "title": "Ocean's Eleven",
+      "page": "reviews/elliott-0170-ocean-s-eleven.html",
+      "id": "Elliott_0170"
+    },
     {
       "title": "The Thomas Crown Affair",
       "page": "reviews/elliott-0011-the-thomas-crown-affair.html",
