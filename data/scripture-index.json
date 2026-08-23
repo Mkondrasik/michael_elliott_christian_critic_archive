@@ -39,6 +39,13 @@
       "id": "Elliott_0065"
     }
   ],
+  "Genesis 2:18": [
+    {
+      "title": "The Painted Veil",
+      "page": "reviews/elliott-0171-the-painted-veil.html",
+      "id": "Elliott_0171"
+    }
+  ],
   "Genesis 2:20": [
     {
       "title": "The Jungle Book 2",
@@ -570,6 +577,13 @@
       "id": "Elliott_0012"
     }
   ],
+  "Psalms 118:8-9": [
+    {
+      "title": "Pirates of the Caribbean: At World's End",
+      "page": "reviews/elliott-0177-pirates-of-the-caribbean-at-world-s-end.html",
+      "id": "Elliott_0177"
+    }
+  ],
   "Psalms 119:16": [
     {
       "title": "Eternal Sunshine of the Spotless Mind",
@@ -708,6 +722,11 @@
       "title": "Identity",
       "page": "reviews/elliott-0113-identity.html",
       "id": "Elliott_0113"
+    },
+    {
+      "title": "Patch Adams",
+      "page": "reviews/elliott-0179-patch-adams.html",
+      "id": "Elliott_0179"
     }
   ],
   "Proverbs 9:9": [
@@ -715,6 +734,13 @@
       "title": "Around the World in 80 Days",
       "page": "reviews/elliott-0043-around-the-world-in-80-days.html",
       "id": "Elliott_0043"
+    }
+  ],
+  "Proverbs 10:12": [
+    {
+      "title": "Punch Drunk Love",
+      "page": "reviews/elliott-0175-punch-drunk-love.html",
+      "id": "Elliott_0175"
     }
   ],
   "Proverbs 10:17": [
@@ -743,6 +769,11 @@
       "title": "One True Thing",
       "page": "reviews/elliott-0166-one-true-thing.html",
       "id": "Elliott_0166"
+    },
+    {
+      "title": "Patch Adams",
+      "page": "reviews/elliott-0179-patch-adams.html",
+      "id": "Elliott_0179"
     }
   ],
   "Proverbs 13:7": [
@@ -750,6 +781,13 @@
       "title": "The Thomas Crown Affair",
       "page": "reviews/elliott-0011-the-thomas-crown-affair.html",
       "id": "Elliott_0011"
+    }
+  ],
+  "Proverbs 13:10": [
+    {
+      "title": "Pushing Tin",
+      "page": "reviews/elliott-0176-pushing-tin.html",
+      "id": "Elliott_0176"
     }
   ],
   "Proverbs 13:19": [
@@ -794,11 +832,23 @@
       "id": "Elliott_0056"
     }
   ],
+  "Proverbs 16:18": [
+    {
+      "title": "Pushing Tin",
+      "page": "reviews/elliott-0176-pushing-tin.html",
+      "id": "Elliott_0176"
+    }
+  ],
   "Proverbs 17:22": [
     {
       "title": "One True Thing",
       "page": "reviews/elliott-0166-one-true-thing.html",
       "id": "Elliott_0166"
+    },
+    {
+      "title": "Patch Adams",
+      "page": "reviews/elliott-0179-patch-adams.html",
+      "id": "Elliott_0179"
     }
   ],
   "Proverbs 18:16": [
@@ -877,6 +927,13 @@
       "title": "In Good Company",
       "page": "reviews/elliott-0120-in-good-company.html",
       "id": "Elliott_0120"
+    }
+  ],
+  "Proverbs 24:29": [
+    {
+      "title": "The Punisher",
+      "page": "reviews/elliott-0173-the-punisher.html",
+      "id": "Elliott_0173"
     }
   ],
   "Proverbs 25:11": [
@@ -981,6 +1038,13 @@
       "title": "The Legend of 1900",
       "page": "reviews/elliott-0135-the-legend-of-1900.html",
       "id": "Elliott_0135"
+    }
+  ],
+  "Proverbs 30:5": [
+    {
+      "title": "Pirates of the Caribbean: At World's End",
+      "page": "reviews/elliott-0177-pirates-of-the-caribbean-at-world-s-end.html",
+      "id": "Elliott_0177"
     }
   ],
   "Proverbs 31:10": [
@@ -1203,6 +1267,13 @@
       "id": "Elliott_0021"
     }
   ],
+  "Isaiah 50:10": [
+    {
+      "title": "Pirates of the Caribbean: At World's End",
+      "page": "reviews/elliott-0177-pirates-of-the-caribbean-at-world-s-end.html",
+      "id": "Elliott_0177"
+    }
+  ],
   "Isaiah 51:6": [
     {
       "title": "The Day After Tomorrow",
@@ -1334,6 +1405,13 @@
       "title": "The Original Kings of Comedy",
       "page": "reviews/elliott-0162-the-original-kings-of-comedy.html",
       "id": "Elliott_0162"
+    }
+  ],
+  "Matthew 4:10": [
+    {
+      "title": "Pirates of the Caribbean 2: Dead Man's Chest",
+      "page": "reviews/elliott-0178-pirates-of-the-caribbean-2-dead-man-s-chest.html",
+      "id": "Elliott_0178"
     }
   ],
   "Matthew 5:6": [
@@ -1563,6 +1641,13 @@
       "id": "Elliott_0129"
     }
   ],
+  "Mark 9:43": [
+    {
+      "title": "Andrew Lloyd Webber's The Phantom of the Opera",
+      "page": "reviews/elliott-0172-andrew-lloyd-webber-s-the-phantom-of-the-opera.html",
+      "id": "Elliott_0172"
+    }
+  ],
   "Mark 10:7": [
     {
       "title": "Failure to Launch",
@@ -1601,6 +1686,13 @@
       "title": "Godzilla 2000",
       "page": "reviews/elliott-0094-godzilla-2000.html",
       "id": "Elliott_0094"
+    }
+  ],
+  "Luke 4:8": [
+    {
+      "title": "Pirates of the Caribbean 2: Dead Man's Chest",
+      "page": "reviews/elliott-0178-pirates-of-the-caribbean-2-dead-man-s-chest.html",
+      "id": "Elliott_0178"
     }
   ],
   "Luke 6:37": [
@@ -1697,6 +1789,13 @@
       "title": "It Runs In The Family",
       "page": "reviews/elliott-0114-it-runs-in-the-family.html",
       "id": "Elliott_0114"
+    }
+  ],
+  "John 3:15": [
+    {
+      "title": "Pan's Labyrinth",
+      "page": "reviews/elliott-0180-pan-s-labyrinth.html",
+      "id": "Elliott_0180"
     }
   ],
   "John 5:39": [
@@ -2020,6 +2119,11 @@
       "title": "Kill Bill Vol. 1",
       "page": "reviews/elliott-0121-kill-bill-vol-1.html",
       "id": "Elliott_0121"
+    },
+    {
+      "title": "The Punisher",
+      "page": "reviews/elliott-0173-the-punisher.html",
+      "id": "Elliott_0173"
     }
   ],
   "Romans 12:21": [
@@ -2207,6 +2311,13 @@
       "id": "Elliott_0150"
     }
   ],
+  "1 Corinthians 11:7-12": [
+    {
+      "title": "The Painted Veil",
+      "page": "reviews/elliott-0171-the-painted-veil.html",
+      "id": "Elliott_0171"
+    }
+  ],
   "1 Corinthians 12:25-26": [
     {
       "title": "Annapolis",
@@ -2334,6 +2445,20 @@
       "title": "Johnson Family Vacation",
       "page": "reviews/elliott-0115-johnson-family-vacation.html",
       "id": "Elliott_0115"
+    }
+  ],
+  "2 Corinthians 10:7": [
+    {
+      "title": "Andrew Lloyd Webber's The Phantom of the Opera",
+      "page": "reviews/elliott-0172-andrew-lloyd-webber-s-the-phantom-of-the-opera.html",
+      "id": "Elliott_0172"
+    }
+  ],
+  "2 Corinthians 10:10": [
+    {
+      "title": "Andrew Lloyd Webber's The Phantom of the Opera",
+      "page": "reviews/elliott-0172-andrew-lloyd-webber-s-the-phantom-of-the-opera.html",
+      "id": "Elliott_0172"
     }
   ],
   "2 Corinthians 10:12": [
@@ -2474,6 +2599,13 @@
       "id": "Elliott_0159"
     }
   ],
+  "Ephesians 2:4-5": [
+    {
+      "title": "Punch Drunk Love",
+      "page": "reviews/elliott-0175-punch-drunk-love.html",
+      "id": "Elliott_0175"
+    }
+  ],
   "Ephesians 2:8": [
     {
       "title": "Along Came A Spider",
@@ -2576,6 +2708,11 @@
       "title": "Not Another Teen Movie",
       "page": "reviews/elliott-0158-not-another-teen-movie.html",
       "id": "Elliott_0158"
+    },
+    {
+      "title": "Punch Drunk Love",
+      "page": "reviews/elliott-0175-punch-drunk-love.html",
+      "id": "Elliott_0175"
     }
   ],
   "Ephesians 5:2": [
@@ -2614,6 +2751,13 @@
       "title": "Mansfield Park",
       "page": "reviews/elliott-0143-mansfield-park.html",
       "id": "Elliott_0143"
+    }
+  ],
+  "Ephesians 5:24-25": [
+    {
+      "title": "The Painted Veil",
+      "page": "reviews/elliott-0171-the-painted-veil.html",
+      "id": "Elliott_0171"
     }
   ],
   "Ephesians 5:25-33": [
@@ -2663,6 +2807,13 @@
       "title": "Ocean's Twelve",
       "page": "reviews/elliott-0167-ocean-s-twelve.html",
       "id": "Elliott_0167"
+    }
+  ],
+  "Philippians 2:3-4": [
+    {
+      "title": "Pushing Tin",
+      "page": "reviews/elliott-0176-pushing-tin.html",
+      "id": "Elliott_0176"
     }
   ],
   "Philippians 2:4": [
@@ -2843,11 +2994,25 @@
       "id": "Elliott_0141"
     }
   ],
+  "1 Thessalonians 4:16-17": [
+    {
+      "title": "Paycheck",
+      "page": "reviews/elliott-0174-paycheck.html",
+      "id": "Elliott_0174"
+    }
+  ],
   "1 Thessalonians 5:11": [
     {
       "title": "Failure to Launch",
       "page": "reviews/elliott-0089-failure-to-launch.html",
       "id": "Elliott_0089"
+    }
+  ],
+  "1 Thessalonians 5:13": [
+    {
+      "title": "The Punisher",
+      "page": "reviews/elliott-0173-the-punisher.html",
+      "id": "Elliott_0173"
     }
   ],
   "1 Thessalonians 5:18": [
@@ -3054,6 +3219,13 @@
       "id": "Elliott_0145"
     }
   ],
+  "Hebrews 6:17-19": [
+    {
+      "title": "Paycheck",
+      "page": "reviews/elliott-0174-paycheck.html",
+      "id": "Elliott_0174"
+    }
+  ],
   "Hebrews 6:18-19": [
     {
       "title": "Lord of the Rings: The Two Towers",
@@ -3157,6 +3329,11 @@
       "title": "Exorcist: The Beginning",
       "page": "reviews/elliott-0077-exorcist-the-beginning.html",
       "id": "Elliott_0077"
+    },
+    {
+      "title": "Pirates of the Caribbean 2: Dead Man's Chest",
+      "page": "reviews/elliott-0178-pirates-of-the-caribbean-2-dead-man-s-chest.html",
+      "id": "Elliott_0178"
     }
   ],
   "James 5:16": [
@@ -3251,6 +3428,13 @@
       "id": "Elliott_0104"
     }
   ],
+  "2 Peter 3:10-13": [
+    {
+      "title": "Paycheck",
+      "page": "reviews/elliott-0174-paycheck.html",
+      "id": "Elliott_0174"
+    }
+  ],
   "2 Peter 3:13": [
     {
       "title": "Aeon Flux",
@@ -3303,6 +3487,13 @@
       "title": "The DaVinci Code",
       "page": "reviews/elliott-0067-the-davinci-code.html",
       "id": "Elliott_0067"
+    }
+  ],
+  "1 John 2:25": [
+    {
+      "title": "Pan's Labyrinth",
+      "page": "reviews/elliott-0180-pan-s-labyrinth.html",
+      "id": "Elliott_0180"
     }
   ],
   "1 John 3:1": [
@@ -3377,6 +3568,13 @@
       "title": "King Kong",
       "page": "reviews/elliott-0126-king-kong.html",
       "id": "Elliott_0126"
+    }
+  ],
+  "1 John 5:13": [
+    {
+      "title": "Pan's Labyrinth",
+      "page": "reviews/elliott-0180-pan-s-labyrinth.html",
+      "id": "Elliott_0180"
     }
   ],
   "1 John 5:21": [

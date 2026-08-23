@@ -105,6 +105,11 @@
   ],
   "appearances": [
     {
+      "title": "Andrew Lloyd Webber's The Phantom of the Opera",
+      "page": "reviews/elliott-0172-andrew-lloyd-webber-s-the-phantom-of-the-opera.html",
+      "id": "Elliott_0172"
+    },
+    {
       "title": "Miss Congeniality",
       "page": "reviews/elliott-0146-miss-congeniality.html",
       "id": "Elliott_0146"
@@ -343,6 +348,13 @@
       "id": "Elliott_0056"
     }
   ],
+  "Christ's return": [
+    {
+      "title": "Paycheck",
+      "page": "reviews/elliott-0174-paycheck.html",
+      "id": "Elliott_0174"
+    }
+  ],
   "Christ's victory": [
     {
       "title": "Meet Joe Black",
@@ -428,6 +440,13 @@
       "id": "Elliott_0167"
     }
   ],
+  "comparison": [
+    {
+      "title": "Pushing Tin",
+      "page": "reviews/elliott-0176-pushing-tin.html",
+      "id": "Elliott_0176"
+    }
+  ],
   "compassion": [
     {
       "title": "Assault on Precinct 13",
@@ -450,6 +469,11 @@
       "title": "Ocean's Twelve",
       "page": "reviews/elliott-0167-ocean-s-twelve.html",
       "id": "Elliott_0167"
+    },
+    {
+      "title": "Pushing Tin",
+      "page": "reviews/elliott-0176-pushing-tin.html",
+      "id": "Elliott_0176"
     }
   ],
   "compromise": [
@@ -1000,6 +1024,13 @@
       "id": "Elliott_0071"
     }
   ],
+  "edification": [
+    {
+      "title": "Punch Drunk Love",
+      "page": "reviews/elliott-0175-punch-drunk-love.html",
+      "id": "Elliott_0175"
+    }
+  ],
   "edifying speech": [
     {
       "title": "Gossip",
@@ -1074,6 +1105,11 @@
       "title": "Lord of the Rings: The Two Towers",
       "page": "reviews/elliott-0139-lord-of-the-rings-the-two-towers.html",
       "id": "Elliott_0139"
+    },
+    {
+      "title": "Paycheck",
+      "page": "reviews/elliott-0174-paycheck.html",
+      "id": "Elliott_0174"
     }
   ],
   "entertainment and responsibility": [
@@ -1126,6 +1162,13 @@
       "title": "The Mummy",
       "page": "reviews/elliott-0148-the-mummy.html",
       "id": "Elliott_0148"
+    }
+  ],
+  "Eternal Life": [
+    {
+      "title": "Pan's Labyrinth",
+      "page": "reviews/elliott-0180-pan-s-labyrinth.html",
+      "id": "Elliott_0180"
     }
   ],
   "evangelism": [
@@ -1516,6 +1559,11 @@
       "title": "Out of Time",
       "page": "reviews/elliott-0168-out-of-time.html",
       "id": "Elliott_0168"
+    },
+    {
+      "title": "The Punisher",
+      "page": "reviews/elliott-0173-the-punisher.html",
+      "id": "Elliott_0173"
     }
   ],
   "Forgiveness": [
@@ -1593,6 +1641,13 @@
       "title": "The Mighty",
       "page": "reviews/elliott-0142-the-mighty.html",
       "id": "Elliott_0142"
+    }
+  ],
+  "Future": [
+    {
+      "title": "Paycheck",
+      "page": "reviews/elliott-0174-paycheck.html",
+      "id": "Elliott_0174"
     }
   ],
   "gender": [
@@ -1751,6 +1806,11 @@
       "title": "The Omega Code",
       "page": "reviews/elliott-0165-the-omega-code.html",
       "id": "Elliott_0165"
+    },
+    {
+      "title": "Patch Adams",
+      "page": "reviews/elliott-0179-patch-adams.html",
+      "id": "Elliott_0179"
     }
   ],
   "God's Word as a guide": [
@@ -1925,6 +1985,16 @@
       "title": "Antwone Fisher",
       "page": "reviews/elliott-0050-antwone-fisher.html",
       "id": "Elliott_0050"
+    },
+    {
+      "title": "Patch Adams",
+      "page": "reviews/elliott-0179-patch-adams.html",
+      "id": "Elliott_0179"
+    },
+    {
+      "title": "Punch Drunk Love",
+      "page": "reviews/elliott-0175-punch-drunk-love.html",
+      "id": "Elliott_0175"
     }
   ],
   "Hearing God": [
@@ -1932,6 +2002,13 @@
       "title": "Drowning Mona",
       "page": "reviews/elliott-0007-drowning-mona.html",
       "id": "Elliott_0007"
+    }
+  ],
+  "heart": [
+    {
+      "title": "Andrew Lloyd Webber's The Phantom of the Opera",
+      "page": "reviews/elliott-0172-andrew-lloyd-webber-s-the-phantom-of-the-opera.html",
+      "id": "Elliott_0172"
     }
   ],
   "heaven": [
@@ -1956,6 +2033,11 @@
       "title": "K-Pax",
       "page": "reviews/elliott-0128-k-pax.html",
       "id": "Elliott_0128"
+    },
+    {
+      "title": "Patch Adams",
+      "page": "reviews/elliott-0179-patch-adams.html",
+      "id": "Elliott_0179"
     }
   ],
   "heroism": [
@@ -2037,6 +2119,11 @@
       "title": "K-Pax",
       "page": "reviews/elliott-0128-k-pax.html",
       "id": "Elliott_0128"
+    },
+    {
+      "title": "Paycheck",
+      "page": "reviews/elliott-0174-paycheck.html",
+      "id": "Elliott_0174"
     }
   ],
   "Hope": [
@@ -2114,6 +2201,11 @@
       "title": "Ocean's Twelve",
       "page": "reviews/elliott-0167-ocean-s-twelve.html",
       "id": "Elliott_0167"
+    },
+    {
+      "title": "Pushing Tin",
+      "page": "reviews/elliott-0176-pushing-tin.html",
+      "id": "Elliott_0176"
     }
   ],
   "Humility": [
@@ -2128,6 +2220,13 @@
       "title": "Not Another Teen Movie",
       "page": "reviews/elliott-0158-not-another-teen-movie.html",
       "id": "Elliott_0158"
+    }
+  ],
+  "Humor": [
+    {
+      "title": "Patch Adams",
+      "page": "reviews/elliott-0179-patch-adams.html",
+      "id": "Elliott_0179"
     }
   ],
   "hunger and thirst": [
@@ -2209,6 +2308,11 @@
   ],
   "influence": [
     {
+      "title": "Andrew Lloyd Webber's The Phantom of the Opera",
+      "page": "reviews/elliott-0172-andrew-lloyd-webber-s-the-phantom-of-the-opera.html",
+      "id": "Elliott_0172"
+    },
+    {
       "title": "K-Pax",
       "page": "reviews/elliott-0128-k-pax.html",
       "id": "Elliott_0128"
@@ -2231,6 +2335,13 @@
       "title": "American Pie 2",
       "page": "reviews/elliott-0036-american-pie-2.html",
       "id": "Elliott_0036"
+    }
+  ],
+  "Inner character": [
+    {
+      "title": "Andrew Lloyd Webber's The Phantom of the Opera",
+      "page": "reviews/elliott-0172-andrew-lloyd-webber-s-the-phantom-of-the-opera.html",
+      "id": "Elliott_0172"
     }
   ],
   "instruction": [
@@ -2257,6 +2368,11 @@
       "title": "Little Voice",
       "page": "reviews/elliott-0137-little-voice.html",
       "id": "Elliott_0137"
+    },
+    {
+      "title": "Patch Adams",
+      "page": "reviews/elliott-0179-patch-adams.html",
+      "id": "Elliott_0179"
     }
   ],
   "Judas": [
@@ -2309,6 +2425,11 @@
       "title": "Kill Bill Vol. 1",
       "page": "reviews/elliott-0121-kill-bill-vol-1.html",
       "id": "Elliott_0121"
+    },
+    {
+      "title": "The Punisher",
+      "page": "reviews/elliott-0173-the-punisher.html",
+      "id": "Elliott_0173"
     }
   ],
   "Justice": [
@@ -2448,6 +2569,11 @@
       "id": "Elliott_0169"
     },
     {
+      "title": "Punch Drunk Love",
+      "page": "reviews/elliott-0175-punch-drunk-love.html",
+      "id": "Elliott_0175"
+    },
+    {
       "title": "Whipped",
       "page": "reviews/elliott-0006-whipped.html",
       "id": "Elliott_0006"
@@ -2511,6 +2637,11 @@
       "title": "Mansfield Park",
       "page": "reviews/elliott-0143-mansfield-park.html",
       "id": "Elliott_0143"
+    },
+    {
+      "title": "The Painted Veil",
+      "page": "reviews/elliott-0171-the-painted-veil.html",
+      "id": "Elliott_0171"
     },
     {
       "title": "Whipped",
@@ -2938,6 +3069,13 @@
       "id": "Elliott_0167"
     }
   ],
+  "Pride": [
+    {
+      "title": "Pushing Tin",
+      "page": "reviews/elliott-0176-pushing-tin.html",
+      "id": "Elliott_0176"
+    }
+  ],
   "priorities": [
     {
       "title": "The Fast and the Furious",
@@ -2969,6 +3107,11 @@
       "title": "George Washington",
       "page": "reviews/elliott-0092-george-washington.html",
       "id": "Elliott_0092"
+    },
+    {
+      "title": "Paycheck",
+      "page": "reviews/elliott-0174-paycheck.html",
+      "id": "Elliott_0174"
     }
   ],
   "prophecy": [
@@ -3231,6 +3374,13 @@
       "id": "Elliott_0109"
     }
   ],
+  "restraint": [
+    {
+      "title": "The Punisher",
+      "page": "reviews/elliott-0173-the-punisher.html",
+      "id": "Elliott_0173"
+    }
+  ],
   "Resurrection": [
     {
       "title": "Elektra",
@@ -3281,6 +3431,13 @@
       "title": "Kill Bill Vol. 1",
       "page": "reviews/elliott-0121-kill-bill-vol-1.html",
       "id": "Elliott_0121"
+    }
+  ],
+  "revenge": [
+    {
+      "title": "The Punisher",
+      "page": "reviews/elliott-0173-the-punisher.html",
+      "id": "Elliott_0173"
     }
   ],
   "ridicule": [
@@ -3437,6 +3594,20 @@
       "title": "Bridget Jones: The Edge of Reason",
       "page": "reviews/elliott-0030-bridget-jones-the-edge-of-reason.html",
       "id": "Elliott_0030"
+    }
+  ],
+  "self-improvement": [
+    {
+      "title": "Pushing Tin",
+      "page": "reviews/elliott-0176-pushing-tin.html",
+      "id": "Elliott_0176"
+    }
+  ],
+  "self-worth": [
+    {
+      "title": "Punch Drunk Love",
+      "page": "reviews/elliott-0175-punch-drunk-love.html",
+      "id": "Elliott_0175"
     }
   ],
   "Selfishness": [
@@ -3736,6 +3907,13 @@
       "id": "Elliott_0046"
     }
   ],
+  "spiritual strength": [
+    {
+      "title": "Andrew Lloyd Webber's The Phantom of the Opera",
+      "page": "reviews/elliott-0172-andrew-lloyd-webber-s-the-phantom-of-the-opera.html",
+      "id": "Elliott_0172"
+    }
+  ],
   "spiritual truth": [
     {
       "title": "Alexander",
@@ -3956,6 +4134,13 @@
       "id": "Elliott_0131"
     }
   ],
+  "Temptation": [
+    {
+      "title": "Pirates of the Caribbean 2: Dead Man's Chest",
+      "page": "reviews/elliott-0178-pirates-of-the-caribbean-2-dead-man-s-chest.html",
+      "id": "Elliott_0178"
+    }
+  ],
   "testing spirits": [
     {
       "title": "Frailty",
@@ -4115,6 +4300,13 @@
       "title": "The Truth About Charlie",
       "page": "reviews/elliott-0012-the-truth-about-charlie.html",
       "id": "Elliott_0012"
+    }
+  ],
+  "Trust": [
+    {
+      "title": "Pirates of the Caribbean: At World's End",
+      "page": "reviews/elliott-0177-pirates-of-the-caribbean-at-world-s-end.html",
+      "id": "Elliott_0177"
     }
   ],
   "trust and honesty": [
@@ -4305,6 +4497,13 @@
       "id": "Elliott_0121"
     }
   ],
+  "Vengeance": [
+    {
+      "title": "The Punisher",
+      "page": "reviews/elliott-0173-the-punisher.html",
+      "id": "Elliott_0173"
+    }
+  ],
   "violence": [
     {
       "title": "Amores perros (Love’s A Bitch)",
@@ -4436,6 +4635,11 @@
       "title": "A Bug's Life",
       "page": "reviews/elliott-0025-a-bug-s-life.html",
       "id": "Elliott_0025"
+    },
+    {
+      "title": "Punch Drunk Love",
+      "page": "reviews/elliott-0175-punch-drunk-love.html",
+      "id": "Elliott_0175"
     }
   ],
   "words": [
