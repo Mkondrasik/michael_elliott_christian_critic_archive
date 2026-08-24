@@ -144,6 +144,13 @@
       "id": "Elliott_0023"
     }
   ],
+  "Deuteronomy 11:19": [
+    {
+      "title": "Smoke Signals",
+      "page": "reviews/elliott-0192-smoke-signals.html",
+      "id": "Elliott_0192"
+    }
+  ],
   "Deuteronomy 20:3": [
     {
       "title": "Arlington Road",
@@ -474,6 +481,13 @@
       "id": "Elliott_0131"
     }
   ],
+  "Psalms 49:6-7": [
+    {
+      "title": "Small Time Crooks",
+      "page": "reviews/elliott-0198-small-time-crooks.html",
+      "id": "Elliott_0198"
+    }
+  ],
   "Psalms 51:13": [
     {
       "title": "Freedom Writers",
@@ -516,6 +530,13 @@
       "id": "Elliott_0099"
     }
   ],
+  "Psalms 71:17-18": [
+    {
+      "title": "Smoke Signals",
+      "page": "reviews/elliott-0192-smoke-signals.html",
+      "id": "Elliott_0192"
+    }
+  ],
   "Psalms 73:21-24": [
     {
       "title": "Birth",
@@ -533,6 +554,13 @@
       "title": "Little Voice",
       "page": "reviews/elliott-0137-little-voice.html",
       "id": "Elliott_0137"
+    }
+  ],
+  "Psalms 78:2-4": [
+    {
+      "title": "Smoke Signals",
+      "page": "reviews/elliott-0192-smoke-signals.html",
+      "id": "Elliott_0192"
     }
   ],
   "Psalms 84:2": [
@@ -812,6 +840,11 @@
     }
   ],
   "Proverbs 13:7": [
+    {
+      "title": "Small Time Crooks",
+      "page": "reviews/elliott-0198-small-time-crooks.html",
+      "id": "Elliott_0198"
+    },
     {
       "title": "The Thomas Crown Affair",
       "page": "reviews/elliott-0011-the-thomas-crown-affair.html",
@@ -1117,6 +1150,13 @@
       "id": "Elliott_0036"
     }
   ],
+  "Proverbs 31:30": [
+    {
+      "title": "She's All That",
+      "page": "reviews/elliott-0194-she-s-all-that.html",
+      "id": "Elliott_0194"
+    }
+  ],
   "Ecclesiastes 2:13": [
     {
       "title": "Not Another Teen Movie",
@@ -1178,6 +1218,13 @@
       "title": "Mulan",
       "page": "reviews/elliott-0141-mulan.html",
       "id": "Elliott_0141"
+    }
+  ],
+  "Ecclesiastes 9:9": [
+    {
+      "title": "The Story of Us",
+      "page": "reviews/elliott-0195-the-story-of-us.html",
+      "id": "Elliott_0195"
     }
   ],
   "Ecclesiastes 9:10": [
@@ -1657,6 +1704,13 @@
       "id": "Elliott_0074"
     }
   ],
+  "Matthew 23:25-27": [
+    {
+      "title": "She's All That",
+      "page": "reviews/elliott-0194-she-s-all-that.html",
+      "id": "Elliott_0194"
+    }
+  ],
   "Matthew 23:27": [
     {
       "title": "Miss Congeniality",
@@ -1699,6 +1753,13 @@
       "id": "Elliott_0008"
     }
   ],
+  "Mark 6:12": [
+    {
+      "title": "Snake Eyes",
+      "page": "reviews/elliott-0191-snake-eyes.html",
+      "id": "Elliott_0191"
+    }
+  ],
   "Mark 7:21": [
     {
       "title": "American Pie",
@@ -1728,6 +1789,13 @@
       "title": "Andrew Lloyd Webber's The Phantom of the Opera",
       "page": "reviews/elliott-0172-andrew-lloyd-webber-s-the-phantom-of-the-opera.html",
       "id": "Elliott_0172"
+    }
+  ],
+  "Mark 10:1-9": [
+    {
+      "title": "The Story of Us",
+      "page": "reviews/elliott-0195-the-story-of-us.html",
+      "id": "Elliott_0195"
     }
   ],
   "Mark 10:7": [
@@ -1997,6 +2065,13 @@
       "id": "Elliott_0186"
     }
   ],
+  "John 15:12": [
+    {
+      "title": "Sometime in August",
+      "page": "reviews/elliott-0196-sometime-in-august.html",
+      "id": "Elliott_0196"
+    }
+  ],
   "John 15:13": [
     {
       "title": "The Alamo",
@@ -2030,6 +2105,13 @@
       "title": "Elf",
       "page": "reviews/elliott-0074-elf.html",
       "id": "Elliott_0074"
+    }
+  ],
+  "Acts 2:37-38": [
+    {
+      "title": "Saving Silverman",
+      "page": "reviews/elliott-0200-saving-silverman.html",
+      "id": "Elliott_0200"
     }
   ],
   "Acts 4:10-12": [
@@ -2093,6 +2175,13 @@
       "title": "The Original Kings of Comedy",
       "page": "reviews/elliott-0162-the-original-kings-of-comedy.html",
       "id": "Elliott_0162"
+    }
+  ],
+  "Acts 17:30": [
+    {
+      "title": "Saving Silverman",
+      "page": "reviews/elliott-0200-saving-silverman.html",
+      "id": "Elliott_0200"
     }
   ],
   "Acts 19:11-16": [
@@ -2208,6 +2297,11 @@
       "title": "Keeping The Faith",
       "page": "reviews/elliott-0122-keeping-the-faith.html",
       "id": "Elliott_0122"
+    },
+    {
+      "title": "Shiloh 2: Shiloh Season",
+      "page": "reviews/elliott-0193-shiloh-2-shiloh-season.html",
+      "id": "Elliott_0193"
     }
   ],
   "Romans 12:3": [
@@ -2506,6 +2600,11 @@
       "title": "Apt Pupil",
       "page": "reviews/elliott-0048-apt-pupil.html",
       "id": "Elliott_0048"
+    },
+    {
+      "title": "Scary Movie",
+      "page": "reviews/elliott-0199-scary-movie.html",
+      "id": "Elliott_0199"
     }
   ],
   "1 Corinthians 15:34": [
@@ -2658,6 +2757,13 @@
       "title": "It Runs In The Family",
       "page": "reviews/elliott-0114-it-runs-in-the-family.html",
       "id": "Elliott_0114"
+    }
+  ],
+  "Galatians 5:13": [
+    {
+      "title": "South Park: Bigger, Longer and Uncut",
+      "page": "reviews/elliott-0197-south-park-bigger-longer-and-uncut.html",
+      "id": "Elliott_0197"
     }
   ],
   "Galatians 5:14-15": [
@@ -2813,6 +2919,11 @@
       "title": "Eternal Sunshine of the Spotless Mind",
       "page": "reviews/elliott-0080-eternal-sunshine-of-the-spotless-mind.html",
       "id": "Elliott_0080"
+    },
+    {
+      "title": "Snake Eyes",
+      "page": "reviews/elliott-0191-snake-eyes.html",
+      "id": "Elliott_0191"
     }
   ],
   "Ephesians 4:22-24": [
@@ -2820,6 +2931,11 @@
       "title": "Nutty Professor II: The Klumps",
       "page": "reviews/elliott-0159-nutty-professor-ii-the-klumps.html",
       "id": "Elliott_0159"
+    },
+    {
+      "title": "Shiloh 2: Shiloh Season",
+      "page": "reviews/elliott-0193-shiloh-2-shiloh-season.html",
+      "id": "Elliott_0193"
     }
   ],
   "Ephesians 4:23-24": [
@@ -2827,6 +2943,13 @@
       "title": "Enemy at the Gates",
       "page": "reviews/elliott-0072-enemy-at-the-gates.html",
       "id": "Elliott_0072"
+    }
+  ],
+  "Ephesians 4:26": [
+    {
+      "title": "The Story of Us",
+      "page": "reviews/elliott-0195-the-story-of-us.html",
+      "id": "Elliott_0195"
     }
   ],
   "Ephesians 4:28": [
@@ -3004,6 +3127,11 @@
       "title": "Apt Pupil",
       "page": "reviews/elliott-0048-apt-pupil.html",
       "id": "Elliott_0048"
+    },
+    {
+      "title": "Scary Movie",
+      "page": "reviews/elliott-0199-scary-movie.html",
+      "id": "Elliott_0199"
     }
   ],
   "Philippians 4:13": [
@@ -3065,6 +3193,16 @@
       "title": "Nutty Professor II: The Klumps",
       "page": "reviews/elliott-0159-nutty-professor-ii-the-klumps.html",
       "id": "Elliott_0159"
+    },
+    {
+      "title": "Shiloh 2: Shiloh Season",
+      "page": "reviews/elliott-0193-shiloh-2-shiloh-season.html",
+      "id": "Elliott_0193"
+    },
+    {
+      "title": "Snake Eyes",
+      "page": "reviews/elliott-0191-snake-eyes.html",
+      "id": "Elliott_0191"
     }
   ],
   "Colossians 3:10": [
@@ -3264,6 +3402,13 @@
       "id": "Elliott_0022"
     }
   ],
+  "1 Timothy 6:17": [
+    {
+      "title": "Small Time Crooks",
+      "page": "reviews/elliott-0198-small-time-crooks.html",
+      "id": "Elliott_0198"
+    }
+  ],
   "2 Timothy 1:6": [
     {
       "title": "Along Came A Spider",
@@ -3302,6 +3447,13 @@
       "title": "Inspector Gadget 2",
       "page": "reviews/elliott-0112-inspector-gadget-2.html",
       "id": "Elliott_0112"
+    }
+  ],
+  "2 Timothy 2:16-17": [
+    {
+      "title": "Scary Movie",
+      "page": "reviews/elliott-0199-scary-movie.html",
+      "id": "Elliott_0199"
     }
   ],
   "2 Timothy 2:20-21": [
@@ -3358,6 +3510,11 @@
       "title": "Notes on a Scandel",
       "page": "reviews/elliott-0154-notes-on-a-scandel.html",
       "id": "Elliott_0154"
+    },
+    {
+      "title": "Saving Silverman",
+      "page": "reviews/elliott-0200-saving-silverman.html",
+      "id": "Elliott_0200"
     }
   ],
   "Titus 3:3-4": [
@@ -3500,6 +3657,13 @@
       "id": "Elliott_0025"
     }
   ],
+  "James 3:3-8": [
+    {
+      "title": "South Park: Bigger, Longer and Uncut",
+      "page": "reviews/elliott-0197-south-park-bigger-longer-and-uncut.html",
+      "id": "Elliott_0197"
+    }
+  ],
   "James 3:5-6": [
     {
       "title": "Gossip",
@@ -3564,6 +3728,13 @@
       "id": "Elliott_0132"
     }
   ],
+  "1 Peter 2:15-16": [
+    {
+      "title": "South Park: Bigger, Longer and Uncut",
+      "page": "reviews/elliott-0197-south-park-bigger-longer-and-uncut.html",
+      "id": "Elliott_0197"
+    }
+  ],
   "1 Peter 2:21": [
     {
       "title": "K-Pax",
@@ -3583,6 +3754,11 @@
       "title": "American Pie 2",
       "page": "reviews/elliott-0036-american-pie-2.html",
       "id": "Elliott_0036"
+    },
+    {
+      "title": "She's All That",
+      "page": "reviews/elliott-0194-she-s-all-that.html",
+      "id": "Elliott_0194"
     }
   ],
   "1 Peter 3:7": [
@@ -3755,6 +3931,13 @@
       "id": "Elliott_0027"
     }
   ],
+  "1 John 4:11": [
+    {
+      "title": "Sometime in August",
+      "page": "reviews/elliott-0196-sometime-in-august.html",
+      "id": "Elliott_0196"
+    }
+  ],
   "1 John 4:18": [
     {
       "title": "Arlington Road",
@@ -3772,6 +3955,13 @@
       "title": "King Kong",
       "page": "reviews/elliott-0126-king-kong.html",
       "id": "Elliott_0126"
+    }
+  ],
+  "1 John 5:3": [
+    {
+      "title": "Sometime in August",
+      "page": "reviews/elliott-0196-sometime-in-august.html",
+      "id": "Elliott_0196"
     }
   ],
   "1 John 5:13": [
