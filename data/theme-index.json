@@ -118,6 +118,13 @@
       "id": "Elliott_0213"
     }
   ],
+  "Anger": [
+    {
+      "title": "Anger Management",
+      "page": "reviews/elliott-0238-anger-management.html",
+      "id": "Elliott_0238"
+    }
+  ],
   "Animals": [
     {
       "title": "102 Dalmatians",
@@ -329,6 +336,13 @@
       "id": "Elliott_0054"
     }
   ],
+  "celebrity": [
+    {
+      "title": "America's Sweethearts",
+      "page": "reviews/elliott-0239-america-s-sweethearts.html",
+      "id": "Elliott_0239"
+    }
+  ],
   "change": [
     {
       "title": "After the Sunset",
@@ -346,6 +360,11 @@
       "title": "Adaptation",
       "page": "reviews/elliott-0226-adaptation.html",
       "id": "Elliott_0226"
+    },
+    {
+      "title": "Analyze That",
+      "page": "reviews/elliott-0231-analyze-that.html",
+      "id": "Elliott_0231"
     },
     {
       "title": "Shiloh 2: Shiloh Season",
@@ -718,6 +737,11 @@
       "id": "Elliott_0040"
     },
     {
+      "title": "Anacondas: The Hunt for the Blood Orchid",
+      "page": "reviews/elliott-0235-anacondas-the-hunt-for-the-blood-orchid.html",
+      "id": "Elliott_0235"
+    },
+    {
       "title": "Go",
       "page": "reviews/elliott-0100-go.html",
       "id": "Elliott_0100"
@@ -912,6 +936,11 @@
   ],
   "Creation": [
     {
+      "title": "A.I. Artificial Intelligence",
+      "page": "reviews/elliott-0234-a-i-artificial-intelligence.html",
+      "id": "Elliott_0234"
+    },
+    {
       "title": "The Crocodile Hunter: Collision Course",
       "page": "reviews/elliott-0054-the-crocodile-hunter-collision-course.html",
       "id": "Elliott_0054"
@@ -1100,9 +1129,19 @@
   ],
   "discernment": [
     {
+      "title": "America's Sweethearts",
+      "page": "reviews/elliott-0239-america-s-sweethearts.html",
+      "id": "Elliott_0239"
+    },
+    {
       "title": "The Art of War",
       "page": "reviews/elliott-0017-the-art-of-war.html",
       "id": "Elliott_0017"
+    },
+    {
+      "title": "Austin Powers II: The Spy Who Shagged Me",
+      "page": "reviews/elliott-0232-austin-powers-ii-the-spy-who-shagged-me.html",
+      "id": "Elliott_0232"
     },
     {
       "title": "Domino",
@@ -1331,6 +1370,11 @@
   ],
   "emotions": [
     {
+      "title": "Anger Management",
+      "page": "reviews/elliott-0238-anger-management.html",
+      "id": "Elliott_0238"
+    },
+    {
       "title": "Birth",
       "page": "reviews/elliott-0029-birth.html",
       "id": "Elliott_0029"
@@ -1462,6 +1506,13 @@
       "id": "Elliott_0187"
     }
   ],
+  "Ethics": [
+    {
+      "title": "American Gangster",
+      "page": "reviews/elliott-0240-american-gangster.html",
+      "id": "Elliott_0240"
+    }
+  ],
   "evangelism": [
     {
       "title": "Blue Streak",
@@ -1546,6 +1597,13 @@
       "title": "Friday Night Lights",
       "page": "reviews/elliott-0083-friday-night-lights.html",
       "id": "Elliott_0083"
+    }
+  ],
+  "existence": [
+    {
+      "title": "A.I. Artificial Intelligence",
+      "page": "reviews/elliott-0234-a-i-artificial-intelligence.html",
+      "id": "Elliott_0234"
     }
   ],
   "Existence of God": [
@@ -1681,6 +1739,13 @@
       "id": "Elliott_0004"
     }
   ],
+  "false images": [
+    {
+      "title": "America's Sweethearts",
+      "page": "reviews/elliott-0239-america-s-sweethearts.html",
+      "id": "Elliott_0239"
+    }
+  ],
   "false prophets": [
     {
       "title": "Exit Wounds",
@@ -1737,6 +1802,11 @@
     }
   ],
   "family": [
+    {
+      "title": "A.I. Artificial Intelligence",
+      "page": "reviews/elliott-0234-a-i-artificial-intelligence.html",
+      "id": "Elliott_0234"
+    },
     {
       "title": "Hanging Up",
       "page": "reviews/elliott-0109-hanging-up.html",
@@ -1829,7 +1899,19 @@
       "id": "Elliott_0220"
     }
   ],
+  "fear of God": [
+    {
+      "title": "Alfie",
+      "page": "reviews/elliott-0237-alfie.html",
+      "id": "Elliott_0237"
+    }
+  ],
   "fellowship": [
+    {
+      "title": "A.I. Artificial Intelligence",
+      "page": "reviews/elliott-0234-a-i-artificial-intelligence.html",
+      "id": "Elliott_0234"
+    },
     {
       "title": "The Mighty",
       "page": "reviews/elliott-0142-the-mighty.html",
@@ -1860,6 +1942,13 @@
       "title": "Notting Hill",
       "page": "reviews/elliott-0151-notting-hill.html",
       "id": "Elliott_0151"
+    }
+  ],
+  "flesh versus spirit": [
+    {
+      "title": "Austin Powers II: The Spy Who Shagged Me",
+      "page": "reviews/elliott-0232-austin-powers-ii-the-spy-who-shagged-me.html",
+      "id": "Elliott_0232"
     }
   ],
   "focusing on godly things": [
@@ -1982,6 +2071,11 @@
   ],
   "free will": [
     {
+      "title": "Agent Cody Banks 2: Destination London",
+      "page": "reviews/elliott-0236-agent-cody-banks-2-destination-london.html",
+      "id": "Elliott_0236"
+    },
+    {
       "title": "Gothika",
       "page": "reviews/elliott-0009-gothika.html",
       "id": "Elliott_0009"
@@ -2045,6 +2139,11 @@
       "title": "About Schmidt",
       "page": "reviews/elliott-0227-about-schmidt.html",
       "id": "Elliott_0227"
+    },
+    {
+      "title": "Alfie",
+      "page": "reviews/elliott-0237-alfie.html",
+      "id": "Elliott_0237"
     }
   ],
   "Future": [
@@ -2090,6 +2189,11 @@
     }
   ],
   "giving": [
+    {
+      "title": "The Anniversary Party",
+      "page": "reviews/elliott-0233-the-anniversary-party.html",
+      "id": "Elliott_0233"
+    },
     {
       "title": "Erin Brockovich",
       "page": "reviews/elliott-0071-erin-brockovich.html",
@@ -2407,6 +2511,11 @@
     }
   ],
   "greed": [
+    {
+      "title": "Anacondas: The Hunt for the Blood Orchid",
+      "page": "reviews/elliott-0235-anacondas-the-hunt-for-the-blood-orchid.html",
+      "id": "Elliott_0235"
+    },
     {
       "title": "Boiler Room",
       "page": "reviews/elliott-0022-boiler-room.html",
@@ -2758,6 +2867,13 @@
       "id": "Elliott_0016"
     }
   ],
+  "hypocrisy": [
+    {
+      "title": "America's Sweethearts",
+      "page": "reviews/elliott-0239-america-s-sweethearts.html",
+      "id": "Elliott_0239"
+    }
+  ],
   "identity": [
     {
       "title": "The Jungle Book 2",
@@ -2773,6 +2889,11 @@
     }
   ],
   "Idolatry": [
+    {
+      "title": "America's Sweethearts",
+      "page": "reviews/elliott-0239-america-s-sweethearts.html",
+      "id": "Elliott_0239"
+    },
     {
       "title": "The Fast and the Furious",
       "page": "reviews/elliott-0081-the-fast-and-the-furious.html",
@@ -3174,6 +3295,11 @@
   ],
   "love": [
     {
+      "title": "A.I. Artificial Intelligence",
+      "page": "reviews/elliott-0234-a-i-artificial-intelligence.html",
+      "id": "Elliott_0234"
+    },
+    {
       "title": "Ella Enchanted",
       "page": "reviews/elliott-0079-ella-enchanted.html",
       "id": "Elliott_0079"
@@ -3221,6 +3347,11 @@
       "id": "Elliott_0040"
     },
     {
+      "title": "The Anniversary Party",
+      "page": "reviews/elliott-0233-the-anniversary-party.html",
+      "id": "Elliott_0233"
+    },
+    {
       "title": "Breakin' All the Rules",
       "page": "reviews/elliott-0027-breakin-all-the-rules.html",
       "id": "Elliott_0027"
@@ -3257,6 +3388,11 @@
     }
   ],
   "Love of money": [
+    {
+      "title": "Anacondas: The Hunt for the Blood Orchid",
+      "page": "reviews/elliott-0235-anacondas-the-hunt-for-the-blood-orchid.html",
+      "id": "Elliott_0235"
+    },
     {
       "title": "Boiler Room",
       "page": "reviews/elliott-0022-boiler-room.html",
@@ -3328,6 +3464,11 @@
   ],
   "marriage": [
     {
+      "title": "The Anniversary Party",
+      "page": "reviews/elliott-0233-the-anniversary-party.html",
+      "id": "Elliott_0233"
+    },
+    {
       "title": "Win a Date with Tad Hamilton!",
       "page": "reviews/elliott-0214-win-a-date-with-tad-hamilton.html",
       "id": "Elliott_0214"
@@ -3360,6 +3501,13 @@
       "title": "I ♥ Huckabees",
       "page": "reviews/elliott-0118-i-huckabees.html",
       "id": "Elliott_0118"
+    }
+  ],
+  "meaning of life": [
+    {
+      "title": "Alfie",
+      "page": "reviews/elliott-0237-alfie.html",
+      "id": "Elliott_0237"
     }
   ],
   "meaningful contribution": [
@@ -3395,6 +3543,13 @@
       "title": "The Country Bears",
       "page": "reviews/elliott-0053-the-country-bears.html",
       "id": "Elliott_0053"
+    }
+  ],
+  "Mind": [
+    {
+      "title": "Agent Cody Banks 2: Destination London",
+      "page": "reviews/elliott-0236-agent-cody-banks-2-destination-london.html",
+      "id": "Elliott_0236"
     }
   ],
   "mistakes": [
@@ -3489,6 +3644,13 @@
       "title": "The Good Shepherd",
       "page": "reviews/elliott-0008-the-good-shepherd.html",
       "id": "Elliott_0008"
+    }
+  ],
+  "new life": [
+    {
+      "title": "Analyze That",
+      "page": "reviews/elliott-0231-analyze-that.html",
+      "id": "Elliott_0231"
     }
   ],
   "nurture": [
@@ -3921,6 +4083,11 @@
   ],
   "priorities": [
     {
+      "title": "Anacondas: The Hunt for the Blood Orchid",
+      "page": "reviews/elliott-0235-anacondas-the-hunt-for-the-blood-orchid.html",
+      "id": "Elliott_0235"
+    },
+    {
       "title": "The Fast and the Furious",
       "page": "reviews/elliott-0081-the-fast-and-the-furious.html",
       "id": "Elliott_0081"
@@ -3995,12 +4162,22 @@
       "id": "Elliott_0227"
     },
     {
+      "title": "Alfie",
+      "page": "reviews/elliott-0237-alfie.html",
+      "id": "Elliott_0237"
+    },
+    {
       "title": "Confessions of a Dangerous Mind",
       "page": "reviews/elliott-0051-confessions-of-a-dangerous-mind.html",
       "id": "Elliott_0051"
     }
   ],
   "purpose": [
+    {
+      "title": "A.I. Artificial Intelligence",
+      "page": "reviews/elliott-0234-a-i-artificial-intelligence.html",
+      "id": "Elliott_0234"
+    },
     {
       "title": "Ronin",
       "page": "reviews/elliott-0185-ronin.html",
@@ -4054,6 +4231,13 @@
       "title": "The Thirteenth Floor",
       "page": "reviews/elliott-0205-the-thirteenth-floor.html",
       "id": "Elliott_0205"
+    }
+  ],
+  "reason": [
+    {
+      "title": "Anger Management",
+      "page": "reviews/elliott-0238-anger-management.html",
+      "id": "Elliott_0238"
     }
   ],
   "reconciliation": [
@@ -4142,6 +4326,11 @@
   ],
   "relationships": [
     {
+      "title": "The Anniversary Party",
+      "page": "reviews/elliott-0233-the-anniversary-party.html",
+      "id": "Elliott_0233"
+    },
+    {
       "title": "Breakin' All the Rules",
       "page": "reviews/elliott-0027-breakin-all-the-rules.html",
       "id": "Elliott_0027"
@@ -4213,6 +4402,13 @@
       "id": "Elliott_0220"
     }
   ],
+  "renewing behavior": [
+    {
+      "title": "Analyze That",
+      "page": "reviews/elliott-0231-analyze-that.html",
+      "id": "Elliott_0231"
+    }
+  ],
   "Renewing the mind": [
     {
       "title": "Antwone Fisher",
@@ -4230,6 +4426,11 @@
       "title": "Adaptation",
       "page": "reviews/elliott-0226-adaptation.html",
       "id": "Elliott_0226"
+    },
+    {
+      "title": "Agent Cody Banks 2: Destination London",
+      "page": "reviews/elliott-0236-agent-cody-banks-2-destination-london.html",
+      "id": "Elliott_0236"
     },
     {
       "title": "American History X",
@@ -4263,6 +4464,11 @@
     }
   ],
   "repentance": [
+    {
+      "title": "Analyze That",
+      "page": "reviews/elliott-0231-analyze-that.html",
+      "id": "Elliott_0231"
+    },
     {
       "title": "Magnolia",
       "page": "reviews/elliott-0149-magnolia.html",
@@ -4333,6 +4539,11 @@
     }
   ],
   "responsibility": [
+    {
+      "title": "Alfie",
+      "page": "reviews/elliott-0237-alfie.html",
+      "id": "Elliott_0237"
+    },
     {
       "title": "Assault on Precinct 13",
       "page": "reviews/elliott-0032-assault-on-precinct-13.html",
@@ -4478,6 +4689,13 @@
       "id": "Elliott_0023"
     }
   ],
+  "righteous anger": [
+    {
+      "title": "Anger Management",
+      "page": "reviews/elliott-0238-anger-management.html",
+      "id": "Elliott_0238"
+    }
+  ],
   "righteousness": [
     {
       "title": "Angela's Ashes",
@@ -4611,6 +4829,11 @@
       "id": "Elliott_0045"
     },
     {
+      "title": "Anger Management",
+      "page": "reviews/elliott-0238-anger-management.html",
+      "id": "Elliott_0238"
+    },
+    {
       "title": "Nutty Professor II: The Klumps",
       "page": "reviews/elliott-0159-nutty-professor-ii-the-klumps.html",
       "id": "Elliott_0159"
@@ -4657,6 +4880,11 @@
     }
   ],
   "selflessness": [
+    {
+      "title": "The Anniversary Party",
+      "page": "reviews/elliott-0233-the-anniversary-party.html",
+      "id": "Elliott_0233"
+    },
     {
       "title": "Breakin' All the Rules",
       "page": "reviews/elliott-0027-breakin-all-the-rules.html",
@@ -4839,6 +5067,20 @@
       "title": "August Rush",
       "page": "reviews/elliott-0221-august-rush.html",
       "id": "Elliott_0221"
+    }
+  ],
+  "Spiritual authority": [
+    {
+      "title": "Austin Powers II: The Spy Who Shagged Me",
+      "page": "reviews/elliott-0232-austin-powers-ii-the-spy-who-shagged-me.html",
+      "id": "Elliott_0232"
+    }
+  ],
+  "spiritual battle": [
+    {
+      "title": "Agent Cody Banks 2: Destination London",
+      "page": "reviews/elliott-0236-agent-cody-banks-2-destination-london.html",
+      "id": "Elliott_0236"
     }
   ],
   "spiritual contamination": [
@@ -5288,6 +5530,11 @@
   ],
   "temptation": [
     {
+      "title": "Anacondas: The Hunt for the Blood Orchid",
+      "page": "reviews/elliott-0235-anacondas-the-hunt-for-the-blood-orchid.html",
+      "id": "Elliott_0235"
+    },
+    {
       "title": "Boiler Room",
       "page": "reviews/elliott-0022-boiler-room.html",
       "id": "Elliott_0022"
@@ -5383,6 +5630,13 @@
       "id": "Elliott_0113"
     }
   ],
+  "the name of Jesus Christ": [
+    {
+      "title": "Austin Powers II: The Spy Who Shagged Me",
+      "page": "reviews/elliott-0232-austin-powers-ii-the-spy-who-shagged-me.html",
+      "id": "Elliott_0232"
+    }
+  ],
   "the nature of God": [
     {
       "title": "Frailty",
@@ -5467,6 +5721,11 @@
   ],
   "thoughts": [
     {
+      "title": "Agent Cody Banks 2: Destination London",
+      "page": "reviews/elliott-0236-agent-cody-banks-2-destination-london.html",
+      "id": "Elliott_0236"
+    },
+    {
       "title": "The Thin Red Line",
       "page": "reviews/elliott-0206-the-thin-red-line.html",
       "id": "Elliott_0206"
@@ -5492,6 +5751,11 @@
     }
   ],
   "transformation": [
+    {
+      "title": "Analyze That",
+      "page": "reviews/elliott-0231-analyze-that.html",
+      "id": "Elliott_0231"
+    },
     {
       "title": "Antwone Fisher",
       "page": "reviews/elliott-0050-antwone-fisher.html",

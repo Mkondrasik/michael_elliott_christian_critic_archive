@@ -390,6 +390,13 @@
       "id": "Elliott_0099"
     }
   ],
+  "Job 34:30": [
+    {
+      "title": "America's Sweethearts",
+      "page": "reviews/elliott-0239-america-s-sweethearts.html",
+      "id": "Elliott_0239"
+    }
+  ],
   "Job 42:2": [
     {
       "title": "Facing the Giants",
@@ -689,6 +696,13 @@
       "id": "Elliott_0081"
     }
   ],
+  "Psalms 115:16": [
+    {
+      "title": "A.I. Artificial Intelligence",
+      "page": "reviews/elliott-0234-a-i-artificial-intelligence.html",
+      "id": "Elliott_0234"
+    }
+  ],
   "Psalms 118:8": [
     {
       "title": "The Truth About Charlie",
@@ -759,11 +773,25 @@
       "id": "Elliott_0218"
     }
   ],
+  "Proverbs 1:10-19": [
+    {
+      "title": "Anacondas: The Hunt for the Blood Orchid",
+      "page": "reviews/elliott-0235-anacondas-the-hunt-for-the-blood-orchid.html",
+      "id": "Elliott_0235"
+    }
+  ],
   "Proverbs 2:4-5": [
     {
       "title": "Inspector Gadget 2",
       "page": "reviews/elliott-0112-inspector-gadget-2.html",
       "id": "Elliott_0112"
+    }
+  ],
+  "Proverbs 3:5": [
+    {
+      "title": "American Gangster",
+      "page": "reviews/elliott-0240-american-gangster.html",
+      "id": "Elliott_0240"
     }
   ],
   "Proverbs 3:5-6": [
@@ -980,6 +1008,13 @@
       "id": "Elliott_0176"
     }
   ],
+  "Proverbs 16:32": [
+    {
+      "title": "Anger Management",
+      "page": "reviews/elliott-0238-anger-management.html",
+      "id": "Elliott_0238"
+    }
+  ],
   "Proverbs 17:17": [
     {
       "title": "You Got Served",
@@ -1030,6 +1065,13 @@
       "title": "Rules of Engagement",
       "page": "reviews/elliott-0184-rules-of-engagement.html",
       "id": "Elliott_0184"
+    }
+  ],
+  "Proverbs 19:23": [
+    {
+      "title": "Alfie",
+      "page": "reviews/elliott-0237-alfie.html",
+      "id": "Elliott_0237"
     }
   ],
   "Proverbs 19:27": [
@@ -1205,6 +1247,13 @@
       "id": "Elliott_0022"
     }
   ],
+  "Proverbs 28:26": [
+    {
+      "title": "American Gangster",
+      "page": "reviews/elliott-0240-american-gangster.html",
+      "id": "Elliott_0240"
+    }
+  ],
   "Proverbs 29:6": [
     {
       "title": "Nicholas Nickleby",
@@ -1327,6 +1376,13 @@
       "id": "Elliott_0011"
     }
   ],
+  "Ecclesiastes 7:9": [
+    {
+      "title": "Anger Management",
+      "page": "reviews/elliott-0238-anger-management.html",
+      "id": "Elliott_0238"
+    }
+  ],
   "Ecclesiastes 8:5": [
     {
       "title": "Identity",
@@ -1381,6 +1437,11 @@
       "title": "About Schmidt",
       "page": "reviews/elliott-0227-about-schmidt.html",
       "id": "Elliott_0227"
+    },
+    {
+      "title": "Alfie",
+      "page": "reviews/elliott-0237-alfie.html",
+      "id": "Elliott_0237"
     },
     {
       "title": "Gun Shy",
@@ -1504,6 +1565,11 @@
     }
   ],
   "Isaiah 45:18": [
+    {
+      "title": "A.I. Artificial Intelligence",
+      "page": "reviews/elliott-0234-a-i-artificial-intelligence.html",
+      "id": "Elliott_0234"
+    },
     {
       "title": "The Legend of 1900",
       "page": "reviews/elliott-0135-the-legend-of-1900.html",
@@ -1676,6 +1742,13 @@
       "title": "Around the Bend",
       "page": "reviews/elliott-0042-around-the-bend.html",
       "id": "Elliott_0042"
+    }
+  ],
+  "Zechariah 10:2": [
+    {
+      "title": "America's Sweethearts",
+      "page": "reviews/elliott-0239-america-s-sweethearts.html",
+      "id": "Elliott_0239"
     }
   ],
   "Malachi 2:10": [
@@ -1875,6 +1948,13 @@
       "title": "Todo sobre mi madre (All About My Mother)",
       "page": "reviews/elliott-0019-todo-sobre-mi-madre-all-about-my-mother.html",
       "id": "Elliott_0019"
+    }
+  ],
+  "Matthew 21:12-13": [
+    {
+      "title": "Anger Management",
+      "page": "reviews/elliott-0238-anger-management.html",
+      "id": "Elliott_0238"
     }
   ],
   "Matthew 21:16": [
@@ -2088,6 +2168,13 @@
       "id": "Elliott_0097"
     }
   ],
+  "Luke 9:25": [
+    {
+      "title": "Anacondas: The Hunt for the Blood Orchid",
+      "page": "reviews/elliott-0235-anacondas-the-hunt-for-the-blood-orchid.html",
+      "id": "Elliott_0235"
+    }
+  ],
   "Luke 9:62": [
     {
       "title": "Deja Vu",
@@ -2175,6 +2262,13 @@
       "title": "Pan's Labyrinth",
       "page": "reviews/elliott-0180-pan-s-labyrinth.html",
       "id": "Elliott_0180"
+    }
+  ],
+  "John 3:16": [
+    {
+      "title": "The Anniversary Party",
+      "page": "reviews/elliott-0233-the-anniversary-party.html",
+      "id": "Elliott_0233"
     }
   ],
   "John 5:39": [
@@ -2449,6 +2543,13 @@
       "id": "Elliott_0075"
     }
   ],
+  "Acts 19:13-16": [
+    {
+      "title": "Austin Powers II: The Spy Who Shagged Me",
+      "page": "reviews/elliott-0232-austin-powers-ii-the-spy-who-shagged-me.html",
+      "id": "Elliott_0232"
+    }
+  ],
   "Acts 20:29-30": [
     {
       "title": "King Arthur",
@@ -2471,6 +2572,11 @@
     }
   ],
   "Acts 26:9-11": [
+    {
+      "title": "Analyze That",
+      "page": "reviews/elliott-0231-analyze-that.html",
+      "id": "Elliott_0231"
+    },
     {
       "title": "Half Past Dead",
       "page": "reviews/elliott-0103-half-past-dead.html",
@@ -2503,6 +2609,13 @@
       "title": "Legally Blonde 2: Red, White & Blonde",
       "page": "reviews/elliott-0138-legally-blonde-2-red-white-and-blonde.html",
       "id": "Elliott_0138"
+    }
+  ],
+  "Romans 8:6": [
+    {
+      "title": "Agent Cody Banks 2: Destination London",
+      "page": "reviews/elliott-0236-agent-cody-banks-2-destination-london.html",
+      "id": "Elliott_0236"
     }
   ],
   "Romans 8:16-17a": [
@@ -2564,6 +2677,11 @@
       "title": "Adaptation",
       "page": "reviews/elliott-0226-adaptation.html",
       "id": "Elliott_0226"
+    },
+    {
+      "title": "Agent Cody Banks 2: Destination London",
+      "page": "reviews/elliott-0236-agent-cody-banks-2-destination-london.html",
+      "id": "Elliott_0236"
     },
     {
       "title": "Antwone Fisher",
@@ -3102,6 +3220,13 @@
       "id": "Elliott_0222"
     }
   ],
+  "Galatians 1:23-24": [
+    {
+      "title": "Analyze That",
+      "page": "reviews/elliott-0231-analyze-that.html",
+      "id": "Elliott_0231"
+    }
+  ],
   "Galatians 3:16": [
     {
       "title": "A Knight's Tale",
@@ -3135,6 +3260,18 @@
       "title": "Amores perros (Love’s A Bitch)",
       "page": "reviews/elliott-0040-amores-perros-love-s-a-bitch.html",
       "id": "Elliott_0040"
+    }
+  ],
+  "Galatians 5:16-17": [
+    {
+      "title": "Alfie",
+      "page": "reviews/elliott-0237-alfie.html",
+      "id": "Elliott_0237"
+    },
+    {
+      "title": "Austin Powers II: The Spy Who Shagged Me",
+      "page": "reviews/elliott-0232-austin-powers-ii-the-spy-who-shagged-me.html",
+      "id": "Elliott_0232"
     }
   ],
   "Galatians 5:16-23": [
@@ -3189,6 +3326,13 @@
       "title": "Head in the Clouds",
       "page": "reviews/elliott-0119-head-in-the-clouds.html",
       "id": "Elliott_0119"
+    }
+  ],
+  "Ephesians 1:4-5": [
+    {
+      "title": "A.I. Artificial Intelligence",
+      "page": "reviews/elliott-0234-a-i-artificial-intelligence.html",
+      "id": "Elliott_0234"
     }
   ],
   "Ephesians 1:18": [
@@ -3311,6 +3455,11 @@
   ],
   "Ephesians 4:22-24": [
     {
+      "title": "Agent Cody Banks 2: Destination London",
+      "page": "reviews/elliott-0236-agent-cody-banks-2-destination-london.html",
+      "id": "Elliott_0236"
+    },
+    {
       "title": "Nutty Professor II: The Klumps",
       "page": "reviews/elliott-0159-nutty-professor-ii-the-klumps.html",
       "id": "Elliott_0159"
@@ -3371,6 +3520,11 @@
   ],
   "Ephesians 5:2": [
     {
+      "title": "The Anniversary Party",
+      "page": "reviews/elliott-0233-the-anniversary-party.html",
+      "id": "Elliott_0233"
+    },
+    {
       "title": "How To Lose A Guy in Ten Days",
       "page": "reviews/elliott-0102-how-to-lose-a-guy-in-ten-days.html",
       "id": "Elliott_0102"
@@ -3420,6 +3574,11 @@
     }
   ],
   "Ephesians 5:24-25": [
+    {
+      "title": "The Anniversary Party",
+      "page": "reviews/elliott-0233-the-anniversary-party.html",
+      "id": "Elliott_0233"
+    },
     {
       "title": "The Painted Veil",
       "page": "reviews/elliott-0171-the-painted-veil.html",
@@ -3615,6 +3774,11 @@
     }
   ],
   "Colossians 3:9-10": [
+    {
+      "title": "Analyze That",
+      "page": "reviews/elliott-0231-analyze-that.html",
+      "id": "Elliott_0231"
+    },
     {
       "title": "Nutty Professor II: The Klumps",
       "page": "reviews/elliott-0159-nutty-professor-ii-the-klumps.html",
@@ -3882,6 +4046,11 @@
   ],
   "1 Timothy 6:10": [
     {
+      "title": "Anacondas: The Hunt for the Blood Orchid",
+      "page": "reviews/elliott-0235-anacondas-the-hunt-for-the-blood-orchid.html",
+      "id": "Elliott_0235"
+    },
+    {
       "title": "Boiler Room",
       "page": "reviews/elliott-0022-boiler-room.html",
       "id": "Elliott_0022"
@@ -3939,6 +4108,13 @@
       "title": "Scary Movie",
       "page": "reviews/elliott-0199-scary-movie.html",
       "id": "Elliott_0199"
+    }
+  ],
+  "2 Timothy 2:19": [
+    {
+      "title": "Austin Powers II: The Spy Who Shagged Me",
+      "page": "reviews/elliott-0232-austin-powers-ii-the-spy-who-shagged-me.html",
+      "id": "Elliott_0232"
     }
   ],
   "2 Timothy 2:20-21": [
@@ -4187,6 +4363,13 @@
       "title": "Never Been Kissed",
       "page": "reviews/elliott-0152-never-been-kissed.html",
       "id": "Elliott_0152"
+    }
+  ],
+  "James 2:10": [
+    {
+      "title": "American Gangster",
+      "page": "reviews/elliott-0240-american-gangster.html",
+      "id": "Elliott_0240"
     }
   ],
   "James 3:2-12": [
@@ -4544,6 +4727,11 @@
     }
   ],
   "1 John 5:21": [
+    {
+      "title": "America's Sweethearts",
+      "page": "reviews/elliott-0239-america-s-sweethearts.html",
+      "id": "Elliott_0239"
+    },
     {
       "title": "The Fast and the Furious",
       "page": "reviews/elliott-0081-the-fast-and-the-furious.html",
