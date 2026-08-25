@@ -348,6 +348,13 @@
       "id": "Elliott_0052"
     }
   ],
+  "2 Chronicles 31:20-21": [
+    {
+      "title": "Amazing Grace",
+      "page": "reviews/elliott-0229-amazing-grace.html",
+      "id": "Elliott_0229"
+    }
+  ],
   "Job 3:25": [
     {
       "title": "Bridget Jones: The Edge of Reason",
@@ -596,6 +603,13 @@
       "title": "Smoke Signals",
       "page": "reviews/elliott-0192-smoke-signals.html",
       "id": "Elliott_0192"
+    }
+  ],
+  "Psalms 78:4-7": [
+    {
+      "title": "Almost Famous",
+      "page": "reviews/elliott-0228-almost-famous.html",
+      "id": "Elliott_0228"
     }
   ],
   "Psalms 84:2": [
@@ -850,6 +864,11 @@
   ],
   "Proverbs 10:12": [
     {
+      "title": "American History X",
+      "page": "reviews/elliott-0222-american-history-x.html",
+      "id": "Elliott_0222"
+    },
+    {
       "title": "Punch Drunk Love",
       "page": "reviews/elliott-0175-punch-drunk-love.html",
       "id": "Elliott_0175"
@@ -1048,6 +1067,11 @@
   ],
   "Proverbs 22:6": [
     {
+      "title": "Almost Famous",
+      "page": "reviews/elliott-0228-almost-famous.html",
+      "id": "Elliott_0228"
+    },
+    {
       "title": "Jesus Camp",
       "page": "reviews/elliott-0117-jesus-camp.html",
       "id": "Elliott_0117"
@@ -1132,6 +1156,11 @@
     }
   ],
   "Proverbs 27:17": [
+    {
+      "title": "Akeela and the Bee",
+      "page": "reviews/elliott-0224-akeela-and-the-bee.html",
+      "id": "Elliott_0224"
+    },
     {
       "title": "Kangaroo Jack",
       "page": "reviews/elliott-0125-kangaroo-jack.html",
@@ -1349,6 +1378,11 @@
   ],
   "Ecclesiastes 12:13": [
     {
+      "title": "About Schmidt",
+      "page": "reviews/elliott-0227-about-schmidt.html",
+      "id": "Elliott_0227"
+    },
+    {
       "title": "Gun Shy",
       "page": "reviews/elliott-0095-gun-shy.html",
       "id": "Elliott_0095"
@@ -1408,6 +1442,13 @@
       "title": "Assault on Precinct 13",
       "page": "reviews/elliott-0032-assault-on-precinct-13.html",
       "id": "Elliott_0032"
+    }
+  ],
+  "Isaiah 14:12-17": [
+    {
+      "title": "Armageddon",
+      "page": "reviews/elliott-0230-armageddon.html",
+      "id": "Elliott_0230"
     }
   ],
   "Isaiah 25:8": [
@@ -1740,6 +1781,13 @@
       "id": "Elliott_0008"
     }
   ],
+  "Matthew 12:25": [
+    {
+      "title": "Any Given Sunday",
+      "page": "reviews/elliott-0225-any-given-sunday.html",
+      "id": "Elliott_0225"
+    }
+  ],
   "Matthew 12:35": [
     {
       "title": "Apt Pupil",
@@ -1841,6 +1889,13 @@
       "title": "Elf",
       "page": "reviews/elliott-0074-elf.html",
       "id": "Elliott_0074"
+    }
+  ],
+  "Matthew 23:12": [
+    {
+      "title": "Any Given Sunday",
+      "page": "reviews/elliott-0225-any-given-sunday.html",
+      "id": "Elliott_0225"
     }
   ],
   "Matthew 23:25-27": [
@@ -2310,6 +2365,13 @@
       "id": "Elliott_0067"
     }
   ],
+  "Acts 8:30-31": [
+    {
+      "title": "Accepted",
+      "page": "reviews/elliott-0223-accepted.html",
+      "id": "Elliott_0223"
+    }
+  ],
   "Acts 8:30-31a": [
     {
       "title": "Freedom Writers",
@@ -2357,6 +2419,13 @@
       "title": "Inspector Gadget 2",
       "page": "reviews/elliott-0112-inspector-gadget-2.html",
       "id": "Elliott_0112"
+    }
+  ],
+  "Acts 17:26": [
+    {
+      "title": "American History X",
+      "page": "reviews/elliott-0222-american-history-x.html",
+      "id": "Elliott_0222"
     }
   ],
   "Acts 17:26a": [
@@ -2492,6 +2561,11 @@
   ],
   "Romans 12:2": [
     {
+      "title": "Adaptation",
+      "page": "reviews/elliott-0226-adaptation.html",
+      "id": "Elliott_0226"
+    },
+    {
       "title": "Antwone Fisher",
       "page": "reviews/elliott-0050-antwone-fisher.html",
       "id": "Elliott_0050"
@@ -2594,6 +2668,13 @@
       "id": "Elliott_0030"
     }
   ],
+  "Romans 15:2": [
+    {
+      "title": "Akeela and the Bee",
+      "page": "reviews/elliott-0224-akeela-and-the-bee.html",
+      "id": "Elliott_0224"
+    }
+  ],
   "Romans 15:4": [
     {
       "title": "A Dog of Flanders",
@@ -2620,6 +2701,13 @@
       "title": "The Omega Code",
       "page": "reviews/elliott-0165-the-omega-code.html",
       "id": "Elliott_0165"
+    }
+  ],
+  "1 Corinthians 1:10": [
+    {
+      "title": "Any Given Sunday",
+      "page": "reviews/elliott-0225-any-given-sunday.html",
+      "id": "Elliott_0225"
     }
   ],
   "1 Corinthians 2:8": [
@@ -2707,6 +2795,11 @@
     }
   ],
   "1 Corinthians 8:2": [
+    {
+      "title": "Accepted",
+      "page": "reviews/elliott-0223-accepted.html",
+      "id": "Elliott_0223"
+    },
     {
       "title": "The Glass Jar",
       "page": "reviews/elliott-0097-the-glass-jar.html",
@@ -2897,6 +2990,20 @@
       "id": "Elliott_0100"
     }
   ],
+  "2 Corinthians 5:17": [
+    {
+      "title": "Adaptation",
+      "page": "reviews/elliott-0226-adaptation.html",
+      "id": "Elliott_0226"
+    }
+  ],
+  "2 Corinthians 5:18": [
+    {
+      "title": "August Rush",
+      "page": "reviews/elliott-0221-august-rush.html",
+      "id": "Elliott_0221"
+    }
+  ],
   "2 Corinthians 5:18-19": [
     {
       "title": "Thomas and the Magic Railroad",
@@ -2916,6 +3023,13 @@
       "title": "Johnson Family Vacation",
       "page": "reviews/elliott-0115-johnson-family-vacation.html",
       "id": "Elliott_0115"
+    }
+  ],
+  "2 Corinthians 9:8": [
+    {
+      "title": "Amazing Grace",
+      "page": "reviews/elliott-0229-amazing-grace.html",
+      "id": "Elliott_0229"
     }
   ],
   "2 Corinthians 10:5": [
@@ -2979,6 +3093,13 @@
       "title": "The Alamo",
       "page": "reviews/elliott-0044-the-alamo.html",
       "id": "Elliott_0044"
+    }
+  ],
+  "Galatians 1:13-14": [
+    {
+      "title": "American History X",
+      "page": "reviews/elliott-0222-american-history-x.html",
+      "id": "Elliott_0222"
     }
   ],
   "Galatians 3:16": [
@@ -3173,6 +3294,11 @@
   ],
   "Ephesians 4:22-23": [
     {
+      "title": "Adaptation",
+      "page": "reviews/elliott-0226-adaptation.html",
+      "id": "Elliott_0226"
+    },
+    {
       "title": "Eternal Sunshine of the Spotless Mind",
       "page": "reviews/elliott-0080-eternal-sunshine-of-the-spotless-mind.html",
       "id": "Elliott_0080"
@@ -3256,6 +3382,11 @@
     }
   ],
   "Ephesians 5:15-16": [
+    {
+      "title": "About Schmidt",
+      "page": "reviews/elliott-0227-about-schmidt.html",
+      "id": "Elliott_0227"
+    },
     {
       "title": "Clockstoppers",
       "page": "reviews/elliott-0058-clockstoppers.html",
@@ -3386,6 +3517,11 @@
   ],
   "Philippians 3:13-14": [
     {
+      "title": "About Schmidt",
+      "page": "reviews/elliott-0227-about-schmidt.html",
+      "id": "Elliott_0227"
+    },
+    {
       "title": "Deja Vu",
       "page": "reviews/elliott-0064-deja-vu.html",
       "id": "Elliott_0064"
@@ -3450,6 +3586,13 @@
       "title": "God's Army",
       "page": "reviews/elliott-0093-god-s-army.html",
       "id": "Elliott_0093"
+    }
+  ],
+  "Colossians 2:10": [
+    {
+      "title": "August Rush",
+      "page": "reviews/elliott-0221-august-rush.html",
+      "id": "Elliott_0221"
     }
   ],
   "Colossians 3:2": [
@@ -3535,6 +3678,13 @@
       "id": "Elliott_0164"
     }
   ],
+  "Colossians 3:23": [
+    {
+      "title": "Amazing Grace",
+      "page": "reviews/elliott-0229-amazing-grace.html",
+      "id": "Elliott_0229"
+    }
+  ],
   "Colossians 4:5": [
     {
       "title": "Clockstoppers",
@@ -3561,6 +3711,13 @@
       "title": "Run Lola Run (Lola rennt)",
       "page": "reviews/elliott-0190-run-lola-run-lola-rennt.html",
       "id": "Elliott_0190"
+    }
+  ],
+  "1 Thessalonians. 1:10": [
+    {
+      "title": "Armageddon",
+      "page": "reviews/elliott-0230-armageddon.html",
+      "id": "Elliott_0230"
     }
   ],
   "1 Thessalonians 2:13": [
@@ -3597,6 +3754,11 @@
     }
   ],
   "1 Thessalonians 5:11": [
+    {
+      "title": "Akeela and the Bee",
+      "page": "reviews/elliott-0224-akeela-and-the-bee.html",
+      "id": "Elliott_0224"
+    },
     {
       "title": "Failure to Launch",
       "page": "reviews/elliott-0089-failure-to-launch.html",
@@ -3674,6 +3836,13 @@
       "title": "Judas",
       "page": "reviews/elliott-0116-judas.html",
       "id": "Elliott_0116"
+    }
+  ],
+  "1 Timothy 2:5": [
+    {
+      "title": "August Rush",
+      "page": "reviews/elliott-0221-august-rush.html",
+      "id": "Elliott_0221"
     }
   ],
   "1 Timothy 2:9-10": [
@@ -3793,11 +3962,25 @@
       "id": "Elliott_0118"
     }
   ],
+  "2 Timothy 3:14-15": [
+    {
+      "title": "Almost Famous",
+      "page": "reviews/elliott-0228-almost-famous.html",
+      "id": "Elliott_0228"
+    }
+  ],
   "2 Timothy 3:16-17": [
     {
       "title": "No Reservations",
       "page": "reviews/elliott-0153-no-reservations.html",
       "id": "Elliott_0153"
+    }
+  ],
+  "2 Timothy 4:3": [
+    {
+      "title": "Accepted",
+      "page": "reviews/elliott-0223-accepted.html",
+      "id": "Elliott_0223"
     }
   ],
   "Titus 1:2": [
@@ -4427,6 +4610,13 @@
       "title": "Meet Joe Black",
       "page": "reviews/elliott-0144-meet-joe-black.html",
       "id": "Elliott_0144"
+    }
+  ],
+  "Revelations 12:7-9": [
+    {
+      "title": "Armageddon",
+      "page": "reviews/elliott-0230-armageddon.html",
+      "id": "Elliott_0230"
     }
   ]
 }
