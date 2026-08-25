@@ -193,6 +193,13 @@
       "id": "Elliott_0007"
     }
   ],
+  "Deuteronomy 28:2": [
+    {
+      "title": "Ten Things I Hate About You",
+      "page": "reviews/elliott-0207-ten-things-i-hate-about-you.html",
+      "id": "Elliott_0207"
+    }
+  ],
   "Deuteronomy 30:10-20": [
     {
       "title": "The Omega Code",
@@ -444,6 +451,13 @@
       "title": "Out of Time",
       "page": "reviews/elliott-0168-out-of-time.html",
       "id": "Elliott_0168"
+    }
+  ],
+  "Psalms 33:4": [
+    {
+      "title": "The Thirteenth Floor",
+      "page": "reviews/elliott-0205-the-thirteenth-floor.html",
+      "id": "Elliott_0205"
     }
   ],
   "Psalms 35:11-12": [
@@ -954,6 +968,11 @@
   ],
   "Proverbs 20:1": [
     {
+      "title": "28 Days",
+      "page": "reviews/elliott-0202-28-days.html",
+      "id": "Elliott_0202"
+    },
+    {
       "title": "High Crimes",
       "page": "reviews/elliott-0104-high-crimes.html",
       "id": "Elliott_0104"
@@ -995,6 +1014,11 @@
       "title": "Jesus Camp",
       "page": "reviews/elliott-0117-jesus-camp.html",
       "id": "Elliott_0117"
+    },
+    {
+      "title": "Ten Things I Hate About You",
+      "page": "reviews/elliott-0207-ten-things-i-hate-about-you.html",
+      "id": "Elliott_0207"
     }
   ],
   "Proverbs 23:4": [
@@ -1002,6 +1026,20 @@
       "title": "In Good Company",
       "page": "reviews/elliott-0120-in-good-company.html",
       "id": "Elliott_0120"
+    }
+  ],
+  "Proverbs 23:7": [
+    {
+      "title": "The Thirteenth Floor",
+      "page": "reviews/elliott-0205-the-thirteenth-floor.html",
+      "id": "Elliott_0205"
+    }
+  ],
+  "Proverbs 23:29-32": [
+    {
+      "title": "28 Days",
+      "page": "reviews/elliott-0202-28-days.html",
+      "id": "Elliott_0202"
     }
   ],
   "Proverbs 24:29": [
@@ -1634,6 +1672,13 @@
       "id": "Elliott_0009"
     }
   ],
+  "Matthew 12:48-50": [
+    {
+      "title": "The Tigger Movie",
+      "page": "reviews/elliott-0203-the-tigger-movie.html",
+      "id": "Elliott_0203"
+    }
+  ],
   "Matthew 13:58": [
     {
       "title": "Dreamer: Inspired by a True Story",
@@ -1716,6 +1761,13 @@
       "title": "Miss Congeniality",
       "page": "reviews/elliott-0146-miss-congeniality.html",
       "id": "Elliott_0146"
+    }
+  ],
+  "Matthew 26:41": [
+    {
+      "title": "Varsity Blues",
+      "page": "reviews/elliott-0210-varsity-blues.html",
+      "id": "Elliott_0210"
     }
   ],
   "Matthew 26:52": [
@@ -1880,6 +1932,13 @@
       "id": "Elliott_0064"
     }
   ],
+  "Luke 10:17-19": [
+    {
+      "title": "Titan AE",
+      "page": "reviews/elliott-0209-titan-ae.html",
+      "id": "Elliott_0209"
+    }
+  ],
   "Luke 11:24-26": [
     {
       "title": "High Crimes",
@@ -1983,6 +2042,13 @@
       "id": "Elliott_0146"
     }
   ],
+  "John 8:29": [
+    {
+      "title": "Tarzan",
+      "page": "reviews/elliott-0208-tarzan.html",
+      "id": "Elliott_0208"
+    }
+  ],
   "John 8:32": [
     {
       "title": "Down in the Valley",
@@ -2051,6 +2117,11 @@
       "title": "Friday Night Lights",
       "page": "reviews/elliott-0083-friday-night-lights.html",
       "id": "Elliott_0083"
+    },
+    {
+      "title": "Titan AE",
+      "page": "reviews/elliott-0209-titan-ae.html",
+      "id": "Elliott_0209"
     }
   ],
   "John 14:27": [
@@ -2247,6 +2318,13 @@
       "id": "Elliott_0138"
     }
   ],
+  "Romans 8:16-17a": [
+    {
+      "title": "The Tigger Movie",
+      "page": "reviews/elliott-0203-the-tigger-movie.html",
+      "id": "Elliott_0203"
+    }
+  ],
   "Romans 8:24": [
     {
       "title": "George Washington",
@@ -2419,6 +2497,13 @@
       "id": "Elliott_0165"
     }
   ],
+  "1 Corinthians 2:8": [
+    {
+      "title": "Titan AE",
+      "page": "reviews/elliott-0209-titan-ae.html",
+      "id": "Elliott_0209"
+    }
+  ],
   "1 Corinthians 2:9": [
     {
       "title": "Reindeer Games",
@@ -2468,6 +2553,13 @@
       "id": "Elliott_0086"
     }
   ],
+  "1 Corinthians 4:1": [
+    {
+      "title": "Thomas and the Magic Railroad",
+      "page": "reviews/elliott-0201-thomas-and-the-magic-railroad.html",
+      "id": "Elliott_0201"
+    }
+  ],
   "1 Corinthians 4:2": [
     {
       "title": "Collateral Damage",
@@ -2508,6 +2600,11 @@
       "title": "Lemony Snicket's A Series of Unfortunate Events",
       "page": "reviews/elliott-0131-lemony-snicket-s-a-series-of-unfortunate-events.html",
       "id": "Elliott_0131"
+    },
+    {
+      "title": "Varsity Blues",
+      "page": "reviews/elliott-0210-varsity-blues.html",
+      "id": "Elliott_0210"
     }
   ],
   "1 Corinthians 10:24": [
@@ -2675,11 +2772,25 @@
       "id": "Elliott_0100"
     }
   ],
+  "2 Corinthians 5:18-19": [
+    {
+      "title": "Thomas and the Magic Railroad",
+      "page": "reviews/elliott-0201-thomas-and-the-magic-railroad.html",
+      "id": "Elliott_0201"
+    }
+  ],
   "2 Corinthians 6:18": [
     {
       "title": "Johnson Family Vacation",
       "page": "reviews/elliott-0115-johnson-family-vacation.html",
       "id": "Elliott_0115"
+    }
+  ],
+  "2 Corinthians 10:5": [
+    {
+      "title": "28 Days",
+      "page": "reviews/elliott-0202-28-days.html",
+      "id": "Elliott_0202"
     }
   ],
   "2 Corinthians 10:7": [
@@ -3024,6 +3135,13 @@
       "id": "Elliott_0143"
     }
   ],
+  "Ephesians 5:22-23": [
+    {
+      "title": "Ten Things I Hate About You",
+      "page": "reviews/elliott-0207-ten-things-i-hate-about-you.html",
+      "id": "Elliott_0207"
+    }
+  ],
   "Ephesians 5:24-25": [
     {
       "title": "The Painted Veil",
@@ -3050,6 +3168,11 @@
       "title": "Outside Providence",
       "page": "reviews/elliott-0164-outside-providence.html",
       "id": "Elliott_0164"
+    },
+    {
+      "title": "Tarzan",
+      "page": "reviews/elliott-0208-tarzan.html",
+      "id": "Elliott_0208"
     }
   ],
   "Ephesians 6:11-17": [
@@ -3153,6 +3276,13 @@
       "title": "The Aviator",
       "page": "reviews/elliott-0049-the-aviator.html",
       "id": "Elliott_0049"
+    }
+  ],
+  "Colossians 2:2": [
+    {
+      "title": "The Tigger Movie",
+      "page": "reviews/elliott-0203-the-tigger-movie.html",
+      "id": "Elliott_0203"
     }
   ],
   "Colossians 2:6-7": [
@@ -3280,6 +3410,13 @@
       "title": "Kill Bill Vol. 2",
       "page": "reviews/elliott-0129-kill-bill-vol-2.html",
       "id": "Elliott_0129"
+    }
+  ],
+  "1 Thessalonians 4:1": [
+    {
+      "title": "Tarzan",
+      "page": "reviews/elliott-0208-tarzan.html",
+      "id": "Elliott_0208"
     }
   ],
   "1 Thessalonians 4:13-18": [
@@ -3522,6 +3659,11 @@
       "title": "King Kong",
       "page": "reviews/elliott-0126-king-kong.html",
       "id": "Elliott_0126"
+    },
+    {
+      "title": "The Thin Red Line",
+      "page": "reviews/elliott-0206-the-thin-red-line.html",
+      "id": "Elliott_0206"
     }
   ],
   "Titus 3:9-10": [
@@ -3564,6 +3706,20 @@
       "title": "Dreamer: Inspired by a True Story",
       "page": "reviews/elliott-0061-dreamer-inspired-by-a-true-story.html",
       "id": "Elliott_0061"
+    }
+  ],
+  "Hebrews 4:12": [
+    {
+      "title": "True Crime",
+      "page": "reviews/elliott-0204-true-crime.html",
+      "id": "Elliott_0204"
+    }
+  ],
+  "Hebrews 5:12-14": [
+    {
+      "title": "True Crime",
+      "page": "reviews/elliott-0204-true-crime.html",
+      "id": "Elliott_0204"
     }
   ],
   "Hebrews 5:14": [
@@ -3622,6 +3778,13 @@
       "id": "Elliott_0070"
     }
   ],
+  "Hebrews 11:3": [
+    {
+      "title": "The Thirteenth Floor",
+      "page": "reviews/elliott-0205-the-thirteenth-floor.html",
+      "id": "Elliott_0205"
+    }
+  ],
   "Hebrews 12:11": [
     {
       "title": "Meet The Parents",
@@ -3634,6 +3797,13 @@
       "title": "Envy",
       "page": "reviews/elliott-0078-envy.html",
       "id": "Elliott_0078"
+    }
+  ],
+  "James 1:13": [
+    {
+      "title": "Varsity Blues",
+      "page": "reviews/elliott-0210-varsity-blues.html",
+      "id": "Elliott_0210"
     }
   ],
   "James 1:22": [
@@ -3676,6 +3846,20 @@
       "title": "102 Dalmatians",
       "page": "reviews/elliott-0161-102-dalmatians.html",
       "id": "Elliott_0161"
+    }
+  ],
+  "James 3:14-16": [
+    {
+      "title": "The Thin Red Line",
+      "page": "reviews/elliott-0206-the-thin-red-line.html",
+      "id": "Elliott_0206"
+    }
+  ],
+  "James 4:1-2": [
+    {
+      "title": "The Thin Red Line",
+      "page": "reviews/elliott-0206-the-thin-red-line.html",
+      "id": "Elliott_0206"
     }
   ],
   "James 4:1-3": [
@@ -3771,6 +3955,13 @@
       "title": "North Country",
       "page": "reviews/elliott-0156-north-country.html",
       "id": "Elliott_0156"
+    }
+  ],
+  "1 Peter 4:10": [
+    {
+      "title": "Thomas and the Magic Railroad",
+      "page": "reviews/elliott-0201-thomas-and-the-magic-railroad.html",
+      "id": "Elliott_0201"
     }
   ],
   "2 Peter 1:3-4": [

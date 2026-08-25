@@ -82,6 +82,11 @@
   ],
   "Addiction": [
     {
+      "title": "28 Days",
+      "page": "reviews/elliott-0202-28-days.html",
+      "id": "Elliott_0202"
+    },
+    {
       "title": "High Crimes",
       "page": "reviews/elliott-0104-high-crimes.html",
       "id": "Elliott_0104"
@@ -192,6 +197,11 @@
       "title": "Lilo & Stitch",
       "page": "reviews/elliott-0003-lilo-stitch.html",
       "id": "Elliott_0003"
+    },
+    {
+      "title": "The Tigger Movie",
+      "page": "reviews/elliott-0203-the-tigger-movie.html",
+      "id": "Elliott_0203"
     }
   ],
   "bestiality": [
@@ -227,6 +237,13 @@
       "title": "Arlington Road",
       "page": "reviews/elliott-0047-arlington-road.html",
       "id": "Elliott_0047"
+    }
+  ],
+  "born again believers": [
+    {
+      "title": "Titan AE",
+      "page": "reviews/elliott-0209-titan-ae.html",
+      "id": "Elliott_0209"
     }
   ],
   "building others up": [
@@ -284,6 +301,11 @@
     }
   ],
   "changing habits": [
+    {
+      "title": "28 Days",
+      "page": "reviews/elliott-0202-28-days.html",
+      "id": "Elliott_0202"
+    },
     {
       "title": "Snake Eyes",
       "page": "reviews/elliott-0191-snake-eyes.html",
@@ -349,6 +371,13 @@
       "id": "Elliott_0186"
     }
   ],
+  "children of God": [
+    {
+      "title": "The Tigger Movie",
+      "page": "reviews/elliott-0203-the-tigger-movie.html",
+      "id": "Elliott_0203"
+    }
+  ],
   "choice": [
     {
       "title": "Ella Enchanted",
@@ -357,6 +386,11 @@
     }
   ],
   "choices": [
+    {
+      "title": "28 Days",
+      "page": "reviews/elliott-0202-28-days.html",
+      "id": "Elliott_0202"
+    },
     {
       "title": "City by the Sea",
       "page": "reviews/elliott-0052-city-by-the-sea.html",
@@ -771,6 +805,11 @@
       "title": "Thirteen Days",
       "page": "reviews/elliott-0005-thirteen-days.html",
       "id": "Elliott_0005"
+    },
+    {
+      "title": "Varsity Blues",
+      "page": "reviews/elliott-0210-varsity-blues.html",
+      "id": "Elliott_0210"
     }
   ],
   "courtship and chivalry": [
@@ -961,6 +1000,11 @@
       "title": "Exit Wounds",
       "page": "reviews/elliott-0001-exit-wounds.html",
       "id": "Elliott_0001"
+    },
+    {
+      "title": "True Crime",
+      "page": "reviews/elliott-0204-true-crime.html",
+      "id": "Elliott_0204"
     }
   ],
   "discernment": [
@@ -1018,6 +1062,11 @@
       "title": "Rush Hour 2",
       "page": "reviews/elliott-0004-rush-hour-2.html",
       "id": "Elliott_0004"
+    },
+    {
+      "title": "The Thirteenth Floor",
+      "page": "reviews/elliott-0205-the-thirteenth-floor.html",
+      "id": "Elliott_0205"
     },
     {
       "title": "The Truth About Charlie",
@@ -1308,6 +1357,11 @@
       "title": "Gothika",
       "page": "reviews/elliott-0009-gothika.html",
       "id": "Elliott_0009"
+    },
+    {
+      "title": "The Thin Red Line",
+      "page": "reviews/elliott-0206-the-thin-red-line.html",
+      "id": "Elliott_0206"
     }
   ],
   "Evil": [
@@ -1454,6 +1508,11 @@
   ],
   "faithfulness": [
     {
+      "title": "28 Days",
+      "page": "reviews/elliott-0202-28-days.html",
+      "id": "Elliott_0202"
+    },
+    {
       "title": "American Pie",
       "page": "reviews/elliott-0045-american-pie.html",
       "id": "Elliott_0045"
@@ -1472,6 +1531,16 @@
       "title": "The Out-of-Towners",
       "page": "reviews/elliott-0163-the-out-of-towners.html",
       "id": "Elliott_0163"
+    },
+    {
+      "title": "Thomas and the Magic Railroad",
+      "page": "reviews/elliott-0201-thomas-and-the-magic-railroad.html",
+      "id": "Elliott_0201"
+    },
+    {
+      "title": "Varsity Blues",
+      "page": "reviews/elliott-0210-varsity-blues.html",
+      "id": "Elliott_0210"
     }
   ],
   "Faithfulness": [
@@ -1538,6 +1607,16 @@
       "title": "The Royal Tenenbaums",
       "page": "reviews/elliott-0186-the-royal-tenenbaums.html",
       "id": "Elliott_0186"
+    },
+    {
+      "title": "Tarzan",
+      "page": "reviews/elliott-0208-tarzan.html",
+      "id": "Elliott_0208"
+    },
+    {
+      "title": "The Tigger Movie",
+      "page": "reviews/elliott-0203-the-tigger-movie.html",
+      "id": "Elliott_0203"
     }
   ],
   "family": [
@@ -1623,6 +1702,11 @@
       "title": "The Mighty",
       "page": "reviews/elliott-0142-the-mighty.html",
       "id": "Elliott_0142"
+    },
+    {
+      "title": "The Tigger Movie",
+      "page": "reviews/elliott-0203-the-tigger-movie.html",
+      "id": "Elliott_0203"
     }
   ],
   "Financial wealth": [
@@ -1644,6 +1728,13 @@
       "title": "Notting Hill",
       "page": "reviews/elliott-0151-notting-hill.html",
       "id": "Elliott_0151"
+    }
+  ],
+  "focusing on godly things": [
+    {
+      "title": "The Thin Red Line",
+      "page": "reviews/elliott-0206-the-thin-red-line.html",
+      "id": "Elliott_0206"
     }
   ],
   "following Christ": [
@@ -2006,6 +2097,21 @@
       "title": "Patch Adams",
       "page": "reviews/elliott-0179-patch-adams.html",
       "id": "Elliott_0179"
+    },
+    {
+      "title": "The Thirteenth Floor",
+      "page": "reviews/elliott-0205-the-thirteenth-floor.html",
+      "id": "Elliott_0205"
+    },
+    {
+      "title": "Thomas and the Magic Railroad",
+      "page": "reviews/elliott-0201-thomas-and-the-magic-railroad.html",
+      "id": "Elliott_0201"
+    },
+    {
+      "title": "True Crime",
+      "page": "reviews/elliott-0204-true-crime.html",
+      "id": "Elliott_0204"
     }
   ],
   "God's Word as a guide": [
@@ -2955,6 +3061,11 @@
       "id": "Elliott_0195"
     },
     {
+      "title": "Ten Things I Hate About You",
+      "page": "reviews/elliott-0207-ten-things-i-hate-about-you.html",
+      "id": "Elliott_0207"
+    },
+    {
       "title": "Whipped",
       "page": "reviews/elliott-0006-whipped.html",
       "id": "Elliott_0006"
@@ -2970,6 +3081,11 @@
       "title": "Failure to Launch",
       "page": "reviews/elliott-0089-failure-to-launch.html",
       "id": "Elliott_0089"
+    },
+    {
+      "title": "True Crime",
+      "page": "reviews/elliott-0204-true-crime.html",
+      "id": "Elliott_0204"
     }
   ],
   "Meaning of life": [
@@ -3101,6 +3217,13 @@
       "id": "Elliott_0008"
     }
   ],
+  "nurture": [
+    {
+      "title": "Tarzan",
+      "page": "reviews/elliott-0208-tarzan.html",
+      "id": "Elliott_0208"
+    }
+  ],
   "obedience": [
     {
       "title": "Ella Enchanted",
@@ -3111,6 +3234,11 @@
       "title": "Sometime in August",
       "page": "reviews/elliott-0196-sometime-in-august.html",
       "id": "Elliott_0196"
+    },
+    {
+      "title": "Ten Things I Hate About You",
+      "page": "reviews/elliott-0207-ten-things-i-hate-about-you.html",
+      "id": "Elliott_0207"
     }
   ],
   "Obedience": [
@@ -3216,6 +3344,13 @@
       "id": "Elliott_0090"
     }
   ],
+  "parental responsibility": [
+    {
+      "title": "Ten Things I Hate About You",
+      "page": "reviews/elliott-0207-ten-things-i-hate-about-you.html",
+      "id": "Elliott_0207"
+    }
+  ],
   "Parenting": [
     {
       "title": "Big Daddy",
@@ -3253,6 +3388,11 @@
       "title": "The Royal Tenenbaums",
       "page": "reviews/elliott-0186-the-royal-tenenbaums.html",
       "id": "Elliott_0186"
+    },
+    {
+      "title": "Tarzan",
+      "page": "reviews/elliott-0208-tarzan.html",
+      "id": "Elliott_0208"
     }
   ],
   "passing on God's Word": [
@@ -3403,6 +3543,13 @@
       "id": "Elliott_0010"
     }
   ],
+  "pleasing God": [
+    {
+      "title": "Tarzan",
+      "page": "reviews/elliott-0208-tarzan.html",
+      "id": "Elliott_0208"
+    }
+  ],
   "positive influence": [
     {
       "title": "A Bug's Life",
@@ -3422,6 +3569,13 @@
       "title": "Kill Bill Vol. 2",
       "page": "reviews/elliott-0129-kill-bill-vol-2.html",
       "id": "Elliott_0129"
+    }
+  ],
+  "potential": [
+    {
+      "title": "Titan AE",
+      "page": "reviews/elliott-0209-titan-ae.html",
+      "id": "Elliott_0209"
     }
   ],
   "Power": [
@@ -3570,6 +3724,13 @@
       "id": "Elliott_0162"
     }
   ],
+  "reality": [
+    {
+      "title": "The Thirteenth Floor",
+      "page": "reviews/elliott-0205-the-thirteenth-floor.html",
+      "id": "Elliott_0205"
+    }
+  ],
   "reconciliation": [
     {
       "title": "Around the Bend",
@@ -3592,6 +3753,13 @@
       "id": "Elliott_0195"
     }
   ],
+  "recovery": [
+    {
+      "title": "28 Days",
+      "page": "reviews/elliott-0202-28-days.html",
+      "id": "Elliott_0202"
+    }
+  ],
   "redeeming time": [
     {
       "title": "The Limey",
@@ -3604,6 +3772,11 @@
       "title": "Half Past Dead",
       "page": "reviews/elliott-0103-half-past-dead.html",
       "id": "Elliott_0103"
+    },
+    {
+      "title": "Titan AE",
+      "page": "reviews/elliott-0209-titan-ae.html",
+      "id": "Elliott_0209"
     }
   ],
   "regret": [
@@ -3762,6 +3935,13 @@
       "id": "Elliott_0048"
     }
   ],
+  "resisting temptation": [
+    {
+      "title": "Varsity Blues",
+      "page": "reviews/elliott-0210-varsity-blues.html",
+      "id": "Elliott_0210"
+    }
+  ],
   "resisting the devil": [
     {
       "title": "Exorcist: The Beginning",
@@ -3830,6 +4010,11 @@
       "title": "South Park: Bigger, Longer and Uncut",
       "page": "reviews/elliott-0197-south-park-bigger-longer-and-uncut.html",
       "id": "Elliott_0197"
+    },
+    {
+      "title": "Thomas and the Magic Railroad",
+      "page": "reviews/elliott-0201-thomas-and-the-magic-railroad.html",
+      "id": "Elliott_0201"
     }
   ],
   "Rest": [
@@ -4141,6 +4326,11 @@
       "title": "Rules of Engagement",
       "page": "reviews/elliott-0184-rules-of-engagement.html",
       "id": "Elliott_0184"
+    },
+    {
+      "title": "Thomas and the Magic Railroad",
+      "page": "reviews/elliott-0201-thomas-and-the-magic-railroad.html",
+      "id": "Elliott_0201"
     }
   ],
   "Service": [
@@ -4167,6 +4357,13 @@
       "title": "North Country",
       "page": "reviews/elliott-0156-north-country.html",
       "id": "Elliott_0156"
+    }
+  ],
+  "sexual morality": [
+    {
+      "title": "Ten Things I Hate About You",
+      "page": "reviews/elliott-0207-ten-things-i-hate-about-you.html",
+      "id": "Elliott_0207"
     }
   ],
   "Sexual obsession": [
@@ -4301,6 +4498,11 @@
       "title": "It Runs In The Family",
       "page": "reviews/elliott-0114-it-runs-in-the-family.html",
       "id": "Elliott_0114"
+    },
+    {
+      "title": "The Tigger Movie",
+      "page": "reviews/elliott-0203-the-tigger-movie.html",
+      "id": "Elliott_0203"
     }
   ],
   "spiritual focus": [
@@ -4336,6 +4538,16 @@
       "title": "At First Sight",
       "page": "reviews/elliott-0046-at-first-sight.html",
       "id": "Elliott_0046"
+    },
+    {
+      "title": "Tarzan",
+      "page": "reviews/elliott-0208-tarzan.html",
+      "id": "Elliott_0208"
+    },
+    {
+      "title": "True Crime",
+      "page": "reviews/elliott-0204-true-crime.html",
+      "id": "Elliott_0204"
     }
   ],
   "spiritual influence": [
@@ -4376,6 +4588,11 @@
       "title": "Atlantis: The Lost Empire",
       "page": "reviews/elliott-0037-atlantis-the-lost-empire.html",
       "id": "Elliott_0037"
+    },
+    {
+      "title": "Titan AE",
+      "page": "reviews/elliott-0209-titan-ae.html",
+      "id": "Elliott_0209"
     }
   ],
   "spiritual power": [
@@ -4482,6 +4699,11 @@
       "title": "Rules of Engagement",
       "page": "reviews/elliott-0184-rules-of-engagement.html",
       "id": "Elliott_0184"
+    },
+    {
+      "title": "The Thin Red Line",
+      "page": "reviews/elliott-0206-the-thin-red-line.html",
+      "id": "Elliott_0206"
     }
   ],
   "Spiritual warfare": [
@@ -4539,6 +4761,11 @@
       "title": "The Day After Tomorrow",
       "page": "reviews/elliott-0065-the-day-after-tomorrow.html",
       "id": "Elliott_0065"
+    },
+    {
+      "title": "Thomas and the Magic Railroad",
+      "page": "reviews/elliott-0201-thomas-and-the-magic-railroad.html",
+      "id": "Elliott_0201"
     }
   ],
   "stewardship of life": [
@@ -4662,6 +4889,11 @@
       "title": "Pirates of the Caribbean 2: Dead Man's Chest",
       "page": "reviews/elliott-0178-pirates-of-the-caribbean-2-dead-man-s-chest.html",
       "id": "Elliott_0178"
+    },
+    {
+      "title": "Varsity Blues",
+      "page": "reviews/elliott-0210-varsity-blues.html",
+      "id": "Elliott_0210"
     }
   ],
   "testing spirits": [
@@ -4683,6 +4915,13 @@
       "title": "One True Thing",
       "page": "reviews/elliott-0166-one-true-thing.html",
       "id": "Elliott_0166"
+    }
+  ],
+  "the devil": [
+    {
+      "title": "Titan AE",
+      "page": "reviews/elliott-0209-titan-ae.html",
+      "id": "Elliott_0209"
     }
   ],
   "the future": [
@@ -4774,6 +5013,13 @@
       "id": "Elliott_0189"
     }
   ],
+  "thinking": [
+    {
+      "title": "The Thirteenth Floor",
+      "page": "reviews/elliott-0205-the-thirteenth-floor.html",
+      "id": "Elliott_0205"
+    }
+  ],
   "thought life": [
     {
       "title": "American Pie",
@@ -4786,6 +5032,13 @@
       "title": "Apt Pupil",
       "page": "reviews/elliott-0048-apt-pupil.html",
       "id": "Elliott_0048"
+    }
+  ],
+  "thoughts": [
+    {
+      "title": "The Thin Red Line",
+      "page": "reviews/elliott-0206-the-thin-red-line.html",
+      "id": "Elliott_0206"
     }
   ],
   "Time": [
@@ -4942,6 +5195,11 @@
       "title": "King Arthur",
       "page": "reviews/elliott-0127-king-arthur.html",
       "id": "Elliott_0127"
+    },
+    {
+      "title": "True Crime",
+      "page": "reviews/elliott-0204-true-crime.html",
+      "id": "Elliott_0204"
     }
   ],
   "Truth": [
@@ -4959,6 +5217,11 @@
       "title": "Snake Eyes",
       "page": "reviews/elliott-0191-snake-eyes.html",
       "id": "Elliott_0191"
+    },
+    {
+      "title": "The Thirteenth Floor",
+      "page": "reviews/elliott-0205-the-thirteenth-floor.html",
+      "id": "Elliott_0205"
     }
   ],
   "truth and revelation": [
@@ -5063,6 +5326,13 @@
       "id": "Elliott_0182"
     }
   ],
+  "victory": [
+    {
+      "title": "Varsity Blues",
+      "page": "reviews/elliott-0210-varsity-blues.html",
+      "id": "Elliott_0210"
+    }
+  ],
   "violence": [
     {
       "title": "Amores perros (Love’s A Bitch)",
@@ -5120,6 +5390,13 @@
       "title": "Runaway Bride",
       "page": "reviews/elliott-0188-runaway-bride.html",
       "id": "Elliott_0188"
+    }
+  ],
+  "War": [
+    {
+      "title": "The Thin Red Line",
+      "page": "reviews/elliott-0206-the-thin-red-line.html",
+      "id": "Elliott_0206"
     }
   ],
   "Wealth": [
@@ -5267,6 +5544,11 @@
       "title": "Road Trip",
       "page": "reviews/elliott-0183-road-trip.html",
       "id": "Elliott_0183"
+    },
+    {
+      "title": "Ten Things I Hate About You",
+      "page": "reviews/elliott-0207-ten-things-i-hate-about-you.html",
+      "id": "Elliott_0207"
     }
   ]
 }
