@@ -104,6 +104,11 @@
       "title": "The Out-of-Towners",
       "page": "reviews/elliott-0163-the-out-of-towners.html",
       "id": "Elliott_0163"
+    },
+    {
+      "title": "You Got Served",
+      "page": "reviews/elliott-0213-you-got-served.html",
+      "id": "Elliott_0213"
     }
   ],
   "Animals": [
@@ -128,6 +133,11 @@
       "title": "She's All That",
       "page": "reviews/elliott-0194-she-s-all-that.html",
       "id": "Elliott_0194"
+    },
+    {
+      "title": "Win a Date with Tad Hamilton!",
+      "page": "reviews/elliott-0214-win-a-date-with-tad-hamilton.html",
+      "id": "Elliott_0214"
     }
   ],
   "Arguments": [
@@ -135,6 +145,13 @@
       "title": "The Glass Jar",
       "page": "reviews/elliott-0097-the-glass-jar.html",
       "id": "Elliott_0097"
+    }
+  ],
+  "Associations": [
+    {
+      "title": "Walking Tall",
+      "page": "reviews/elliott-0211-walking-tall.html",
+      "id": "Elliott_0211"
     }
   ],
   "authenticity": [
@@ -202,6 +219,11 @@
       "title": "The Tigger Movie",
       "page": "reviews/elliott-0203-the-tigger-movie.html",
       "id": "Elliott_0203"
+    },
+    {
+      "title": "What a Girl Wants",
+      "page": "reviews/elliott-0215-what-a-girl-wants.html",
+      "id": "Elliott_0215"
     }
   ],
   "bestiality": [
@@ -371,6 +393,13 @@
       "id": "Elliott_0186"
     }
   ],
+  "Children": [
+    {
+      "title": "Yours Mine and Ours",
+      "page": "reviews/elliott-0218-yours-mine-and-ours.html",
+      "id": "Elliott_0218"
+    }
+  ],
   "children of God": [
     {
       "title": "The Tigger Movie",
@@ -414,6 +443,13 @@
       "title": "All The Pretty Horses",
       "page": "reviews/elliott-0014-all-the-pretty-horses.html",
       "id": "Elliott_0014"
+    }
+  ],
+  "choosing a spouse": [
+    {
+      "title": "Win a Date with Tad Hamilton!",
+      "page": "reviews/elliott-0214-win-a-date-with-tad-hamilton.html",
+      "id": "Elliott_0214"
     }
   ],
   "choosing companions": [
@@ -535,6 +571,11 @@
       "title": "The Story of Us",
       "page": "reviews/elliott-0195-the-story-of-us.html",
       "id": "Elliott_0195"
+    },
+    {
+      "title": "Welcome to Mooseport",
+      "page": "reviews/elliott-0212-welcome-to-mooseport.html",
+      "id": "Elliott_0212"
     }
   ],
   "communication": [
@@ -542,6 +583,11 @@
       "title": "Blue Streak",
       "page": "reviews/elliott-0021-blue-streak.html",
       "id": "Elliott_0021"
+    },
+    {
+      "title": "You, Me, and Dupree",
+      "page": "reviews/elliott-0219-you-me-and-dupree.html",
+      "id": "Elliott_0219"
     }
   ],
   "Comparison": [
@@ -879,6 +925,13 @@
       "id": "Elliott_0170"
     }
   ],
+  "Daily living": [
+    {
+      "title": "Yi Yi: A One and a Two",
+      "page": "reviews/elliott-0220-yi-yi-a-one-and-a-two.html",
+      "id": "Elliott_0220"
+    }
+  ],
   "death": [
     {
       "title": "Angel Eyes",
@@ -1111,6 +1164,11 @@
       "title": "Outside Providence",
       "page": "reviews/elliott-0164-outside-providence.html",
       "id": "Elliott_0164"
+    },
+    {
+      "title": "Yours Mine and Ours",
+      "page": "reviews/elliott-0218-yours-mine-and-ours.html",
+      "id": "Elliott_0218"
     }
   ],
   "disciplined thinking": [
@@ -1298,6 +1356,13 @@
       "title": "Envy",
       "page": "reviews/elliott-0078-envy.html",
       "id": "Elliott_0078"
+    }
+  ],
+  "envy": [
+    {
+      "title": "You, Me, and Dupree",
+      "page": "reviews/elliott-0219-you-me-and-dupree.html",
+      "id": "Elliott_0219"
     }
   ],
   "equality": [
@@ -1651,6 +1716,11 @@
       "title": "Outside Providence",
       "page": "reviews/elliott-0164-outside-providence.html",
       "id": "Elliott_0164"
+    },
+    {
+      "title": "What a Girl Wants",
+      "page": "reviews/elliott-0215-what-a-girl-wants.html",
+      "id": "Elliott_0215"
     }
   ],
   "Fear": [
@@ -1695,6 +1765,16 @@
       "title": "Meet Joe Black",
       "page": "reviews/elliott-0144-meet-joe-black.html",
       "id": "Elliott_0144"
+    },
+    {
+      "title": "Welcome to Mooseport",
+      "page": "reviews/elliott-0212-welcome-to-mooseport.html",
+      "id": "Elliott_0212"
+    },
+    {
+      "title": "Yi Yi: A One and a Two",
+      "page": "reviews/elliott-0220-yi-yi-a-one-and-a-two.html",
+      "id": "Elliott_0220"
     }
   ],
   "fellowship": [
@@ -1877,6 +1957,11 @@
       "title": "The Legend of 1900",
       "page": "reviews/elliott-0135-the-legend-of-1900.html",
       "id": "Elliott_0135"
+    },
+    {
+      "title": "xXx",
+      "page": "reviews/elliott-0216-xxx.html",
+      "id": "Elliott_0216"
     }
   ],
   "Freedom": [
@@ -1896,6 +1981,11 @@
       "title": "The Mighty",
       "page": "reviews/elliott-0142-the-mighty.html",
       "id": "Elliott_0142"
+    },
+    {
+      "title": "You Got Served",
+      "page": "reviews/elliott-0213-you-got-served.html",
+      "id": "Elliott_0213"
     }
   ],
   "Future": [
@@ -2027,6 +2117,13 @@
       "id": "Elliott_0184"
     }
   ],
+  "God's kingdom": [
+    {
+      "title": "Windtalkers",
+      "page": "reviews/elliott-0217-windtalkers.html",
+      "id": "Elliott_0217"
+    }
+  ],
   "God's mercy": [
     {
       "title": "Magnolia",
@@ -2112,6 +2209,11 @@
       "title": "True Crime",
       "page": "reviews/elliott-0204-true-crime.html",
       "id": "Elliott_0204"
+    },
+    {
+      "title": "xXx",
+      "page": "reviews/elliott-0216-xxx.html",
+      "id": "Elliott_0216"
     }
   ],
   "God's Word as a guide": [
@@ -2126,6 +2228,13 @@
       "title": "Holy Man",
       "page": "reviews/elliott-0110-holy-man.html",
       "id": "Elliott_0110"
+    }
+  ],
+  "godly character": [
+    {
+      "title": "Win a Date with Tad Hamilton!",
+      "page": "reviews/elliott-0214-win-a-date-with-tad-hamilton.html",
+      "id": "Elliott_0214"
     }
   ],
   "godly conduct": [
@@ -2715,6 +2824,13 @@
       "id": "Elliott_0120"
     }
   ],
+  "Jealousy": [
+    {
+      "title": "You, Me, and Dupree",
+      "page": "reviews/elliott-0219-you-me-and-dupree.html",
+      "id": "Elliott_0219"
+    }
+  ],
   "joy": [
     {
       "title": "Little Voice",
@@ -2824,6 +2940,13 @@
       "id": "Elliott_0194"
     }
   ],
+  "Law": [
+    {
+      "title": "xXx",
+      "page": "reviews/elliott-0216-xxx.html",
+      "id": "Elliott_0216"
+    }
+  ],
   "leadership": [
     {
       "title": "Anna and the King",
@@ -2881,6 +3004,13 @@
       "title": "Thirteen Days",
       "page": "reviews/elliott-0005-thirteen-days.html",
       "id": "Elliott_0005"
+    }
+  ],
+  "like-mindedness": [
+    {
+      "title": "Walking Tall",
+      "page": "reviews/elliott-0211-walking-tall.html",
+      "id": "Elliott_0211"
     }
   ],
   "living by God’s Word": [
@@ -2972,6 +3102,11 @@
       "title": "Whipped",
       "page": "reviews/elliott-0006-whipped.html",
       "id": "Elliott_0006"
+    },
+    {
+      "title": "Yours Mine and Ours",
+      "page": "reviews/elliott-0218-yours-mine-and-ours.html",
+      "id": "Elliott_0218"
     }
   ],
   "Love": [
@@ -3004,6 +3139,16 @@
       "title": "Sometime in August",
       "page": "reviews/elliott-0196-sometime-in-august.html",
       "id": "Elliott_0196"
+    },
+    {
+      "title": "Welcome to Mooseport",
+      "page": "reviews/elliott-0212-welcome-to-mooseport.html",
+      "id": "Elliott_0212"
+    },
+    {
+      "title": "Win a Date with Tad Hamilton!",
+      "page": "reviews/elliott-0214-win-a-date-with-tad-hamilton.html",
+      "id": "Elliott_0214"
     }
   ],
   "Love of money": [
@@ -3018,6 +3163,11 @@
       "title": "Rules of Engagement",
       "page": "reviews/elliott-0184-rules-of-engagement.html",
       "id": "Elliott_0184"
+    },
+    {
+      "title": "You Got Served",
+      "page": "reviews/elliott-0213-you-got-served.html",
+      "id": "Elliott_0213"
     }
   ],
   "making a difference": [
@@ -3069,6 +3219,18 @@
       "title": "Whipped",
       "page": "reviews/elliott-0006-whipped.html",
       "id": "Elliott_0006"
+    }
+  ],
+  "marriage": [
+    {
+      "title": "Win a Date with Tad Hamilton!",
+      "page": "reviews/elliott-0214-win-a-date-with-tad-hamilton.html",
+      "id": "Elliott_0214"
+    },
+    {
+      "title": "You, Me, and Dupree",
+      "page": "reviews/elliott-0219-you-me-and-dupree.html",
+      "id": "Elliott_0219"
     }
   ],
   "maturity": [
@@ -3239,6 +3401,16 @@
       "title": "Ten Things I Hate About You",
       "page": "reviews/elliott-0207-ten-things-i-hate-about-you.html",
       "id": "Elliott_0207"
+    },
+    {
+      "title": "xXx",
+      "page": "reviews/elliott-0216-xxx.html",
+      "id": "Elliott_0216"
+    },
+    {
+      "title": "Yours Mine and Ours",
+      "page": "reviews/elliott-0218-yours-mine-and-ours.html",
+      "id": "Elliott_0218"
     }
   ],
   "Obedience": [
@@ -3393,6 +3565,11 @@
       "title": "Tarzan",
       "page": "reviews/elliott-0208-tarzan.html",
       "id": "Elliott_0208"
+    },
+    {
+      "title": "Yours Mine and Ours",
+      "page": "reviews/elliott-0218-yours-mine-and-ours.html",
+      "id": "Elliott_0218"
     }
   ],
   "passing on God's Word": [
@@ -3450,6 +3627,11 @@
       "title": "Thirteen Days",
       "page": "reviews/elliott-0005-thirteen-days.html",
       "id": "Elliott_0005"
+    },
+    {
+      "title": "Windtalkers",
+      "page": "reviews/elliott-0217-windtalkers.html",
+      "id": "Elliott_0217"
     }
   ],
   "Perfection": [
@@ -3751,6 +3933,23 @@
       "title": "The Story of Us",
       "page": "reviews/elliott-0195-the-story-of-us.html",
       "id": "Elliott_0195"
+    },
+    {
+      "title": "Windtalkers",
+      "page": "reviews/elliott-0217-windtalkers.html",
+      "id": "Elliott_0217"
+    },
+    {
+      "title": "You Got Served",
+      "page": "reviews/elliott-0213-you-got-served.html",
+      "id": "Elliott_0213"
+    }
+  ],
+  "reconciliation with God": [
+    {
+      "title": "What a Girl Wants",
+      "page": "reviews/elliott-0215-what-a-girl-wants.html",
+      "id": "Elliott_0215"
     }
   ],
   "recovery": [
@@ -3833,6 +4032,11 @@
       "title": "Sometime in August",
       "page": "reviews/elliott-0196-sometime-in-august.html",
       "id": "Elliott_0196"
+    },
+    {
+      "title": "Welcome to Mooseport",
+      "page": "reviews/elliott-0212-welcome-to-mooseport.html",
+      "id": "Elliott_0212"
     }
   ],
   "relationships beyond sex": [
@@ -3859,6 +4063,11 @@
       "title": "Hanging Up",
       "page": "reviews/elliott-0109-hanging-up.html",
       "id": "Elliott_0109"
+    },
+    {
+      "title": "Yi Yi: A One and a Two",
+      "page": "reviews/elliott-0220-yi-yi-a-one-and-a-two.html",
+      "id": "Elliott_0220"
     }
   ],
   "Renewing the mind": [
@@ -4176,6 +4385,11 @@
       "title": "Saving Silverman",
       "page": "reviews/elliott-0200-saving-silverman.html",
       "id": "Elliott_0200"
+    },
+    {
+      "title": "What a Girl Wants",
+      "page": "reviews/elliott-0215-what-a-girl-wants.html",
+      "id": "Elliott_0215"
     }
   ],
   "Salvation": [
@@ -4304,6 +4518,13 @@
       "title": "How To Lose A Guy in Ten Days",
       "page": "reviews/elliott-0102-how-to-lose-a-guy-in-ten-days.html",
       "id": "Elliott_0102"
+    }
+  ],
+  "separation": [
+    {
+      "title": "Walking Tall",
+      "page": "reviews/elliott-0211-walking-tall.html",
+      "id": "Elliott_0211"
     }
   ],
   "service": [
@@ -4453,6 +4674,13 @@
       "id": "Elliott_0197"
     }
   ],
+  "spiritual contamination": [
+    {
+      "title": "Walking Tall",
+      "page": "reviews/elliott-0211-walking-tall.html",
+      "id": "Elliott_0211"
+    }
+  ],
   "spiritual danger": [
     {
       "title": "Godzilla 2000",
@@ -4503,6 +4731,11 @@
       "title": "The Tigger Movie",
       "page": "reviews/elliott-0203-the-tigger-movie.html",
       "id": "Elliott_0203"
+    },
+    {
+      "title": "What a Girl Wants",
+      "page": "reviews/elliott-0215-what-a-girl-wants.html",
+      "id": "Elliott_0215"
     }
   ],
   "spiritual focus": [
@@ -4808,6 +5041,13 @@
       "id": "Elliott_0062"
     }
   ],
+  "support": [
+    {
+      "title": "You Got Served",
+      "page": "reviews/elliott-0213-you-got-served.html",
+      "id": "Elliott_0213"
+    }
+  ],
   "Talents": [
     {
       "title": "Dreamgirls",
@@ -4992,6 +5232,13 @@
       "id": "Elliott_0181"
     }
   ],
+  "the present": [
+    {
+      "title": "Yi Yi: A One and a Two",
+      "page": "reviews/elliott-0220-yi-yi-a-one-and-a-two.html",
+      "id": "Elliott_0220"
+    }
+  ],
   "the still small voice": [
     {
       "title": "Drowning Mona",
@@ -5082,6 +5329,13 @@
       "id": "Elliott_0152"
     }
   ],
+  "true liberty": [
+    {
+      "title": "xXx",
+      "page": "reviews/elliott-0216-xxx.html",
+      "id": "Elliott_0216"
+    }
+  ],
   "trust": [
     {
       "title": "Finding Neverland",
@@ -5102,6 +5356,11 @@
       "title": "The Truth About Charlie",
       "page": "reviews/elliott-0012-the-truth-about-charlie.html",
       "id": "Elliott_0012"
+    },
+    {
+      "title": "You, Me, and Dupree",
+      "page": "reviews/elliott-0219-you-me-and-dupree.html",
+      "id": "Elliott_0219"
     }
   ],
   "Trust": [
@@ -5148,6 +5407,11 @@
       "title": "Lemony Snicket's A Series of Unfortunate Events",
       "page": "reviews/elliott-0131-lemony-snicket-s-a-series-of-unfortunate-events.html",
       "id": "Elliott_0131"
+    },
+    {
+      "title": "Yi Yi: A One and a Two",
+      "page": "reviews/elliott-0220-yi-yi-a-one-and-a-two.html",
+      "id": "Elliott_0220"
     }
   ],
   "truth": [
@@ -5279,6 +5543,16 @@
       "title": "The Original Kings of Comedy",
       "page": "reviews/elliott-0162-the-original-kings-of-comedy.html",
       "id": "Elliott_0162"
+    },
+    {
+      "title": "Walking Tall",
+      "page": "reviews/elliott-0211-walking-tall.html",
+      "id": "Elliott_0211"
+    },
+    {
+      "title": "Windtalkers",
+      "page": "reviews/elliott-0217-windtalkers.html",
+      "id": "Elliott_0217"
     }
   ],
   "usefulness": [
@@ -5397,6 +5671,11 @@
       "title": "The Thin Red Line",
       "page": "reviews/elliott-0206-the-thin-red-line.html",
       "id": "Elliott_0206"
+    },
+    {
+      "title": "Windtalkers",
+      "page": "reviews/elliott-0217-windtalkers.html",
+      "id": "Elliott_0217"
     }
   ],
   "Wealth": [
@@ -5404,6 +5683,13 @@
       "title": "Small Time Crooks",
       "page": "reviews/elliott-0198-small-time-crooks.html",
       "id": "Elliott_0198"
+    }
+  ],
+  "wholehearted devotion": [
+    {
+      "title": "Welcome to Mooseport",
+      "page": "reviews/elliott-0212-welcome-to-mooseport.html",
+      "id": "Elliott_0212"
     }
   ],
   "wholesome communication": [
