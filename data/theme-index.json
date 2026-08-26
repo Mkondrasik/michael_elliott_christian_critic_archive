@@ -123,6 +123,13 @@
       "id": "Elliott_0213"
     }
   ],
+  "Alliances": [
+    {
+      "title": "Behind Enemy Lines",
+      "page": "reviews/elliott-0273-behind-enemy-lines.html",
+      "id": "Elliott_0273"
+    }
+  ],
   "ambition": [
     {
       "title": "Bowfinger",
@@ -346,6 +353,20 @@
       "title": "Titan AE",
       "page": "reviews/elliott-0209-titan-ae.html",
       "id": "Elliott_0209"
+    }
+  ],
+  "brotherhood": [
+    {
+      "title": "Black Hawk Down",
+      "page": "reviews/elliott-0274-black-hawk-down.html",
+      "id": "Elliott_0274"
+    }
+  ],
+  "brotherly love": [
+    {
+      "title": "Because of Winn-Dixie",
+      "page": "reviews/elliott-0278-because-of-winn-dixie.html",
+      "id": "Elliott_0278"
     }
   ],
   "building others up": [
@@ -642,6 +663,13 @@
       "id": "Elliott_0037"
     }
   ],
+  "Christian witness": [
+    {
+      "title": "The Big Kahuna",
+      "page": "reviews/elliott-0272-the-big-kahuna.html",
+      "id": "Elliott_0272"
+    }
+  ],
   "Christianity": [
     {
       "title": "Amazing Grace",
@@ -716,6 +744,13 @@
       "id": "Elliott_0219"
     }
   ],
+  "community": [
+    {
+      "title": "Because of Winn-Dixie",
+      "page": "reviews/elliott-0278-because-of-winn-dixie.html",
+      "id": "Elliott_0278"
+    }
+  ],
   "Comparison": [
     {
       "title": "Ocean's Twelve",
@@ -735,6 +770,11 @@
       "title": "Assault on Precinct 13",
       "page": "reviews/elliott-0032-assault-on-precinct-13.html",
       "id": "Elliott_0032"
+    },
+    {
+      "title": "Bridge to Terabithia",
+      "page": "reviews/elliott-0277-bridge-to-terabithia.html",
+      "id": "Elliott_0277"
     },
     {
       "title": "Erin Brockovich",
@@ -768,6 +808,11 @@
   ],
   "compromise": [
     {
+      "title": "Behind Enemy Lines",
+      "page": "reviews/elliott-0273-behind-enemy-lines.html",
+      "id": "Elliott_0273"
+    },
+    {
       "title": "Dreamgirls",
       "page": "reviews/elliott-0062-dreamgirls.html",
       "id": "Elliott_0062"
@@ -781,6 +826,11 @@
     }
   ],
   "conduct": [
+    {
+      "title": "The Big Kahuna",
+      "page": "reviews/elliott-0272-the-big-kahuna.html",
+      "id": "Elliott_0272"
+    },
     {
       "title": "Run Lola Run (Lola rennt)",
       "page": "reviews/elliott-0190-run-lola-run-lola-rennt.html",
@@ -1007,6 +1057,11 @@
       "id": "Elliott_0259"
     },
     {
+      "title": "Black Hawk Down",
+      "page": "reviews/elliott-0274-black-hawk-down.html",
+      "id": "Elliott_0274"
+    },
+    {
       "title": "The King and I (1999)",
       "page": "reviews/elliott-0123-the-king-and-i-1999.html",
       "id": "Elliott_0123"
@@ -1188,6 +1243,11 @@
       "title": "The Art of War",
       "page": "reviews/elliott-0017-the-art-of-war.html",
       "id": "Elliott_0017"
+    },
+    {
+      "title": "The Brothers Grimm",
+      "page": "reviews/elliott-0280-the-brothers-grimm.html",
+      "id": "Elliott_0280"
     },
     {
       "title": "Frailty",
@@ -1763,12 +1823,22 @@
   ],
   "evangelism": [
     {
+      "title": "The Big Kahuna",
+      "page": "reviews/elliott-0272-the-big-kahuna.html",
+      "id": "Elliott_0272"
+    },
+    {
       "title": "Blue Streak",
       "page": "reviews/elliott-0021-blue-streak.html",
       "id": "Elliott_0021"
     }
   ],
   "evil": [
+    {
+      "title": "The Brave One",
+      "page": "reviews/elliott-0276-the-brave-one.html",
+      "id": "Elliott_0276"
+    },
     {
       "title": "Gothika",
       "page": "reviews/elliott-0009-gothika.html",
@@ -1871,6 +1941,13 @@
       "title": "Coach Carter",
       "page": "reviews/elliott-0060-coach-carter.html",
       "id": "Elliott_0060"
+    }
+  ],
+  "exploitation": [
+    {
+      "title": "The Brothers Grimm",
+      "page": "reviews/elliott-0280-the-brothers-grimm.html",
+      "id": "Elliott_0280"
     }
   ],
   "exposing evil": [
@@ -2137,6 +2214,16 @@
   ],
   "fear": [
     {
+      "title": "The Brave One",
+      "page": "reviews/elliott-0276-the-brave-one.html",
+      "id": "Elliott_0276"
+    },
+    {
+      "title": "The Brothers Grimm",
+      "page": "reviews/elliott-0280-the-brothers-grimm.html",
+      "id": "Elliott_0280"
+    },
+    {
       "title": "Crush",
       "page": "reviews/elliott-0057-crush.html",
       "id": "Elliott_0057"
@@ -2184,6 +2271,13 @@
       "title": "The Tigger Movie",
       "page": "reviews/elliott-0203-the-tigger-movie.html",
       "id": "Elliott_0203"
+    }
+  ],
+  "Fellowship": [
+    {
+      "title": "Because of Winn-Dixie",
+      "page": "reviews/elliott-0278-because-of-winn-dixie.html",
+      "id": "Elliott_0278"
     }
   ],
   "Financial wealth": [
@@ -2278,6 +2372,11 @@
       "title": "The Basket",
       "page": "reviews/elliott-0261-the-basket.html",
       "id": "Elliott_0261"
+    },
+    {
+      "title": "The Brave One",
+      "page": "reviews/elliott-0276-the-brave-one.html",
+      "id": "Elliott_0276"
     },
     {
       "title": "Eternal Sunshine of the Spotless Mind",
@@ -2375,6 +2474,11 @@
   ],
   "freedom": [
     {
+      "title": "The Bourne Supremacy",
+      "page": "reviews/elliott-0275-the-bourne-supremacy.html",
+      "id": "Elliott_0275"
+    },
+    {
       "title": "The Legend of 1900",
       "page": "reviews/elliott-0135-the-legend-of-1900.html",
       "id": "Elliott_0135"
@@ -2407,6 +2511,13 @@
       "title": "You Got Served",
       "page": "reviews/elliott-0213-you-got-served.html",
       "id": "Elliott_0213"
+    }
+  ],
+  "friendship": [
+    {
+      "title": "Because of Winn-Dixie",
+      "page": "reviews/elliott-0278-because-of-winn-dixie.html",
+      "id": "Elliott_0278"
     }
   ],
   "fulfillment": [
@@ -2656,6 +2767,11 @@
       "title": "Blast From The Past",
       "page": "reviews/elliott-0257-blast-from-the-past.html",
       "id": "Elliott_0257"
+    },
+    {
+      "title": "The Bourne Identity",
+      "page": "reviews/elliott-0271-the-bourne-identity.html",
+      "id": "Elliott_0271"
     },
     {
       "title": "Gloria",
@@ -2920,6 +3036,13 @@
       "id": "Elliott_0041"
     }
   ],
+  "habits": [
+    {
+      "title": "The Bourne Identity",
+      "page": "reviews/elliott-0271-the-bourne-identity.html",
+      "id": "Elliott_0271"
+    }
+  ],
   "Hatred": [
     {
       "title": "American History X",
@@ -2937,6 +3060,11 @@
       "title": "Antwone Fisher",
       "page": "reviews/elliott-0050-antwone-fisher.html",
       "id": "Elliott_0050"
+    },
+    {
+      "title": "The Bourne Supremacy",
+      "page": "reviews/elliott-0275-the-bourne-supremacy.html",
+      "id": "Elliott_0275"
     },
     {
       "title": "Patch Adams",
@@ -3412,9 +3540,19 @@
       "id": "Elliott_0226"
     },
     {
+      "title": "Behind Enemy Lines",
+      "page": "reviews/elliott-0273-behind-enemy-lines.html",
+      "id": "Elliott_0273"
+    },
+    {
       "title": "Big Fat Liar",
       "page": "reviews/elliott-0267-big-fat-liar.html",
       "id": "Elliott_0267"
+    },
+    {
+      "title": "The Big Kahuna",
+      "page": "reviews/elliott-0272-the-big-kahuna.html",
+      "id": "Elliott_0272"
     },
     {
       "title": "Dreamgirls",
@@ -3477,6 +3615,13 @@
       "title": "Benji: Off the Leash",
       "page": "reviews/elliott-0028-benji-off-the-leash.html",
       "id": "Elliott_0028"
+    }
+  ],
+  "judging others": [
+    {
+      "title": "Bridge to Terabithia",
+      "page": "reviews/elliott-0277-bridge-to-terabithia.html",
+      "id": "Elliott_0277"
     }
   ],
   "Judgment": [
@@ -3645,6 +3790,13 @@
       "id": "Elliott_0068"
     }
   ],
+  "lies": [
+    {
+      "title": "The Bourne Supremacy",
+      "page": "reviews/elliott-0275-the-bourne-supremacy.html",
+      "id": "Elliott_0275"
+    }
+  ],
   "life's path": [
     {
       "title": "About Schmidt",
@@ -3664,6 +3816,13 @@
       "title": "Walking Tall",
       "page": "reviews/elliott-0211-walking-tall.html",
       "id": "Elliott_0211"
+    }
+  ],
+  "Like-mindedness": [
+    {
+      "title": "Bride & Prejudice",
+      "page": "reviews/elliott-0279-bride-and-prejudice.html",
+      "id": "Elliott_0279"
     }
   ],
   "living by God’s Word": [
@@ -3699,6 +3858,13 @@
       "id": "Elliott_0189"
     }
   ],
+  "loneliness": [
+    {
+      "title": "Because of Winn-Dixie",
+      "page": "reviews/elliott-0278-because-of-winn-dixie.html",
+      "id": "Elliott_0278"
+    }
+  ],
   "longsuffering": [
     {
       "title": "Are We There Yet?",
@@ -3727,9 +3893,19 @@
       "id": "Elliott_0234"
     },
     {
+      "title": "Black Hawk Down",
+      "page": "reviews/elliott-0274-black-hawk-down.html",
+      "id": "Elliott_0274"
+    },
+    {
       "title": "The Black Knight",
       "page": "reviews/elliott-0268-the-black-knight.html",
       "id": "Elliott_0268"
+    },
+    {
+      "title": "The Brave One",
+      "page": "reviews/elliott-0276-the-brave-one.html",
+      "id": "Elliott_0276"
     },
     {
       "title": "Ella Enchanted",
@@ -3937,6 +4113,11 @@
       "id": "Elliott_0248"
     },
     {
+      "title": "Bride & Prejudice",
+      "page": "reviews/elliott-0279-bride-and-prejudice.html",
+      "id": "Elliott_0279"
+    },
+    {
       "title": "Win a Date with Tad Hamilton!",
       "page": "reviews/elliott-0214-win-a-date-with-tad-hamilton.html",
       "id": "Elliott_0214"
@@ -4004,7 +4185,19 @@
       "id": "Elliott_0199"
     }
   ],
+  "Meditation": [
+    {
+      "title": "The Bourne Identity",
+      "page": "reviews/elliott-0271-the-bourne-identity.html",
+      "id": "Elliott_0271"
+    }
+  ],
   "meekness": [
+    {
+      "title": "Bridge to Terabithia",
+      "page": "reviews/elliott-0277-bridge-to-terabithia.html",
+      "id": "Elliott_0277"
+    },
     {
       "title": "The Glass Jar",
       "page": "reviews/elliott-0097-the-glass-jar.html",
@@ -4023,6 +4216,13 @@
       "title": "The Country Bears",
       "page": "reviews/elliott-0053-the-country-bears.html",
       "id": "Elliott_0053"
+    }
+  ],
+  "military service": [
+    {
+      "title": "Black Hawk Down",
+      "page": "reviews/elliott-0274-black-hawk-down.html",
+      "id": "Elliott_0274"
     }
   ],
   "Mind": [
@@ -4179,6 +4379,11 @@
       "title": "American Wedding",
       "page": "reviews/elliott-0245-american-wedding.html",
       "id": "Elliott_0245"
+    },
+    {
+      "title": "Behind Enemy Lines",
+      "page": "reviews/elliott-0273-behind-enemy-lines.html",
+      "id": "Elliott_0273"
     },
     {
       "title": "Ella Enchanted",
@@ -4483,6 +4688,13 @@
       "id": "Elliott_0217"
     }
   ],
+  "Perception": [
+    {
+      "title": "Bridge to Terabithia",
+      "page": "reviews/elliott-0277-bridge-to-terabithia.html",
+      "id": "Elliott_0277"
+    }
+  ],
   "Perfection": [
     {
       "title": "Friday Night Lights",
@@ -4591,6 +4803,13 @@
       "id": "Elliott_0208"
     }
   ],
+  "political agreements": [
+    {
+      "title": "Behind Enemy Lines",
+      "page": "reviews/elliott-0273-behind-enemy-lines.html",
+      "id": "Elliott_0273"
+    }
+  ],
   "positive influence": [
     {
       "title": "A Bug's Life",
@@ -4638,6 +4857,13 @@
       "title": "Agent Cody Banks",
       "page": "reviews/elliott-0247-agent-cody-banks.html",
       "id": "Elliott_0247"
+    }
+  ],
+  "practice": [
+    {
+      "title": "The Bourne Identity",
+      "page": "reviews/elliott-0271-the-bourne-identity.html",
+      "id": "Elliott_0271"
     }
   ],
   "praise": [
@@ -4959,6 +5185,11 @@
       "id": "Elliott_0027"
     },
     {
+      "title": "Bride & Prejudice",
+      "page": "reviews/elliott-0279-bride-and-prejudice.html",
+      "id": "Elliott_0279"
+    },
+    {
       "title": "Crush",
       "page": "reviews/elliott-0057-crush.html",
       "id": "Elliott_0057"
@@ -5230,6 +5461,11 @@
       "title": "Big Trouble",
       "page": "reviews/elliott-0266-big-trouble.html",
       "id": "Elliott_0266"
+    },
+    {
+      "title": "Bridge to Terabithia",
+      "page": "reviews/elliott-0277-bridge-to-terabithia.html",
+      "id": "Elliott_0277"
     }
   ],
   "restraint": [
@@ -5369,6 +5605,11 @@
       "title": "The Alamo",
       "page": "reviews/elliott-0044-the-alamo.html",
       "id": "Elliott_0044"
+    },
+    {
+      "title": "Black Hawk Down",
+      "page": "reviews/elliott-0274-black-hawk-down.html",
+      "id": "Elliott_0274"
     },
     {
       "title": "Ladder 49",
@@ -5665,6 +5906,13 @@
       "id": "Elliott_0010"
     }
   ],
+  "shared beliefs": [
+    {
+      "title": "Bride & Prejudice",
+      "page": "reviews/elliott-0279-bride-and-prejudice.html",
+      "id": "Elliott_0279"
+    }
+  ],
   "shared humanity": [
     {
       "title": "The Original Kings of Comedy",
@@ -5896,6 +6144,11 @@
       "title": "At First Sight",
       "page": "reviews/elliott-0046-at-first-sight.html",
       "id": "Elliott_0046"
+    },
+    {
+      "title": "The Bourne Identity",
+      "page": "reviews/elliott-0271-the-bourne-identity.html",
+      "id": "Elliott_0271"
     },
     {
       "title": "Tarzan",
@@ -6147,6 +6400,13 @@
       "id": "Elliott_0264"
     }
   ],
+  "stability": [
+    {
+      "title": "The Bourne Supremacy",
+      "page": "reviews/elliott-0275-the-bourne-supremacy.html",
+      "id": "Elliott_0275"
+    }
+  ],
   "Standards": [
     {
       "title": "Blast From The Past",
@@ -6245,6 +6505,13 @@
       "title": "Dreamgirls",
       "page": "reviews/elliott-0062-dreamgirls.html",
       "id": "Elliott_0062"
+    }
+  ],
+  "Superstition": [
+    {
+      "title": "The Brothers Grimm",
+      "page": "reviews/elliott-0280-the-brothers-grimm.html",
+      "id": "Elliott_0280"
     }
   ],
   "support": [
@@ -6727,6 +6994,11 @@
       "id": "Elliott_0029"
     },
     {
+      "title": "The Brothers Grimm",
+      "page": "reviews/elliott-0280-the-brothers-grimm.html",
+      "id": "Elliott_0280"
+    },
+    {
       "title": "Enemy at the Gates",
       "page": "reviews/elliott-0072-enemy-at-the-gates.html",
       "id": "Elliott_0072"
@@ -6772,6 +7044,11 @@
       "title": "Big Fat Liar",
       "page": "reviews/elliott-0267-big-fat-liar.html",
       "id": "Elliott_0267"
+    },
+    {
+      "title": "The Bourne Supremacy",
+      "page": "reviews/elliott-0275-the-bourne-supremacy.html",
+      "id": "Elliott_0275"
     },
     {
       "title": "The DaVinci Code",
@@ -6856,6 +7133,11 @@
       "id": "Elliott_0261"
     },
     {
+      "title": "Bride & Prejudice",
+      "page": "reviews/elliott-0279-bride-and-prejudice.html",
+      "id": "Elliott_0279"
+    },
+    {
       "title": "Mansfield Park",
       "page": "reviews/elliott-0143-mansfield-park.html",
       "id": "Elliott_0143"
@@ -6917,6 +7199,11 @@
     }
   ],
   "Vengeance": [
+    {
+      "title": "The Brave One",
+      "page": "reviews/elliott-0276-the-brave-one.html",
+      "id": "Elliott_0276"
+    },
     {
       "title": "The Punisher",
       "page": "reviews/elliott-0173-the-punisher.html",
@@ -7140,6 +7427,13 @@
       "title": "In Good Company",
       "page": "reviews/elliott-0120-in-good-company.html",
       "id": "Elliott_0120"
+    }
+  ],
+  "work": [
+    {
+      "title": "The Big Kahuna",
+      "page": "reviews/elliott-0272-the-big-kahuna.html",
+      "id": "Elliott_0272"
     }
   ],
   "workmanship": [
