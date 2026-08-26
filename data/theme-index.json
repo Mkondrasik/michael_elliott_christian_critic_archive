@@ -8,6 +8,11 @@
   ],
   "acceptance": [
     {
+      "title": "The Basket",
+      "page": "reviews/elliott-0261-the-basket.html",
+      "id": "Elliott_0261"
+    },
+    {
       "title": "Miss Congeniality",
       "page": "reviews/elliott-0146-miss-congeniality.html",
       "id": "Elliott_0146"
@@ -118,6 +123,13 @@
       "id": "Elliott_0213"
     }
   ],
+  "ambition": [
+    {
+      "title": "Bowfinger",
+      "page": "reviews/elliott-0256-bowfinger.html",
+      "id": "Elliott_0256"
+    }
+  ],
   "Anger": [
     {
       "title": "Anger Management",
@@ -130,6 +142,20 @@
       "title": "102 Dalmatians",
       "page": "reviews/elliott-0161-102-dalmatians.html",
       "id": "Elliott_0161"
+    }
+  ],
+  "anxiety": [
+    {
+      "title": "Analyze This",
+      "page": "reviews/elliott-0255-analyze-this.html",
+      "id": "Elliott_0255"
+    }
+  ],
+  "appearance versus reality": [
+    {
+      "title": "American Beauty",
+      "page": "reviews/elliott-0243-american-beauty.html",
+      "id": "Elliott_0243"
     }
   ],
   "appearances": [
@@ -180,6 +206,13 @@
       "title": "Todo sobre mi madre (All About My Mother)",
       "page": "reviews/elliott-0019-todo-sobre-mi-madre-all-about-my-mother.html",
       "id": "Elliott_0019"
+    }
+  ],
+  "authorship": [
+    {
+      "title": "Alex & Emma",
+      "page": "reviews/elliott-0246-alex-and-emma.html",
+      "id": "Elliott_0246"
     }
   ],
   "behavior patterns": [
@@ -268,6 +301,13 @@
       "id": "Elliott_0143"
     }
   ],
+  "Blood of Jesus Christ": [
+    {
+      "title": "Blade",
+      "page": "reviews/elliott-0260-blade.html",
+      "id": "Elliott_0260"
+    }
+  ],
   "bloodline": [
     {
       "title": "A Knight's Tale",
@@ -280,6 +320,18 @@
       "title": "August Rush",
       "page": "reviews/elliott-0221-august-rush.html",
       "id": "Elliott_0221"
+    }
+  ],
+  "Body of Christ": [
+    {
+      "title": "Antz",
+      "page": "reviews/elliott-0253-antz.html",
+      "id": "Elliott_0253"
+    },
+    {
+      "title": "The Basket",
+      "page": "reviews/elliott-0261-the-basket.html",
+      "id": "Elliott_0261"
     }
   ],
   "bondage": [
@@ -384,6 +436,13 @@
       "id": "Elliott_0191"
     }
   ],
+  "changing patterns": [
+    {
+      "title": "Affliction",
+      "page": "reviews/elliott-0242-affliction.html",
+      "id": "Elliott_0242"
+    }
+  ],
   "changing thought patterns": [
     {
       "title": "Saving Silverman",
@@ -396,6 +455,11 @@
       "title": "American Pie 2",
       "page": "reviews/elliott-0036-american-pie-2.html",
       "id": "Elliott_0036"
+    },
+    {
+      "title": "Bobby Jones: Stroke of Genius",
+      "page": "reviews/elliott-0264-bobby-jones-stroke-of-genius.html",
+      "id": "Elliott_0264"
     },
     {
       "title": "Meet The Parents",
@@ -538,6 +602,11 @@
     }
   ],
   "Christian conduct": [
+    {
+      "title": "The Apostle",
+      "page": "reviews/elliott-0254-the-apostle.html",
+      "id": "Elliott_0254"
+    },
     {
       "title": "The Master of Disguise",
       "page": "reviews/elliott-0150-the-master-of-disguise.html",
@@ -690,6 +759,13 @@
       "id": "Elliott_0176"
     }
   ],
+  "completion": [
+    {
+      "title": "Big Momma's House",
+      "page": "reviews/elliott-0265-big-momma-s-house.html",
+      "id": "Elliott_0265"
+    }
+  ],
   "compromise": [
     {
       "title": "Dreamgirls",
@@ -725,6 +801,13 @@
       "id": "Elliott_0168"
     }
   ],
+  "confidence": [
+    {
+      "title": "Agent Cody Banks",
+      "page": "reviews/elliott-0247-agent-cody-banks.html",
+      "id": "Elliott_0247"
+    }
+  ],
   "consequences": [
     {
       "title": "Alexander",
@@ -740,6 +823,21 @@
       "title": "Anacondas: The Hunt for the Blood Orchid",
       "page": "reviews/elliott-0235-anacondas-the-hunt-for-the-blood-orchid.html",
       "id": "Elliott_0235"
+    },
+    {
+      "title": "The Apostle",
+      "page": "reviews/elliott-0254-the-apostle.html",
+      "id": "Elliott_0254"
+    },
+    {
+      "title": "Bandits",
+      "page": "reviews/elliott-0269-bandits.html",
+      "id": "Elliott_0269"
+    },
+    {
+      "title": "Bowfinger",
+      "page": "reviews/elliott-0256-bowfinger.html",
+      "id": "Elliott_0256"
     },
     {
       "title": "Go",
@@ -828,11 +926,35 @@
       "id": "Elliott_0138"
     }
   ],
+  "cooperation": [
+    {
+      "title": "Antz",
+      "page": "reviews/elliott-0253-antz.html",
+      "id": "Elliott_0253"
+    },
+    {
+      "title": "The Basket",
+      "page": "reviews/elliott-0261-the-basket.html",
+      "id": "Elliott_0261"
+    }
+  ],
   "correction": [
+    {
+      "title": "Anywhere But Here",
+      "page": "reviews/elliott-0250-anywhere-but-here.html",
+      "id": "Elliott_0250"
+    },
     {
       "title": "Meet The Parents",
       "page": "reviews/elliott-0147-meet-the-parents.html",
       "id": "Elliott_0147"
+    }
+  ],
+  "corrupt communication": [
+    {
+      "title": "The Aristocrats",
+      "page": "reviews/elliott-0241-the-aristocrats.html",
+      "id": "Elliott_0241"
     }
   ],
   "counsel": [
@@ -878,6 +1000,11 @@
       "title": "Anna and the King",
       "page": "reviews/elliott-0020-anna-and-the-king.html",
       "id": "Elliott_0020"
+    },
+    {
+      "title": "Babe: Pig In The City",
+      "page": "reviews/elliott-0259-babe-pig-in-the-city.html",
+      "id": "Elliott_0259"
     },
     {
       "title": "The King and I (1999)",
@@ -992,6 +1119,20 @@
       "id": "Elliott_0170"
     }
   ],
+  "Crime": [
+    {
+      "title": "Bandits",
+      "page": "reviews/elliott-0269-bandits.html",
+      "id": "Elliott_0269"
+    }
+  ],
+  "cultural change": [
+    {
+      "title": "Blast From The Past",
+      "page": "reviews/elliott-0257-blast-from-the-past.html",
+      "id": "Elliott_0257"
+    }
+  ],
   "Daily living": [
     {
       "title": "Yi Yi: A One and a Two",
@@ -1004,6 +1145,11 @@
       "title": "Angel Eyes",
       "page": "reviews/elliott-0039-angel-eyes.html",
       "id": "Elliott_0039"
+    },
+    {
+      "title": "Big Trouble",
+      "page": "reviews/elliott-0266-big-trouble.html",
+      "id": "Elliott_0266"
     },
     {
       "title": "Highlander: Endgame",
@@ -1028,6 +1174,13 @@
       "title": "Gothika",
       "page": "reviews/elliott-0009-gothika.html",
       "id": "Elliott_0009"
+    }
+  ],
+  "deceit": [
+    {
+      "title": "Bowfinger",
+      "page": "reviews/elliott-0256-bowfinger.html",
+      "id": "Elliott_0256"
     }
   ],
   "deception": [
@@ -1094,6 +1247,25 @@
       "id": "Elliott_0116"
     }
   ],
+  "developing abilities": [
+    {
+      "title": "Billy Elliot",
+      "page": "reviews/elliott-0263-billy-elliot.html",
+      "id": "Elliott_0263"
+    }
+  ],
+  "devil spirits": [
+    {
+      "title": "American Beauty",
+      "page": "reviews/elliott-0243-american-beauty.html",
+      "id": "Elliott_0243"
+    },
+    {
+      "title": "The Big Hit",
+      "page": "reviews/elliott-0258-the-big-hit.html",
+      "id": "Elliott_0258"
+    }
+  ],
   "devilish influence": [
     {
       "title": "Fight Club",
@@ -1129,9 +1301,19 @@
   ],
   "discernment": [
     {
+      "title": "Agent Cody Banks",
+      "page": "reviews/elliott-0247-agent-cody-banks.html",
+      "id": "Elliott_0247"
+    },
+    {
       "title": "America's Sweethearts",
       "page": "reviews/elliott-0239-america-s-sweethearts.html",
       "id": "Elliott_0239"
+    },
+    {
+      "title": "American Beauty",
+      "page": "reviews/elliott-0243-american-beauty.html",
+      "id": "Elliott_0243"
     },
     {
       "title": "The Art of War",
@@ -1142,6 +1324,16 @@
       "title": "Austin Powers II: The Spy Who Shagged Me",
       "page": "reviews/elliott-0232-austin-powers-ii-the-spy-who-shagged-me.html",
       "id": "Elliott_0232"
+    },
+    {
+      "title": "The Avengers",
+      "page": "reviews/elliott-0252-the-avengers.html",
+      "id": "Elliott_0252"
+    },
+    {
+      "title": "A Beautiful Mind",
+      "page": "reviews/elliott-0262-a-beautiful-mind.html",
+      "id": "Elliott_0262"
     },
     {
       "title": "Domino",
@@ -1218,9 +1410,24 @@
       "id": "Elliott_0041"
     },
     {
+      "title": "Austin Powers III: Goldmember",
+      "page": "reviews/elliott-0249-austin-powers-iii-goldmember.html",
+      "id": "Elliott_0249"
+    },
+    {
       "title": "Big Daddy",
       "page": "reviews/elliott-0023-big-daddy.html",
       "id": "Elliott_0023"
+    },
+    {
+      "title": "Billy Elliot",
+      "page": "reviews/elliott-0263-billy-elliot.html",
+      "id": "Elliott_0263"
+    },
+    {
+      "title": "Bobby Jones: Stroke of Genius",
+      "page": "reviews/elliott-0264-bobby-jones-stroke-of-genius.html",
+      "id": "Elliott_0264"
     },
     {
       "title": "Coach Carter",
@@ -1318,6 +1525,11 @@
   ],
   "edification": [
     {
+      "title": "The Aristocrats",
+      "page": "reviews/elliott-0241-the-aristocrats.html",
+      "id": "Elliott_0241"
+    },
+    {
       "title": "Punch Drunk Love",
       "page": "reviews/elliott-0175-punch-drunk-love.html",
       "id": "Elliott_0175"
@@ -1356,6 +1568,13 @@
       "id": "Elliott_0167"
     }
   ],
+  "emotional balance": [
+    {
+      "title": "Analyze This",
+      "page": "reviews/elliott-0255-analyze-this.html",
+      "id": "Elliott_0255"
+    }
+  ],
   "emotional healing": [
     {
       "title": "Cherish",
@@ -1380,7 +1599,19 @@
       "id": "Elliott_0029"
     }
   ],
+  "Emotions": [
+    {
+      "title": "Analyze This",
+      "page": "reviews/elliott-0255-analyze-this.html",
+      "id": "Elliott_0255"
+    }
+  ],
   "encouragement": [
+    {
+      "title": "Austin Powers III: Goldmember",
+      "page": "reviews/elliott-0249-austin-powers-iii-goldmember.html",
+      "id": "Elliott_0249"
+    },
     {
       "title": "A Bug's Life",
       "page": "reviews/elliott-0025-a-bug-s-life.html",
@@ -1413,6 +1644,16 @@
   ],
   "endurance": [
     {
+      "title": "Almost Heroes",
+      "page": "reviews/elliott-0251-almost-heroes.html",
+      "id": "Elliott_0251"
+    },
+    {
+      "title": "Big Momma's House",
+      "page": "reviews/elliott-0265-big-momma-s-house.html",
+      "id": "Elliott_0265"
+    },
+    {
       "title": "George Washington",
       "page": "reviews/elliott-0092-george-washington.html",
       "id": "Elliott_0092"
@@ -1438,6 +1679,13 @@
       "title": "Confessions of a Dangerous Mind",
       "page": "reviews/elliott-0051-confessions-of-a-dangerous-mind.html",
       "id": "Elliott_0051"
+    }
+  ],
+  "entertainment choices": [
+    {
+      "title": "The Aristocrats",
+      "page": "reviews/elliott-0241-the-aristocrats.html",
+      "id": "Elliott_0241"
     }
   ],
   "environment": [
@@ -1554,6 +1802,11 @@
     }
   ],
   "example": [
+    {
+      "title": "Austin Powers III: Goldmember",
+      "page": "reviews/elliott-0249-austin-powers-iii-goldmember.html",
+      "id": "Elliott_0249"
+    },
     {
       "title": "Johnson Family Vacation",
       "page": "reviews/elliott-0115-johnson-family-vacation.html",
@@ -1830,6 +2083,16 @@
   ],
   "Fatherhood": [
     {
+      "title": "Affliction",
+      "page": "reviews/elliott-0242-affliction.html",
+      "id": "Elliott_0242"
+    },
+    {
+      "title": "Austin Powers III: Goldmember",
+      "page": "reviews/elliott-0249-austin-powers-iii-goldmember.html",
+      "id": "Elliott_0249"
+    },
+    {
       "title": "Johnson Family Vacation",
       "page": "reviews/elliott-0115-johnson-family-vacation.html",
       "id": "Elliott_0115"
@@ -1951,6 +2214,13 @@
       "id": "Elliott_0232"
     }
   ],
+  "focus": [
+    {
+      "title": "Beyond the Sea",
+      "page": "reviews/elliott-0270-beyond-the-sea.html",
+      "id": "Elliott_0270"
+    }
+  ],
   "focusing on godly things": [
     {
       "title": "The Thin Red Line",
@@ -2003,6 +2273,11 @@
       "title": "Are We There Yet?",
       "page": "reviews/elliott-0033-are-we-there-yet.html",
       "id": "Elliott_0033"
+    },
+    {
+      "title": "The Basket",
+      "page": "reviews/elliott-0261-the-basket.html",
+      "id": "Elliott_0261"
     },
     {
       "title": "Eternal Sunshine of the Spotless Mind",
@@ -2179,6 +2454,18 @@
       "title": "Benji: Off the Leash",
       "page": "reviews/elliott-0028-benji-off-the-leash.html",
       "id": "Elliott_0028"
+    },
+    {
+      "title": "Billy Elliot",
+      "page": "reviews/elliott-0263-billy-elliot.html",
+      "id": "Elliott_0263"
+    }
+  ],
+  "gifts": [
+    {
+      "title": "Antz",
+      "page": "reviews/elliott-0253-antz.html",
+      "id": "Elliott_0253"
     }
   ],
   "gifts of holy spirit": [
@@ -2193,6 +2480,11 @@
       "title": "The Anniversary Party",
       "page": "reviews/elliott-0233-the-anniversary-party.html",
       "id": "Elliott_0233"
+    },
+    {
+      "title": "Antitrust",
+      "page": "reviews/elliott-0244-antitrust.html",
+      "id": "Elliott_0244"
     },
     {
       "title": "Erin Brockovich",
@@ -2320,6 +2612,11 @@
       "title": "Armageddon",
       "page": "reviews/elliott-0230-armageddon.html",
       "id": "Elliott_0230"
+    },
+    {
+      "title": "Big Trouble",
+      "page": "reviews/elliott-0266-big-trouble.html",
+      "id": "Elliott_0266"
     }
   ],
   "God's provision": [
@@ -2341,9 +2638,24 @@
   ],
   "God's Word": [
     {
+      "title": "Alex & Emma",
+      "page": "reviews/elliott-0246-alex-and-emma.html",
+      "id": "Elliott_0246"
+    },
+    {
       "title": "Autumn in New York",
       "page": "reviews/elliott-0016-autumn-in-new-york.html",
       "id": "Elliott_0016"
+    },
+    {
+      "title": "A Beautiful Mind",
+      "page": "reviews/elliott-0262-a-beautiful-mind.html",
+      "id": "Elliott_0262"
+    },
+    {
+      "title": "Blast From The Past",
+      "page": "reviews/elliott-0257-blast-from-the-past.html",
+      "id": "Elliott_0257"
     },
     {
       "title": "Gloria",
@@ -2405,6 +2717,13 @@
       "title": "Win a Date with Tad Hamilton!",
       "page": "reviews/elliott-0214-win-a-date-with-tad-hamilton.html",
       "id": "Elliott_0214"
+    }
+  ],
+  "Godly character": [
+    {
+      "title": "Babe: Pig In The City",
+      "page": "reviews/elliott-0259-babe-pig-in-the-city.html",
+      "id": "Elliott_0259"
     }
   ],
   "godly conduct": [
@@ -2474,6 +2793,13 @@
       "id": "Elliott_0170"
     }
   ],
+  "good and evil": [
+    {
+      "title": "Bandits",
+      "page": "reviews/elliott-0269-bandits.html",
+      "id": "Elliott_0269"
+    }
+  ],
   "Good versus evil": [
     {
       "title": "Nicholas Nickleby",
@@ -2532,6 +2858,11 @@
       "title": "Angel Eyes",
       "page": "reviews/elliott-0039-angel-eyes.html",
       "id": "Elliott_0039"
+    },
+    {
+      "title": "Big Trouble",
+      "page": "reviews/elliott-0266-big-trouble.html",
+      "id": "Elliott_0266"
     },
     {
       "title": "Birth",
@@ -2641,6 +2972,11 @@
   ],
   "helping others": [
     {
+      "title": "The Black Knight",
+      "page": "reviews/elliott-0268-the-black-knight.html",
+      "id": "Elliott_0268"
+    },
+    {
       "title": "Erin Brockovich",
       "page": "reviews/elliott-0071-erin-brockovich.html",
       "id": "Elliott_0071"
@@ -2668,7 +3004,24 @@
       "id": "Elliott_0059"
     }
   ],
+  "hierarchy": [
+    {
+      "title": "The Big Hit",
+      "page": "reviews/elliott-0258-the-big-hit.html",
+      "id": "Elliott_0258"
+    }
+  ],
   "honesty": [
+    {
+      "title": "Big Fat Liar",
+      "page": "reviews/elliott-0267-big-fat-liar.html",
+      "id": "Elliott_0267"
+    },
+    {
+      "title": "Bowfinger",
+      "page": "reviews/elliott-0256-bowfinger.html",
+      "id": "Elliott_0256"
+    },
     {
       "title": "Breakin' All the Rules",
       "page": "reviews/elliott-0027-breakin-all-the-rules.html",
@@ -2693,6 +3046,11 @@
     }
   ],
   "honor": [
+    {
+      "title": "The Black Knight",
+      "page": "reviews/elliott-0268-the-black-knight.html",
+      "id": "Elliott_0268"
+    },
     {
       "title": "Nicholas Nickleby",
       "page": "reviews/elliott-0157-nicholas-nickleby.html",
@@ -2730,6 +3088,11 @@
       "title": "Angel Eyes",
       "page": "reviews/elliott-0039-angel-eyes.html",
       "id": "Elliott_0039"
+    },
+    {
+      "title": "Big Trouble",
+      "page": "reviews/elliott-0266-big-trouble.html",
+      "id": "Elliott_0266"
     },
     {
       "title": "Highlander: Endgame",
@@ -2961,6 +3324,13 @@
       "id": "Elliott_0169"
     }
   ],
+  "individuality": [
+    {
+      "title": "Antz",
+      "page": "reviews/elliott-0253-antz.html",
+      "id": "Elliott_0253"
+    }
+  ],
   "influence": [
     {
       "title": "Andrew Lloyd Webber's The Phantom of the Opera",
@@ -2990,6 +3360,13 @@
       "id": "Elliott_0190"
     }
   ],
+  "information": [
+    {
+      "title": "Antitrust",
+      "page": "reviews/elliott-0244-antitrust.html",
+      "id": "Elliott_0244"
+    }
+  ],
   "Inner beauty": [
     {
       "title": "American Pie 2",
@@ -3007,6 +3384,13 @@
       "title": "Andrew Lloyd Webber's The Phantom of the Opera",
       "page": "reviews/elliott-0172-andrew-lloyd-webber-s-the-phantom-of-the-opera.html",
       "id": "Elliott_0172"
+    }
+  ],
+  "Inspiration of Scripture": [
+    {
+      "title": "Alex & Emma",
+      "page": "reviews/elliott-0246-alex-and-emma.html",
+      "id": "Elliott_0246"
     }
   ],
   "instruction": [
@@ -3028,6 +3412,11 @@
       "id": "Elliott_0226"
     },
     {
+      "title": "Big Fat Liar",
+      "page": "reviews/elliott-0267-big-fat-liar.html",
+      "id": "Elliott_0267"
+    },
+    {
       "title": "Dreamgirls",
       "page": "reviews/elliott-0062-dreamgirls.html",
       "id": "Elliott_0062"
@@ -3036,6 +3425,18 @@
       "title": "In Good Company",
       "page": "reviews/elliott-0120-in-good-company.html",
       "id": "Elliott_0120"
+    }
+  ],
+  "Integrity": [
+    {
+      "title": "Bobby Jones: Stroke of Genius",
+      "page": "reviews/elliott-0264-bobby-jones-stroke-of-genius.html",
+      "id": "Elliott_0264"
+    },
+    {
+      "title": "Bowfinger",
+      "page": "reviews/elliott-0256-bowfinger.html",
+      "id": "Elliott_0256"
     }
   ],
   "Jealousy": [
@@ -3099,6 +3500,11 @@
   ],
   "justice": [
     {
+      "title": "Bandits",
+      "page": "reviews/elliott-0269-bandits.html",
+      "id": "Elliott_0269"
+    },
+    {
       "title": "Get Carter",
       "page": "reviews/elliott-0091-get-carter.html",
       "id": "Elliott_0091"
@@ -3133,11 +3539,25 @@
       "id": "Elliott_0109"
     }
   ],
+  "kindness": [
+    {
+      "title": "Babe: Pig In The City",
+      "page": "reviews/elliott-0259-babe-pig-in-the-city.html",
+      "id": "Elliott_0259"
+    }
+  ],
   "knowing the adversary": [
     {
       "title": "Gloria",
       "page": "reviews/elliott-0099-gloria.html",
       "id": "Elliott_0099"
+    }
+  ],
+  "knowledge": [
+    {
+      "title": "Antitrust",
+      "page": "reviews/elliott-0244-antitrust.html",
+      "id": "Elliott_0244"
     }
   ],
   "knowledge of God": [
@@ -3183,6 +3603,13 @@
       "title": "Assault on Precinct 13",
       "page": "reviews/elliott-0032-assault-on-precinct-13.html",
       "id": "Elliott_0032"
+    }
+  ],
+  "learned behavior": [
+    {
+      "title": "Affliction",
+      "page": "reviews/elliott-0242-affliction.html",
+      "id": "Elliott_0242"
     }
   ],
   "Learning": [
@@ -3300,6 +3727,11 @@
       "id": "Elliott_0234"
     },
     {
+      "title": "The Black Knight",
+      "page": "reviews/elliott-0268-the-black-knight.html",
+      "id": "Elliott_0268"
+    },
+    {
       "title": "Ella Enchanted",
       "page": "reviews/elliott-0079-ella-enchanted.html",
       "id": "Elliott_0079"
@@ -3341,6 +3773,11 @@
     }
   ],
   "Love": [
+    {
+      "title": "American Wedding",
+      "page": "reviews/elliott-0245-american-wedding.html",
+      "id": "Elliott_0245"
+    },
     {
       "title": "Amores perros (Love’s A Bitch)",
       "page": "reviews/elliott-0040-amores-perros-love-s-a-bitch.html",
@@ -3411,6 +3848,20 @@
       "id": "Elliott_0213"
     }
   ],
+  "lying": [
+    {
+      "title": "Big Fat Liar",
+      "page": "reviews/elliott-0267-big-fat-liar.html",
+      "id": "Elliott_0267"
+    }
+  ],
+  "maintaining one's heart": [
+    {
+      "title": "Babe: Pig In The City",
+      "page": "reviews/elliott-0259-babe-pig-in-the-city.html",
+      "id": "Elliott_0259"
+    }
+  ],
   "making a difference": [
     {
       "title": "Legally Blonde 2: Red, White & Blonde",
@@ -3423,6 +3874,13 @@
       "title": "The Jungle Book 2",
       "page": "reviews/elliott-0111-the-jungle-book-2.html",
       "id": "Elliott_0111"
+    }
+  ],
+  "manners": [
+    {
+      "title": "Blast From The Past",
+      "page": "reviews/elliott-0257-blast-from-the-past.html",
+      "id": "Elliott_0257"
     }
   ],
   "Marriage": [
@@ -3464,9 +3922,19 @@
   ],
   "marriage": [
     {
+      "title": "American Wedding",
+      "page": "reviews/elliott-0245-american-wedding.html",
+      "id": "Elliott_0245"
+    },
+    {
       "title": "The Anniversary Party",
       "page": "reviews/elliott-0233-the-anniversary-party.html",
       "id": "Elliott_0233"
+    },
+    {
+      "title": "Auto Focus",
+      "page": "reviews/elliott-0248-auto-focus.html",
+      "id": "Elliott_0248"
     },
     {
       "title": "Win a Date with Tad Hamilton!",
@@ -3481,6 +3949,11 @@
   ],
   "maturity": [
     {
+      "title": "Anywhere But Here",
+      "page": "reviews/elliott-0250-anywhere-but-here.html",
+      "id": "Elliott_0250"
+    },
+    {
       "title": "Are We There Yet?",
       "page": "reviews/elliott-0033-are-we-there-yet.html",
       "id": "Elliott_0033"
@@ -3494,6 +3967,13 @@
       "title": "True Crime",
       "page": "reviews/elliott-0204-true-crime.html",
       "id": "Elliott_0204"
+    }
+  ],
+  "meaning": [
+    {
+      "title": "American Beauty",
+      "page": "reviews/elliott-0243-american-beauty.html",
+      "id": "Elliott_0243"
     }
   ],
   "Meaning of life": [
@@ -3550,6 +4030,11 @@
       "title": "Agent Cody Banks 2: Destination London",
       "page": "reviews/elliott-0236-agent-cody-banks-2-destination-london.html",
       "id": "Elliott_0236"
+    },
+    {
+      "title": "A Beautiful Mind",
+      "page": "reviews/elliott-0262-a-beautiful-mind.html",
+      "id": "Elliott_0262"
     }
   ],
   "mistakes": [
@@ -3573,6 +4058,11 @@
   ],
   "moral choices": [
     {
+      "title": "American Wedding",
+      "page": "reviews/elliott-0245-american-wedding.html",
+      "id": "Elliott_0245"
+    },
+    {
       "title": "Road Trip",
       "page": "reviews/elliott-0183-road-trip.html",
       "id": "Elliott_0183"
@@ -3594,9 +4084,26 @@
   ],
   "moral standards": [
     {
+      "title": "Bandits",
+      "page": "reviews/elliott-0269-bandits.html",
+      "id": "Elliott_0269"
+    },
+    {
       "title": "Ocean's Eleven",
       "page": "reviews/elliott-0170-ocean-s-eleven.html",
       "id": "Elliott_0170"
+    }
+  ],
+  "morality": [
+    {
+      "title": "The Aristocrats",
+      "page": "reviews/elliott-0241-the-aristocrats.html",
+      "id": "Elliott_0241"
+    },
+    {
+      "title": "Blast From The Past",
+      "page": "reviews/elliott-0257-blast-from-the-past.html",
+      "id": "Elliott_0257"
     }
   ],
   "Motivation": [
@@ -3646,6 +4153,13 @@
       "id": "Elliott_0008"
     }
   ],
+  "natural disasters": [
+    {
+      "title": "The Avengers",
+      "page": "reviews/elliott-0252-the-avengers.html",
+      "id": "Elliott_0252"
+    }
+  ],
   "new life": [
     {
       "title": "Analyze That",
@@ -3661,6 +4175,11 @@
     }
   ],
   "obedience": [
+    {
+      "title": "American Wedding",
+      "page": "reviews/elliott-0245-american-wedding.html",
+      "id": "Elliott_0245"
+    },
     {
       "title": "Ella Enchanted",
       "page": "reviews/elliott-0079-ella-enchanted.html",
@@ -3701,6 +4220,13 @@
       "id": "Elliott_0006"
     }
   ],
+  "obstacles": [
+    {
+      "title": "Almost Heroes",
+      "page": "reviews/elliott-0251-almost-heroes.html",
+      "id": "Elliott_0251"
+    }
+  ],
   "one body": [
     {
       "title": "Annapolis",
@@ -3713,6 +4239,13 @@
       "title": "Smoke Signals",
       "page": "reviews/elliott-0192-smoke-signals.html",
       "id": "Elliott_0192"
+    }
+  ],
+  "order": [
+    {
+      "title": "The Big Hit",
+      "page": "reviews/elliott-0258-the-big-hit.html",
+      "id": "Elliott_0258"
     }
   ],
   "overcoming evil with good": [
@@ -3797,6 +4330,13 @@
       "id": "Elliott_0207"
     }
   ],
+  "Parental responsibility": [
+    {
+      "title": "Anywhere But Here",
+      "page": "reviews/elliott-0250-anywhere-but-here.html",
+      "id": "Elliott_0250"
+    }
+  ],
   "Parenting": [
     {
       "title": "Almost Famous",
@@ -3811,9 +4351,24 @@
   ],
   "parenting": [
     {
+      "title": "Affliction",
+      "page": "reviews/elliott-0242-affliction.html",
+      "id": "Elliott_0242"
+    },
+    {
+      "title": "Anywhere But Here",
+      "page": "reviews/elliott-0250-anywhere-but-here.html",
+      "id": "Elliott_0250"
+    },
+    {
       "title": "Are We There Yet?",
       "page": "reviews/elliott-0033-are-we-there-yet.html",
       "id": "Elliott_0033"
+    },
+    {
+      "title": "Austin Powers III: Goldmember",
+      "page": "reviews/elliott-0249-austin-powers-iii-goldmember.html",
+      "id": "Elliott_0249"
     },
     {
       "title": "City by the Sea",
@@ -3860,6 +4415,11 @@
   ],
   "passion": [
     {
+      "title": "Billy Elliot",
+      "page": "reviews/elliott-0263-billy-elliot.html",
+      "id": "Elliott_0263"
+    },
+    {
       "title": "The Fast and the Furious",
       "page": "reviews/elliott-0081-the-fast-and-the-furious.html",
       "id": "Elliott_0081"
@@ -3877,6 +4437,11 @@
       "title": "Are We There Yet?",
       "page": "reviews/elliott-0033-are-we-there-yet.html",
       "id": "Elliott_0033"
+    },
+    {
+      "title": "Big Momma's House",
+      "page": "reviews/elliott-0265-big-momma-s-house.html",
+      "id": "Elliott_0265"
     }
   ],
   "patience": [
@@ -3887,6 +4452,11 @@
     }
   ],
   "peace": [
+    {
+      "title": "Analyze This",
+      "page": "reviews/elliott-0255-analyze-this.html",
+      "id": "Elliott_0255"
+    },
     {
       "title": "Arlington Road",
       "page": "reviews/elliott-0047-arlington-road.html",
@@ -3932,6 +4502,11 @@
       "id": "Elliott_0049"
     },
     {
+      "title": "Big Momma's House",
+      "page": "reviews/elliott-0265-big-momma-s-house.html",
+      "id": "Elliott_0265"
+    },
+    {
       "title": "A Dog of Flanders",
       "page": "reviews/elliott-0070-a-dog-of-flanders.html",
       "id": "Elliott_0070"
@@ -3958,6 +4533,11 @@
     }
   ],
   "Perseverance": [
+    {
+      "title": "Almost Heroes",
+      "page": "reviews/elliott-0251-almost-heroes.html",
+      "id": "Elliott_0251"
+    },
     {
       "title": "Hardball",
       "page": "reviews/elliott-0105-hardball.html",
@@ -4046,6 +4626,20 @@
       "id": "Elliott_0094"
     }
   ],
+  "power of God's Word": [
+    {
+      "title": "The Apostle",
+      "page": "reviews/elliott-0254-the-apostle.html",
+      "id": "Elliott_0254"
+    }
+  ],
+  "Practice": [
+    {
+      "title": "Agent Cody Banks",
+      "page": "reviews/elliott-0247-agent-cody-banks.html",
+      "id": "Elliott_0247"
+    }
+  ],
   "praise": [
     {
       "title": "Little Voice",
@@ -4058,6 +4652,13 @@
       "title": "Hamlet",
       "page": "reviews/elliott-0108-hamlet.html",
       "id": "Elliott_0108"
+    }
+  ],
+  "prayer": [
+    {
+      "title": "The Apostle",
+      "page": "reviews/elliott-0254-the-apostle.html",
+      "id": "Elliott_0254"
     }
   ],
   "prejudice": [
@@ -4086,6 +4687,11 @@
       "title": "Anacondas: The Hunt for the Blood Orchid",
       "page": "reviews/elliott-0235-anacondas-the-hunt-for-the-blood-orchid.html",
       "id": "Elliott_0235"
+    },
+    {
+      "title": "Auto Focus",
+      "page": "reviews/elliott-0248-auto-focus.html",
+      "id": "Elliott_0248"
     },
     {
       "title": "The Fast and the Furious",
@@ -4143,7 +4749,19 @@
       "id": "Elliott_0165"
     }
   ],
+  "prosperity": [
+    {
+      "title": "Beyond the Sea",
+      "page": "reviews/elliott-0270-beyond-the-sea.html",
+      "id": "Elliott_0270"
+    }
+  ],
   "purity": [
+    {
+      "title": "Babe: Pig In The City",
+      "page": "reviews/elliott-0259-babe-pig-in-the-city.html",
+      "id": "Elliott_0259"
+    },
     {
       "title": "Road Trip",
       "page": "reviews/elliott-0183-road-trip.html",
@@ -4294,6 +4912,11 @@
     }
   ],
   "redemption": [
+    {
+      "title": "Blade",
+      "page": "reviews/elliott-0260-blade.html",
+      "id": "Elliott_0260"
+    },
     {
       "title": "Half Past Dead",
       "page": "reviews/elliott-0103-half-past-dead.html",
@@ -4540,6 +5163,11 @@
   ],
   "responsibility": [
     {
+      "title": "Affliction",
+      "page": "reviews/elliott-0242-affliction.html",
+      "id": "Elliott_0242"
+    },
+    {
       "title": "Alfie",
       "page": "reviews/elliott-0237-alfie.html",
       "id": "Elliott_0237"
@@ -4597,6 +5225,13 @@
       "id": "Elliott_0109"
     }
   ],
+  "restoration": [
+    {
+      "title": "Big Trouble",
+      "page": "reviews/elliott-0266-big-trouble.html",
+      "id": "Elliott_0266"
+    }
+  ],
   "restraint": [
     {
       "title": "The Punisher",
@@ -4647,6 +5282,13 @@
       "title": "Evan Almighty",
       "page": "reviews/elliott-0073-evan-almighty.html",
       "id": "Elliott_0073"
+    }
+  ],
+  "revelation": [
+    {
+      "title": "Alex & Emma",
+      "page": "reviews/elliott-0246-alex-and-emma.html",
+      "id": "Elliott_0246"
     }
   ],
   "Revenge": [
@@ -4736,6 +5378,11 @@
   ],
   "sacrifice": [
     {
+      "title": "Blade",
+      "page": "reviews/elliott-0260-blade.html",
+      "id": "Elliott_0260"
+    },
+    {
       "title": "Head in the Clouds",
       "page": "reviews/elliott-0119-head-in-the-clouds.html",
       "id": "Elliott_0119"
@@ -4768,6 +5415,13 @@
       "title": "A Knight's Tale",
       "page": "reviews/elliott-0130-a-knight-s-tale.html",
       "id": "Elliott_0130"
+    }
+  ],
+  "scribes": [
+    {
+      "title": "Alex & Emma",
+      "page": "reviews/elliott-0246-alex-and-emma.html",
+      "id": "Elliott_0246"
     }
   ],
   "second chances": [
@@ -4834,6 +5488,11 @@
       "id": "Elliott_0238"
     },
     {
+      "title": "Auto Focus",
+      "page": "reviews/elliott-0248-auto-focus.html",
+      "id": "Elliott_0248"
+    },
+    {
       "title": "Nutty Professor II: The Klumps",
       "page": "reviews/elliott-0159-nutty-professor-ii-the-klumps.html",
       "id": "Elliott_0159"
@@ -4879,6 +5538,13 @@
       "id": "Elliott_0154"
     }
   ],
+  "selfless action": [
+    {
+      "title": "American Wedding",
+      "page": "reviews/elliott-0245-american-wedding.html",
+      "id": "Elliott_0245"
+    }
+  ],
   "selflessness": [
     {
       "title": "The Anniversary Party",
@@ -4901,6 +5567,13 @@
       "id": "Elliott_0102"
     }
   ],
+  "Selflessness": [
+    {
+      "title": "The Black Knight",
+      "page": "reviews/elliott-0268-the-black-knight.html",
+      "id": "Elliott_0268"
+    }
+  ],
   "separation": [
     {
       "title": "Walking Tall",
@@ -4913,6 +5586,11 @@
       "title": "Assault on Precinct 13",
       "page": "reviews/elliott-0032-assault-on-precinct-13.html",
       "id": "Elliott_0032"
+    },
+    {
+      "title": "The Black Knight",
+      "page": "reviews/elliott-0268-the-black-knight.html",
+      "id": "Elliott_0268"
     },
     {
       "title": "Friday Night Lights",
@@ -4973,6 +5651,11 @@
       "title": "American Pie",
       "page": "reviews/elliott-0045-american-pie.html",
       "id": "Elliott_0045"
+    },
+    {
+      "title": "Auto Focus",
+      "page": "reviews/elliott-0248-auto-focus.html",
+      "id": "Elliott_0248"
     }
   ],
   "Sexual temptation": [
@@ -4989,6 +5672,13 @@
       "id": "Elliott_0162"
     }
   ],
+  "Sharing God's Word": [
+    {
+      "title": "Antitrust",
+      "page": "reviews/elliott-0244-antitrust.html",
+      "id": "Elliott_0244"
+    }
+  ],
   "shepherding": [
     {
       "title": "Assault on Precinct 13",
@@ -5003,11 +5693,25 @@
       "id": "Elliott_0105"
     }
   ],
+  "sin": [
+    {
+      "title": "Blade",
+      "page": "reviews/elliott-0260-blade.html",
+      "id": "Elliott_0260"
+    }
+  ],
   "sincerity": [
     {
       "title": "Hamlet",
       "page": "reviews/elliott-0108-hamlet.html",
       "id": "Elliott_0108"
+    }
+  ],
+  "single-mindedness": [
+    {
+      "title": "Beyond the Sea",
+      "page": "reviews/elliott-0270-beyond-the-sea.html",
+      "id": "Elliott_0270"
     }
   ],
   "sobriety": [
@@ -5060,6 +5764,13 @@
       "title": "South Park: Bigger, Longer and Uncut",
       "page": "reviews/elliott-0197-south-park-bigger-longer-and-uncut.html",
       "id": "Elliott_0197"
+    }
+  ],
+  "Speech": [
+    {
+      "title": "The Aristocrats",
+      "page": "reviews/elliott-0241-the-aristocrats.html",
+      "id": "Elliott_0241"
     }
   ],
   "Spirit": [
@@ -5197,6 +5908,13 @@
       "id": "Elliott_0204"
     }
   ],
+  "spiritual household": [
+    {
+      "title": "Analyze This",
+      "page": "reviews/elliott-0255-analyze-this.html",
+      "id": "Elliott_0255"
+    }
+  ],
   "spiritual influence": [
     {
       "title": "The Last Samurai",
@@ -5204,7 +5922,19 @@
       "id": "Elliott_0140"
     }
   ],
+  "Spiritual influence": [
+    {
+      "title": "American Beauty",
+      "page": "reviews/elliott-0243-american-beauty.html",
+      "id": "Elliott_0243"
+    }
+  ],
   "spiritual journey": [
+    {
+      "title": "Almost Heroes",
+      "page": "reviews/elliott-0251-almost-heroes.html",
+      "id": "Elliott_0251"
+    },
     {
       "title": "Centro do Brasil [Central Station]",
       "page": "reviews/elliott-0056-centro-do-brasil-central-station.html",
@@ -5223,11 +5953,32 @@
       "id": "Elliott_0093"
     }
   ],
+  "spiritual maturity": [
+    {
+      "title": "Agent Cody Banks",
+      "page": "reviews/elliott-0247-agent-cody-banks.html",
+      "id": "Elliott_0247"
+    }
+  ],
   "Spiritual nourishment": [
     {
       "title": "Autumn in New York",
       "page": "reviews/elliott-0016-autumn-in-new-york.html",
       "id": "Elliott_0016"
+    }
+  ],
+  "Spiritual opposition": [
+    {
+      "title": "The Avengers",
+      "page": "reviews/elliott-0252-the-avengers.html",
+      "id": "Elliott_0252"
+    }
+  ],
+  "spiritual opposition": [
+    {
+      "title": "The Big Hit",
+      "page": "reviews/elliott-0258-the-big-hit.html",
+      "id": "Elliott_0258"
     }
   ],
   "Spiritual power": [
@@ -5256,6 +6007,13 @@
       "id": "Elliott_0075"
     }
   ],
+  "spiritual realm": [
+    {
+      "title": "The Avengers",
+      "page": "reviews/elliott-0252-the-avengers.html",
+      "id": "Elliott_0252"
+    }
+  ],
   "spiritual riches": [
     {
       "title": "The Thomas Crown Affair",
@@ -5282,6 +6040,11 @@
       "title": "Alexander",
       "page": "reviews/elliott-0031-alexander.html",
       "id": "Elliott_0031"
+    },
+    {
+      "title": "Blade",
+      "page": "reviews/elliott-0260-blade.html",
+      "id": "Elliott_0260"
     },
     {
       "title": "Meet Joe Black",
@@ -5360,6 +6123,11 @@
       "id": "Elliott_0017"
     },
     {
+      "title": "The Big Hit",
+      "page": "reviews/elliott-0258-the-big-hit.html",
+      "id": "Elliott_0258"
+    },
+    {
       "title": "Fight Club",
       "page": "reviews/elliott-0087-fight-club.html",
       "id": "Elliott_0087"
@@ -5370,6 +6138,20 @@
       "title": "Mulan",
       "page": "reviews/elliott-0141-mulan.html",
       "id": "Elliott_0141"
+    }
+  ],
+  "sportsmanship": [
+    {
+      "title": "Bobby Jones: Stroke of Genius",
+      "page": "reviews/elliott-0264-bobby-jones-stroke-of-genius.html",
+      "id": "Elliott_0264"
+    }
+  ],
+  "Standards": [
+    {
+      "title": "Blast From The Past",
+      "page": "reviews/elliott-0257-blast-from-the-past.html",
+      "id": "Elliott_0257"
     }
   ],
   "standing for what is right": [
@@ -5391,6 +6173,11 @@
       "title": "102 Dalmatians",
       "page": "reviews/elliott-0161-102-dalmatians.html",
       "id": "Elliott_0161"
+    },
+    {
+      "title": "Antitrust",
+      "page": "reviews/elliott-0244-antitrust.html",
+      "id": "Elliott_0244"
     },
     {
       "title": "Clockstoppers",
@@ -5450,6 +6237,11 @@
   ],
   "success": [
     {
+      "title": "Beyond the Sea",
+      "page": "reviews/elliott-0270-beyond-the-sea.html",
+      "id": "Elliott_0270"
+    },
+    {
       "title": "Dreamgirls",
       "page": "reviews/elliott-0062-dreamgirls.html",
       "id": "Elliott_0062"
@@ -5460,6 +6252,13 @@
       "title": "You Got Served",
       "page": "reviews/elliott-0213-you-got-served.html",
       "id": "Elliott_0213"
+    }
+  ],
+  "talent": [
+    {
+      "title": "Billy Elliot",
+      "page": "reviews/elliott-0263-billy-elliot.html",
+      "id": "Elliott_0263"
     }
   ],
   "Talents": [
@@ -5502,6 +6301,11 @@
   ],
   "teaching children": [
     {
+      "title": "Anywhere But Here",
+      "page": "reviews/elliott-0250-anywhere-but-here.html",
+      "id": "Elliott_0250"
+    },
+    {
       "title": "Smoke Signals",
       "page": "reviews/elliott-0192-smoke-signals.html",
       "id": "Elliott_0192"
@@ -5530,9 +6334,24 @@
   ],
   "temptation": [
     {
+      "title": "Almost Heroes",
+      "page": "reviews/elliott-0251-almost-heroes.html",
+      "id": "Elliott_0251"
+    },
+    {
       "title": "Anacondas: The Hunt for the Blood Orchid",
       "page": "reviews/elliott-0235-anacondas-the-hunt-for-the-blood-orchid.html",
       "id": "Elliott_0235"
+    },
+    {
+      "title": "Auto Focus",
+      "page": "reviews/elliott-0248-auto-focus.html",
+      "id": "Elliott_0248"
+    },
+    {
+      "title": "Bobby Jones: Stroke of Genius",
+      "page": "reviews/elliott-0264-bobby-jones-stroke-of-genius.html",
+      "id": "Elliott_0264"
     },
     {
       "title": "Boiler Room",
@@ -5589,6 +6408,11 @@
     }
   ],
   "the devil": [
+    {
+      "title": "The Avengers",
+      "page": "reviews/elliott-0252-the-avengers.html",
+      "id": "Elliott_0252"
+    },
     {
       "title": "Titan AE",
       "page": "reviews/elliott-0209-titan-ae.html",
@@ -5750,6 +6574,13 @@
       "id": "Elliott_0227"
     }
   ],
+  "training": [
+    {
+      "title": "Agent Cody Banks",
+      "page": "reviews/elliott-0247-agent-cody-banks.html",
+      "id": "Elliott_0247"
+    }
+  ],
   "transformation": [
     {
       "title": "Analyze That",
@@ -5793,6 +6624,11 @@
   ],
   "trust": [
     {
+      "title": "Big Fat Liar",
+      "page": "reviews/elliott-0267-big-fat-liar.html",
+      "id": "Elliott_0267"
+    },
+    {
       "title": "Finding Neverland",
       "page": "reviews/elliott-0084-finding-neverland.html",
       "id": "Elliott_0084"
@@ -5834,6 +6670,11 @@
   ],
   "trusting God": [
     {
+      "title": "A Beautiful Mind",
+      "page": "reviews/elliott-0262-a-beautiful-mind.html",
+      "id": "Elliott_0262"
+    },
+    {
       "title": "Facing the Giants",
       "page": "reviews/elliott-0088-facing-the-giants.html",
       "id": "Elliott_0088"
@@ -5874,6 +6715,11 @@
       "title": "The Art of War",
       "page": "reviews/elliott-0017-the-art-of-war.html",
       "id": "Elliott_0017"
+    },
+    {
+      "title": "A Beautiful Mind",
+      "page": "reviews/elliott-0262-a-beautiful-mind.html",
+      "id": "Elliott_0262"
     },
     {
       "title": "Birth",
@@ -5922,6 +6768,11 @@
     }
   ],
   "Truth": [
+    {
+      "title": "Big Fat Liar",
+      "page": "reviews/elliott-0267-big-fat-liar.html",
+      "id": "Elliott_0267"
+    },
     {
       "title": "The DaVinci Code",
       "page": "reviews/elliott-0067-the-davinci-code.html",
@@ -5990,9 +6841,19 @@
   ],
   "unity": [
     {
+      "title": "Antz",
+      "page": "reviews/elliott-0253-antz.html",
+      "id": "Elliott_0253"
+    },
+    {
       "title": "Any Given Sunday",
       "page": "reviews/elliott-0225-any-given-sunday.html",
       "id": "Elliott_0225"
+    },
+    {
+      "title": "The Basket",
+      "page": "reviews/elliott-0261-the-basket.html",
+      "id": "Elliott_0261"
     },
     {
       "title": "Mansfield Park",
@@ -6121,6 +6982,11 @@
   ],
   "Vision": [
     {
+      "title": "Beyond the Sea",
+      "page": "reviews/elliott-0270-beyond-the-sea.html",
+      "id": "Elliott_0270"
+    },
+    {
       "title": "Coach Carter",
       "page": "reviews/elliott-0060-coach-carter.html",
       "id": "Elliott_0060"
@@ -6131,6 +6997,13 @@
       "title": "Runaway Bride",
       "page": "reviews/elliott-0188-runaway-bride.html",
       "id": "Elliott_0188"
+    }
+  ],
+  "waiting": [
+    {
+      "title": "Big Momma's House",
+      "page": "reviews/elliott-0265-big-momma-s-house.html",
+      "id": "Elliott_0265"
     }
   ],
   "War": [
@@ -6291,6 +7164,11 @@
     }
   ],
   "worship": [
+    {
+      "title": "The Apostle",
+      "page": "reviews/elliott-0254-the-apostle.html",
+      "id": "Elliott_0254"
+    },
     {
       "title": "Little Voice",
       "page": "reviews/elliott-0137-little-voice.html",
