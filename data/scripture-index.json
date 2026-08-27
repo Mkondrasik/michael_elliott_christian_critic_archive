@@ -135,6 +135,13 @@
       "id": "Elliott_0273"
     }
   ],
+  "Leviticus 18:22": [
+    {
+      "title": "Brokeback Mountain",
+      "page": "reviews/elliott-0285-brokeback-mountain.html",
+      "id": "Elliott_0285"
+    }
+  ],
   "Leviticus 18:23": [
     {
       "title": "The Animal",
@@ -851,14 +858,14 @@
   ],
   "Proverbs 3:5": [
     {
-      "title": "American Gangster",
-      "page": "reviews/elliott-0240-american-gangster.html",
-      "id": "Elliott_0240"
-    },
-    {
       "title": "A Beautiful Mind",
       "page": "reviews/elliott-0262-a-beautiful-mind.html",
       "id": "Elliott_0262"
+    },
+    {
+      "title": "American Gangster",
+      "page": "reviews/elliott-0240-american-gangster.html",
+      "id": "Elliott_0240"
     }
   ],
   "Proverbs 3:5-6": [
@@ -880,6 +887,13 @@
       "title": "Centro do Brasil [Central Station]",
       "page": "reviews/elliott-0056-centro-do-brasil-central-station.html",
       "id": "Elliott_0056"
+    }
+  ],
+  "Proverbs 3:19": [
+    {
+      "title": "The Core",
+      "page": "reviews/elliott-0282-the-core.html",
+      "id": "Elliott_0282"
     }
   ],
   "Proverbs 3:25": [
@@ -1115,6 +1129,11 @@
       "title": "Anger Management",
       "page": "reviews/elliott-0238-anger-management.html",
       "id": "Elliott_0238"
+    },
+    {
+      "title": "Batman Begins",
+      "page": "reviews/elliott-0284-batman-begins.html",
+      "id": "Elliott_0284"
     },
     {
       "title": "The Brave One",
@@ -1398,6 +1417,11 @@
     }
   ],
   "Proverbs 28:22": [
+    {
+      "title": "Blow",
+      "page": "reviews/elliott-0288-blow.html",
+      "id": "Elliott_0288"
+    },
     {
       "title": "Boiler Room",
       "page": "reviews/elliott-0022-boiler-room.html",
@@ -1762,6 +1786,11 @@
   ],
   "Isaiah 45:7": [
     {
+      "title": "Beyond Narnia",
+      "page": "reviews/elliott-0286-beyond-narnia.html",
+      "id": "Elliott_0286"
+    },
+    {
       "title": "Mission: Impossible 2",
       "page": "reviews/elliott-0145-mission-impossible-2.html",
       "id": "Elliott_0145"
@@ -1772,6 +1801,11 @@
       "title": "A.I. Artificial Intelligence",
       "page": "reviews/elliott-0234-a-i-artificial-intelligence.html",
       "id": "Elliott_0234"
+    },
+    {
+      "title": "The Core",
+      "page": "reviews/elliott-0282-the-core.html",
+      "id": "Elliott_0282"
     },
     {
       "title": "The Legend of 1900",
@@ -1868,6 +1902,11 @@
       "title": "After the Sunset",
       "page": "reviews/elliott-0041-after-the-sunset.html",
       "id": "Elliott_0041"
+    },
+    {
+      "title": "Bait",
+      "page": "reviews/elliott-0290-bait.html",
+      "id": "Elliott_0290"
     }
   ],
   "Jeremiah 32:17": [
@@ -1882,6 +1921,13 @@
       "title": "Alex & Emma",
       "page": "reviews/elliott-0246-alex-and-emma.html",
       "id": "Elliott_0246"
+    }
+  ],
+  "Jeremiah 51:15": [
+    {
+      "title": "The Core",
+      "page": "reviews/elliott-0282-the-core.html",
+      "id": "Elliott_0282"
     }
   ],
   "Lamentations 3:22-23": [
@@ -2015,6 +2061,13 @@
       "title": "Hamlet",
       "page": "reviews/elliott-0108-hamlet.html",
       "id": "Elliott_0108"
+    }
+  ],
+  "Matthew 6:19": [
+    {
+      "title": "Blow",
+      "page": "reviews/elliott-0288-blow.html",
+      "id": "Elliott_0288"
     }
   ],
   "Matthew 6:19-21": [
@@ -2300,6 +2353,13 @@
       "id": "Elliott_0256"
     }
   ],
+  "Mark 8:38": [
+    {
+      "title": "The Climb",
+      "page": "reviews/elliott-0281-the-climb.html",
+      "id": "Elliott_0281"
+    }
+  ],
   "Mark 9:23": [
     {
       "title": "Elf",
@@ -2579,14 +2639,14 @@
   ],
   "John 8:32": [
     {
-      "title": "The Bourne Supremacy",
-      "page": "reviews/elliott-0275-the-bourne-supremacy.html",
-      "id": "Elliott_0275"
-    },
-    {
       "title": "Down in the Valley",
       "page": "reviews/elliott-0068-down-in-the-valley.html",
       "id": "Elliott_0068"
+    },
+    {
+      "title": "The Bourne Supremacy",
+      "page": "reviews/elliott-0275-the-bourne-supremacy.html",
+      "id": "Elliott_0275"
     }
   ],
   "John 8:44": [
@@ -2681,14 +2741,14 @@
   ],
   "John 15:13": [
     {
-      "title": "The Alamo",
-      "page": "reviews/elliott-0044-the-alamo.html",
-      "id": "Elliott_0044"
-    },
-    {
       "title": "Black Hawk Down",
       "page": "reviews/elliott-0274-black-hawk-down.html",
       "id": "Elliott_0274"
+    },
+    {
+      "title": "The Alamo",
+      "page": "reviews/elliott-0044-the-alamo.html",
+      "id": "Elliott_0044"
     },
     {
       "title": "You Got Served",
@@ -2876,6 +2936,20 @@
       "id": "Elliott_0103"
     }
   ],
+  "Romans 1:16": [
+    {
+      "title": "The Climb",
+      "page": "reviews/elliott-0281-the-climb.html",
+      "id": "Elliott_0281"
+    }
+  ],
+  "Romans 1:27": [
+    {
+      "title": "Brokeback Mountain",
+      "page": "reviews/elliott-0285-brokeback-mountain.html",
+      "id": "Elliott_0285"
+    }
+  ],
   "Romans 2:6-10": [
     {
       "title": "All The Pretty Horses",
@@ -2996,6 +3070,11 @@
       "id": "Elliott_0050"
     },
     {
+      "title": "Bewitched",
+      "page": "reviews/elliott-0283-bewitched.html",
+      "id": "Elliott_0283"
+    },
+    {
       "title": "Keeping The Faith",
       "page": "reviews/elliott-0122-keeping-the-faith.html",
       "id": "Elliott_0122"
@@ -3036,6 +3115,11 @@
   ],
   "Romans 12:19": [
     {
+      "title": "Batman Begins",
+      "page": "reviews/elliott-0284-batman-begins.html",
+      "id": "Elliott_0284"
+    },
+    {
       "title": "Get Carter",
       "page": "reviews/elliott-0091-get-carter.html",
       "id": "Elliott_0091"
@@ -3066,6 +3150,11 @@
     }
   ],
   "Romans 12:21": [
+    {
+      "title": "Batman Begins",
+      "page": "reviews/elliott-0284-batman-begins.html",
+      "id": "Elliott_0284"
+    },
     {
       "title": "Nicholas Nickleby",
       "page": "reviews/elliott-0157-nicholas-nickleby.html",
@@ -3224,6 +3313,13 @@
       "id": "Elliott_0059"
     }
   ],
+  "1 Corinthians 6:9-10": [
+    {
+      "title": "Brokeback Mountain",
+      "page": "reviews/elliott-0285-brokeback-mountain.html",
+      "id": "Elliott_0285"
+    }
+  ],
   "1 Corinthians 6:20": [
     {
       "title": "Ladder 49",
@@ -3380,6 +3476,13 @@
       "id": "Elliott_0003"
     }
   ],
+  "1 Corinthians 14:20": [
+    {
+      "title": "Baby Boy",
+      "page": "reviews/elliott-0287-baby-boy.html",
+      "id": "Elliott_0287"
+    }
+  ],
   "1 Corinthians 14:40": [
     {
       "title": "The Apostle",
@@ -3395,6 +3498,11 @@
     }
   ],
   "1 Corinthians 15:26": [
+    {
+      "title": "Bounce",
+      "page": "reviews/elliott-0289-bounce.html",
+      "id": "Elliott_0289"
+    },
     {
       "title": "Meet Joe Black",
       "page": "reviews/elliott-0144-meet-joe-black.html",
@@ -3453,6 +3561,13 @@
       "id": "Elliott_0089"
     }
   ],
+  "2 Corinthians 1:4": [
+    {
+      "title": "Beyond Narnia",
+      "page": "reviews/elliott-0286-beyond-narnia.html",
+      "id": "Elliott_0286"
+    }
+  ],
   "2 Corinthians 2:7": [
     {
       "title": "Judas",
@@ -3479,6 +3594,13 @@
       "title": "The Country Bears",
       "page": "reviews/elliott-0053-the-country-bears.html",
       "id": "Elliott_0053"
+    }
+  ],
+  "2 Corinthians 4:7-9": [
+    {
+      "title": "Beyond Narnia",
+      "page": "reviews/elliott-0286-beyond-narnia.html",
+      "id": "Elliott_0286"
     }
   ],
   "2 Corinthians 4:16": [
@@ -3701,14 +3823,14 @@
   ],
   "Galatians 6:3": [
     {
-      "title": "The Country Bears",
-      "page": "reviews/elliott-0053-the-country-bears.html",
-      "id": "Elliott_0053"
-    },
-    {
       "title": "God's Army",
       "page": "reviews/elliott-0093-god-s-army.html",
       "id": "Elliott_0093"
+    },
+    {
+      "title": "The Country Bears",
+      "page": "reviews/elliott-0053-the-country-bears.html",
+      "id": "Elliott_0053"
     }
   ],
   "Galatians 6:7": [
@@ -3734,14 +3856,14 @@
   ],
   "Galatians 6:10": [
     {
-      "title": "The Black Knight",
-      "page": "reviews/elliott-0268-the-black-knight.html",
-      "id": "Elliott_0268"
-    },
-    {
       "title": "Head in the Clouds",
       "page": "reviews/elliott-0119-head-in-the-clouds.html",
       "id": "Elliott_0119"
+    },
+    {
+      "title": "The Black Knight",
+      "page": "reviews/elliott-0268-the-black-knight.html",
+      "id": "Elliott_0268"
     }
   ],
   "Ephesians 1:4-5": [
@@ -3760,14 +3882,14 @@
   ],
   "Ephesians 2:2": [
     {
-      "title": "The Avengers",
-      "page": "reviews/elliott-0252-the-avengers.html",
-      "id": "Elliott_0252"
-    },
-    {
       "title": "Centro do Brasil [Central Station]",
       "page": "reviews/elliott-0056-centro-do-brasil-central-station.html",
       "id": "Elliott_0056"
+    },
+    {
+      "title": "The Avengers",
+      "page": "reviews/elliott-0252-the-avengers.html",
+      "id": "Elliott_0252"
     }
   ],
   "Ephesians 2:2-3": [
@@ -3845,6 +3967,13 @@
       "id": "Elliott_0080"
     }
   ],
+  "Ephesians 4:11-13": [
+    {
+      "title": "Baby Boy",
+      "page": "reviews/elliott-0287-baby-boy.html",
+      "id": "Elliott_0287"
+    }
+  ],
   "Ephesians 4:14": [
     {
       "title": "Blast From The Past",
@@ -3898,6 +4027,16 @@
       "id": "Elliott_0236"
     },
     {
+      "title": "Bait",
+      "page": "reviews/elliott-0290-bait.html",
+      "id": "Elliott_0290"
+    },
+    {
+      "title": "Bewitched",
+      "page": "reviews/elliott-0283-bewitched.html",
+      "id": "Elliott_0283"
+    },
+    {
       "title": "Nutty Professor II: The Klumps",
       "page": "reviews/elliott-0159-nutty-professor-ii-the-klumps.html",
       "id": "Elliott_0159"
@@ -3943,11 +4082,6 @@
   ],
   "Ephesians 4:29": [
     {
-      "title": "The Aristocrats",
-      "page": "reviews/elliott-0241-the-aristocrats.html",
-      "id": "Elliott_0241"
-    },
-    {
       "title": "A Bug's Life",
       "page": "reviews/elliott-0025-a-bug-s-life.html",
       "id": "Elliott_0025"
@@ -3966,14 +4100,21 @@
       "title": "Punch Drunk Love",
       "page": "reviews/elliott-0175-punch-drunk-love.html",
       "id": "Elliott_0175"
+    },
+    {
+      "title": "The Aristocrats",
+      "page": "reviews/elliott-0241-the-aristocrats.html",
+      "id": "Elliott_0241"
+    }
+  ],
+  "Ephesians 4:30": [
+    {
+      "title": "The Climb",
+      "page": "reviews/elliott-0281-the-climb.html",
+      "id": "Elliott_0281"
     }
   ],
   "Ephesians 5:2": [
-    {
-      "title": "The Anniversary Party",
-      "page": "reviews/elliott-0233-the-anniversary-party.html",
-      "id": "Elliott_0233"
-    },
     {
       "title": "Black Hawk Down",
       "page": "reviews/elliott-0274-black-hawk-down.html",
@@ -3988,6 +4129,11 @@
       "title": "No Reservations",
       "page": "reviews/elliott-0153-no-reservations.html",
       "id": "Elliott_0153"
+    },
+    {
+      "title": "The Anniversary Party",
+      "page": "reviews/elliott-0233-the-anniversary-party.html",
+      "id": "Elliott_0233"
     }
   ],
   "Ephesians 5:3-4": [
@@ -4108,14 +4254,14 @@
   ],
   "Ephesians 6:12": [
     {
-      "title": "The Avengers",
-      "page": "reviews/elliott-0252-the-avengers.html",
-      "id": "Elliott_0252"
-    },
-    {
       "title": "Fight Club",
       "page": "reviews/elliott-0087-fight-club.html",
       "id": "Elliott_0087"
+    },
+    {
+      "title": "The Avengers",
+      "page": "reviews/elliott-0252-the-avengers.html",
+      "id": "Elliott_0252"
     }
   ],
   "Ephesians 6:13-18": [
@@ -4287,6 +4433,13 @@
       "id": "Elliott_0154"
     }
   ],
+  "Colossians 3:8-10": [
+    {
+      "title": "Bait",
+      "page": "reviews/elliott-0290-bait.html",
+      "id": "Elliott_0290"
+    }
+  ],
   "Colossians 3:9": [
     {
       "title": "Big Fat Liar",
@@ -4299,6 +4452,11 @@
       "title": "Analyze That",
       "page": "reviews/elliott-0231-analyze-that.html",
       "id": "Elliott_0231"
+    },
+    {
+      "title": "Bewitched",
+      "page": "reviews/elliott-0283-bewitched.html",
+      "id": "Elliott_0283"
     },
     {
       "title": "Nutty Professor II: The Klumps",
@@ -4417,13 +4575,6 @@
       "id": "Elliott_0190"
     }
   ],
-  "1 Thessalonians. 1:10": [
-    {
-      "title": "Armageddon",
-      "page": "reviews/elliott-0230-armageddon.html",
-      "id": "Elliott_0230"
-    }
-  ],
   "1 Thessalonians 2:11-12": [
     {
       "title": "Austin Powers III: Goldmember",
@@ -4457,6 +4608,13 @@
       "id": "Elliott_0278"
     }
   ],
+  "1 Thessalonians 4:13": [
+    {
+      "title": "Bounce",
+      "page": "reviews/elliott-0289-bounce.html",
+      "id": "Elliott_0289"
+    }
+  ],
   "1 Thessalonians 4:13-18": [
     {
       "title": "Angel Eyes",
@@ -4474,6 +4632,13 @@
       "title": "Paycheck",
       "page": "reviews/elliott-0174-paycheck.html",
       "id": "Elliott_0174"
+    }
+  ],
+  "1 Thessalonians 4:16-18": [
+    {
+      "title": "Bounce",
+      "page": "reviews/elliott-0289-bounce.html",
+      "id": "Elliott_0289"
     }
   ],
   "1 Thessalonians 5:11": [
@@ -4516,11 +4681,6 @@
   ],
   "1 Thessalonians 5:21": [
     {
-      "title": "The Art of War",
-      "page": "reviews/elliott-0017-the-art-of-war.html",
-      "id": "Elliott_0017"
-    },
-    {
       "title": "A Beautiful Mind",
       "page": "reviews/elliott-0262-a-beautiful-mind.html",
       "id": "Elliott_0262"
@@ -4529,6 +4689,11 @@
       "title": "Rush Hour 2",
       "page": "reviews/elliott-0004-rush-hour-2.html",
       "id": "Elliott_0004"
+    },
+    {
+      "title": "The Art of War",
+      "page": "reviews/elliott-0017-the-art-of-war.html",
+      "id": "Elliott_0017"
     }
   ],
   "2 Thessalonians 1:11": [
@@ -4637,6 +4802,13 @@
       "title": "In Good Company",
       "page": "reviews/elliott-0120-in-good-company.html",
       "id": "Elliott_0120"
+    }
+  ],
+  "1 Timothy 6:9-10": [
+    {
+      "title": "Blow",
+      "page": "reviews/elliott-0288-blow.html",
+      "id": "Elliott_0288"
     }
   ],
   "1 Timothy 6:10": [
@@ -4783,6 +4955,11 @@
     }
   ],
   "Titus 2:6-8": [
+    {
+      "title": "Baby Boy",
+      "page": "reviews/elliott-0287-baby-boy.html",
+      "id": "Elliott_0287"
+    },
     {
       "title": "Run Lola Run (Lola rennt)",
       "page": "reviews/elliott-0190-run-lola-run-lola-rennt.html",
@@ -5035,18 +5212,18 @@
       "id": "Elliott_0240"
     }
   ],
-  "James 3:2-12": [
-    {
-      "title": "A Bug's Life",
-      "page": "reviews/elliott-0025-a-bug-s-life.html",
-      "id": "Elliott_0025"
-    }
-  ],
   "James 3:2-8": [
     {
       "title": "The Aristocrats",
       "page": "reviews/elliott-0241-the-aristocrats.html",
       "id": "Elliott_0241"
+    }
+  ],
+  "James 3:2-12": [
+    {
+      "title": "A Bug's Life",
+      "page": "reviews/elliott-0025-a-bug-s-life.html",
+      "id": "Elliott_0025"
     }
   ],
   "James 3:3-8": [
@@ -5093,11 +5270,6 @@
   ],
   "James 4:7": [
     {
-      "title": "The Apostle",
-      "page": "reviews/elliott-0254-the-apostle.html",
-      "id": "Elliott_0254"
-    },
-    {
       "title": "Exorcist: The Beginning",
       "page": "reviews/elliott-0077-exorcist-the-beginning.html",
       "id": "Elliott_0077"
@@ -5106,6 +5278,11 @@
       "title": "Pirates of the Caribbean 2: Dead Man's Chest",
       "page": "reviews/elliott-0178-pirates-of-the-caribbean-2-dead-man-s-chest.html",
       "id": "Elliott_0178"
+    },
+    {
+      "title": "The Apostle",
+      "page": "reviews/elliott-0254-the-apostle.html",
+      "id": "Elliott_0254"
     }
   ],
   "James 5:16": [
@@ -5372,14 +5549,14 @@
   ],
   "1 John 4:4": [
     {
-      "title": "The Adventures of Rocky and Bullwinkle",
-      "page": "reviews/elliott-0015-the-adventures-of-rocky-and-bullwinkle.html",
-      "id": "Elliott_0015"
-    },
-    {
       "title": "Hardball",
       "page": "reviews/elliott-0105-hardball.html",
       "id": "Elliott_0105"
+    },
+    {
+      "title": "The Adventures of Rocky and Bullwinkle",
+      "page": "reviews/elliott-0015-the-adventures-of-rocky-and-bullwinkle.html",
+      "id": "Elliott_0015"
     }
   ],
   "1 John 4:8": [
@@ -5403,14 +5580,14 @@
       "id": "Elliott_0047"
     },
     {
-      "title": "The Brave One",
-      "page": "reviews/elliott-0276-the-brave-one.html",
-      "id": "Elliott_0276"
-    },
-    {
       "title": "Crush",
       "page": "reviews/elliott-0057-crush.html",
       "id": "Elliott_0057"
+    },
+    {
+      "title": "The Brave One",
+      "page": "reviews/elliott-0276-the-brave-one.html",
+      "id": "Elliott_0276"
     },
     {
       "title": "Welcome to Mooseport",
@@ -5545,6 +5722,13 @@
     }
   ],
   "Revelations 12:7-9": [
+    {
+      "title": "Armageddon",
+      "page": "reviews/elliott-0230-armageddon.html",
+      "id": "Elliott_0230"
+    }
+  ],
+  "1 Thessalonians. 1:10": [
     {
       "title": "Armageddon",
       "page": "reviews/elliott-0230-armageddon.html",
