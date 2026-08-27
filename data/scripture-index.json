@@ -16,6 +16,11 @@
       "title": "The Crocodile Hunter: Collision Course",
       "page": "reviews/elliott-0054-the-crocodile-hunter-collision-course.html",
       "id": "Elliott_0054"
+    },
+    {
+      "title": "Brother Bear",
+      "page": "reviews/elliott-0301-brother-bear.html",
+      "id": "Elliott_0301"
     }
   ],
   "Genesis 1:28": [
@@ -2106,6 +2111,11 @@
       "title": "Yi Yi: A One and a Two",
       "page": "reviews/elliott-0220-yi-yi-a-one-and-a-two.html",
       "id": "Elliott_0220"
+    },
+    {
+      "title": "The Butterfly Effect",
+      "page": "reviews/elliott-0304-the-butterfly-effect.html",
+      "id": "Elliott_0304"
     }
   ],
   "Matthew 7:15-18": [
@@ -3119,6 +3129,11 @@
       "title": "Breakin' All the Rules",
       "page": "reviews/elliott-0027-breakin-all-the-rules.html",
       "id": "Elliott_0027"
+    },
+    {
+      "title": "Boys and Girls",
+      "page": "reviews/elliott-0305-boys-and-girls.html",
+      "id": "Elliott_0305"
     }
   ],
   "Romans 12:17": [
@@ -3699,6 +3714,11 @@
       "title": "28 Days",
       "page": "reviews/elliott-0202-28-days.html",
       "id": "Elliott_0202"
+    },
+    {
+      "title": "Boys Don't Cry",
+      "page": "reviews/elliott-0306-boys-don-t-cry.html",
+      "id": "Elliott_0306"
     }
   ],
   "2 Corinthians 10:7": [
@@ -4292,6 +4312,11 @@
       "title": "Bless the Child",
       "page": "reviews/elliott-0292-bless-the-child.html",
       "id": "Elliott_0292"
+    },
+    {
+      "title": "BASEketball",
+      "page": "reviews/elliott-0310-baseketball.html",
+      "id": "Elliott_0310"
     }
   ],
   "Ephesians 6:13-18": [
@@ -5927,6 +5952,181 @@
       "title": "Bulletproof Monk",
       "page": "reviews/elliott-0300-bulletproof-monk.html",
       "id": "Elliott_0300"
+    }
+  ],
+  "Revelation 20:2": [
+    {
+      "title": "Brother Bear",
+      "page": "reviews/elliott-0301-brother-bear.html",
+      "id": "Elliott_0301"
+    }
+  ],
+  "John 1:36": [
+    {
+      "title": "Brother Bear",
+      "page": "reviews/elliott-0301-brother-bear.html",
+      "id": "Elliott_0301"
+    }
+  ],
+  "2 Timothy 2:3-4": [
+    {
+      "title": "Buffalo Soldiers",
+      "page": "reviews/elliott-0302-buffalo-soldiers.html",
+      "id": "Elliott_0302"
+    }
+  ],
+  "1 Corinthians 9:7": [
+    {
+      "title": "Buffalo Soldiers",
+      "page": "reviews/elliott-0302-buffalo-soldiers.html",
+      "id": "Elliott_0302"
+    }
+  ],
+  "Ephesians 6:11-18": [
+    {
+      "title": "Buffalo Soldiers",
+      "page": "reviews/elliott-0302-buffalo-soldiers.html",
+      "id": "Elliott_0302"
+    }
+  ],
+  "Psalms 23:4-6": [
+    {
+      "title": "Big Fish",
+      "page": "reviews/elliott-0303-big-fish.html",
+      "id": "Elliott_0303"
+    }
+  ],
+  "Proverbs 14:32": [
+    {
+      "title": "Big Fish",
+      "page": "reviews/elliott-0303-big-fish.html",
+      "id": "Elliott_0303"
+    }
+  ],
+  "Luke 1:76-79": [
+    {
+      "title": "Big Fish",
+      "page": "reviews/elliott-0303-big-fish.html",
+      "id": "Elliott_0303"
+    }
+  ],
+  "Colossians 3:8-19": [
+    {
+      "title": "The Butterfly Effect",
+      "page": "reviews/elliott-0304-the-butterfly-effect.html",
+      "id": "Elliott_0304"
+    }
+  ],
+  "Hebrews 3:13": [
+    {
+      "title": "The Butterfly Effect",
+      "page": "reviews/elliott-0304-the-butterfly-effect.html",
+      "id": "Elliott_0304"
+    }
+  ],
+  "Matthew 5:37": [
+    {
+      "title": "Boys and Girls",
+      "page": "reviews/elliott-0305-boys-and-girls.html",
+      "id": "Elliott_0305"
+    }
+  ],
+  "Ephesians 5:31": [
+    {
+      "title": "Boys and Girls",
+      "page": "reviews/elliott-0305-boys-and-girls.html",
+      "id": "Elliott_0305"
+    }
+  ],
+  "Ephesians 4:18-23": [
+    {
+      "title": "Boys Don't Cry",
+      "page": "reviews/elliott-0306-boys-don-t-cry.html",
+      "id": "Elliott_0306"
+    }
+  ],
+  "Proverbs 3:5-8": [
+    {
+      "title": "Boys Don't Cry",
+      "page": "reviews/elliott-0306-boys-don-t-cry.html",
+      "id": "Elliott_0306"
+    }
+  ],
+  "Proverbs 26:20": [
+    {
+      "title": "The Best Man",
+      "page": "reviews/elliott-0307-the-best-man.html",
+      "id": "Elliott_0307"
+    }
+  ],
+  "Proverbs 11:13": [
+    {
+      "title": "The Best Man",
+      "page": "reviews/elliott-0307-the-best-man.html",
+      "id": "Elliott_0307"
+    }
+  ],
+  "Proverbs 18:18": [
+    {
+      "title": "The Best Man",
+      "page": "reviews/elliott-0307-the-best-man.html",
+      "id": "Elliott_0307"
+    }
+  ],
+  "Numbers 32:11": [
+    {
+      "title": "The Beach",
+      "page": "reviews/elliott-0308-the-beach.html",
+      "id": "Elliott_0308"
+    }
+  ],
+  "Jeremiah 23:24": [
+    {
+      "title": "The Beach",
+      "page": "reviews/elliott-0308-the-beach.html",
+      "id": "Elliott_0308"
+    }
+  ],
+  "1 John 5:4": [
+    {
+      "title": "The Beach",
+      "page": "reviews/elliott-0308-the-beach.html",
+      "id": "Elliott_0308"
+    }
+  ],
+  "Luke 6:31": [
+    {
+      "title": "Beauty Shop",
+      "page": "reviews/elliott-0309-beauty-shop.html",
+      "id": "Elliott_0309"
+    }
+  ],
+  "Matthew 7:12": [
+    {
+      "title": "Beauty Shop",
+      "page": "reviews/elliott-0309-beauty-shop.html",
+      "id": "Elliott_0309"
+    }
+  ],
+  "Galatians 5:14": [
+    {
+      "title": "Beauty Shop",
+      "page": "reviews/elliott-0309-beauty-shop.html",
+      "id": "Elliott_0309"
+    }
+  ],
+  "1 Corinthians 9:24": [
+    {
+      "title": "BASEketball",
+      "page": "reviews/elliott-0310-baseketball.html",
+      "id": "Elliott_0310"
+    }
+  ],
+  "2 Timothy 4:7": [
+    {
+      "title": "BASEketball",
+      "page": "reviews/elliott-0310-baseketball.html",
+      "id": "Elliott_0310"
     }
   ]
 }
