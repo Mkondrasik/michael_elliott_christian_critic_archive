@@ -1015,6 +1015,11 @@
       "title": "Around the World in 80 Days",
       "page": "reviews/elliott-0043-around-the-world-in-80-days.html",
       "id": "Elliott_0043"
+    },
+    {
+      "title": "The Emperor's Club",
+      "page": "reviews/elliott-0350-the-emperor-s-club.html",
+      "id": "Elliott_0350"
     }
   ],
   "Proverbs 10:9": [
@@ -2446,6 +2451,11 @@
       "title": "Bad News Bears",
       "page": "reviews/elliott-0318-bad-news-bears.html",
       "id": "Elliott_0318"
+    },
+    {
+      "title": "Capote",
+      "page": "reviews/elliott-0342-capote.html",
+      "id": "Elliott_0342"
     }
   ],
   "Mark 8:38": [
@@ -2925,6 +2935,11 @@
       "title": "Crouching Tiger, Hidden Dragon",
       "page": "reviews/elliott-0336-crouching-tiger-hidden-dragon.html",
       "id": "Elliott_0336"
+    },
+    {
+      "title": "The Emperor's Club",
+      "page": "reviews/elliott-0350-the-emperor-s-club.html",
+      "id": "Elliott_0350"
     }
   ],
   "Acts 8:30-31a": [
@@ -2986,6 +3001,11 @@
       "title": "American History X",
       "page": "reviews/elliott-0222-american-history-x.html",
       "id": "Elliott_0222"
+    },
+    {
+      "title": "Crash",
+      "page": "reviews/elliott-0341-crash.html",
+      "id": "Elliott_0341"
     }
   ],
   "Acts 17:26a": [
@@ -3823,6 +3843,11 @@
       "title": "Walking Tall",
       "page": "reviews/elliott-0211-walking-tall.html",
       "id": "Elliott_0211"
+    },
+    {
+      "title": "Capote",
+      "page": "reviews/elliott-0342-capote.html",
+      "id": "Elliott_0342"
     }
   ],
   "2 Corinthians 6:18": [
@@ -4047,6 +4072,11 @@
       "title": "The Mighty",
       "page": "reviews/elliott-0142-the-mighty.html",
       "id": "Elliott_0142"
+    },
+    {
+      "title": "Christmas with the Kranks",
+      "page": "reviews/elliott-0347-christmas-with-the-kranks.html",
+      "id": "Elliott_0347"
     }
   ],
   "Galatians 6:10": [
@@ -4127,6 +4157,11 @@
       "title": "What a Girl Wants",
       "page": "reviews/elliott-0215-what-a-girl-wants.html",
       "id": "Elliott_0215"
+    },
+    {
+      "title": "Children of Men",
+      "page": "reviews/elliott-0345-children-of-men.html",
+      "id": "Elliott_0345"
     }
   ],
   "Ephesians 2:13": [
@@ -4838,6 +4873,11 @@
       "title": "Bounce",
       "page": "reviews/elliott-0289-bounce.html",
       "id": "Elliott_0289"
+    },
+    {
+      "title": "Children of Men",
+      "page": "reviews/elliott-0345-children-of-men.html",
+      "id": "Elliott_0345"
     }
   ],
   "1 Thessalonians 4:13-18": [
@@ -5098,6 +5138,11 @@
       "title": "Antitrust",
       "page": "reviews/elliott-0244-antitrust.html",
       "id": "Elliott_0244"
+    },
+    {
+      "title": "The Emperor's Club",
+      "page": "reviews/elliott-0350-the-emperor-s-club.html",
+      "id": "Elliott_0350"
     }
   ],
   "2 Timothy 2:15": [
@@ -5719,6 +5764,11 @@
       "title": "Notes on a Scandel",
       "page": "reviews/elliott-0154-notes-on-a-scandel.html",
       "id": "Elliott_0154"
+    },
+    {
+      "title": "Cars",
+      "page": "reviews/elliott-0343-cars.html",
+      "id": "Elliott_0343"
     }
   ],
   "1 John 2:16-17": [
@@ -6508,6 +6558,11 @@
       "title": "Cousin Bette",
       "page": "reviews/elliott-0325-cousin-bette.html",
       "id": "Elliott_0325"
+    },
+    {
+      "title": "Collateral",
+      "page": "reviews/elliott-0346-collateral.html",
+      "id": "Elliott_0346"
     }
   ],
   "Leviticus 25:18-19": [
@@ -6683,6 +6738,139 @@
       "title": "Cinderella Man",
       "page": "reviews/elliott-0340-cinderella-man.html",
       "id": "Elliott_0340"
+    }
+  ],
+  "Colossians 3:10-13": [
+    {
+      "title": "Crash",
+      "page": "reviews/elliott-0341-crash.html",
+      "id": "Elliott_0341"
+    }
+  ],
+  "1 Corinthians 12:4-6": [
+    {
+      "title": "Crash",
+      "page": "reviews/elliott-0341-crash.html",
+      "id": "Elliott_0341"
+    }
+  ],
+  "Romans 6:21": [
+    {
+      "title": "Capote",
+      "page": "reviews/elliott-0342-capote.html",
+      "id": "Elliott_0342"
+    }
+  ],
+  "Psalms 118:24": [
+    {
+      "title": "Cars",
+      "page": "reviews/elliott-0343-cars.html",
+      "id": "Elliott_0343"
+    }
+  ],
+  "1 Timothy 6:6": [
+    {
+      "title": "Cars",
+      "page": "reviews/elliott-0343-cars.html",
+      "id": "Elliott_0343"
+    }
+  ],
+  "James 4:14": [
+    {
+      "title": "Click",
+      "page": "reviews/elliott-0344-click.html",
+      "id": "Elliott_0344"
+    }
+  ],
+  "Ephesians 5:16": [
+    {
+      "title": "Click",
+      "page": "reviews/elliott-0344-click.html",
+      "id": "Elliott_0344"
+    }
+  ],
+  "1 Corinthians 7:29": [
+    {
+      "title": "Click",
+      "page": "reviews/elliott-0344-click.html",
+      "id": "Elliott_0344"
+    }
+  ],
+  "Job 7:6": [
+    {
+      "title": "Children of Men",
+      "page": "reviews/elliott-0345-children-of-men.html",
+      "id": "Elliott_0345"
+    }
+  ],
+  "Proverbs 10:4": [
+    {
+      "title": "Collateral",
+      "page": "reviews/elliott-0346-collateral.html",
+      "id": "Elliott_0346"
+    }
+  ],
+  "Proverbs 19:15": [
+    {
+      "title": "Collateral",
+      "page": "reviews/elliott-0346-collateral.html",
+      "id": "Elliott_0346"
+    }
+  ],
+  "Romans 14:5": [
+    {
+      "title": "Christmas with the Kranks",
+      "page": "reviews/elliott-0347-christmas-with-the-kranks.html",
+      "id": "Elliott_0347"
+    }
+  ],
+  "Colossians 2:16-17": [
+    {
+      "title": "Christmas with the Kranks",
+      "page": "reviews/elliott-0347-christmas-with-the-kranks.html",
+      "id": "Elliott_0347"
+    }
+  ],
+  "Acts 26:8": [
+    {
+      "title": "The Chronicles of Narnia: The Lion, The Witch, and the Wardrobe",
+      "page": "reviews/elliott-0348-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.html",
+      "id": "Elliott_0348"
+    }
+  ],
+  "Romans 6:9": [
+    {
+      "title": "The Chronicles of Narnia: The Lion, The Witch, and the Wardrobe",
+      "page": "reviews/elliott-0348-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.html",
+      "id": "Elliott_0348"
+    }
+  ],
+  "1 Corinthians 15:12-20": [
+    {
+      "title": "The Chronicles of Narnia: The Lion, The Witch, and the Wardrobe",
+      "page": "reviews/elliott-0348-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.html",
+      "id": "Elliott_0348"
+    }
+  ],
+  "Proverbs 29:14": [
+    {
+      "title": "Catch a Fire",
+      "page": "reviews/elliott-0349-catch-a-fire.html",
+      "id": "Elliott_0349"
+    }
+  ],
+  "Proverbs 28:16": [
+    {
+      "title": "Catch a Fire",
+      "page": "reviews/elliott-0349-catch-a-fire.html",
+      "id": "Elliott_0349"
+    }
+  ],
+  "Proverbs 25:5": [
+    {
+      "title": "Catch a Fire",
+      "page": "reviews/elliott-0349-catch-a-fire.html",
+      "id": "Elliott_0349"
     }
   ]
 }

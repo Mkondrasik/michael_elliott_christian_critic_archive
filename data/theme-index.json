@@ -615,6 +615,11 @@
       "title": "Fracture",
       "page": "reviews/elliott-0086-fracture.html",
       "id": "Elliott_0086"
+    },
+    {
+      "title": "Collateral",
+      "page": "reviews/elliott-0346-collateral.html",
+      "id": "Elliott_0346"
     }
   ],
   "Choices and consequences": [
@@ -815,6 +820,11 @@
       "title": "Barbershop",
       "page": "reviews/elliott-0311-barbershop.html",
       "id": "Elliott_0311"
+    },
+    {
+      "title": "Christmas with the Kranks",
+      "page": "reviews/elliott-0347-christmas-with-the-kranks.html",
+      "id": "Elliott_0347"
     }
   ],
   "Comparison": [
@@ -1459,6 +1469,11 @@
       "title": "Inspector Gadget 2",
       "page": "reviews/elliott-0112-inspector-gadget-2.html",
       "id": "Elliott_0112"
+    },
+    {
+      "title": "Collateral",
+      "page": "reviews/elliott-0346-collateral.html",
+      "id": "Elliott_0346"
     }
   ],
   "direction": [
@@ -1597,6 +1612,11 @@
       "title": "Crouching Tiger, Hidden Dragon",
       "page": "reviews/elliott-0336-crouching-tiger-hidden-dragon.html",
       "id": "Elliott_0336"
+    },
+    {
+      "title": "The Emperor's Club",
+      "page": "reviews/elliott-0350-the-emperor-s-club.html",
+      "id": "Elliott_0350"
     }
   ],
   "discipline": [
@@ -2869,6 +2889,11 @@
       "title": "The Anniversary Party",
       "page": "reviews/elliott-0233-the-anniversary-party.html",
       "id": "Elliott_0233"
+    },
+    {
+      "title": "Christmas with the Kranks",
+      "page": "reviews/elliott-0347-christmas-with-the-kranks.html",
+      "id": "Elliott_0347"
     }
   ],
   "giving one's life": [
@@ -3584,6 +3609,11 @@
       "title": "Cinderella Man",
       "page": "reviews/elliott-0340-cinderella-man.html",
       "id": "Elliott_0340"
+    },
+    {
+      "title": "Children of Men",
+      "page": "reviews/elliott-0345-children-of-men.html",
+      "id": "Elliott_0345"
     }
   ],
   "household of God": [
@@ -3973,6 +4003,11 @@
       "title": "Coyote Ugly",
       "page": "reviews/elliott-0323-coyote-ugly.html",
       "id": "Elliott_0323"
+    },
+    {
+      "title": "Capote",
+      "page": "reviews/elliott-0342-capote.html",
+      "id": "Elliott_0342"
     }
   ],
   "Jealousy": [
@@ -6068,6 +6103,11 @@
       "title": "The Mummy",
       "page": "reviews/elliott-0148-the-mummy.html",
       "id": "Elliott_0148"
+    },
+    {
+      "title": "The Chronicles of Narnia: The Lion, The Witch, and the Wardrobe",
+      "page": "reviews/elliott-0348-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.html",
+      "id": "Elliott_0348"
     }
   ],
   "resurrection": [
@@ -7198,6 +7238,11 @@
       "title": "Crouching Tiger, Hidden Dragon",
       "page": "reviews/elliott-0336-crouching-tiger-hidden-dragon.html",
       "id": "Elliott_0336"
+    },
+    {
+      "title": "The Emperor's Club",
+      "page": "reviews/elliott-0350-the-emperor-s-club.html",
+      "id": "Elliott_0350"
     }
   ],
   "Teaching": [
@@ -7510,6 +7555,11 @@
       "title": "The Limey",
       "page": "reviews/elliott-0136-the-limey.html",
       "id": "Elliott_0136"
+    },
+    {
+      "title": "Click",
+      "page": "reviews/elliott-0344-click.html",
+      "id": "Elliott_0344"
     }
   ],
   "time": [
@@ -8546,6 +8596,11 @@
       "title": "Bicentennial Man",
       "page": "reviews/elliott-0312-bicentennial-man.html",
       "id": "Elliott_0312"
+    },
+    {
+      "title": "Cars",
+      "page": "reviews/elliott-0343-cars.html",
+      "id": "Elliott_0343"
     }
   ],
   "God as Creator": [
@@ -8798,6 +8853,55 @@
       "title": "Cinderella Man",
       "page": "reviews/elliott-0340-cinderella-man.html",
       "id": "Elliott_0340"
+    }
+  ],
+  "Racism": [
+    {
+      "title": "Crash",
+      "page": "reviews/elliott-0341-crash.html",
+      "id": "Elliott_0341"
+    }
+  ],
+  "action": [
+    {
+      "title": "Collateral",
+      "page": "reviews/elliott-0346-collateral.html",
+      "id": "Elliott_0346"
+    }
+  ],
+  "Christmas": [
+    {
+      "title": "Christmas with the Kranks",
+      "page": "reviews/elliott-0347-christmas-with-the-kranks.html",
+      "id": "Elliott_0347"
+    }
+  ],
+  "good works": [
+    {
+      "title": "Christmas with the Kranks",
+      "page": "reviews/elliott-0347-christmas-with-the-kranks.html",
+      "id": "Elliott_0347"
+    }
+  ],
+  "Oppression": [
+    {
+      "title": "Catch a Fire",
+      "page": "reviews/elliott-0349-catch-a-fire.html",
+      "id": "Elliott_0349"
+    }
+  ],
+  "teaching": [
+    {
+      "title": "The Emperor's Club",
+      "page": "reviews/elliott-0350-the-emperor-s-club.html",
+      "id": "Elliott_0350"
+    }
+  ],
+  "learning": [
+    {
+      "title": "The Emperor's Club",
+      "page": "reviews/elliott-0350-the-emperor-s-club.html",
+      "id": "Elliott_0350"
     }
   ]
 }
