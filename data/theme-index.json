@@ -1094,6 +1094,16 @@
       "title": "Meet The Parents",
       "page": "reviews/elliott-0147-meet-the-parents.html",
       "id": "Elliott_0147"
+    },
+    {
+      "title": "Chicken Little",
+      "page": "reviews/elliott-0355-chicken-little.html",
+      "id": "Elliott_0355"
+    },
+    {
+      "title": "Charlie and the Chocolate Factory",
+      "page": "reviews/elliott-0356-charlie-and-the-chocolate-factory.html",
+      "id": "Elliott_0356"
     }
   ],
   "corrupt communication": [
@@ -1684,6 +1694,16 @@
       "title": "Cousin Bette",
       "page": "reviews/elliott-0325-cousin-bette.html",
       "id": "Elliott_0325"
+    },
+    {
+      "title": "Chicken Little",
+      "page": "reviews/elliott-0355-chicken-little.html",
+      "id": "Elliott_0355"
+    },
+    {
+      "title": "Charlie and the Chocolate Factory",
+      "page": "reviews/elliott-0356-charlie-and-the-chocolate-factory.html",
+      "id": "Elliott_0356"
     }
   ],
   "disciplined thinking": [
@@ -2362,6 +2382,11 @@
       "title": "Cheaper by the Dozen",
       "page": "reviews/elliott-0327-cheaper-by-the-dozen.html",
       "id": "Elliott_0327"
+    },
+    {
+      "title": "Charlie and the Chocolate Factory",
+      "page": "reviews/elliott-0356-charlie-and-the-chocolate-factory.html",
+      "id": "Elliott_0356"
     }
   ],
   "family": [
@@ -2894,6 +2919,11 @@
       "title": "Christmas with the Kranks",
       "page": "reviews/elliott-0347-christmas-with-the-kranks.html",
       "id": "Elliott_0347"
+    },
+    {
+      "title": "Closer",
+      "page": "reviews/elliott-0360-closer.html",
+      "id": "Elliott_0360"
     }
   ],
   "giving one's life": [
@@ -4436,6 +4466,11 @@
       "title": "Win a Date with Tad Hamilton!",
       "page": "reviews/elliott-0214-win-a-date-with-tad-hamilton.html",
       "id": "Elliott_0214"
+    },
+    {
+      "title": "Closer",
+      "page": "reviews/elliott-0360-closer.html",
+      "id": "Elliott_0360"
     }
   ],
   "Love of money": [
@@ -4542,6 +4577,16 @@
       "title": "Whipped",
       "page": "reviews/elliott-0006-whipped.html",
       "id": "Elliott_0006"
+    },
+    {
+      "title": "The Constant Gardener",
+      "page": "reviews/elliott-0357-the-constant-gardener.html",
+      "id": "Elliott_0357"
+    },
+    {
+      "title": "The Corpse Bride",
+      "page": "reviews/elliott-0358-the-corpse-bride.html",
+      "id": "Elliott_0358"
     }
   ],
   "marriage": [
@@ -5061,6 +5106,11 @@
       "title": "Big Daddy",
       "page": "reviews/elliott-0023-big-daddy.html",
       "id": "Elliott_0023"
+    },
+    {
+      "title": "Chicken Little",
+      "page": "reviews/elliott-0355-chicken-little.html",
+      "id": "Elliott_0355"
     }
   ],
   "parenting": [
@@ -5809,6 +5859,11 @@
       "title": "Boys and Girls",
       "page": "reviews/elliott-0305-boys-and-girls.html",
       "id": "Elliott_0305"
+    },
+    {
+      "title": "Closer",
+      "page": "reviews/elliott-0360-closer.html",
+      "id": "Elliott_0360"
     }
   ],
   "relationships beyond sex": [
@@ -6120,6 +6175,11 @@
       "title": "Mulan",
       "page": "reviews/elliott-0141-mulan.html",
       "id": "Elliott_0141"
+    },
+    {
+      "title": "The Corpse Bride",
+      "page": "reviews/elliott-0358-the-corpse-bride.html",
+      "id": "Elliott_0358"
     }
   ],
   "resurrection hope": [
@@ -6297,6 +6357,11 @@
       "title": "What a Girl Wants",
       "page": "reviews/elliott-0215-what-a-girl-wants.html",
       "id": "Elliott_0215"
+    },
+    {
+      "title": "Constantine",
+      "page": "reviews/elliott-0359-constantine.html",
+      "id": "Elliott_0359"
     }
   ],
   "Salvation": [
@@ -8622,6 +8687,11 @@
       "title": "Being John Malkovich",
       "page": "reviews/elliott-0313-being-john-malkovich.html",
       "id": "Elliott_0313"
+    },
+    {
+      "title": "Corky Romano",
+      "page": "reviews/elliott-0351-corky-romano.html",
+      "id": "Elliott_0351"
     }
   ],
   "Good and Evil": [
@@ -8902,6 +8972,76 @@
       "title": "The Emperor's Club",
       "page": "reviews/elliott-0350-the-emperor-s-club.html",
       "id": "Elliott_0350"
+    }
+  ],
+  "Uniqueness": [
+    {
+      "title": "Corky Romano",
+      "page": "reviews/elliott-0351-corky-romano.html",
+      "id": "Elliott_0351"
+    }
+  ],
+  "Body Soul Spirit": [
+    {
+      "title": "The Golden Compass",
+      "page": "reviews/elliott-0352-the-golden-compass.html",
+      "id": "Elliott_0352"
+    }
+  ],
+  "Meekness": [
+    {
+      "title": "Conversations with God",
+      "page": "reviews/elliott-0353-conversations-with-god.html",
+      "id": "Elliott_0353"
+    }
+  ],
+  "Mistaken Identity": [
+    {
+      "title": "Casanova",
+      "page": "reviews/elliott-0354-casanova.html",
+      "id": "Elliott_0354"
+    }
+  ],
+  "agreement": [
+    {
+      "title": "The Constant Gardener",
+      "page": "reviews/elliott-0357-the-constant-gardener.html",
+      "id": "Elliott_0357"
+    }
+  ],
+  "spiritual protection": [
+    {
+      "title": "The Constant Gardener",
+      "page": "reviews/elliott-0357-the-constant-gardener.html",
+      "id": "Elliott_0357"
+    }
+  ],
+  "life after death": [
+    {
+      "title": "The Corpse Bride",
+      "page": "reviews/elliott-0358-the-corpse-bride.html",
+      "id": "Elliott_0358"
+    }
+  ],
+  "Grace": [
+    {
+      "title": "Constantine",
+      "page": "reviews/elliott-0359-constantine.html",
+      "id": "Elliott_0359"
+    }
+  ],
+  "works": [
+    {
+      "title": "Constantine",
+      "page": "reviews/elliott-0359-constantine.html",
+      "id": "Elliott_0359"
+    }
+  ],
+  "sex": [
+    {
+      "title": "Closer",
+      "page": "reviews/elliott-0360-closer.html",
+      "id": "Elliott_0360"
     }
   ]
 }
