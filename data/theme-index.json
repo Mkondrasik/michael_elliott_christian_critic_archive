@@ -1647,6 +1647,11 @@
       "title": "Blue Streak",
       "page": "reviews/elliott-0319-blue-streak.html",
       "id": "Elliott_0319"
+    },
+    {
+      "title": "The Deep End",
+      "page": "reviews/elliott-0406-the-deep-end.html",
+      "id": "Elliott_0406"
     }
   ],
   "adaptability": [
@@ -1789,6 +1794,11 @@
       "title": "Cruel Intentions",
       "page": "reviews/elliott-0368-cruel-intentions.html",
       "id": "Elliott_0368"
+    },
+    {
+      "title": "The Deep End",
+      "page": "reviews/elliott-0406-the-deep-end.html",
+      "id": "Elliott_0406"
     }
   ],
   "instruction": [
@@ -2273,6 +2283,11 @@
       "title": "Bridget Jones: The Edge of Reason",
       "page": "reviews/elliott-0030-bridget-jones-the-edge-of-reason.html",
       "id": "Elliott_0030"
+    },
+    {
+      "title": "Driven",
+      "page": "reviews/elliott-0402-driven.html",
+      "id": "Elliott_0402"
     }
   ],
   "believing": [
@@ -2351,6 +2366,11 @@
       "title": "The Dinner Game (Le Diner de cons)",
       "page": "reviews/elliott-0394-the-dinner-game-le-diner-de-cons.html",
       "id": "Elliott_0394"
+    },
+    {
+      "title": "Dirt",
+      "page": "reviews/elliott-0410-dirt.html",
+      "id": "Elliott_0410"
     }
   ],
   "consequences": [
@@ -2499,6 +2519,11 @@
       "title": "Bridge to Terabithia",
       "page": "reviews/elliott-0277-bridge-to-terabithia.html",
       "id": "Elliott_0277"
+    },
+    {
+      "title": "Dinosaur",
+      "page": "reviews/elliott-0409-dinosaur.html",
+      "id": "Elliott_0409"
     }
   ],
   "responsibility": [
@@ -2576,6 +2601,11 @@
       "title": "Chill Factor",
       "page": "reviews/elliott-0369-chill-factor.html",
       "id": "Elliott_0369"
+    },
+    {
+      "title": "The Deep End",
+      "page": "reviews/elliott-0406-the-deep-end.html",
+      "id": "Elliott_0406"
     }
   ],
   "shepherding": [
@@ -2787,6 +2817,11 @@
       "title": "Deep Blue Sea",
       "page": "reviews/elliott-0389-deep-blue-sea.html",
       "id": "Elliott_0389"
+    },
+    {
+      "title": "Dinosaur",
+      "page": "reviews/elliott-0409-dinosaur.html",
+      "id": "Elliott_0409"
     }
   ],
   "one body": [
@@ -2987,6 +3022,11 @@
       "title": "Deep Impact",
       "page": "reviews/elliott-0393-deep-impact.html",
       "id": "Elliott_0393"
+    },
+    {
+      "title": "Down To Earth",
+      "page": "reviews/elliott-0401-down-to-earth.html",
+      "id": "Elliott_0401"
     }
   ],
   "death": [
@@ -3277,6 +3317,11 @@
       "title": "Batman Begins",
       "page": "reviews/elliott-0284-batman-begins.html",
       "id": "Elliott_0284"
+    },
+    {
+      "title": "Dirt",
+      "page": "reviews/elliott-0410-dirt.html",
+      "id": "Elliott_0410"
     }
   ],
   "thought life": [
@@ -3872,6 +3917,11 @@
       "title": "Bad News Bears",
       "page": "reviews/elliott-0318-bad-news-bears.html",
       "id": "Elliott_0318"
+    },
+    {
+      "title": "Domestic Disturbance",
+      "page": "reviews/elliott-0405-domestic-disturbance.html",
+      "id": "Elliott_0405"
     }
   ],
   "compromise": [
@@ -4005,6 +4055,11 @@
       "title": "Doug's First Movie",
       "page": "reviews/elliott-0396-doug-s-first-movie.html",
       "id": "Elliott_0396"
+    },
+    {
+      "title": "Domestic Disturbance",
+      "page": "reviews/elliott-0405-domestic-disturbance.html",
+      "id": "Elliott_0405"
     }
   ],
   "resisting compromise": [
@@ -4109,6 +4164,11 @@
       "title": "The Black Knight",
       "page": "reviews/elliott-0268-the-black-knight.html",
       "id": "Elliott_0268"
+    },
+    {
+      "title": "Don't Say A Word",
+      "page": "reviews/elliott-0404-don-t-say-a-word.html",
+      "id": "Elliott_0404"
     }
   ],
   "the new man": [
@@ -4631,6 +4691,11 @@
       "title": "Digimon: The Movie",
       "page": "reviews/elliott-0400-digimon-the-movie.html",
       "id": "Elliott_0400"
+    },
+    {
+      "title": "Dinosaur",
+      "page": "reviews/elliott-0409-dinosaur.html",
+      "id": "Elliott_0409"
     }
   ],
   "The lost": [
@@ -5759,6 +5824,11 @@
       "title": "Lemony Snicket's A Series of Unfortunate Events",
       "page": "reviews/elliott-0131-lemony-snicket-s-a-series-of-unfortunate-events.html",
       "id": "Elliott_0131"
+    },
+    {
+      "title": "Don't Say A Word",
+      "page": "reviews/elliott-0404-don-t-say-a-word.html",
+      "id": "Elliott_0404"
     }
   ],
   "honoring Christ": [
@@ -5993,6 +6063,16 @@
       "title": "Big Fish",
       "page": "reviews/elliott-0303-big-fish.html",
       "id": "Elliott_0303"
+    },
+    {
+      "title": "Down To Earth",
+      "page": "reviews/elliott-0401-down-to-earth.html",
+      "id": "Elliott_0401"
+    },
+    {
+      "title": "Dragonfly",
+      "page": "reviews/elliott-0407-dragonfly.html",
+      "id": "Elliott_0407"
     }
   ],
   "resurrection": [
@@ -6010,6 +6090,16 @@
       "title": "The Corpse Bride",
       "page": "reviews/elliott-0358-the-corpse-bride.html",
       "id": "Elliott_0358"
+    },
+    {
+      "title": "Down To Earth",
+      "page": "reviews/elliott-0401-down-to-earth.html",
+      "id": "Elliott_0401"
+    },
+    {
+      "title": "Dragonfly",
+      "page": "reviews/elliott-0407-dragonfly.html",
+      "id": "Elliott_0407"
     }
   ],
   "spiritualism": [
@@ -6842,6 +6932,11 @@
       "title": "Deep Impact",
       "page": "reviews/elliott-0393-deep-impact.html",
       "id": "Elliott_0393"
+    },
+    {
+      "title": "Down To Earth",
+      "page": "reviews/elliott-0401-down-to-earth.html",
+      "id": "Elliott_0401"
     }
   ],
   "edification": [
@@ -6944,6 +7039,11 @@
       "title": "Random Hearts",
       "page": "reviews/elliott-0181-random-hearts.html",
       "id": "Elliott_0181"
+    },
+    {
+      "title": "Dragonfly",
+      "page": "reviews/elliott-0407-dragonfly.html",
+      "id": "Elliott_0407"
     }
   ],
   "moving forward": [
@@ -7194,6 +7294,11 @@
       "title": "Anywhere But Here",
       "page": "reviews/elliott-0250-anywhere-but-here.html",
       "id": "Elliott_0250"
+    },
+    {
+      "title": "The Deep End",
+      "page": "reviews/elliott-0406-the-deep-end.html",
+      "id": "Elliott_0406"
     }
   ],
   "passing on God's Word": [
@@ -7877,6 +7982,11 @@
       "title": "Anger Management",
       "page": "reviews/elliott-0238-anger-management.html",
       "id": "Elliott_0238"
+    },
+    {
+      "title": "Dirt",
+      "page": "reviews/elliott-0410-dirt.html",
+      "id": "Elliott_0410"
     }
   ],
   "righteous anger": [
@@ -8250,6 +8360,11 @@
       "title": "Capote",
       "page": "reviews/elliott-0342-capote.html",
       "id": "Elliott_0342"
+    },
+    {
+      "title": "Death to Smoochy",
+      "page": "reviews/elliott-0408-death-to-smoochy.html",
+      "id": "Elliott_0408"
     }
   ],
   "deceit": [
@@ -8422,6 +8537,11 @@
       "title": "Dick",
       "page": "reviews/elliott-0387-dick.html",
       "id": "Elliott_0387"
+    },
+    {
+      "title": "Domestic Disturbance",
+      "page": "reviews/elliott-0405-domestic-disturbance.html",
+      "id": "Elliott_0405"
     }
   ],
   "Selflessness": [
@@ -8460,6 +8580,11 @@
       "title": "Beyond the Sea",
       "page": "reviews/elliott-0270-beyond-the-sea.html",
       "id": "Elliott_0270"
+    },
+    {
+      "title": "Driven",
+      "page": "reviews/elliott-0402-driven.html",
+      "id": "Elliott_0402"
     }
   ],
   "single-mindedness": [
@@ -8542,6 +8667,11 @@
       "title": "Carman: The Champion",
       "page": "reviews/elliott-0378-carman-the-champion.html",
       "id": "Elliott_0378"
+    },
+    {
+      "title": "Death to Smoochy",
+      "page": "reviews/elliott-0408-death-to-smoochy.html",
+      "id": "Elliott_0408"
     }
   ],
   "work": [
@@ -9868,6 +9998,11 @@
       "title": "Duets",
       "page": "reviews/elliott-0397-duets.html",
       "id": "Elliott_0397"
+    },
+    {
+      "title": "Dr. Dolittle 2",
+      "page": "reviews/elliott-0403-dr-dolittle-2.html",
+      "id": "Elliott_0403"
     }
   ],
   "breaking free": [
@@ -9903,6 +10038,90 @@
       "title": "Digimon: The Movie",
       "page": "reviews/elliott-0400-digimon-the-movie.html",
       "id": "Elliott_0400"
+    }
+  ],
+  "Faith": [
+    {
+      "title": "Driven",
+      "page": "reviews/elliott-0402-driven.html",
+      "id": "Elliott_0402"
+    }
+  ],
+  "being fully persuaded": [
+    {
+      "title": "Driven",
+      "page": "reviews/elliott-0402-driven.html",
+      "id": "Elliott_0402"
+    }
+  ],
+  "animals": [
+    {
+      "title": "Dr. Dolittle 2",
+      "page": "reviews/elliott-0403-dr-dolittle-2.html",
+      "id": "Elliott_0403"
+    }
+  ],
+  "figurative truth": [
+    {
+      "title": "Dr. Dolittle 2",
+      "page": "reviews/elliott-0403-dr-dolittle-2.html",
+      "id": "Elliott_0403"
+    }
+  ],
+  "new man": [
+    {
+      "title": "Dr. Dolittle 2",
+      "page": "reviews/elliott-0403-dr-dolittle-2.html",
+      "id": "Elliott_0403"
+    }
+  ],
+  "Giving": [
+    {
+      "title": "Don't Say A Word",
+      "page": "reviews/elliott-0404-don-t-say-a-word.html",
+      "id": "Elliott_0404"
+    }
+  ],
+  "credibility": [
+    {
+      "title": "Domestic Disturbance",
+      "page": "reviews/elliott-0405-domestic-disturbance.html",
+      "id": "Elliott_0405"
+    }
+  ],
+  "the dead": [
+    {
+      "title": "Dragonfly",
+      "page": "reviews/elliott-0407-dragonfly.html",
+      "id": "Elliott_0407"
+    }
+  ],
+  "persecution": [
+    {
+      "title": "Death to Smoochy",
+      "page": "reviews/elliott-0408-death-to-smoochy.html",
+      "id": "Elliott_0408"
+    }
+  ],
+  "worldliness": [
+    {
+      "title": "Death to Smoochy",
+      "page": "reviews/elliott-0408-death-to-smoochy.html",
+      "id": "Elliott_0408"
+    }
+  ],
+  "Helping the weak": [
+    {
+      "title": "Dinosaur",
+      "page": "reviews/elliott-0409-dinosaur.html",
+      "id": "Elliott_0409"
+    }
+  ],
+  "wrath": [
+    {
+      "title": "Dirt",
+      "page": "reviews/elliott-0410-dirt.html",
+      "id": "Elliott_0410"
     }
   ]
 }

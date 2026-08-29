@@ -212,6 +212,11 @@
       "title": "Gothika",
       "page": "reviews/elliott-0009-gothika.html",
       "id": "Elliott_0009"
+    },
+    {
+      "title": "Dragonfly",
+      "page": "reviews/elliott-0407-dragonfly.html",
+      "id": "Elliott_0407"
     }
   ],
   "Matthew 12:43-45": [
@@ -587,6 +592,11 @@
       "title": "Big Daddy",
       "page": "reviews/elliott-0023-big-daddy.html",
       "id": "Elliott_0023"
+    },
+    {
+      "title": "The Deep End",
+      "page": "reviews/elliott-0406-the-deep-end.html",
+      "id": "Elliott_0406"
     }
   ],
   "Proverbs 22:15": [
@@ -1088,6 +1098,11 @@
       "title": "Big Trouble",
       "page": "reviews/elliott-0266-big-trouble.html",
       "id": "Elliott_0266"
+    },
+    {
+      "title": "Dragonfly",
+      "page": "reviews/elliott-0407-dragonfly.html",
+      "id": "Elliott_0407"
     }
   ],
   "Isaiah 25:8": [
@@ -3045,6 +3060,11 @@
       "title": "Affliction",
       "page": "reviews/elliott-0242-affliction.html",
       "id": "Elliott_0242"
+    },
+    {
+      "title": "The Deep End",
+      "page": "reviews/elliott-0406-the-deep-end.html",
+      "id": "Elliott_0406"
     }
   ],
   "Colossians 3:12-15": [
@@ -3502,6 +3522,11 @@
       "title": "Mulan",
       "page": "reviews/elliott-0141-mulan.html",
       "id": "Elliott_0141"
+    },
+    {
+      "title": "Down To Earth",
+      "page": "reviews/elliott-0401-down-to-earth.html",
+      "id": "Elliott_0401"
     }
   ],
   "Ecclesiastes 4:9-10": [
@@ -3528,6 +3553,11 @@
       "title": "Christmas with the Kranks",
       "page": "reviews/elliott-0347-christmas-with-the-kranks.html",
       "id": "Elliott_0347"
+    },
+    {
+      "title": "Don't Say A Word",
+      "page": "reviews/elliott-0404-don-t-say-a-word.html",
+      "id": "Elliott_0404"
     }
   ],
   "Matthew 19:5": [
@@ -4394,6 +4424,11 @@
       "title": "Random Hearts",
       "page": "reviews/elliott-0181-random-hearts.html",
       "id": "Elliott_0181"
+    },
+    {
+      "title": "Don't Say A Word",
+      "page": "reviews/elliott-0404-don-t-say-a-word.html",
+      "id": "Elliott_0404"
     }
   ],
   "John 16:20-22": [
@@ -5882,6 +5917,11 @@
       "title": "Big Trouble",
       "page": "reviews/elliott-0266-big-trouble.html",
       "id": "Elliott_0266"
+    },
+    {
+      "title": "Dragonfly",
+      "page": "reviews/elliott-0407-dragonfly.html",
+      "id": "Elliott_0407"
     }
   ],
   "Ephesians 4:25": [
@@ -6293,6 +6333,11 @@
       "title": "Bad Company",
       "page": "reviews/elliott-0295-bad-company.html",
       "id": "Elliott_0295"
+    },
+    {
+      "title": "Dr. Dolittle 2",
+      "page": "reviews/elliott-0403-dr-dolittle-2.html",
+      "id": "Elliott_0403"
     }
   ],
   "Ezekiel 36:26": [
@@ -7621,6 +7666,11 @@
       "title": "Deep Blue Sea",
       "page": "reviews/elliott-0389-deep-blue-sea.html",
       "id": "Elliott_0389"
+    },
+    {
+      "title": "Dr. Dolittle 2",
+      "page": "reviews/elliott-0403-dr-dolittle-2.html",
+      "id": "Elliott_0403"
     }
   ],
   "Luke 12:4-7": [
@@ -7824,6 +7874,139 @@
       "title": "Digimon: The Movie",
       "page": "reviews/elliott-0400-digimon-the-movie.html",
       "id": "Elliott_0400"
+    }
+  ],
+  "1 Thessalonians 4:15-17": [
+    {
+      "title": "Down To Earth",
+      "page": "reviews/elliott-0401-down-to-earth.html",
+      "id": "Elliott_0401"
+    }
+  ],
+  "1 Corinthians 15:23": [
+    {
+      "title": "Down To Earth",
+      "page": "reviews/elliott-0401-down-to-earth.html",
+      "id": "Elliott_0401"
+    }
+  ],
+  "James 1:6": [
+    {
+      "title": "Driven",
+      "page": "reviews/elliott-0402-driven.html",
+      "id": "Elliott_0402"
+    }
+  ],
+  "Romans 4:20-21": [
+    {
+      "title": "Driven",
+      "page": "reviews/elliott-0402-driven.html",
+      "id": "Elliott_0402"
+    }
+  ],
+  "1 John 3:19-21": [
+    {
+      "title": "Driven",
+      "page": "reviews/elliott-0402-driven.html",
+      "id": "Elliott_0402"
+    }
+  ],
+  "Psalms 103:5": [
+    {
+      "title": "Dr. Dolittle 2",
+      "page": "reviews/elliott-0403-dr-dolittle-2.html",
+      "id": "Elliott_0403"
+    }
+  ],
+  "Acts 20:35": [
+    {
+      "title": "Don't Say A Word",
+      "page": "reviews/elliott-0404-don-t-say-a-word.html",
+      "id": "Elliott_0404"
+    }
+  ],
+  "2 Corinthians 4:2": [
+    {
+      "title": "Domestic Disturbance",
+      "page": "reviews/elliott-0405-domestic-disturbance.html",
+      "id": "Elliott_0405"
+    }
+  ],
+  "James 3:12": [
+    {
+      "title": "Domestic Disturbance",
+      "page": "reviews/elliott-0405-domestic-disturbance.html",
+      "id": "Elliott_0405"
+    }
+  ],
+  "Job 24:25": [
+    {
+      "title": "Domestic Disturbance",
+      "page": "reviews/elliott-0405-domestic-disturbance.html",
+      "id": "Elliott_0405"
+    }
+  ],
+  "Psalms 78:3-7": [
+    {
+      "title": "The Deep End",
+      "page": "reviews/elliott-0406-the-deep-end.html",
+      "id": "Elliott_0406"
+    }
+  ],
+  "John 15:19": [
+    {
+      "title": "Death to Smoochy",
+      "page": "reviews/elliott-0408-death-to-smoochy.html",
+      "id": "Elliott_0408"
+    }
+  ],
+  "2 Timothy 3:12": [
+    {
+      "title": "Death to Smoochy",
+      "page": "reviews/elliott-0408-death-to-smoochy.html",
+      "id": "Elliott_0408"
+    }
+  ],
+  "Romans 15:1": [
+    {
+      "title": "Dinosaur",
+      "page": "reviews/elliott-0409-dinosaur.html",
+      "id": "Elliott_0409"
+    }
+  ],
+  "Galatians 6:1-2": [
+    {
+      "title": "Dinosaur",
+      "page": "reviews/elliott-0409-dinosaur.html",
+      "id": "Elliott_0409"
+    }
+  ],
+  "1 Thessalonians 5:14": [
+    {
+      "title": "Dinosaur",
+      "page": "reviews/elliott-0409-dinosaur.html",
+      "id": "Elliott_0409"
+    }
+  ],
+  "Job 5:2": [
+    {
+      "title": "Dirt",
+      "page": "reviews/elliott-0410-dirt.html",
+      "id": "Elliott_0410"
+    }
+  ],
+  "Proverbs 14:29": [
+    {
+      "title": "Dirt",
+      "page": "reviews/elliott-0410-dirt.html",
+      "id": "Elliott_0410"
+    }
+  ],
+  "Proverbs 15:18": [
+    {
+      "title": "Dirt",
+      "page": "reviews/elliott-0410-dirt.html",
+      "id": "Elliott_0410"
     }
   ]
 }
