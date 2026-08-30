@@ -490,6 +490,11 @@
       "title": "Breach",
       "page": "reviews/elliott-0317-breach.html",
       "id": "Elliott_0317"
+    },
+    {
+      "title": "The Dukes of Hazzard",
+      "page": "reviews/elliott-0421-the-dukes-of-hazzard.html",
+      "id": "Elliott_0421"
     }
   ],
   "False Apostles": [
@@ -610,6 +615,16 @@
       "title": "Daredevil",
       "page": "reviews/elliott-0412-daredevil.html",
       "id": "Elliott_0412"
+    },
+    {
+      "title": "Enough",
+      "page": "reviews/elliott-0426-enough.html",
+      "id": "Elliott_0426"
+    },
+    {
+      "title": "Eight Legged Freaks",
+      "page": "reviews/elliott-0427-eight-legged-freaks.html",
+      "id": "Elliott_0427"
     }
   ],
   "Peace": [
@@ -953,6 +968,11 @@
       "title": "The Butcher Boy",
       "page": "reviews/elliott-0320-the-butcher-boy.html",
       "id": "Elliott_0320"
+    },
+    {
+      "title": "End of Days",
+      "page": "reviews/elliott-0429-end-of-days.html",
+      "id": "Elliott_0429"
     }
   ],
   "Free Will": [
@@ -1420,6 +1440,16 @@
       "title": "Daredevil",
       "page": "reviews/elliott-0412-daredevil.html",
       "id": "Elliott_0412"
+    },
+    {
+      "title": "Extreme Days",
+      "page": "reviews/elliott-0425-extreme-days.html",
+      "id": "Elliott_0425"
+    },
+    {
+      "title": "8 Mile",
+      "page": "reviews/elliott-0428-8-mile.html",
+      "id": "Elliott_0428"
     }
   ],
   "Spiritual Nourishment": [
@@ -1499,6 +1529,11 @@
       "title": "Doug's First Movie",
       "page": "reviews/elliott-0396-doug-s-first-movie.html",
       "id": "Elliott_0396"
+    },
+    {
+      "title": "End of Days",
+      "page": "reviews/elliott-0429-end-of-days.html",
+      "id": "Elliott_0429"
     }
   ],
   "Hunger and Thirst": [
@@ -1658,6 +1693,16 @@
       "title": "Domestic Disturbance",
       "page": "reviews/elliott-0405-domestic-disturbance.html",
       "id": "Elliott_0405"
+    },
+    {
+      "title": "The Dukes of Hazzard",
+      "page": "reviews/elliott-0421-the-dukes-of-hazzard.html",
+      "id": "Elliott_0421"
+    },
+    {
+      "title": "Evolution",
+      "page": "reviews/elliott-0423-evolution.html",
+      "id": "Elliott_0423"
     }
   ],
   "God's Provision": [
@@ -1702,6 +1747,11 @@
       "title": "The Door in the Floor",
       "page": "reviews/elliott-0416-the-door-in-the-floor.html",
       "id": "Elliott_0416"
+    },
+    {
+      "title": "Eye of the Beholder",
+      "page": "reviews/elliott-0430-eye-of-the-beholder.html",
+      "id": "Elliott_0430"
     }
   ],
   "Faithfulness": [
@@ -1821,6 +1871,16 @@
       "title": "Cinderella Man",
       "page": "reviews/elliott-0340-cinderella-man.html",
       "id": "Elliott_0340"
+    },
+    {
+      "title": "Extreme Days",
+      "page": "reviews/elliott-0425-extreme-days.html",
+      "id": "Elliott_0425"
+    },
+    {
+      "title": "8 Mile",
+      "page": "reviews/elliott-0428-8-mile.html",
+      "id": "Elliott_0428"
     }
   ],
   "Creation": [
@@ -1873,6 +1933,11 @@
       "title": "Cyberworld 3D",
       "page": "reviews/elliott-0321-cyberworld-3d.html",
       "id": "Elliott_0321"
+    },
+    {
+      "title": "Evolution",
+      "page": "reviews/elliott-0423-evolution.html",
+      "id": "Elliott_0423"
     }
   ],
   "Gender": [
@@ -2119,6 +2184,11 @@
       "title": "Dangerous Beauty",
       "page": "reviews/elliott-0382-dangerous-beauty.html",
       "id": "Elliott_0382"
+    },
+    {
+      "title": "End of Days",
+      "page": "reviews/elliott-0429-end-of-days.html",
+      "id": "Elliott_0429"
     }
   ],
   "Moral Compromise": [
@@ -2771,6 +2841,11 @@
       "title": "The Dust Factory",
       "page": "reviews/elliott-0418-the-dust-factory.html",
       "id": "Elliott_0418"
+    },
+    {
+      "title": "Enough",
+      "page": "reviews/elliott-0426-enough.html",
+      "id": "Elliott_0426"
     }
   ],
   "Doubt": [
@@ -3486,6 +3561,11 @@
       "title": "Double Take",
       "page": "reviews/elliott-0399-double-take.html",
       "id": "Elliott_0399"
+    },
+    {
+      "title": "The Emperor's New Groove",
+      "page": "reviews/elliott-0422-the-emperor-s-new-groove.html",
+      "id": "Elliott_0422"
     }
   ],
   "Virtuous Woman": [
@@ -3559,6 +3639,11 @@
       "title": "The Animal",
       "page": "reviews/elliott-0038-the-animal.html",
       "id": "Elliott_0038"
+    },
+    {
+      "title": "Evolution",
+      "page": "reviews/elliott-0423-evolution.html",
+      "id": "Elliott_0423"
     }
   ],
   "Hope": [
@@ -4546,6 +4631,11 @@
       "title": "Rock Star",
       "page": "reviews/elliott-0187-rock-star.html",
       "id": "Elliott_0187"
+    },
+    {
+      "title": "8 Mile",
+      "page": "reviews/elliott-0428-8-mile.html",
+      "id": "Elliott_0428"
     }
   ],
   "Belief": [
@@ -5507,6 +5597,11 @@
       "title": "Cookie's Fortune",
       "page": "reviews/elliott-0372-cookie-s-fortune.html",
       "id": "Elliott_0372"
+    },
+    {
+      "title": "Extreme Days",
+      "page": "reviews/elliott-0425-extreme-days.html",
+      "id": "Elliott_0425"
     }
   ],
   "Teaching": [
@@ -6310,6 +6405,11 @@
       "title": "Kiss of the Dragon",
       "page": "reviews/elliott-0124-kiss-of-the-dragon.html",
       "id": "Elliott_0124"
+    },
+    {
+      "title": "Eight Legged Freaks",
+      "page": "reviews/elliott-0427-eight-legged-freaks.html",
+      "id": "Elliott_0427"
     }
   ],
   "Friendship": [
@@ -6465,6 +6565,11 @@
       "title": "Daredevil",
       "page": "reviews/elliott-0412-daredevil.html",
       "id": "Elliott_0412"
+    },
+    {
+      "title": "Enough",
+      "page": "reviews/elliott-0426-enough.html",
+      "id": "Elliott_0426"
     }
   ],
   "Honoring Christ": [
@@ -7026,6 +7131,11 @@
       "title": "Notes on a Scandel",
       "page": "reviews/elliott-0154-notes-on-a-scandel.html",
       "id": "Elliott_0154"
+    },
+    {
+      "title": "The Emperor's New Groove",
+      "page": "reviews/elliott-0422-the-emperor-s-new-groove.html",
+      "id": "Elliott_0422"
     }
   ],
   "Motivation": [
@@ -7384,6 +7494,11 @@
       "title": "Andrew Lloyd Webber's The Phantom of the Opera",
       "page": "reviews/elliott-0172-andrew-lloyd-webber-s-the-phantom-of-the-opera.html",
       "id": "Elliott_0172"
+    },
+    {
+      "title": "Everybody Famous! (Iedereen beroemd!)",
+      "page": "reviews/elliott-0424-everybody-famous-iedereen-beroemd.html",
+      "id": "Elliott_0424"
     }
   ],
   "Spiritual Strength": [
@@ -7961,6 +8076,11 @@
       "title": "The Cooler",
       "page": "reviews/elliott-0328-the-cooler.html",
       "id": "Elliott_0328"
+    },
+    {
+      "title": "Eight Legged Freaks",
+      "page": "reviews/elliott-0427-eight-legged-freaks.html",
+      "id": "Elliott_0427"
     }
   ],
   "Resisting Temptation": [
@@ -8989,6 +9109,11 @@
       "title": "Cookie's Fortune",
       "page": "reviews/elliott-0372-cookie-s-fortune.html",
       "id": "Elliott_0372"
+    },
+    {
+      "title": "The Emperor's New Groove",
+      "page": "reviews/elliott-0422-the-emperor-s-new-groove.html",
+      "id": "Elliott_0422"
     }
   ],
   "Shared Beliefs": [
@@ -9310,6 +9435,11 @@
       "title": "Changing Lanes",
       "page": "reviews/elliott-0332-changing-lanes.html",
       "id": "Elliott_0332"
+    },
+    {
+      "title": "The Emperor's New Groove",
+      "page": "reviews/elliott-0422-the-emperor-s-new-groove.html",
+      "id": "Elliott_0422"
     }
   ],
   "Courtesy": [
@@ -9381,6 +9511,11 @@
       "title": "Bicentennial Man",
       "page": "reviews/elliott-0312-bicentennial-man.html",
       "id": "Elliott_0312"
+    },
+    {
+      "title": "Evolution",
+      "page": "reviews/elliott-0423-evolution.html",
+      "id": "Elliott_0423"
     }
   ],
   "Renewed Mind": [
@@ -9590,6 +9725,16 @@
       "title": "Can't Hardly Wait",
       "page": "reviews/elliott-0370-can-t-hardly-wait.html",
       "id": "Elliott_0370"
+    },
+    {
+      "title": "Enough",
+      "page": "reviews/elliott-0426-enough.html",
+      "id": "Elliott_0426"
+    },
+    {
+      "title": "8 Mile",
+      "page": "reviews/elliott-0428-8-mile.html",
+      "id": "Elliott_0428"
     }
   ],
   "Christmas": [
@@ -9707,6 +9852,11 @@
       "title": "Confessions of a Teenage Drama Queen",
       "page": "reviews/elliott-0365-confessions-of-a-teenage-drama-queen.html",
       "id": "Elliott_0365"
+    },
+    {
+      "title": "Everybody Famous! (Iedereen beroemd!)",
+      "page": "reviews/elliott-0424-everybody-famous-iedereen-beroemd.html",
+      "id": "Elliott_0424"
     }
   ],
   "Cross-Dressing": [
@@ -9886,6 +10036,11 @@
       "title": "Deep Blue Sea",
       "page": "reviews/elliott-0389-deep-blue-sea.html",
       "id": "Elliott_0389"
+    },
+    {
+      "title": "The Dukes of Hazzard",
+      "page": "reviews/elliott-0421-the-dukes-of-hazzard.html",
+      "id": "Elliott_0421"
     }
   ],
   "Pagan Influence": [
@@ -10061,6 +10216,16 @@
       "title": "Deuce Bigalow: European Gigolo",
       "page": "reviews/elliott-0419-deuce-bigalow-european-gigolo.html",
       "id": "Elliott_0419"
+    },
+    {
+      "title": "Everybody Famous! (Iedereen beroemd!)",
+      "page": "reviews/elliott-0424-everybody-famous-iedereen-beroemd.html",
+      "id": "Elliott_0424"
+    },
+    {
+      "title": "Eye of the Beholder",
+      "page": "reviews/elliott-0430-eye-of-the-beholder.html",
+      "id": "Elliott_0430"
     }
   ],
   "Infidelity": [
@@ -10068,6 +10233,55 @@
       "title": "Eyes Wide Shut",
       "page": "reviews/elliott-0420-eyes-wide-shut.html",
       "id": "Elliott_0420"
+    }
+  ],
+  "Misdirection": [
+    {
+      "title": "The Dukes of Hazzard",
+      "page": "reviews/elliott-0421-the-dukes-of-hazzard.html",
+      "id": "Elliott_0421"
+    }
+  ],
+  "God's View": [
+    {
+      "title": "Everybody Famous! (Iedereen beroemd!)",
+      "page": "reviews/elliott-0424-everybody-famous-iedereen-beroemd.html",
+      "id": "Elliott_0424"
+    }
+  ],
+  "Challenges": [
+    {
+      "title": "Extreme Days",
+      "page": "reviews/elliott-0425-extreme-days.html",
+      "id": "Elliott_0425"
+    }
+  ],
+  "God's Strength": [
+    {
+      "title": "Eight Legged Freaks",
+      "page": "reviews/elliott-0427-eight-legged-freaks.html",
+      "id": "Elliott_0427"
+    }
+  ],
+  "Satan": [
+    {
+      "title": "End of Days",
+      "page": "reviews/elliott-0429-end-of-days.html",
+      "id": "Elliott_0429"
+    }
+  ],
+  "Superficiality": [
+    {
+      "title": "Eye of the Beholder",
+      "page": "reviews/elliott-0430-eye-of-the-beholder.html",
+      "id": "Elliott_0430"
+    }
+  ],
+  "Substance": [
+    {
+      "title": "Eye of the Beholder",
+      "page": "reviews/elliott-0430-eye-of-the-beholder.html",
+      "id": "Elliott_0430"
     }
   ]
 }
