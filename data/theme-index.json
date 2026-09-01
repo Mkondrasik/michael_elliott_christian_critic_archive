@@ -408,6 +408,11 @@
       "title": "The Family Man",
       "page": "reviews/elliott-0438-the-family-man.html",
       "id": "Elliott_0438"
+    },
+    {
+      "title": "The First of May",
+      "page": "reviews/elliott-0468-the-first-of-may.html",
+      "id": "Elliott_0468"
     }
   ],
   "Belonging": [
@@ -425,6 +430,11 @@
       "title": "What a Girl Wants",
       "page": "reviews/elliott-0215-what-a-girl-wants.html",
       "id": "Elliott_0215"
+    },
+    {
+      "title": "The First of May",
+      "page": "reviews/elliott-0468-the-first-of-may.html",
+      "id": "Elliott_0468"
     }
   ],
   "Unconditional Love": [
@@ -1223,6 +1233,11 @@
       "title": "Fun with Dick and Jane",
       "page": "reviews/elliott-0454-fun-with-dick-and-jane.html",
       "id": "Elliott_0454"
+    },
+    {
+      "title": "Glitter",
+      "page": "reviews/elliott-0462-glitter.html",
+      "id": "Elliott_0462"
     }
   ],
   "Spiritual Truth": [
@@ -1813,6 +1828,11 @@
       "title": "Fahrenheit 9/11",
       "page": "reviews/elliott-0459-fahrenheit-9-11.html",
       "id": "Elliott_0459"
+    },
+    {
+      "title": "Flawless",
+      "page": "reviews/elliott-0467-flawless.html",
+      "id": "Elliott_0467"
     }
   ],
   "God's Provision": [
@@ -1830,6 +1850,11 @@
       "title": "Small Time Crooks",
       "page": "reviews/elliott-0198-small-time-crooks.html",
       "id": "Elliott_0198"
+    },
+    {
+      "title": "Godzilla",
+      "page": "reviews/elliott-0466-godzilla.html",
+      "id": "Elliott_0466"
     }
   ],
   "Righteousness": [
@@ -1867,6 +1892,11 @@
       "title": "Fun with Dick and Jane",
       "page": "reviews/elliott-0454-fun-with-dick-and-jane.html",
       "id": "Elliott_0454"
+    },
+    {
+      "title": "Flawless",
+      "page": "reviews/elliott-0467-flawless.html",
+      "id": "Elliott_0467"
     }
   ],
   "Faithfulness": [
@@ -2001,6 +2031,11 @@
       "title": "For Love Of The Game",
       "page": "reviews/elliott-0437-for-love-of-the-game.html",
       "id": "Elliott_0437"
+    },
+    {
+      "title": "Going The Distance",
+      "page": "reviews/elliott-0463-going-the-distance.html",
+      "id": "Elliott_0463"
     }
   ],
   "Creation": [
@@ -2154,6 +2189,11 @@
       "title": "Blue Streak",
       "page": "reviews/elliott-0319-blue-streak.html",
       "id": "Elliott_0319"
+    },
+    {
+      "title": "Godzilla",
+      "page": "reviews/elliott-0466-godzilla.html",
+      "id": "Elliott_0466"
     }
   ],
   "Communication": [
@@ -2329,6 +2369,11 @@
       "title": "40 Days and 40 Nights",
       "page": "reviews/elliott-0445-40-days-and-40-nights.html",
       "id": "Elliott_0445"
+    },
+    {
+      "title": "Going The Distance",
+      "page": "reviews/elliott-0463-going-the-distance.html",
+      "id": "Elliott_0463"
     }
   ],
   "Moral Compromise": [
@@ -2433,6 +2478,11 @@
       "title": "Flicka",
       "page": "reviews/elliott-0451-flicka.html",
       "id": "Elliott_0451"
+    },
+    {
+      "title": "Get Over It",
+      "page": "reviews/elliott-0464-get-over-it.html",
+      "id": "Elliott_0464"
     }
   ],
   "Instruction": [
@@ -2537,6 +2587,11 @@
       "title": "Entrapment",
       "page": "reviews/elliott-0433-entrapment.html",
       "id": "Elliott_0433"
+    },
+    {
+      "title": "Get Over It",
+      "page": "reviews/elliott-0464-get-over-it.html",
+      "id": "Elliott_0464"
     }
   ],
   "Right and Wrong": [
@@ -3036,6 +3091,11 @@
       "title": "The Four Feathers",
       "page": "reviews/elliott-0443-the-four-feathers.html",
       "id": "Elliott_0443"
+    },
+    {
+      "title": "Girl, Interrupted",
+      "page": "reviews/elliott-0465-girl-interrupted.html",
+      "id": "Elliott_0465"
     }
   ],
   "Doubt": [
@@ -3298,6 +3358,11 @@
       "title": "Fantastic Four",
       "page": "reviews/elliott-0457-fantastic-four.html",
       "id": "Elliott_0457"
+    },
+    {
+      "title": "Fantastic Four: Rise of the Silver Surfer",
+      "page": "reviews/elliott-0470-fantastic-four-rise-of-the-silver-surfer.html",
+      "id": "Elliott_0470"
     }
   ],
   "Compassion": [
@@ -3926,6 +3991,11 @@
       "title": "Down To Earth",
       "page": "reviews/elliott-0401-down-to-earth.html",
       "id": "Elliott_0401"
+    },
+    {
+      "title": "Girl, Interrupted",
+      "page": "reviews/elliott-0465-girl-interrupted.html",
+      "id": "Elliott_0465"
     }
   ],
   "Death": [
@@ -4743,6 +4813,11 @@
       "title": "The Fighting Temptations",
       "page": "reviews/elliott-0460-the-fighting-temptations.html",
       "id": "Elliott_0460"
+    },
+    {
+      "title": "Fantasia 2000",
+      "page": "reviews/elliott-0469-fantasia-2000.html",
+      "id": "Elliott_0469"
     }
   ],
   "Comfort": [
@@ -4776,7 +4851,7 @@
       "id": "Elliott_0055"
     }
   ],
-  "God's Word as a Guide": [
+  "God's Word as A Guide": [
     {
       "title": "Centro do Brasil [Central Station]",
       "page": "reviews/elliott-0056-centro-do-brasil-central-station.html",
@@ -5068,6 +5143,11 @@
       "title": "The Limey",
       "page": "reviews/elliott-0136-the-limey.html",
       "id": "Elliott_0136"
+    },
+    {
+      "title": "The Glass House",
+      "page": "reviews/elliott-0461-the-glass-house.html",
+      "id": "Elliott_0461"
     }
   ],
   "Resisting Compromise": [
@@ -5319,6 +5399,11 @@
       "title": "One True Thing",
       "page": "reviews/elliott-0166-one-true-thing.html",
       "id": "Elliott_0166"
+    },
+    {
+      "title": "The Glass House",
+      "page": "reviews/elliott-0461-the-glass-house.html",
+      "id": "Elliott_0461"
     }
   ],
   "Obedience": [
@@ -5610,6 +5695,11 @@
       "title": "Facing the Giants",
       "page": "reviews/elliott-0088-facing-the-giants.html",
       "id": "Elliott_0088"
+    },
+    {
+      "title": "Glitter",
+      "page": "reviews/elliott-0462-glitter.html",
+      "id": "Elliott_0462"
     }
   ],
   "Trusting God": [
@@ -6318,6 +6408,11 @@
       "title": "Connie and Carla",
       "page": "reviews/elliott-0364-connie-and-carla.html",
       "id": "Elliott_0364"
+    },
+    {
+      "title": "Flawless",
+      "page": "reviews/elliott-0467-flawless.html",
+      "id": "Elliott_0467"
     }
   ],
   "Mankind": [
@@ -7042,6 +7137,11 @@
       "title": "The Fighting Temptations",
       "page": "reviews/elliott-0460-the-fighting-temptations.html",
       "id": "Elliott_0460"
+    },
+    {
+      "title": "Fantasia 2000",
+      "page": "reviews/elliott-0469-fantasia-2000.html",
+      "id": "Elliott_0469"
     }
   ],
   "Remembrance": [
@@ -7090,7 +7190,7 @@
       "id": "Elliott_0397"
     }
   ],
-  "Making a Difference": [
+  "Making A Difference": [
     {
       "title": "Legally Blonde 2: Red, White & Blonde",
       "page": "reviews/elliott-0138-legally-blonde-2-red-white-and-blonde.html",
@@ -7155,6 +7255,11 @@
       "title": "8 MM",
       "page": "reviews/elliott-0431-8-mm.html",
       "id": "Elliott_0431"
+    },
+    {
+      "title": "The First of May",
+      "page": "reviews/elliott-0468-the-first-of-may.html",
+      "id": "Elliott_0468"
     }
   ],
   "Mutual Support": [
@@ -7632,7 +7737,7 @@
       "id": "Elliott_0158"
     }
   ],
-  "Putting on the New Man": [
+  "Putting On the New Man": [
     {
       "title": "Nutty Professor II: The Klumps",
       "page": "reviews/elliott-0159-nutty-professor-ii-the-klumps.html",
@@ -8151,7 +8256,7 @@
       "id": "Elliott_0377"
     }
   ],
-  "Impact on Others": [
+  "Impact On Others": [
     {
       "title": "Run Lola Run (Lola rennt)",
       "page": "reviews/elliott-0190-run-lola-run-lola-rennt.html",
@@ -8201,7 +8306,7 @@
       "id": "Elliott_0406"
     }
   ],
-  "Passing on God's Word": [
+  "Passing On God's Word": [
     {
       "title": "Smoke Signals",
       "page": "reviews/elliott-0192-smoke-signals.html",
@@ -8390,7 +8495,7 @@
       "id": "Elliott_0236"
     }
   ],
-  "Focusing on Godly Things": [
+  "Focusing On Godly Things": [
     {
       "title": "The Thin Red Line",
       "page": "reviews/elliott-0206-the-thin-red-line.html",
@@ -8542,7 +8647,7 @@
       "id": "Elliott_0444"
     }
   ],
-  "Choosing a Spouse": [
+  "Choosing A Spouse": [
     {
       "title": "Win a Date with Tad Hamilton!",
       "page": "reviews/elliott-0214-win-a-date-with-tad-hamilton.html",
@@ -9741,6 +9846,11 @@
       "title": "Blood Work",
       "page": "reviews/elliott-0296-blood-work.html",
       "id": "Elliott_0296"
+    },
+    {
+      "title": "The Glass House",
+      "page": "reviews/elliott-0461-the-glass-house.html",
+      "id": "Elliott_0461"
     }
   ],
   "Nonconformity": [
@@ -9757,7 +9867,7 @@
       "id": "Elliott_0297"
     }
   ],
-  "Setting an Example": [
+  "Setting An Example": [
     {
       "title": "The Banger Sisters",
       "page": "reviews/elliott-0297-the-banger-sisters.html",
@@ -10045,6 +10155,11 @@
       "title": "The Cat in the Hat",
       "page": "reviews/elliott-0329-the-cat-in-the-hat.html",
       "id": "Elliott_0329"
+    },
+    {
+      "title": "Get Over It",
+      "page": "reviews/elliott-0464-get-over-it.html",
+      "id": "Elliott_0464"
     }
   ],
   "Safety": [
@@ -10054,7 +10169,7 @@
       "id": "Elliott_0326"
     }
   ],
-  "Children as a Blessing": [
+  "Children as A Blessing": [
     {
       "title": "Cheaper by the Dozen",
       "page": "reviews/elliott-0327-cheaper-by-the-dozen.html",
@@ -10075,7 +10190,7 @@
       "id": "Elliott_0329"
     }
   ],
-  "Dependence on God": [
+  "Dependence On God": [
     {
       "title": "Charlie's Angels 2: Full Throttle",
       "page": "reviews/elliott-0330-charlie-s-angels-2-full-throttle.html",
@@ -10858,6 +10973,104 @@
       "title": "The Fighting Temptations",
       "page": "reviews/elliott-0460-the-fighting-temptations.html",
       "id": "Elliott_0460"
+    }
+  ],
+  "Appreciation": [
+    {
+      "title": "The Glass House",
+      "page": "reviews/elliott-0461-the-glass-house.html",
+      "id": "Elliott_0461"
+    }
+  ],
+  "People": [
+    {
+      "title": "Glitter",
+      "page": "reviews/elliott-0462-glitter.html",
+      "id": "Elliott_0462"
+    }
+  ],
+  "Disappointment": [
+    {
+      "title": "Glitter",
+      "page": "reviews/elliott-0462-glitter.html",
+      "id": "Elliott_0462"
+    }
+  ],
+  "Abstinence": [
+    {
+      "title": "Going The Distance",
+      "page": "reviews/elliott-0463-going-the-distance.html",
+      "id": "Elliott_0463"
+    }
+  ],
+  "Teen Sexuality": [
+    {
+      "title": "Going The Distance",
+      "page": "reviews/elliott-0463-going-the-distance.html",
+      "id": "Elliott_0463"
+    }
+  ],
+  "Teenagers": [
+    {
+      "title": "Get Over It",
+      "page": "reviews/elliott-0464-get-over-it.html",
+      "id": "Elliott_0464"
+    }
+  ],
+  "Depression": [
+    {
+      "title": "Girl, Interrupted",
+      "page": "reviews/elliott-0465-girl-interrupted.html",
+      "id": "Elliott_0465"
+    }
+  ],
+  "Mental Soundness": [
+    {
+      "title": "Girl, Interrupted",
+      "page": "reviews/elliott-0465-girl-interrupted.html",
+      "id": "Elliott_0465"
+    }
+  ],
+  "Needs": [
+    {
+      "title": "Godzilla",
+      "page": "reviews/elliott-0466-godzilla.html",
+      "id": "Elliott_0466"
+    }
+  ],
+  "Witnessing": [
+    {
+      "title": "Godzilla",
+      "page": "reviews/elliott-0466-godzilla.html",
+      "id": "Elliott_0466"
+    }
+  ],
+  "Tolerance": [
+    {
+      "title": "Flawless",
+      "page": "reviews/elliott-0467-flawless.html",
+      "id": "Elliott_0467"
+    }
+  ],
+  "Adoption": [
+    {
+      "title": "The First of May",
+      "page": "reviews/elliott-0468-the-first-of-may.html",
+      "id": "Elliott_0468"
+    }
+  ],
+  "Inspiration": [
+    {
+      "title": "Fantasia 2000",
+      "page": "reviews/elliott-0469-fantasia-2000.html",
+      "id": "Elliott_0469"
+    }
+  ],
+  "Art": [
+    {
+      "title": "Fantasia 2000",
+      "page": "reviews/elliott-0469-fantasia-2000.html",
+      "id": "Elliott_0469"
     }
   ]
 }
