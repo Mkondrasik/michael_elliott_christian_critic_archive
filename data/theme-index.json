@@ -148,6 +148,11 @@
       "title": "Double Take",
       "page": "reviews/elliott-0399-double-take.html",
       "id": "Elliott_0399"
+    },
+    {
+      "title": "Insomnia",
+      "page": "reviews/elliott-0521-insomnia.html",
+      "id": "Elliott_0521"
     }
   ],
   "Marriage": [
@@ -265,6 +270,11 @@
       "title": "Guess Who",
       "page": "reviews/elliott-0473-guess-who.html",
       "id": "Elliott_0473"
+    },
+    {
+      "title": "Just Married",
+      "page": "reviews/elliott-0526-just-married.html",
+      "id": "Elliott_0526"
     }
   ],
   "Courtship and Chivalry": [
@@ -356,6 +366,11 @@
       "title": "High Fidelity",
       "page": "reviews/elliott-0520-high-fidelity.html",
       "id": "Elliott_0520"
+    },
+    {
+      "title": "Just Married",
+      "page": "reviews/elliott-0526-just-married.html",
+      "id": "Elliott_0526"
     }
   ],
   "Family": [
@@ -438,6 +453,11 @@
       "title": "A Home at the End of the World",
       "page": "reviews/elliott-0510-a-home-at-the-end-of-the-world.html",
       "id": "Elliott_0510"
+    },
+    {
+      "title": "Hope Floats",
+      "page": "reviews/elliott-0528-hope-floats.html",
+      "id": "Elliott_0528"
     }
   ],
   "Belonging": [
@@ -1948,6 +1968,11 @@
       "title": "Happy, Texas",
       "page": "reviews/elliott-0496-happy-texas.html",
       "id": "Elliott_0496"
+    },
+    {
+      "title": "The Insider",
+      "page": "reviews/elliott-0527-the-insider.html",
+      "id": "Elliott_0527"
     }
   ],
   "God's Provision": [
@@ -2166,6 +2191,11 @@
       "title": "The Hurricane",
       "page": "reviews/elliott-0517-the-hurricane.html",
       "id": "Elliott_0517"
+    },
+    {
+      "title": "Joe Dirt",
+      "page": "reviews/elliott-0522-joe-dirt.html",
+      "id": "Elliott_0522"
     }
   ],
   "Creation": [
@@ -2994,6 +3024,11 @@
       "title": "Harold and Kumar Go to White Castle",
       "page": "reviews/elliott-0491-harold-and-kumar-go-to-white-castle.html",
       "id": "Elliott_0491"
+    },
+    {
+      "title": "Jackass: The Movie",
+      "page": "reviews/elliott-0524-jackass-the-movie.html",
+      "id": "Elliott_0524"
     }
   ],
   "Honesty": [
@@ -4031,6 +4066,16 @@
       "title": "For Love Of The Game",
       "page": "reviews/elliott-0437-for-love-of-the-game.html",
       "id": "Elliott_0437"
+    },
+    {
+      "title": "Juwanna Mann",
+      "page": "reviews/elliott-0523-juwanna-mann.html",
+      "id": "Elliott_0523"
+    },
+    {
+      "title": "I Spy",
+      "page": "reviews/elliott-0525-i-spy.html",
+      "id": "Elliott_0525"
     }
   ],
   "One Body": [
@@ -4286,6 +4331,11 @@
       "title": "Girl, Interrupted",
       "page": "reviews/elliott-0465-girl-interrupted.html",
       "id": "Elliott_0465"
+    },
+    {
+      "title": "Hope Floats",
+      "page": "reviews/elliott-0528-hope-floats.html",
+      "id": "Elliott_0528"
     }
   ],
   "Death": [
@@ -4608,6 +4658,11 @@
       "title": "Hairspray",
       "page": "reviews/elliott-0516-hairspray.html",
       "id": "Elliott_0516"
+    },
+    {
+      "title": "High Noon (1952)",
+      "page": "reviews/elliott-0530-high-noon-1952.html",
+      "id": "Elliott_0530"
     }
   ],
   "Giving One's Life": [
@@ -5248,6 +5303,11 @@
       "title": "Collateral Damage",
       "page": "reviews/elliott-0059-collateral-damage.html",
       "id": "Elliott_0059"
+    },
+    {
+      "title": "Hotel Rwanda",
+      "page": "reviews/elliott-0529-hotel-rwanda.html",
+      "id": "Elliott_0529"
     }
   ],
   "Duty": [
@@ -5255,6 +5315,11 @@
       "title": "Collateral Damage",
       "page": "reviews/elliott-0059-collateral-damage.html",
       "id": "Elliott_0059"
+    },
+    {
+      "title": "High Noon (1952)",
+      "page": "reviews/elliott-0530-high-noon-1952.html",
+      "id": "Elliott_0530"
     }
   ],
   "Education": [
@@ -7423,6 +7488,11 @@
       "title": "You Got Served",
       "page": "reviews/elliott-0213-you-got-served.html",
       "id": "Elliott_0213"
+    },
+    {
+      "title": "Joe Dirt",
+      "page": "reviews/elliott-0522-joe-dirt.html",
+      "id": "Elliott_0522"
     }
   ],
   "Deliverance": [
@@ -9601,6 +9671,16 @@
       "title": "Election",
       "page": "reviews/elliott-0435-election.html",
       "id": "Elliott_0435"
+    },
+    {
+      "title": "Insomnia",
+      "page": "reviews/elliott-0521-insomnia.html",
+      "id": "Elliott_0521"
+    },
+    {
+      "title": "High Noon (1952)",
+      "page": "reviews/elliott-0530-high-noon-1952.html",
+      "id": "Elliott_0530"
     }
   ],
   "Entertainment Choices": [
@@ -10053,6 +10133,11 @@
       "title": "Domestic Disturbance",
       "page": "reviews/elliott-0405-domestic-disturbance.html",
       "id": "Elliott_0405"
+    },
+    {
+      "title": "Just Married",
+      "page": "reviews/elliott-0526-just-married.html",
+      "id": "Elliott_0526"
     }
   ],
   "Focus": [
@@ -11772,7 +11857,7 @@
       "id": "Elliott_0486"
     }
   ],
-  "Right Vs. Wrong": [
+  "Right vs. Wrong": [
     {
       "title": "Gone Baby Gone",
       "page": "reviews/elliott-0490-gone-baby-gone.html",
@@ -11880,6 +11965,20 @@
       "title": "Hidalgo",
       "page": "reviews/elliott-0515-hidalgo.html",
       "id": "Elliott_0515"
+    }
+  ],
+  "Ends vs. Means": [
+    {
+      "title": "Insomnia",
+      "page": "reviews/elliott-0521-insomnia.html",
+      "id": "Elliott_0521"
+    }
+  ],
+  "Positive Attitude": [
+    {
+      "title": "Joe Dirt",
+      "page": "reviews/elliott-0522-joe-dirt.html",
+      "id": "Elliott_0522"
     }
   ]
 }
