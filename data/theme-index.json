@@ -351,6 +351,11 @@
       "title": "A Guy Thing",
       "page": "reviews/elliott-0479-a-guy-thing.html",
       "id": "Elliott_0479"
+    },
+    {
+      "title": "High Fidelity",
+      "page": "reviews/elliott-0520-high-fidelity.html",
+      "id": "Elliott_0520"
     }
   ],
   "Family": [
@@ -1533,6 +1538,11 @@
       "title": "Legally Blonde 2: Red, White & Blonde",
       "page": "reviews/elliott-0138-legally-blonde-2-red-white-and-blonde.html",
       "id": "Elliott_0138"
+    },
+    {
+      "title": "The Hurricane",
+      "page": "reviews/elliott-0517-the-hurricane.html",
+      "id": "Elliott_0517"
     }
   ],
   "Faith": [
@@ -2146,6 +2156,16 @@
       "title": "Going The Distance",
       "page": "reviews/elliott-0463-going-the-distance.html",
       "id": "Elliott_0463"
+    },
+    {
+      "title": "Hidalgo",
+      "page": "reviews/elliott-0515-hidalgo.html",
+      "id": "Elliott_0515"
+    },
+    {
+      "title": "The Hurricane",
+      "page": "reviews/elliott-0517-the-hurricane.html",
+      "id": "Elliott_0517"
     }
   ],
   "Creation": [
@@ -2524,6 +2544,11 @@
       "title": "The Girl Next Door",
       "page": "reviews/elliott-0477-the-girl-next-door.html",
       "id": "Elliott_0477"
+    },
+    {
+      "title": "The Horse Whisperer",
+      "page": "reviews/elliott-0518-the-horse-whisperer.html",
+      "id": "Elliott_0518"
     }
   ],
   "Moral Compromise": [
@@ -3286,6 +3311,11 @@
       "title": "A Guy Thing",
       "page": "reviews/elliott-0479-a-guy-thing.html",
       "id": "Elliott_0479"
+    },
+    {
+      "title": "The Horse Whisperer",
+      "page": "reviews/elliott-0518-the-horse-whisperer.html",
+      "id": "Elliott_0518"
     }
   ],
   "Doubt": [
@@ -3892,6 +3922,11 @@
       "title": "The Banger Sisters",
       "page": "reviews/elliott-0297-the-banger-sisters.html",
       "id": "Elliott_0297"
+    },
+    {
+      "title": "High Fidelity",
+      "page": "reviews/elliott-0520-high-fidelity.html",
+      "id": "Elliott_0520"
     }
   ],
   "Unity": [
@@ -4511,6 +4546,11 @@
       "title": "Around the World in 80 Days",
       "page": "reviews/elliott-0043-around-the-world-in-80-days.html",
       "id": "Elliott_0043"
+    },
+    {
+      "title": "High Fidelity",
+      "page": "reviews/elliott-0520-high-fidelity.html",
+      "id": "Elliott_0520"
     }
   ],
   "Sacrifice": [
@@ -4563,6 +4603,11 @@
       "title": "Flyboys",
       "page": "reviews/elliott-0449-flyboys.html",
       "id": "Elliott_0449"
+    },
+    {
+      "title": "Hairspray",
+      "page": "reviews/elliott-0516-hairspray.html",
+      "id": "Elliott_0516"
     }
   ],
   "Giving One's Life": [
@@ -6322,6 +6367,11 @@
       "title": "Extreme Days",
       "page": "reviews/elliott-0425-extreme-days.html",
       "id": "Elliott_0425"
+    },
+    {
+      "title": "Hidalgo",
+      "page": "reviews/elliott-0515-hidalgo.html",
+      "id": "Elliott_0515"
     }
   ],
   "Teaching": [
@@ -7179,6 +7229,11 @@
       "title": "Guess Who",
       "page": "reviews/elliott-0473-guess-who.html",
       "id": "Elliott_0473"
+    },
+    {
+      "title": "The Hurricane",
+      "page": "reviews/elliott-0517-the-hurricane.html",
+      "id": "Elliott_0517"
     }
   ],
   "Spiritual Discipline": [
@@ -8313,6 +8368,11 @@
       "title": "Casino Royale",
       "page": "reviews/elliott-0333-casino-royale.html",
       "id": "Elliott_0333"
+    },
+    {
+      "title": "The Hulk",
+      "page": "reviews/elliott-0514-the-hulk.html",
+      "id": "Elliott_0514"
     }
   ],
   "Pride": [
@@ -9200,11 +9260,40 @@
       "id": "Elliott_0220"
     }
   ],
-  "Body, Soul, Spirit": [
+  "Body": [
     {
       "title": "August Rush",
       "page": "reviews/elliott-0221-august-rush.html",
       "id": "Elliott_0221"
+    },
+    {
+      "title": "Catwoman",
+      "page": "reviews/elliott-0361-catwoman.html",
+      "id": "Elliott_0361"
+    }
+  ],
+  "Soul": [
+    {
+      "title": "August Rush",
+      "page": "reviews/elliott-0221-august-rush.html",
+      "id": "Elliott_0221"
+    },
+    {
+      "title": "Catwoman",
+      "page": "reviews/elliott-0361-catwoman.html",
+      "id": "Elliott_0361"
+    }
+  ],
+  "Spirit": [
+    {
+      "title": "August Rush",
+      "page": "reviews/elliott-0221-august-rush.html",
+      "id": "Elliott_0221"
+    },
+    {
+      "title": "Catwoman",
+      "page": "reviews/elliott-0361-catwoman.html",
+      "id": "Elliott_0361"
     }
   ],
   "Hatred": [
@@ -9307,11 +9396,30 @@
       "id": "Elliott_0229"
     }
   ],
-  "Armageddon, End of Days, God's Promises": [
+  "Armageddon": [
     {
       "title": "Armageddon",
       "page": "reviews/elliott-0230-armageddon.html",
       "id": "Elliott_0230"
+    }
+  ],
+  "End of Days": [
+    {
+      "title": "Armageddon",
+      "page": "reviews/elliott-0230-armageddon.html",
+      "id": "Elliott_0230"
+    }
+  ],
+  "God's Promises": [
+    {
+      "title": "Armageddon",
+      "page": "reviews/elliott-0230-armageddon.html",
+      "id": "Elliott_0230"
+    },
+    {
+      "title": "Big Trouble",
+      "page": "reviews/elliott-0266-big-trouble.html",
+      "id": "Elliott_0266"
     }
   ],
   "Renewing Behavior": [
@@ -9788,6 +9896,11 @@
       "title": "Election",
       "page": "reviews/elliott-0435-election.html",
       "id": "Elliott_0435"
+    },
+    {
+      "title": "The Hulk",
+      "page": "reviews/elliott-0514-the-hulk.html",
+      "id": "Elliott_0514"
     }
   ],
   "Standards": [
@@ -9901,13 +10014,6 @@
       "title": "Big Momma's House",
       "page": "reviews/elliott-0265-big-momma-s-house.html",
       "id": "Elliott_0265"
-    }
-  ],
-  "God's Promises": [
-    {
-      "title": "Big Trouble",
-      "page": "reviews/elliott-0266-big-trouble.html",
-      "id": "Elliott_0266"
     }
   ],
   "Restoration": [
@@ -10874,27 +10980,6 @@
       "id": "Elliott_0456"
     }
   ],
-  "Body": [
-    {
-      "title": "Catwoman",
-      "page": "reviews/elliott-0361-catwoman.html",
-      "id": "Elliott_0361"
-    }
-  ],
-  "Soul": [
-    {
-      "title": "Catwoman",
-      "page": "reviews/elliott-0361-catwoman.html",
-      "id": "Elliott_0361"
-    }
-  ],
-  "Spirit": [
-    {
-      "title": "Catwoman",
-      "page": "reviews/elliott-0361-catwoman.html",
-      "id": "Elliott_0361"
-    }
-  ],
   "Wholeness": [
     {
       "title": "Catwoman",
@@ -11774,6 +11859,27 @@
       "title": "A Home at the End of the World",
       "page": "reviews/elliott-0510-a-home-at-the-end-of-the-world.html",
       "id": "Elliott_0510"
+    }
+  ],
+  "Love and Sacrifice": [
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "page": "reviews/elliott-0511-harry-potter-and-the-goblet-of-fire.html",
+      "id": "Elliott_0511"
+    }
+  ],
+  "Obsession": [
+    {
+      "title": "The Hulk",
+      "page": "reviews/elliott-0514-the-hulk.html",
+      "id": "Elliott_0514"
+    }
+  ],
+  "Spiritual Race": [
+    {
+      "title": "Hidalgo",
+      "page": "reviews/elliott-0515-hidalgo.html",
+      "id": "Elliott_0515"
     }
   ]
 }
