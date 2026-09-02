@@ -646,6 +646,11 @@
       "title": "Heist",
       "page": "reviews/elliott-0485-heist.html",
       "id": "Elliott_0485"
+    },
+    {
+      "title": "He Got Game",
+      "page": "reviews/elliott-0498-he-got-game.html",
+      "id": "Elliott_0498"
     }
   ],
   "Proverbs 28:22": [
@@ -870,6 +875,11 @@
       "title": "Four Brothers",
       "page": "reviews/elliott-0331-four-brothers.html",
       "id": "Elliott_0331"
+    },
+    {
+      "title": "Gladiator",
+      "page": "reviews/elliott-0500-gladiator.html",
+      "id": "Elliott_0500"
     }
   ],
   "Proverbs 18:16": [
@@ -997,6 +1007,11 @@
       "title": "Alexander",
       "page": "reviews/elliott-0031-alexander.html",
       "id": "Elliott_0031"
+    },
+    {
+      "title": "Harold and Kumar Go to White Castle",
+      "page": "reviews/elliott-0491-harold-and-kumar-go-to-white-castle.html",
+      "id": "Elliott_0491"
     }
   ],
   "Hosea 4:1": [
@@ -2881,6 +2896,11 @@
       "title": "Four Brothers",
       "page": "reviews/elliott-0331-four-brothers.html",
       "id": "Elliott_0331"
+    },
+    {
+      "title": "Gladiator",
+      "page": "reviews/elliott-0500-gladiator.html",
+      "id": "Elliott_0500"
     }
   ],
   "Psalms 7:15-16": [
@@ -4094,6 +4114,11 @@
       "title": "Gone Baby Gone",
       "page": "reviews/elliott-0490-gone-baby-gone.html",
       "id": "Elliott_0490"
+    },
+    {
+      "title": "Head of State",
+      "page": "reviews/elliott-0495-head-of-state.html",
+      "id": "Elliott_0495"
     }
   ],
   "John 5:39": [
@@ -5249,6 +5274,11 @@
       "title": "The Golden Compass",
       "page": "reviews/elliott-0352-the-golden-compass.html",
       "id": "Elliott_0352"
+    },
+    {
+      "title": "Hero",
+      "page": "reviews/elliott-0492-hero.html",
+      "id": "Elliott_0492"
     }
   ],
   "Proverbs 23:7": [
@@ -5931,6 +5961,11 @@
       "title": "The Cider House Rules",
       "page": "reviews/elliott-0337-the-cider-house-rules.html",
       "id": "Elliott_0337"
+    },
+    {
+      "title": "Hurlyburly",
+      "page": "reviews/elliott-0497-hurlyburly.html",
+      "id": "Elliott_0497"
     }
   ],
   "James 3:2-8": [
@@ -7367,6 +7402,11 @@
       "title": "Casino Royale",
       "page": "reviews/elliott-0333-casino-royale.html",
       "id": "Elliott_0333"
+    },
+    {
+      "title": "Hurlyburly",
+      "page": "reviews/elliott-0497-hurlyburly.html",
+      "id": "Elliott_0497"
     }
   ],
   "Psalms 73:12": [
@@ -8911,6 +8951,11 @@
       "title": "Far From Heaven",
       "page": "reviews/elliott-0442-far-from-heaven.html",
       "id": "Elliott_0442"
+    },
+    {
+      "title": "Happy, Texas",
+      "page": "reviews/elliott-0496-happy-texas.html",
+      "id": "Elliott_0496"
     }
   ],
   "Psalms 56:3-4": [
@@ -9037,6 +9082,11 @@
       "title": "The Family Stone",
       "page": "reviews/elliott-0455-the-family-stone.html",
       "id": "Elliott_0455"
+    },
+    {
+      "title": "How Stella Got Her Groove Back",
+      "page": "reviews/elliott-0499-how-stella-got-her-groove-back.html",
+      "id": "Elliott_0499"
     }
   ],
   "Philemon 1:7": [
@@ -9460,6 +9510,146 @@
       "title": "Gone Baby Gone",
       "page": "reviews/elliott-0490-gone-baby-gone.html",
       "id": "Elliott_0490"
+    }
+  ],
+  "Proverbs 14:7": [
+    {
+      "title": "Harold and Kumar Go to White Castle",
+      "page": "reviews/elliott-0491-harold-and-kumar-go-to-white-castle.html",
+      "id": "Elliott_0491"
+    }
+  ],
+  "Ecclesiastes 10:15": [
+    {
+      "title": "Harold and Kumar Go to White Castle",
+      "page": "reviews/elliott-0491-harold-and-kumar-go-to-white-castle.html",
+      "id": "Elliott_0491"
+    }
+  ],
+  "Ephesians 6:17": [
+    {
+      "title": "Hero",
+      "page": "reviews/elliott-0492-hero.html",
+      "id": "Elliott_0492"
+    }
+  ],
+  "Revelation 2:16": [
+    {
+      "title": "Hero",
+      "page": "reviews/elliott-0492-hero.html",
+      "id": "Elliott_0492"
+    }
+  ],
+  "Hebrews 11:32-34": [
+    {
+      "title": "Home on the Range",
+      "page": "reviews/elliott-0493-home-on-the-range.html",
+      "id": "Elliott_0493"
+    }
+  ],
+  "1 Corinthians 16:13": [
+    {
+      "title": "Home on the Range",
+      "page": "reviews/elliott-0493-home-on-the-range.html",
+      "id": "Elliott_0493"
+    }
+  ],
+  "2 Samuel 10:12": [
+    {
+      "title": "Home on the Range",
+      "page": "reviews/elliott-0493-home-on-the-range.html",
+      "id": "Elliott_0493"
+    }
+  ],
+  "Psalms 73:3-17": [
+    {
+      "title": "Honey",
+      "page": "reviews/elliott-0494-honey.html",
+      "id": "Elliott_0494"
+    }
+  ],
+  "Psalms 37:1": [
+    {
+      "title": "Honey",
+      "page": "reviews/elliott-0494-honey.html",
+      "id": "Elliott_0494"
+    }
+  ],
+  "Proverbs 24:1": [
+    {
+      "title": "Honey",
+      "page": "reviews/elliott-0494-honey.html",
+      "id": "Elliott_0494"
+    }
+  ],
+  "Psalms 119:9": [
+    {
+      "title": "Head of State",
+      "page": "reviews/elliott-0495-head-of-state.html",
+      "id": "Elliott_0495"
+    }
+  ],
+  "2 Timothy 4:2": [
+    {
+      "title": "Head of State",
+      "page": "reviews/elliott-0495-head-of-state.html",
+      "id": "Elliott_0495"
+    }
+  ],
+  "Ephesians 5:11": [
+    {
+      "title": "Happy, Texas",
+      "page": "reviews/elliott-0496-happy-texas.html",
+      "id": "Elliott_0496"
+    }
+  ],
+  "Leviticus 20:13": [
+    {
+      "title": "Happy, Texas",
+      "page": "reviews/elliott-0496-happy-texas.html",
+      "id": "Elliott_0496"
+    }
+  ],
+  "Romans 11:25": [
+    {
+      "title": "Hurlyburly",
+      "page": "reviews/elliott-0497-hurlyburly.html",
+      "id": "Elliott_0497"
+    }
+  ],
+  "2 Corinthians 11:4": [
+    {
+      "title": "He Got Game",
+      "page": "reviews/elliott-0498-he-got-game.html",
+      "id": "Elliott_0498"
+    }
+  ],
+  "Deuteronomy 30:19": [
+    {
+      "title": "He Got Game",
+      "page": "reviews/elliott-0498-he-got-game.html",
+      "id": "Elliott_0498"
+    }
+  ],
+  "2 Samuel 16:14": [
+    {
+      "title": "How Stella Got Her Groove Back",
+      "page": "reviews/elliott-0499-how-stella-got-her-groove-back.html",
+      "id": "Elliott_0499"
+    }
+  ],
+  "Isaiah 40:30-31": [
+    {
+      "title": "How Stella Got Her Groove Back",
+      "page": "reviews/elliott-0499-how-stella-got-her-groove-back.html",
+      "id": "Elliott_0499"
+    }
+  ],
+  "Proverbs 28:15": [
+    {
+      "title": "Gladiator",
+      "page": "reviews/elliott-0500-gladiator.html",
+      "id": "Elliott_0500"
     }
   ]
 }
