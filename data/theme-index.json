@@ -955,6 +955,11 @@
       "title": "Gladiator",
       "page": "reviews/elliott-0500-gladiator.html",
       "id": "Elliott_0500"
+    },
+    {
+      "title": "Instinct",
+      "page": "reviews/elliott-0545-instinct.html",
+      "id": "Elliott_0545"
     }
   ],
   "Hearing God": [
@@ -3086,6 +3091,11 @@
       "title": "Far From Heaven",
       "page": "reviews/elliott-0442-far-from-heaven.html",
       "id": "Elliott_0442"
+    },
+    {
+      "title": "Just Friends",
+      "page": "reviews/elliott-0550-just-friends.html",
+      "id": "Elliott_0550"
     }
   ],
   "Selflessness": [
@@ -3113,6 +3123,11 @@
       "title": "The Black Knight",
       "page": "reviews/elliott-0268-the-black-knight.html",
       "id": "Elliott_0268"
+    },
+    {
+      "title": "Instinct",
+      "page": "reviews/elliott-0545-instinct.html",
+      "id": "Elliott_0545"
     }
   ],
   "Gifts": [
@@ -3950,6 +3965,11 @@
       "title": "The Final Cut",
       "page": "reviews/elliott-0458-the-final-cut.html",
       "id": "Elliott_0458"
+    },
+    {
+      "title": "In Her Shoes",
+      "page": "reviews/elliott-0549-in-her-shoes.html",
+      "id": "Elliott_0549"
     }
   ],
   "Maturity": [
@@ -4361,6 +4381,11 @@
       "title": "Hope Floats",
       "page": "reviews/elliott-0528-hope-floats.html",
       "id": "Elliott_0528"
+    },
+    {
+      "title": "Jakob the Liar",
+      "page": "reviews/elliott-0547-jakob-the-liar.html",
+      "id": "Elliott_0547"
     }
   ],
   "Death": [
@@ -5124,6 +5149,11 @@
       "title": "A Guy Thing",
       "page": "reviews/elliott-0479-a-guy-thing.html",
       "id": "Elliott_0479"
+    },
+    {
+      "title": "I Dreamed of Africa",
+      "page": "reviews/elliott-0542-i-dreamed-of-africa.html",
+      "id": "Elliott_0542"
     }
   ],
   "Spiritual Leadership": [
@@ -5504,6 +5534,11 @@
       "title": "Honey",
       "page": "reviews/elliott-0494-honey.html",
       "id": "Elliott_0494"
+    },
+    {
+      "title": "An Ideal Husband",
+      "page": "reviews/elliott-0544-an-ideal-husband.html",
+      "id": "Elliott_0544"
     }
   ],
   "Compromise": [
@@ -5555,6 +5590,11 @@
       "title": "Firewall",
       "page": "reviews/elliott-0453-firewall.html",
       "id": "Elliott_0453"
+    },
+    {
+      "title": "Jakob the Liar",
+      "page": "reviews/elliott-0547-jakob-the-liar.html",
+      "id": "Elliott_0547"
     }
   ],
   "Past": [
@@ -5666,6 +5706,11 @@
       "title": "Garfield",
       "page": "reviews/elliott-0475-garfield.html",
       "id": "Elliott_0475"
+    },
+    {
+      "title": "Instinct",
+      "page": "reviews/elliott-0545-instinct.html",
+      "id": "Elliott_0545"
     }
   ],
   "Earning Trust": [
@@ -8135,6 +8180,11 @@
       "title": "Fifteen Minutes",
       "page": "reviews/elliott-0448-fifteen-minutes.html",
       "id": "Elliott_0448"
+    },
+    {
+      "title": "Isn't She Great",
+      "page": "reviews/elliott-0548-isn-t-she-great.html",
+      "id": "Elliott_0548"
     }
   ],
   "Worldly Temptation": [
@@ -8264,6 +8314,11 @@
       "title": "The Black Knight",
       "page": "reviews/elliott-0268-the-black-knight.html",
       "id": "Elliott_0268"
+    },
+    {
+      "title": "An Ideal Husband",
+      "page": "reviews/elliott-0544-an-ideal-husband.html",
+      "id": "Elliott_0544"
     }
   ],
   "Sexual Harassment": [
@@ -10548,6 +10603,11 @@
       "title": "Battlefield Earth",
       "page": "reviews/elliott-0293-battlefield-earth.html",
       "id": "Elliott_0293"
+    },
+    {
+      "title": "Johnny Skidmarks",
+      "page": "reviews/elliott-0543-johnny-skidmarks.html",
+      "id": "Elliott_0543"
     }
   ],
   "Avoiding Ignorance": [
@@ -12107,6 +12167,72 @@
       "title": "Iron Monkey",
       "page": "reviews/elliott-0539-iron-monkey.html",
       "id": "Elliott_0539"
+    },
+    {
+      "title": "Inspector Gadget",
+      "page": "reviews/elliott-0546-inspector-gadget.html",
+      "id": "Elliott_0546"
+    }
+  ],
+  "Forgeries": [
+    {
+      "title": "Incognito",
+      "page": "reviews/elliott-0541-incognito.html",
+      "id": "Elliott_0541"
+    }
+  ],
+  "Falsehoods": [
+    {
+      "title": "Incognito",
+      "page": "reviews/elliott-0541-incognito.html",
+      "id": "Elliott_0541"
+    },
+    {
+      "title": "Jakob the Liar",
+      "page": "reviews/elliott-0547-jakob-the-liar.html",
+      "id": "Elliott_0547"
+    }
+  ],
+  "Dangers": [
+    {
+      "title": "I Dreamed of Africa",
+      "page": "reviews/elliott-0542-i-dreamed-of-africa.html",
+      "id": "Elliott_0542"
+    }
+  ],
+  "Peril": [
+    {
+      "title": "I Dreamed of Africa",
+      "page": "reviews/elliott-0542-i-dreamed-of-africa.html",
+      "id": "Elliott_0542"
+    }
+  ],
+  "Emotional Detachment": [
+    {
+      "title": "Johnny Skidmarks",
+      "page": "reviews/elliott-0543-johnny-skidmarks.html",
+      "id": "Elliott_0543"
+    }
+  ],
+  "God's Goodness": [
+    {
+      "title": "Isn't She Great",
+      "page": "reviews/elliott-0548-isn-t-she-great.html",
+      "id": "Elliott_0548"
+    }
+  ],
+  "Trials": [
+    {
+      "title": "Isn't She Great",
+      "page": "reviews/elliott-0548-isn-t-she-great.html",
+      "id": "Elliott_0548"
+    }
+  ],
+  "Dissimulation": [
+    {
+      "title": "Just Friends",
+      "page": "reviews/elliott-0550-just-friends.html",
+      "id": "Elliott_0550"
     }
   ]
 }
