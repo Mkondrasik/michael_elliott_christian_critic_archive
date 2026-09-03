@@ -272,6 +272,11 @@
       "title": "Dragonfly",
       "page": "reviews/elliott-0407-dragonfly.html",
       "id": "Elliott_0407"
+    },
+    {
+      "title": "The Life Aquatic with Steve Zissou",
+      "page": "reviews/elliott-0574-the-life-aquatic-with-steve-zissou.html",
+      "id": "Elliott_0574"
     }
   ],
   "Matthew 12:43-45": [
@@ -3100,6 +3105,11 @@
       "title": "The Hunted",
       "page": "reviews/elliott-0101-the-hunted.html",
       "id": "Elliott_0101"
+    },
+    {
+      "title": "Lord of War",
+      "page": "reviews/elliott-0573-lord-of-war.html",
+      "id": "Elliott_0573"
     }
   ],
   "John 13:34": [
@@ -3400,6 +3410,11 @@
       "title": "Girl, Interrupted",
       "page": "reviews/elliott-0465-girl-interrupted.html",
       "id": "Elliott_0465"
+    },
+    {
+      "title": "Last Holiday",
+      "page": "reviews/elliott-0575-last-holiday.html",
+      "id": "Elliott_0575"
     }
   ],
   "Ecclesiastes 8:5": [
@@ -5824,6 +5839,11 @@
       "title": "Windtalkers",
       "page": "reviews/elliott-0217-windtalkers.html",
       "id": "Elliott_0217"
+    },
+    {
+      "title": "The Kingdom",
+      "page": "reviews/elliott-0580-the-kingdom.html",
+      "id": "Elliott_0580"
     }
   ],
   "Isaiah 11:1-9": [
@@ -6585,6 +6605,11 @@
       "title": "Ice Princess",
       "page": "reviews/elliott-0560-ice-princess.html",
       "id": "Elliott_0560"
+    },
+    {
+      "title": "Lord of War",
+      "page": "reviews/elliott-0573-lord-of-war.html",
+      "id": "Elliott_0573"
     }
   ],
   "Proverbs 11:3": [
@@ -7497,6 +7522,11 @@
       "title": "BASEketball",
       "page": "reviews/elliott-0310-baseketball.html",
       "id": "Elliott_0310"
+    },
+    {
+      "title": "The Life Aquatic with Steve Zissou",
+      "page": "reviews/elliott-0574-the-life-aquatic-with-steve-zissou.html",
+      "id": "Elliott_0574"
     }
   ],
   "Ecclesiastes 11:1": [
@@ -9083,6 +9113,11 @@
       "title": "The First of May",
       "page": "reviews/elliott-0468-the-first-of-may.html",
       "id": "Elliott_0468"
+    },
+    {
+      "title": "Last Holiday",
+      "page": "reviews/elliott-0575-last-holiday.html",
+      "id": "Elliott_0575"
     }
   ],
   "Colossians 4:6": [
@@ -9718,6 +9753,11 @@
       "title": "Glitter",
       "page": "reviews/elliott-0462-glitter.html",
       "id": "Elliott_0462"
+    },
+    {
+      "title": "The Kite Runner",
+      "page": "reviews/elliott-0579-the-kite-runner.html",
+      "id": "Elliott_0579"
     }
   ],
   "James 1:12": [
@@ -9765,6 +9805,11 @@
       "title": "John Tucker Must Die",
       "page": "reviews/elliott-0555-john-tucker-must-die.html",
       "id": "Elliott_0555"
+    },
+    {
+      "title": "Lady in the Water",
+      "page": "reviews/elliott-0572-lady-in-the-water.html",
+      "id": "Elliott_0572"
     }
   ],
   "Romans 1:24-28": [
@@ -9828,6 +9873,11 @@
       "title": "Garden State",
       "page": "reviews/elliott-0474-garden-state.html",
       "id": "Elliott_0474"
+    },
+    {
+      "title": "The Life Aquatic with Steve Zissou",
+      "page": "reviews/elliott-0574-the-life-aquatic-with-steve-zissou.html",
+      "id": "Elliott_0574"
     }
   ],
   "1 Thessalonians 4:9": [
@@ -10723,6 +10773,11 @@
       "title": "Illusion",
       "page": "reviews/elliott-0552-illusion.html",
       "id": "Elliott_0552"
+    },
+    {
+      "title": "Jersey Girl",
+      "page": "reviews/elliott-0577-jersey-girl.html",
+      "id": "Elliott_0577"
     }
   ],
   "Psalms 127:3-5": [
@@ -10898,6 +10953,125 @@
       "title": "In America",
       "page": "reviews/elliott-0570-in-america.html",
       "id": "Elliott_0570"
+    }
+  ],
+  "2 Corinthians 9:7": [
+    {
+      "title": "Lost & Found",
+      "page": "reviews/elliott-0571-lost-found.html",
+      "id": "Elliott_0571"
+    }
+  ],
+  "Luke 10:19": [
+    {
+      "title": "Lady in the Water",
+      "page": "reviews/elliott-0572-lady-in-the-water.html",
+      "id": "Elliott_0572"
+    }
+  ],
+  "Romans 9:17": [
+    {
+      "title": "Lady in the Water",
+      "page": "reviews/elliott-0572-lady-in-the-water.html",
+      "id": "Elliott_0572"
+    }
+  ],
+  "Isaiah 59:2-3": [
+    {
+      "title": "Lord of War",
+      "page": "reviews/elliott-0573-lord-of-war.html",
+      "id": "Elliott_0573"
+    }
+  ],
+  "Hebrews 2:14-15": [
+    {
+      "title": "Last Holiday",
+      "page": "reviews/elliott-0575-last-holiday.html",
+      "id": "Elliott_0575"
+    }
+  ],
+  "1 Corinthians 12:14-18": [
+    {
+      "title": "I, Robot",
+      "page": "reviews/elliott-0576-i-robot.html",
+      "id": "Elliott_0576"
+    }
+  ],
+  "1 Corinthians 12:27-31": [
+    {
+      "title": "I, Robot",
+      "page": "reviews/elliott-0576-i-robot.html",
+      "id": "Elliott_0576"
+    }
+  ],
+  "Revelation 4:11": [
+    {
+      "title": "I, Robot",
+      "page": "reviews/elliott-0576-i-robot.html",
+      "id": "Elliott_0576"
+    }
+  ],
+  "Psalms 127:3-5a": [
+    {
+      "title": "Jersey Girl",
+      "page": "reviews/elliott-0577-jersey-girl.html",
+      "id": "Elliott_0577"
+    }
+  ],
+  "2 Corinthians 12:14": [
+    {
+      "title": "Jersey Girl",
+      "page": "reviews/elliott-0577-jersey-girl.html",
+      "id": "Elliott_0577"
+    }
+  ],
+  "1 Corinthians 10:5-6": [
+    {
+      "title": "Kicking and Screaming",
+      "page": "reviews/elliott-0578-kicking-and-screaming.html",
+      "id": "Elliott_0578"
+    }
+  ],
+  "Hebrews 4:11": [
+    {
+      "title": "Kicking and Screaming",
+      "page": "reviews/elliott-0578-kicking-and-screaming.html",
+      "id": "Elliott_0578"
+    }
+  ],
+  "2 Peter 2:6": [
+    {
+      "title": "Kicking and Screaming",
+      "page": "reviews/elliott-0578-kicking-and-screaming.html",
+      "id": "Elliott_0578"
+    }
+  ],
+  "Psalms 51:2": [
+    {
+      "title": "The Kite Runner",
+      "page": "reviews/elliott-0579-the-kite-runner.html",
+      "id": "Elliott_0579"
+    }
+  ],
+  "Titus 2:11-14": [
+    {
+      "title": "The Kite Runner",
+      "page": "reviews/elliott-0579-the-kite-runner.html",
+      "id": "Elliott_0579"
+    }
+  ],
+  "James 4:1": [
+    {
+      "title": "The Kingdom",
+      "page": "reviews/elliott-0580-the-kingdom.html",
+      "id": "Elliott_0580"
+    }
+  ],
+  "Psalms 46:9": [
+    {
+      "title": "The Kingdom",
+      "page": "reviews/elliott-0580-the-kingdom.html",
+      "id": "Elliott_0580"
     }
   ]
 }

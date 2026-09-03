@@ -282,7 +282,7 @@
       "id": "Elliott_0536"
     }
   ],
-  "Courtship and Chivalry": [
+  "Courtship And Chivalry": [
     {
       "title": "Kate and Leopold",
       "page": "reviews/elliott-0002-kate-and-leopold.html",
@@ -1035,7 +1035,7 @@
       "id": "Elliott_0008"
     }
   ],
-  "Truth and Revelation": [
+  "Truth And Revelation": [
     {
       "title": "The Good Shepherd",
       "page": "reviews/elliott-0008-the-good-shepherd.html",
@@ -1054,7 +1054,7 @@
       "id": "Elliott_0057"
     }
   ],
-  "National Security and Morality": [
+  "National Security And Morality": [
     {
       "title": "The Good Shepherd",
       "page": "reviews/elliott-0008-the-good-shepherd.html",
@@ -1192,7 +1192,7 @@
       "id": "Elliott_0286"
     }
   ],
-  "Death and Afterlife": [
+  "Death And Afterlife": [
     {
       "title": "Gothika",
       "page": "reviews/elliott-0009-gothika.html",
@@ -1296,7 +1296,7 @@
       "id": "Elliott_0504"
     }
   ],
-  "Trust and Honesty": [
+  "Trust And Honesty": [
     {
       "title": "The Thomas Crown Affair",
       "page": "reviews/elliott-0011-the-thomas-crown-affair.html",
@@ -1458,14 +1458,14 @@
       "id": "Elliott_0413"
     }
   ],
-  "Choices and Consequences": [
+  "Choices And Consequences": [
     {
       "title": "All The Pretty Horses",
       "page": "reviews/elliott-0014-all-the-pretty-horses.html",
       "id": "Elliott_0014"
     }
   ],
-  "Sowing and Reaping": [
+  "Sowing And Reaping": [
     {
       "title": "All The Pretty Horses",
       "page": "reviews/elliott-0014-all-the-pretty-horses.html",
@@ -1482,7 +1482,7 @@
       "id": "Elliott_0324"
     }
   ],
-  "Decision-making": [
+  "Decision-Making": [
     {
       "title": "All The Pretty Horses",
       "page": "reviews/elliott-0014-all-the-pretty-horses.html",
@@ -1709,7 +1709,7 @@
       "id": "Elliott_0016"
     }
   ],
-  "God's Word": [
+  "God'S Word": [
     {
       "title": "Autumn in New York",
       "page": "reviews/elliott-0016-autumn-in-new-york.html",
@@ -1801,7 +1801,7 @@
       "id": "Elliott_0508"
     }
   ],
-  "Hunger and Thirst": [
+  "Hunger And Thirst": [
     {
       "title": "Autumn in New York",
       "page": "reviews/elliott-0016-autumn-in-new-york.html",
@@ -2015,7 +2015,7 @@
       "id": "Elliott_0563"
     }
   ],
-  "God's Provision": [
+  "God'S Provision": [
     {
       "title": "Angela's Ashes",
       "page": "reviews/elliott-0018-angela-s-ashes.html",
@@ -2319,7 +2319,7 @@
       "id": "Elliott_0019"
     }
   ],
-  "A Mother's Love": [
+  "A Mother'S Love": [
     {
       "title": "Todo sobre mi madre (All About My Mother)",
       "page": "reviews/elliott-0019-todo-sobre-mi-madre-all-about-my-mother.html",
@@ -2465,7 +2465,7 @@
       "id": "Elliott_0319"
     }
   ],
-  "Love of Money": [
+  "Love Of Money": [
     {
       "title": "Boiler Room",
       "page": "reviews/elliott-0022-boiler-room.html",
@@ -2495,6 +2495,11 @@
       "title": "The Honeymooners",
       "page": "reviews/elliott-0506-the-honeymooners.html",
       "id": "Elliott_0506"
+    },
+    {
+      "title": "Lord of War",
+      "page": "reviews/elliott-0573-lord-of-war.html",
+      "id": "Elliott_0573"
     }
   ],
   "Greed": [
@@ -2864,7 +2869,7 @@
       "id": "Elliott_0560"
     }
   ],
-  "Right and Wrong": [
+  "Right And Wrong": [
     {
       "title": "Big Daddy",
       "page": "reviews/elliott-0023-big-daddy.html",
@@ -2945,7 +2950,7 @@
       "id": "Elliott_0448"
     }
   ],
-  "Actions and Consequences": [
+  "Actions And Consequences": [
     {
       "title": "Brokedown Palace",
       "page": "reviews/elliott-0024-brokedown-palace.html",
@@ -3045,7 +3050,7 @@
       "id": "Elliott_0025"
     }
   ],
-  "Existence of God": [
+  "Existence Of God": [
     {
       "title": "The Big Bounce",
       "page": "reviews/elliott-0026-the-big-bounce.html",
@@ -3302,7 +3307,7 @@
       "id": "Elliott_0255"
     }
   ],
-  "Self-deception": [
+  "Self-Deception": [
     {
       "title": "Birth",
       "page": "reviews/elliott-0029-birth.html",
@@ -3446,6 +3451,11 @@
       "title": "Ice Age 2: The Meltdown",
       "page": "reviews/elliott-0554-ice-age-2-the-meltdown.html",
       "id": "Elliott_0554"
+    },
+    {
+      "title": "Last Holiday",
+      "page": "reviews/elliott-0575-last-holiday.html",
+      "id": "Elliott_0575"
     }
   ],
   "Doubt": [
@@ -3517,7 +3527,7 @@
       "id": "Elliott_0531"
     }
   ],
-  "Self-fulfilling Expectations": [
+  "Self-Fulfilling Expectations": [
     {
       "title": "Bridget Jones: The Edge of Reason",
       "page": "reviews/elliott-0030-bridget-jones-the-edge-of-reason.html",
@@ -4224,7 +4234,7 @@
       "id": "Elliott_0034"
     }
   ],
-  "Paradise and Creation": [
+  "Paradise And Creation": [
     {
       "title": "Aeon Flux",
       "page": "reviews/elliott-0035-aeon-flux.html",
@@ -4245,7 +4255,7 @@
       "id": "Elliott_0035"
     }
   ],
-  "God's Prepared Home": [
+  "God'S Prepared Home": [
     {
       "title": "Aeon Flux",
       "page": "reviews/elliott-0035-aeon-flux.html",
@@ -4332,14 +4342,14 @@
       "id": "Elliott_0484"
     }
   ],
-  "Gifts of Holy Spirit": [
+  "Gifts Of Holy Spirit": [
     {
       "title": "Atlantis: The Lost Empire",
       "page": "reviews/elliott-0037-atlantis-the-lost-empire.html",
       "id": "Elliott_0037"
     }
   ],
-  "Studying God's Word": [
+  "Studying God'S Word": [
     {
       "title": "Atlantis: The Lost Empire",
       "page": "reviews/elliott-0037-atlantis-the-lost-empire.html",
@@ -4353,7 +4363,7 @@
       "id": "Elliott_0037"
     }
   ],
-  "Creation and Kinds": [
+  "Creation And Kinds": [
     {
       "title": "The Animal",
       "page": "reviews/elliott-0038-the-animal.html",
@@ -4562,7 +4572,7 @@
       "id": "Elliott_0484"
     }
   ],
-  "God's Promise": [
+  "God'S Promise": [
     {
       "title": "Angel Eyes",
       "page": "reviews/elliott-0039-angel-eyes.html",
@@ -4586,7 +4596,7 @@
       "id": "Elliott_0531"
     }
   ],
-  "False and Selfish Love": [
+  "False And Selfish Love": [
     {
       "title": "Amores perros (Love’s A Bitch)",
       "page": "reviews/elliott-0040-amores-perros-love-s-a-bitch.html",
@@ -4620,7 +4630,7 @@
       "id": "Elliott_0562"
     }
   ],
-  "God's Definition of Love": [
+  "God'S Definition Of Love": [
     {
       "title": "Amores perros (Love’s A Bitch)",
       "page": "reviews/elliott-0040-amores-perros-love-s-a-bitch.html",
@@ -4717,7 +4727,7 @@
       "id": "Elliott_0217"
     }
   ],
-  "Letting Go of the Past": [
+  "Letting Go Of The Past": [
     {
       "title": "Around the Bend",
       "page": "reviews/elliott-0042-around-the-bend.html",
@@ -4815,7 +4825,7 @@
       "id": "Elliott_0566"
     }
   ],
-  "Giving One's Life": [
+  "Giving One'S Life": [
     {
       "title": "The Alamo",
       "page": "reviews/elliott-0044-the-alamo.html",
@@ -4834,7 +4844,7 @@
       "id": "Elliott_0248"
     }
   ],
-  "Self-control": [
+  "Self-Control": [
     {
       "title": "American Pie",
       "page": "reviews/elliott-0045-american-pie.html",
@@ -4974,7 +4984,7 @@
       "id": "Elliott_0539"
     }
   ],
-  "Teaching and Training": [
+  "Teaching And Training": [
     {
       "title": "At First Sight",
       "page": "reviews/elliott-0046-at-first-sight.html",
@@ -5005,7 +5015,7 @@
       "id": "Elliott_0320"
     }
   ],
-  "Guarding the Mind": [
+  "Guarding The Mind": [
     {
       "title": "Apt Pupil",
       "page": "reviews/elliott-0048-apt-pupil.html",
@@ -5065,7 +5075,7 @@
       "id": "Elliott_0049"
     }
   ],
-  "Renewing the Mind": [
+  "Renewing The Mind": [
     {
       "title": "Antwone Fisher",
       "page": "reviews/elliott-0050-antwone-fisher.html",
@@ -5132,7 +5142,7 @@
       "id": "Elliott_0379"
     }
   ],
-  "Overcoming the Past": [
+  "Overcoming The Past": [
     {
       "title": "Antwone Fisher",
       "page": "reviews/elliott-0050-antwone-fisher.html",
@@ -5179,6 +5189,26 @@
       "title": "Happy Feet",
       "page": "reviews/elliott-0501-happy-feet.html",
       "id": "Elliott_0501"
+    },
+    {
+      "title": "Lady in the Water",
+      "page": "reviews/elliott-0572-lady-in-the-water.html",
+      "id": "Elliott_0572"
+    },
+    {
+      "title": "The Life Aquatic with Steve Zissou",
+      "page": "reviews/elliott-0574-the-life-aquatic-with-steve-zissou.html",
+      "id": "Elliott_0574"
+    },
+    {
+      "title": "I, Robot",
+      "page": "reviews/elliott-0576-i-robot.html",
+      "id": "Elliott_0576"
+    },
+    {
+      "title": "Jersey Girl",
+      "page": "reviews/elliott-0577-jersey-girl.html",
+      "id": "Elliott_0577"
     }
   ],
   "Usefulness": [
@@ -5200,7 +5230,7 @@
       "id": "Elliott_0051"
     }
   ],
-  "Entertainment and Responsibility": [
+  "Entertainment And Responsibility": [
     {
       "title": "Confessions of a Dangerous Mind",
       "page": "reviews/elliott-0051-confessions-of-a-dangerous-mind.html",
@@ -5268,7 +5298,7 @@
       "id": "Elliott_0093"
     }
   ],
-  "Messengers Versus the Message": [
+  "Messengers Versus The Message": [
     {
       "title": "The Country Bears",
       "page": "reviews/elliott-0053-the-country-bears.html",
@@ -5341,7 +5371,7 @@
       "id": "Elliott_0325"
     }
   ],
-  "Care for Animals": [
+  "Care For Animals": [
     {
       "title": "The Crocodile Hunter: Collision Course",
       "page": "reviews/elliott-0054-the-crocodile-hunter-collision-course.html",
@@ -5401,7 +5431,7 @@
       "id": "Elliott_0055"
     }
   ],
-  "God's Word as A Guide": [
+  "God'S Word As A Guide": [
     {
       "title": "Centro do Brasil [Central Station]",
       "page": "reviews/elliott-0056-centro-do-brasil-central-station.html",
@@ -5415,7 +5445,7 @@
       "id": "Elliott_0056"
     }
   ],
-  "Choosing the Right Path": [
+  "Choosing The Right Path": [
     {
       "title": "Centro do Brasil [Central Station]",
       "page": "reviews/elliott-0056-centro-do-brasil-central-station.html",
@@ -5767,7 +5797,7 @@
       "id": "Elliott_0069"
     }
   ],
-  "Learning from the Past": [
+  "Learning From The Past": [
     {
       "title": "A Dog of Flanders",
       "page": "reviews/elliott-0070-a-dog-of-flanders.html",
@@ -5826,6 +5856,11 @@
       "title": "Instinct",
       "page": "reviews/elliott-0545-instinct.html",
       "id": "Elliott_0545"
+    },
+    {
+      "title": "Lost & Found",
+      "page": "reviews/elliott-0571-lost-found.html",
+      "id": "Elliott_0571"
     }
   ],
   "Earning Trust": [
@@ -5969,21 +6004,21 @@
       "id": "Elliott_0507"
     }
   ],
-  "God's Power Over Death": [
+  "God'S Power Over Death": [
     {
       "title": "Elektra",
       "page": "reviews/elliott-0076-elektra.html",
       "id": "Elliott_0076"
     }
   ],
-  "Resisting the Devil": [
+  "Resisting The Devil": [
     {
       "title": "Exorcist: The Beginning",
       "page": "reviews/elliott-0077-exorcist-the-beginning.html",
       "id": "Elliott_0077"
     }
   ],
-  "The Word of God": [
+  "The Word Of God": [
     {
       "title": "Exorcist: The Beginning",
       "page": "reviews/elliott-0077-exorcist-the-beginning.html",
@@ -6214,6 +6249,11 @@
       "title": "Heist",
       "page": "reviews/elliott-0485-heist.html",
       "id": "Elliott_0485"
+    },
+    {
+      "title": "Jersey Girl",
+      "page": "reviews/elliott-0577-jersey-girl.html",
+      "id": "Elliott_0577"
     }
   ],
   "Passion": [
@@ -6242,7 +6282,7 @@
       "id": "Elliott_0082"
     }
   ],
-  "The Nature of God": [
+  "The Nature Of God": [
     {
       "title": "Frailty",
       "page": "reviews/elliott-0082-frailty.html",
@@ -6590,7 +6630,7 @@
       "id": "Elliott_0567"
     }
   ],
-  "Promises of God": [
+  "Promises Of God": [
     {
       "title": "George Washington",
       "page": "reviews/elliott-0092-george-washington.html",
@@ -6671,7 +6711,7 @@
       "id": "Elliott_0350"
     }
   ],
-  "God Gives the Increase": [
+  "God Gives The Increase": [
     {
       "title": "God's Army",
       "page": "reviews/elliott-0093-god-s-army.html",
@@ -6690,7 +6730,7 @@
       "id": "Elliott_0457"
     }
   ],
-  "God as the Source of Power": [
+  "God As The Source Of Power": [
     {
       "title": "Godzilla 2000",
       "page": "reviews/elliott-0094-godzilla-2000.html",
@@ -6766,7 +6806,7 @@
       "id": "Elliott_0098"
     }
   ],
-  "Knowing the Adversary": [
+  "Knowing The Adversary": [
     {
       "title": "Gloria",
       "page": "reviews/elliott-0099-gloria.html",
@@ -6906,14 +6946,14 @@
       "id": "Elliott_0393"
     }
   ],
-  "Living by God’s Word": [
+  "Living By God’S Word": [
     {
       "title": "Highlander: Endgame",
       "page": "reviews/elliott-0106-highlander-endgame.html",
       "id": "Elliott_0106"
     }
   ],
-  "God’s Design": [
+  "God’S Design": [
     {
       "title": "Hollow Man",
       "page": "reviews/elliott-0107-hollow-man.html",
@@ -7035,7 +7075,7 @@
       "id": "Elliott_0109"
     }
   ],
-  "God-hunger": [
+  "God-Hunger": [
     {
       "title": "Holy Man",
       "page": "reviews/elliott-0110-holy-man.html",
@@ -7209,7 +7249,7 @@
       "id": "Elliott_0299"
     }
   ],
-  "God’s Word": [
+  "God’S Word": [
     {
       "title": "Identity",
       "page": "reviews/elliott-0113-identity.html",
@@ -7226,7 +7266,7 @@
       "id": "Elliott_0129"
     }
   ],
-  "God as Father": [
+  "God As Father": [
     {
       "title": "It Runs In The Family",
       "page": "reviews/elliott-0114-it-runs-in-the-family.html",
@@ -7370,7 +7410,7 @@
       "id": "Elliott_0116"
     }
   ],
-  "Meaning of Life": [
+  "Meaning Of Life": [
     {
       "title": "I ♥ Huckabees",
       "page": "reviews/elliott-0118-i-huckabees.html",
@@ -7538,7 +7578,7 @@
       "id": "Elliott_0291"
     }
   ],
-  "God’s Power": [
+  "God’S Power": [
     {
       "title": "Kiss of the Dragon",
       "page": "reviews/elliott-0124-kiss-of-the-dragon.html",
@@ -7696,7 +7736,7 @@
       "id": "Elliott_0130"
     }
   ],
-  "Identity in Christ": [
+  "Identity In Christ": [
     {
       "title": "A Knight's Tale",
       "page": "reviews/elliott-0130-a-knight-s-tale.html",
@@ -7759,7 +7799,7 @@
       "id": "Elliott_0132"
     }
   ],
-  "Stewardship of Life": [
+  "Stewardship Of Life": [
     {
       "title": "Ladder 49",
       "page": "reviews/elliott-0132-ladder-49.html",
@@ -7973,7 +8013,7 @@
       "id": "Elliott_0141"
     }
   ],
-  "Return of Christ": [
+  "Return Of Christ": [
     {
       "title": "Mulan",
       "page": "reviews/elliott-0141-mulan.html",
@@ -8024,7 +8064,7 @@
       "id": "Elliott_0142"
     }
   ],
-  "Household of God": [
+  "Household Of God": [
     {
       "title": "The Mighty",
       "page": "reviews/elliott-0142-the-mighty.html",
@@ -8045,14 +8085,14 @@
       "id": "Elliott_0144"
     }
   ],
-  "Christ's Victory": [
+  "Christ'S Victory": [
     {
       "title": "Meet Joe Black",
       "page": "reviews/elliott-0144-meet-joe-black.html",
       "id": "Elliott_0144"
     }
   ],
-  "Good and Evil": [
+  "Good And Evil": [
     {
       "title": "Mission: Impossible 2",
       "page": "reviews/elliott-0145-mission-impossible-2.html",
@@ -8104,7 +8144,7 @@
       "id": "Elliott_0502"
     }
   ],
-  "Knowledge of God": [
+  "Knowledge Of God": [
     {
       "title": "Mission: Impossible 2",
       "page": "reviews/elliott-0145-mission-impossible-2.html",
@@ -8160,7 +8200,7 @@
       "id": "Elliott_0261"
     }
   ],
-  "Seeing Beyond the Surface": [
+  "Seeing Beyond The Surface": [
     {
       "title": "Miss Congeniality",
       "page": "reviews/elliott-0146-miss-congeniality.html",
@@ -8235,7 +8275,7 @@
       "id": "Elliott_0231"
     }
   ],
-  "God's Mercy": [
+  "God'S Mercy": [
     {
       "title": "Magnolia",
       "page": "reviews/elliott-0149-magnolia.html",
@@ -8401,6 +8441,11 @@
       "title": "Garfield",
       "page": "reviews/elliott-0475-garfield.html",
       "id": "Elliott_0475"
+    },
+    {
+      "title": "Lost & Found",
+      "page": "reviews/elliott-0571-lost-found.html",
+      "id": "Elliott_0571"
     }
   ],
   "Motivation": [
@@ -8473,7 +8518,7 @@
       "id": "Elliott_0156"
     }
   ],
-  "Standing for What Is Right": [
+  "Standing For What Is Right": [
     {
       "title": "North Country",
       "page": "reviews/elliott-0156-north-country.html",
@@ -8487,7 +8532,7 @@
       "id": "Elliott_0157"
     }
   ],
-  "Overcoming Evil with Good": [
+  "Overcoming Evil With Good": [
     {
       "title": "Nicholas Nickleby",
       "page": "reviews/elliott-0157-nicholas-nickleby.html",
@@ -8542,14 +8587,14 @@
       "id": "Elliott_0158"
     }
   ],
-  "Putting On the New Man": [
+  "Putting On The New Man": [
     {
       "title": "Nutty Professor II: The Klumps",
       "page": "reviews/elliott-0159-nutty-professor-ii-the-klumps.html",
       "id": "Elliott_0159"
     }
   ],
-  "Overcoming the Flesh": [
+  "Overcoming The Flesh": [
     {
       "title": "Nutty Professor II: The Klumps",
       "page": "reviews/elliott-0159-nutty-professor-ii-the-klumps.html",
@@ -8590,7 +8635,7 @@
       "id": "Elliott_0403"
     }
   ],
-  "God's Created Order": [
+  "God'S Created Order": [
     {
       "title": "102 Dalmatians",
       "page": "reviews/elliott-0161-102-dalmatians.html",
@@ -8693,6 +8738,11 @@
       "title": "The Incredibles",
       "page": "reviews/elliott-0556-the-incredibles.html",
       "id": "Elliott_0556"
+    },
+    {
+      "title": "The Life Aquatic with Steve Zissou",
+      "page": "reviews/elliott-0574-the-life-aquatic-with-steve-zissou.html",
+      "id": "Elliott_0574"
     }
   ],
   "Pride": [
@@ -8837,7 +8887,7 @@
       "id": "Elliott_0174"
     }
   ],
-  "Christ's Return": [
+  "Christ'S Return": [
     {
       "title": "Paycheck",
       "page": "reviews/elliott-0174-paycheck.html",
@@ -8871,7 +8921,7 @@
       "id": "Elliott_0241"
     }
   ],
-  "Self-worth": [
+  "Self-Worth": [
     {
       "title": "Punch Drunk Love",
       "page": "reviews/elliott-0175-punch-drunk-love.html",
@@ -8888,7 +8938,7 @@
       "id": "Elliott_0501"
     }
   ],
-  "Self-improvement": [
+  "Self-Improvement": [
     {
       "title": "Pushing Tin",
       "page": "reviews/elliott-0176-pushing-tin.html",
@@ -8907,7 +8957,7 @@
       "id": "Elliott_0474"
     }
   ],
-  "Living in the Present": [
+  "Living In The Present": [
     {
       "title": "Random Hearts",
       "page": "reviews/elliott-0181-random-hearts.html",
@@ -8984,7 +9034,7 @@
       "id": "Elliott_0213"
     }
   ],
-  "God's Faithfulness": [
+  "God'S Faithfulness": [
     {
       "title": "Rules of Engagement",
       "page": "reviews/elliott-0184-rules-of-engagement.html",
@@ -9047,7 +9097,7 @@
       "id": "Elliott_0568"
     }
   ],
-  "Teaching God's Word": [
+  "Teaching God'S Word": [
     {
       "title": "The Royal Tenenbaums",
       "page": "reviews/elliott-0186-the-royal-tenenbaums.html",
@@ -9161,7 +9211,7 @@
       "id": "Elliott_0406"
     }
   ],
-  "Passing On God's Word": [
+  "Passing On God'S Word": [
     {
       "title": "Smoke Signals",
       "page": "reviews/elliott-0192-smoke-signals.html",
@@ -9175,7 +9225,7 @@
       "id": "Elliott_0192"
     }
   ],
-  "Putting Off the Old Man": [
+  "Putting Off The Old Man": [
     {
       "title": "Shiloh 2: Shiloh Season",
       "page": "reviews/elliott-0193-shiloh-2-shiloh-season.html",
@@ -9215,14 +9265,14 @@
       "id": "Elliott_0195"
     }
   ],
-  "God's Commandments": [
+  "God'S Commandments": [
     {
       "title": "Sometime in August",
       "page": "reviews/elliott-0196-sometime-in-august.html",
       "id": "Elliott_0196"
     }
   ],
-  "Living for God": [
+  "Living For God": [
     {
       "title": "Sometime in August",
       "page": "reviews/elliott-0196-sometime-in-august.html",
@@ -9315,7 +9365,7 @@
       "id": "Elliott_0202"
     }
   ],
-  "Children of God": [
+  "Children Of God": [
     {
       "title": "The Tigger Movie",
       "page": "reviews/elliott-0203-the-tigger-movie.html",
@@ -9351,6 +9401,11 @@
       "title": "Joyeux Noel",
       "page": "reviews/elliott-0564-joyeux-noel.html",
       "id": "Elliott_0564"
+    },
+    {
+      "title": "The Kingdom",
+      "page": "reviews/elliott-0580-the-kingdom.html",
+      "id": "Elliott_0580"
     }
   ],
   "Thoughts": [
@@ -9479,7 +9534,7 @@
       "id": "Elliott_0390"
     }
   ],
-  "Like-mindedness": [
+  "Like-Mindedness": [
     {
       "title": "Walking Tall",
       "page": "reviews/elliott-0211-walking-tall.html",
@@ -9541,7 +9596,7 @@
       "id": "Elliott_0259"
     }
   ],
-  "Reconciliation with God": [
+  "Reconciliation With God": [
     {
       "title": "What a Girl Wants",
       "page": "reviews/elliott-0215-what-a-girl-wants.html",
@@ -9567,7 +9622,7 @@
       "id": "Elliott_0216"
     }
   ],
-  "God's Kingdom": [
+  "God'S Kingdom": [
     {
       "title": "Windtalkers",
       "page": "reviews/elliott-0217-windtalkers.html",
@@ -9706,7 +9761,7 @@
       "id": "Elliott_0300"
     }
   ],
-  "Life's Path": [
+  "Life'S Path": [
     {
       "title": "About Schmidt",
       "page": "reviews/elliott-0227-about-schmidt.html",
@@ -9753,14 +9808,14 @@
       "id": "Elliott_0230"
     }
   ],
-  "End of Days": [
+  "End Of Days": [
     {
       "title": "Armageddon",
       "page": "reviews/elliott-0230-armageddon.html",
       "id": "Elliott_0230"
     }
   ],
-  "God's Promises": [
+  "God'S Promises": [
     {
       "title": "Armageddon",
       "page": "reviews/elliott-0230-armageddon.html",
@@ -9798,7 +9853,7 @@
       "id": "Elliott_0232"
     }
   ],
-  "The Name of Jesus Christ": [
+  "The Name Of Jesus Christ": [
     {
       "title": "Austin Powers II: The Spy Who Shagged Me",
       "page": "reviews/elliott-0232-austin-powers-ii-the-spy-who-shagged-me.html",
@@ -9848,7 +9903,7 @@
       "id": "Elliott_0379"
     }
   ],
-  "Fear of God": [
+  "Fear Of God": [
     {
       "title": "Alfie",
       "page": "reviews/elliott-0237-alfie.html",
@@ -9961,6 +10016,11 @@
       "title": "High Noon (1952)",
       "page": "reviews/elliott-0530-high-noon-1952.html",
       "id": "Elliott_0530"
+    },
+    {
+      "title": "Lord of War",
+      "page": "reviews/elliott-0573-lord-of-war.html",
+      "id": "Elliott_0573"
     }
   ],
   "Entertainment Choices": [
@@ -10010,7 +10070,7 @@
       "id": "Elliott_0243"
     }
   ],
-  "Sharing God's Word": [
+  "Sharing God'S Word": [
     {
       "title": "Antitrust",
       "page": "reviews/elliott-0244-antitrust.html",
@@ -10048,7 +10108,7 @@
       "id": "Elliott_0245"
     }
   ],
-  "Inspiration of Scripture": [
+  "Inspiration Of Scripture": [
     {
       "title": "Alex & Emma",
       "page": "reviews/elliott-0246-alex-and-emma.html",
@@ -10145,7 +10205,7 @@
       "id": "Elliott_0252"
     }
   ],
-  "Body of Christ": [
+  "Body Of Christ": [
     {
       "title": "Antz",
       "page": "reviews/elliott-0253-antz.html",
@@ -10192,6 +10252,11 @@
       "title": "Confessions of a Teenage Drama Queen",
       "page": "reviews/elliott-0365-confessions-of-a-teenage-drama-queen.html",
       "id": "Elliott_0365"
+    },
+    {
+      "title": "I, Robot",
+      "page": "reviews/elliott-0576-i-robot.html",
+      "id": "Elliott_0576"
     }
   ],
   "Cooperation": [
@@ -10206,7 +10271,7 @@
       "id": "Elliott_0261"
     }
   ],
-  "Power of God's Word": [
+  "Power Of God'S Word": [
     {
       "title": "The Apostle",
       "page": "reviews/elliott-0254-the-apostle.html",
@@ -10315,14 +10380,14 @@
       "id": "Elliott_0259"
     }
   ],
-  "Maintaining One's Heart": [
+  "Maintaining One'S Heart": [
     {
       "title": "Babe: Pig In The City",
       "page": "reviews/elliott-0259-babe-pig-in-the-city.html",
       "id": "Elliott_0259"
     }
   ],
-  "Blood of Jesus Christ": [
+  "Blood Of Jesus Christ": [
     {
       "title": "Blade",
       "page": "reviews/elliott-0260-blade.html",
@@ -10432,7 +10497,7 @@
       "id": "Elliott_0402"
     }
   ],
-  "Single-mindedness": [
+  "Single-Mindedness": [
     {
       "title": "Beyond the Sea",
       "page": "reviews/elliott-0270-beyond-the-sea.html",
@@ -10655,7 +10720,7 @@
       "id": "Elliott_0367"
     }
   ],
-  "God's Design": [
+  "God'S Design": [
     {
       "title": "The Core",
       "page": "reviews/elliott-0282-the-core.html",
@@ -10679,7 +10744,7 @@
       "id": "Elliott_0321"
     }
   ],
-  "Renewal of the Mind": [
+  "Renewal Of The Mind": [
     {
       "title": "Bewitched",
       "page": "reviews/elliott-0283-bewitched.html",
@@ -10705,7 +10770,7 @@
       "id": "Elliott_0496"
     }
   ],
-  "Problem of Evil": [
+  "Problem Of Evil": [
     {
       "title": "Beyond Narnia",
       "page": "reviews/elliott-0286-beyond-narnia.html",
@@ -10719,7 +10784,7 @@
       "id": "Elliott_0286"
     }
   ],
-  "Faith and Comfort": [
+  "Faith And Comfort": [
     {
       "title": "Beyond Narnia",
       "page": "reviews/elliott-0286-beyond-narnia.html",
@@ -10754,14 +10819,14 @@
       "id": "Elliott_0289"
     }
   ],
-  "Playing by the Rules": [
+  "Playing By The Rules": [
     {
       "title": "Bring It On",
       "page": "reviews/elliott-0291-bring-it-on.html",
       "id": "Elliott_0291"
     }
   ],
-  "Power of God": [
+  "Power Of God": [
     {
       "title": "Bless the Child",
       "page": "reviews/elliott-0292-bless-the-child.html",
@@ -10862,14 +10927,14 @@
       "id": "Elliott_0298"
     }
   ],
-  "Work and Family": [
+  "Work And Family": [
     {
       "title": "Bringing Down the House",
       "page": "reviews/elliott-0298-bringing-down-the-house.html",
       "id": "Elliott_0298"
     }
   ],
-  "Stewardship of Time": [
+  "Stewardship Of Time": [
     {
       "title": "Bringing Down the House",
       "page": "reviews/elliott-0298-bringing-down-the-house.html",
@@ -10904,14 +10969,14 @@
       "id": "Elliott_0301"
     }
   ],
-  "Soldier of Christ": [
+  "Soldier Of Christ": [
     {
       "title": "Buffalo Soldiers",
       "page": "reviews/elliott-0302-buffalo-soldiers.html",
       "id": "Elliott_0302"
     }
   ],
-  "Facing the Future": [
+  "Facing The Future": [
     {
       "title": "Big Fish",
       "page": "reviews/elliott-0303-big-fish.html",
@@ -10975,7 +11040,7 @@
       "id": "Elliott_0309"
     }
   ],
-  "Treatment of Others": [
+  "Treatment Of Others": [
     {
       "title": "Beauty Shop",
       "page": "reviews/elliott-0309-beauty-shop.html",
@@ -11003,7 +11068,7 @@
       "id": "Elliott_0311"
     }
   ],
-  "Love and Respect": [
+  "Love And Respect": [
     {
       "title": "Barbershop",
       "page": "reviews/elliott-0311-barbershop.html",
@@ -11037,7 +11102,7 @@
       "id": "Elliott_0551"
     }
   ],
-  "God as Creator": [
+  "God As Creator": [
     {
       "title": "Bicentennial Man",
       "page": "reviews/elliott-0312-bicentennial-man.html",
@@ -11077,7 +11142,7 @@
       "id": "Elliott_0320"
     }
   ],
-  "Man's Works Versus God's Works": [
+  "Man'S Works Versus God'S Works": [
     {
       "title": "Cyberworld 3D",
       "page": "reviews/elliott-0321-cyberworld-3d.html",
@@ -11098,14 +11163,14 @@
       "id": "Elliott_0322"
     }
   ],
-  "Respect for Elders": [
+  "Respect For Elders": [
     {
       "title": "The Crew",
       "page": "reviews/elliott-0322-the-crew.html",
       "id": "Elliott_0322"
     }
   ],
-  "Means and Ends": [
+  "Means And Ends": [
     {
       "title": "Coyote Ugly",
       "page": "reviews/elliott-0323-coyote-ugly.html",
@@ -11155,14 +11220,14 @@
       "id": "Elliott_0326"
     }
   ],
-  "Children as A Blessing": [
+  "Children As A Blessing": [
     {
       "title": "Cheaper by the Dozen",
       "page": "reviews/elliott-0327-cheaper-by-the-dozen.html",
       "id": "Elliott_0327"
     }
   ],
-  "Self-fulfilling Prophecy": [
+  "Self-Fulfilling Prophecy": [
     {
       "title": "The Cooler",
       "page": "reviews/elliott-0328-the-cooler.html",
@@ -11183,7 +11248,7 @@
       "id": "Elliott_0330"
     }
   ],
-  "Mind of Christ": [
+  "Mind Of Christ": [
     {
       "title": "Charlie's Angels 2: Full Throttle",
       "page": "reviews/elliott-0330-charlie-s-angels-2-full-throttle.html",
@@ -11197,7 +11262,7 @@
       "id": "Elliott_0332"
     }
   ],
-  "Prosperity of the Ungodly": [
+  "Prosperity Of The Ungodly": [
     {
       "title": "Chicago",
       "page": "reviews/elliott-0334-chicago.html",
@@ -11216,14 +11281,14 @@
       "id": "Elliott_0336"
     }
   ],
-  "God's Rules": [
+  "God'S Rules": [
     {
       "title": "The Cider House Rules",
       "page": "reviews/elliott-0337-the-cider-house-rules.html",
       "id": "Elliott_0337"
     }
   ],
-  "Self-reliance": [
+  "Self-Reliance": [
     {
       "title": "The Cider House Rules",
       "page": "reviews/elliott-0337-the-cider-house-rules.html",
@@ -11237,7 +11302,7 @@
       "id": "Elliott_0339"
     }
   ],
-  "Christ's Sacrifice": [
+  "Christ'S Sacrifice": [
     {
       "title": "Cellular",
       "page": "reviews/elliott-0339-cellular.html",
@@ -11362,7 +11427,7 @@
       "id": "Elliott_0361"
     }
   ],
-  "Self-esteem": [
+  "Self-Esteem": [
     {
       "title": "A Cinderella Story",
       "page": "reviews/elliott-0362-a-cinderella-story.html",
@@ -11379,7 +11444,7 @@
       "id": "Elliott_0424"
     }
   ],
-  "Cross-dressing": [
+  "Cross-Dressing": [
     {
       "title": "Connie and Carla",
       "page": "reviews/elliott-0364-connie-and-carla.html",
@@ -11393,14 +11458,14 @@
       "id": "Elliott_0364"
     }
   ],
-  "Courage of Convictions": [
+  "Courage Of Convictions": [
     {
       "title": "Cradle Will Rock",
       "page": "reviews/elliott-0367-cradle-will-rock.html",
       "id": "Elliott_0367"
     }
   ],
-  "Speaking the Truth": [
+  "Speaking The Truth": [
     {
       "title": "Cradle Will Rock",
       "page": "reviews/elliott-0367-cradle-will-rock.html",
@@ -11535,7 +11600,7 @@
       "id": "Elliott_0386"
     }
   ],
-  "God's Guidance": [
+  "God'S Guidance": [
     {
       "title": "Double Jeopardy",
       "page": "reviews/elliott-0386-double-jeopardy.html",
@@ -11636,7 +11701,7 @@
       "id": "Elliott_0400"
     }
   ],
-  "Two by Two": [
+  "Two By Two": [
     {
       "title": "Digimon: The Movie",
       "page": "reviews/elliott-0400-digimon-the-movie.html",
@@ -11685,7 +11750,7 @@
       "id": "Elliott_0408"
     }
   ],
-  "Helping the Weak": [
+  "Helping The Weak": [
     {
       "title": "Dinosaur",
       "page": "reviews/elliott-0409-dinosaur.html",
@@ -11727,7 +11792,7 @@
       "id": "Elliott_0415"
     }
   ],
-  "God's Standard": [
+  "God'S Standard": [
     {
       "title": "The Door in the Floor",
       "page": "reviews/elliott-0416-the-door-in-the-floor.html",
@@ -11777,7 +11842,7 @@
       "id": "Elliott_0421"
     }
   ],
-  "God's View": [
+  "God'S View": [
     {
       "title": "Everybody Famous! (Iedereen beroemd!)",
       "page": "reviews/elliott-0424-everybody-famous-iedereen-beroemd.html",
@@ -11796,7 +11861,7 @@
       "id": "Elliott_0425"
     }
   ],
-  "God's Strength": [
+  "God'S Strength": [
     {
       "title": "Eight Legged Freaks",
       "page": "reviews/elliott-0427-eight-legged-freaks.html",
@@ -11897,7 +11962,7 @@
       "id": "Elliott_0441"
     }
   ],
-  "God's Standards": [
+  "God'S Standards": [
     {
       "title": "Far From Heaven",
       "page": "reviews/elliott-0442-far-from-heaven.html",
@@ -12134,7 +12199,7 @@
       "id": "Elliott_0561"
     }
   ],
-  "God's Grace": [
+  "God'S Grace": [
     {
       "title": "Harry Potter and The Chamber of Secrets",
       "page": "reviews/elliott-0481-harry-potter-and-the-chamber-of-secrets.html",
@@ -12176,7 +12241,7 @@
       "id": "Elliott_0491"
     }
   ],
-  "Word of God": [
+  "Word Of God": [
     {
       "title": "Hero",
       "page": "reviews/elliott-0492-hero.html",
@@ -12216,14 +12281,14 @@
       "id": "Elliott_0499"
     }
   ],
-  "Fruit of the Spirit": [
+  "Fruit Of The Spirit": [
     {
       "title": "Gladiator",
       "page": "reviews/elliott-0500-gladiator.html",
       "id": "Elliott_0500"
     }
   ],
-  "Members of the Body": [
+  "Members Of The Body": [
     {
       "title": "Happy Feet",
       "page": "reviews/elliott-0501-happy-feet.html",
@@ -12237,21 +12302,21 @@
       "id": "Elliott_0505"
     }
   ],
-  "Life and Godliness": [
+  "Life And Godliness": [
     {
       "title": "The Hitchhiker's Guide to the Galaxy",
       "page": "reviews/elliott-0508-the-hitchhiker-s-guide-to-the-galaxy.html",
       "id": "Elliott_0508"
     }
   ],
-  "God's Love": [
+  "God'S Love": [
     {
       "title": "A Home at the End of the World",
       "page": "reviews/elliott-0510-a-home-at-the-end-of-the-world.html",
       "id": "Elliott_0510"
     }
   ],
-  "Love and Sacrifice": [
+  "Love And Sacrifice": [
     {
       "title": "Harry Potter and the Goblet of Fire",
       "page": "reviews/elliott-0511-harry-potter-and-the-goblet-of-fire.html",
@@ -12342,7 +12407,7 @@
       "id": "Elliott_0538"
     }
   ],
-  "Armor of God": [
+  "Armor Of God": [
     {
       "title": "Iron Monkey",
       "page": "reviews/elliott-0539-iron-monkey.html",
@@ -12394,7 +12459,7 @@
       "id": "Elliott_0543"
     }
   ],
-  "God's Goodness": [
+  "God'S Goodness": [
     {
       "title": "Isn't She Great",
       "page": "reviews/elliott-0548-isn-t-she-great.html",
@@ -12420,6 +12485,11 @@
       "title": "Jimmy Neutron: Boy Genius",
       "page": "reviews/elliott-0559-jimmy-neutron-boy-genius.html",
       "id": "Elliott_0559"
+    },
+    {
+      "title": "Jersey Girl",
+      "page": "reviews/elliott-0577-jersey-girl.html",
+      "id": "Elliott_0577"
     }
   ],
   "Second Coming": [
@@ -12462,6 +12532,27 @@
       "title": "John Q",
       "page": "reviews/elliott-0569-john-q.html",
       "id": "Elliott_0569"
+    }
+  ],
+  "Regrets": [
+    {
+      "title": "The Life Aquatic with Steve Zissou",
+      "page": "reviews/elliott-0574-the-life-aquatic-with-steve-zissou.html",
+      "id": "Elliott_0574"
+    }
+  ],
+  "Examples": [
+    {
+      "title": "Kicking and Screaming",
+      "page": "reviews/elliott-0578-kicking-and-screaming.html",
+      "id": "Elliott_0578"
+    }
+  ],
+  "Shame": [
+    {
+      "title": "The Kite Runner",
+      "page": "reviews/elliott-0579-the-kite-runner.html",
+      "id": "Elliott_0579"
     }
   ]
 }
