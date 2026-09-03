@@ -376,6 +376,11 @@
       "title": "Just Married",
       "page": "reviews/elliott-0526-just-married.html",
       "id": "Elliott_0526"
+    },
+    {
+      "title": "Love Stinks",
+      "page": "reviews/elliott-0584-love-stinks.html",
+      "id": "Elliott_0584"
     }
   ],
   "Family": [
@@ -5369,6 +5374,11 @@
       "title": "Cousin Bette",
       "page": "reviews/elliott-0325-cousin-bette.html",
       "id": "Elliott_0325"
+    },
+    {
+      "title": "Lost in Space",
+      "page": "reviews/elliott-0583-lost-in-space.html",
+      "id": "Elliott_0583"
     }
   ],
   "Care For Animals": [
@@ -6471,6 +6481,11 @@
       "title": "How Stella Got Her Groove Back",
       "page": "reviews/elliott-0499-how-stella-got-her-groove-back.html",
       "id": "Elliott_0499"
+    },
+    {
+      "title": "Lethal Weapon IV",
+      "page": "reviews/elliott-0588-lethal-weapon-iv.html",
+      "id": "Elliott_0588"
     }
   ],
   "The Lost": [
@@ -7158,6 +7173,16 @@
       "title": "Impostor",
       "page": "reviews/elliott-0540-impostor.html",
       "id": "Elliott_0540"
+    },
+    {
+      "title": "Loser",
+      "page": "reviews/elliott-0581-loser.html",
+      "id": "Elliott_0581"
+    },
+    {
+      "title": "Living Out Loud",
+      "page": "reviews/elliott-0586-living-out-loud.html",
+      "id": "Elliott_0586"
     }
   ],
   "Mankind": [
@@ -9418,6 +9443,11 @@
       "title": "Agent Cody Banks 2: Destination London",
       "page": "reviews/elliott-0236-agent-cody-banks-2-destination-london.html",
       "id": "Elliott_0236"
+    },
+    {
+      "title": "Love and Death on Long Island",
+      "page": "reviews/elliott-0582-love-and-death-on-long-island.html",
+      "id": "Elliott_0582"
     }
   ],
   "Focusing On Godly Things": [
@@ -10960,6 +10990,11 @@
       "title": "Bulletproof Monk",
       "page": "reviews/elliott-0300-bulletproof-monk.html",
       "id": "Elliott_0300"
+    },
+    {
+      "title": "Jesus",
+      "page": "reviews/elliott-0590-jesus.html",
+      "id": "Elliott_0590"
     }
   ],
   "Biblical Order": [
@@ -11100,6 +11135,11 @@
       "title": "Just Like Heaven",
       "page": "reviews/elliott-0551-just-like-heaven.html",
       "id": "Elliott_0551"
+    },
+    {
+      "title": "Life",
+      "page": "reviews/elliott-0587-life.html",
+      "id": "Elliott_0587"
     }
   ],
   "God As Creator": [
@@ -12328,6 +12368,11 @@
       "title": "The Hulk",
       "page": "reviews/elliott-0514-the-hulk.html",
       "id": "Elliott_0514"
+    },
+    {
+      "title": "Love and Death on Long Island",
+      "page": "reviews/elliott-0582-love-and-death-on-long-island.html",
+      "id": "Elliott_0582"
     }
   ],
   "Spiritual Race": [
@@ -12553,6 +12598,27 @@
       "title": "The Kite Runner",
       "page": "reviews/elliott-0579-the-kite-runner.html",
       "id": "Elliott_0579"
+    }
+  ],
+  "Fantasies": [
+    {
+      "title": "Love and Death on Long Island",
+      "page": "reviews/elliott-0582-love-and-death-on-long-island.html",
+      "id": "Elliott_0582"
+    }
+  ],
+  "Epistles": [
+    {
+      "title": "The Love Letter",
+      "page": "reviews/elliott-0585-the-love-letter.html",
+      "id": "Elliott_0585"
+    }
+  ],
+  "Reincarnation": [
+    {
+      "title": "Kundun",
+      "page": "reviews/elliott-0589-kundun.html",
+      "id": "Elliott_0589"
     }
   ]
 }
