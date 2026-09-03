@@ -970,6 +970,21 @@
       "title": "Instinct",
       "page": "reviews/elliott-0545-instinct.html",
       "id": "Elliott_0545"
+    },
+    {
+      "title": "Joshua",
+      "page": "reviews/elliott-0561-joshua.html",
+      "id": "Elliott_0561"
+    },
+    {
+      "title": "I Am Sam",
+      "page": "reviews/elliott-0568-i-am-sam.html",
+      "id": "Elliott_0568"
+    },
+    {
+      "title": "John Q",
+      "page": "reviews/elliott-0569-john-q.html",
+      "id": "Elliott_0569"
     }
   ],
   "Hearing God": [
@@ -1467,7 +1482,7 @@
       "id": "Elliott_0324"
     }
   ],
-  "Decision-Making": [
+  "Decision-making": [
     {
       "title": "All The Pretty Horses",
       "page": "reviews/elliott-0014-all-the-pretty-horses.html",
@@ -1993,6 +2008,11 @@
       "title": "The Insider",
       "page": "reviews/elliott-0527-the-insider.html",
       "id": "Elliott_0527"
+    },
+    {
+      "title": "The Island",
+      "page": "reviews/elliott-0563-the-island.html",
+      "id": "Elliott_0563"
     }
   ],
   "God's Provision": [
@@ -3248,6 +3268,21 @@
       "title": "Into His Arms",
       "page": "reviews/elliott-0531-into-his-arms.html",
       "id": "Elliott_0531"
+    },
+    {
+      "title": "The Interpreter",
+      "page": "reviews/elliott-0562-the-interpreter.html",
+      "id": "Elliott_0562"
+    },
+    {
+      "title": "In The Bedroom",
+      "page": "reviews/elliott-0567-in-the-bedroom.html",
+      "id": "Elliott_0567"
+    },
+    {
+      "title": "In America",
+      "page": "reviews/elliott-0570-in-america.html",
+      "id": "Elliott_0570"
     }
   ],
   "Emotions": [
@@ -3267,7 +3302,7 @@
       "id": "Elliott_0255"
     }
   ],
-  "Self-Deception": [
+  "Self-deception": [
     {
       "title": "Birth",
       "page": "reviews/elliott-0029-birth.html",
@@ -3482,7 +3517,7 @@
       "id": "Elliott_0531"
     }
   ],
-  "Self-Fulfilling Expectations": [
+  "Self-fulfilling Expectations": [
     {
       "title": "Bridget Jones: The Edge of Reason",
       "page": "reviews/elliott-0030-bridget-jones-the-edge-of-reason.html",
@@ -4010,6 +4045,11 @@
       "title": "Jonah: A VeggieTales Movie",
       "page": "reviews/elliott-0558-jonah-a-veggietales-movie.html",
       "id": "Elliott_0558"
+    },
+    {
+      "title": "Inside Man",
+      "page": "reviews/elliott-0565-inside-man.html",
+      "id": "Elliott_0565"
     }
   ],
   "Maturity": [
@@ -4483,6 +4523,11 @@
       "title": "The Dust Factory",
       "page": "reviews/elliott-0418-the-dust-factory.html",
       "id": "Elliott_0418"
+    },
+    {
+      "title": "In America",
+      "page": "reviews/elliott-0570-in-america.html",
+      "id": "Elliott_0570"
     }
   ],
   "Healing": [
@@ -4568,6 +4613,11 @@
       "title": "Gangs of New York",
       "page": "reviews/elliott-0486-gangs-of-new-york.html",
       "id": "Elliott_0486"
+    },
+    {
+      "title": "The Interpreter",
+      "page": "reviews/elliott-0562-the-interpreter.html",
+      "id": "Elliott_0562"
     }
   ],
   "God's Definition of Love": [
@@ -4758,6 +4808,11 @@
       "title": "High Noon (1952)",
       "page": "reviews/elliott-0530-high-noon-1952.html",
       "id": "Elliott_0530"
+    },
+    {
+      "title": "The Iron Giant",
+      "page": "reviews/elliott-0566-the-iron-giant.html",
+      "id": "Elliott_0566"
     }
   ],
   "Giving One's Life": [
@@ -4779,7 +4834,7 @@
       "id": "Elliott_0248"
     }
   ],
-  "Self-Control": [
+  "Self-control": [
     {
       "title": "American Pie",
       "page": "reviews/elliott-0045-american-pie.html",
@@ -6481,6 +6536,16 @@
       "title": "Batman Begins",
       "page": "reviews/elliott-0284-batman-begins.html",
       "id": "Elliott_0284"
+    },
+    {
+      "title": "The Interpreter",
+      "page": "reviews/elliott-0562-the-interpreter.html",
+      "id": "Elliott_0562"
+    },
+    {
+      "title": "In The Bedroom",
+      "page": "reviews/elliott-0567-in-the-bedroom.html",
+      "id": "Elliott_0567"
     }
   ],
   "Justice": [
@@ -6518,6 +6583,11 @@
       "title": "A Civil Action",
       "page": "reviews/elliott-0371-a-civil-action.html",
       "id": "Elliott_0371"
+    },
+    {
+      "title": "In The Bedroom",
+      "page": "reviews/elliott-0567-in-the-bedroom.html",
+      "id": "Elliott_0567"
     }
   ],
   "Promises of God": [
@@ -6965,7 +7035,7 @@
       "id": "Elliott_0109"
     }
   ],
-  "God-Hunger": [
+  "God-hunger": [
     {
       "title": "Holy Man",
       "page": "reviews/elliott-0110-holy-man.html",
@@ -7522,6 +7592,11 @@
       "title": "Iles Flottantes (Floating Islands)",
       "page": "reviews/elliott-0444-iles-flottantes-floating-islands.html",
       "id": "Elliott_0444"
+    },
+    {
+      "title": "The Iron Giant",
+      "page": "reviews/elliott-0566-the-iron-giant.html",
+      "id": "Elliott_0566"
     }
   ],
   "Choosing Friends Wisely": [
@@ -8796,7 +8871,7 @@
       "id": "Elliott_0241"
     }
   ],
-  "Self-Worth": [
+  "Self-worth": [
     {
       "title": "Punch Drunk Love",
       "page": "reviews/elliott-0175-punch-drunk-love.html",
@@ -8813,7 +8888,7 @@
       "id": "Elliott_0501"
     }
   ],
-  "Self-Improvement": [
+  "Self-improvement": [
     {
       "title": "Pushing Tin",
       "page": "reviews/elliott-0176-pushing-tin.html",
@@ -8965,6 +9040,11 @@
       "title": "Freddy Got Fingered",
       "page": "reviews/elliott-0447-freddy-got-fingered.html",
       "id": "Elliott_0447"
+    },
+    {
+      "title": "I Am Sam",
+      "page": "reviews/elliott-0568-i-am-sam.html",
+      "id": "Elliott_0568"
     }
   ],
   "Teaching God's Word": [
@@ -9266,6 +9346,11 @@
       "title": "Windtalkers",
       "page": "reviews/elliott-0217-windtalkers.html",
       "id": "Elliott_0217"
+    },
+    {
+      "title": "Joyeux Noel",
+      "page": "reviews/elliott-0564-joyeux-noel.html",
+      "id": "Elliott_0564"
     }
   ],
   "Thoughts": [
@@ -9394,7 +9479,7 @@
       "id": "Elliott_0390"
     }
   ],
-  "Like-Mindedness": [
+  "Like-mindedness": [
     {
       "title": "Walking Tall",
       "page": "reviews/elliott-0211-walking-tall.html",
@@ -10347,7 +10432,7 @@
       "id": "Elliott_0402"
     }
   ],
-  "Single-Mindedness": [
+  "Single-mindedness": [
     {
       "title": "Beyond the Sea",
       "page": "reviews/elliott-0270-beyond-the-sea.html",
@@ -11077,7 +11162,7 @@
       "id": "Elliott_0327"
     }
   ],
-  "Self-Fulfilling Prophecy": [
+  "Self-fulfilling Prophecy": [
     {
       "title": "The Cooler",
       "page": "reviews/elliott-0328-the-cooler.html",
@@ -11138,7 +11223,7 @@
       "id": "Elliott_0337"
     }
   ],
-  "Self-Reliance": [
+  "Self-reliance": [
     {
       "title": "The Cider House Rules",
       "page": "reviews/elliott-0337-the-cider-house-rules.html",
@@ -11277,7 +11362,7 @@
       "id": "Elliott_0361"
     }
   ],
-  "Self-Esteem": [
+  "Self-esteem": [
     {
       "title": "A Cinderella Story",
       "page": "reviews/elliott-0362-a-cinderella-story.html",
@@ -11294,7 +11379,7 @@
       "id": "Elliott_0424"
     }
   ],
-  "Cross-Dressing": [
+  "Cross-dressing": [
     {
       "title": "Connie and Carla",
       "page": "reviews/elliott-0364-connie-and-carla.html",
@@ -12042,6 +12127,11 @@
       "title": "Galaxy Quest",
       "page": "reviews/elliott-0480-galaxy-quest.html",
       "id": "Elliott_0480"
+    },
+    {
+      "title": "Joshua",
+      "page": "reviews/elliott-0561-joshua.html",
+      "id": "Elliott_0561"
     }
   ],
   "God's Grace": [
@@ -12330,6 +12420,48 @@
       "title": "Jimmy Neutron: Boy Genius",
       "page": "reviews/elliott-0559-jimmy-neutron-boy-genius.html",
       "id": "Elliott_0559"
+    }
+  ],
+  "Second Coming": [
+    {
+      "title": "Joshua",
+      "page": "reviews/elliott-0561-joshua.html",
+      "id": "Elliott_0561"
+    }
+  ],
+  "Sins": [
+    {
+      "title": "Inside Man",
+      "page": "reviews/elliott-0565-inside-man.html",
+      "id": "Elliott_0565"
+    }
+  ],
+  "Mediator": [
+    {
+      "title": "Inside Man",
+      "page": "reviews/elliott-0565-inside-man.html",
+      "id": "Elliott_0565"
+    }
+  ],
+  "Soul Life": [
+    {
+      "title": "The Iron Giant",
+      "page": "reviews/elliott-0566-the-iron-giant.html",
+      "id": "Elliott_0566"
+    }
+  ],
+  "Limitations": [
+    {
+      "title": "I Am Sam",
+      "page": "reviews/elliott-0568-i-am-sam.html",
+      "id": "Elliott_0568"
+    }
+  ],
+  "Fathers": [
+    {
+      "title": "John Q",
+      "page": "reviews/elliott-0569-john-q.html",
+      "id": "Elliott_0569"
     }
   ]
 }
