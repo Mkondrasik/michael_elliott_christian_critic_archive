@@ -275,6 +275,11 @@
       "title": "Just Married",
       "page": "reviews/elliott-0526-just-married.html",
       "id": "Elliott_0526"
+    },
+    {
+      "title": "Innocence",
+      "page": "reviews/elliott-0536-innocence.html",
+      "id": "Elliott_0536"
     }
   ],
   "Courtship and Chivalry": [
@@ -2258,6 +2263,11 @@
       "title": "Final Fantasy: The Spirits Within",
       "page": "reviews/elliott-0446-final-fantasy-the-spirits-within.html",
       "id": "Elliott_0446"
+    },
+    {
+      "title": "Jurassic Park III",
+      "page": "reviews/elliott-0537-jurassic-park-iii.html",
+      "id": "Elliott_0537"
     }
   ],
   "Gender": [
@@ -2401,6 +2411,11 @@
       "title": "Iles Flottantes (Floating Islands)",
       "page": "reviews/elliott-0444-iles-flottantes-floating-islands.html",
       "id": "Elliott_0444"
+    },
+    {
+      "title": "Innocence",
+      "page": "reviews/elliott-0536-innocence.html",
+      "id": "Elliott_0536"
     }
   ],
   "Adaptability": [
@@ -3193,6 +3208,11 @@
       "title": "Godsend",
       "page": "reviews/elliott-0476-godsend.html",
       "id": "Elliott_0476"
+    },
+    {
+      "title": "Into His Arms",
+      "page": "reviews/elliott-0531-into-his-arms.html",
+      "id": "Elliott_0531"
     }
   ],
   "Emotions": [
@@ -3415,6 +3435,11 @@
       "title": "Herbie: Fully Loaded",
       "page": "reviews/elliott-0507-herbie-fully-loaded.html",
       "id": "Elliott_0507"
+    },
+    {
+      "title": "Into His Arms",
+      "page": "reviews/elliott-0531-into-his-arms.html",
+      "id": "Elliott_0531"
     }
   ],
   "Self-Fulfilling Expectations": [
@@ -4444,6 +4469,11 @@
       "title": "The Deep End of the Ocean",
       "page": "reviews/elliott-0388-the-deep-end-of-the-ocean.html",
       "id": "Elliott_0388"
+    },
+    {
+      "title": "Into His Arms",
+      "page": "reviews/elliott-0531-into-his-arms.html",
+      "id": "Elliott_0531"
     }
   ],
   "False and Selfish Love": [
@@ -4817,6 +4847,11 @@
       "title": "Entrapment",
       "page": "reviews/elliott-0433-entrapment.html",
       "id": "Elliott_0433"
+    },
+    {
+      "title": "Iron Monkey",
+      "page": "reviews/elliott-0539-iron-monkey.html",
+      "id": "Elliott_0539"
     }
   ],
   "Teaching and Training": [
@@ -6119,6 +6154,11 @@
       "title": "The Emperor's Club",
       "page": "reviews/elliott-0350-the-emperor-s-club.html",
       "id": "Elliott_0350"
+    },
+    {
+      "title": "In The Beginning",
+      "page": "reviews/elliott-0533-in-the-beginning.html",
+      "id": "Elliott_0533"
     }
   ],
   "Devilish Influence": [
@@ -6898,6 +6938,11 @@
       "title": "Flawless",
       "page": "reviews/elliott-0467-flawless.html",
       "id": "Elliott_0467"
+    },
+    {
+      "title": "Impostor",
+      "page": "reviews/elliott-0540-impostor.html",
+      "id": "Elliott_0540"
     }
   ],
   "Mankind": [
@@ -9352,6 +9397,11 @@
       "title": "Catwoman",
       "page": "reviews/elliott-0361-catwoman.html",
       "id": "Elliott_0361"
+    },
+    {
+      "title": "Impostor",
+      "page": "reviews/elliott-0540-impostor.html",
+      "id": "Elliott_0540"
     }
   ],
   "Spirit": [
@@ -9364,6 +9414,11 @@
       "title": "Catwoman",
       "page": "reviews/elliott-0361-catwoman.html",
       "id": "Elliott_0361"
+    },
+    {
+      "title": "Impostor",
+      "page": "reviews/elliott-0540-impostor.html",
+      "id": "Elliott_0540"
     }
   ],
   "Hatred": [
@@ -11466,6 +11521,11 @@
       "title": "Eye of the Beholder",
       "page": "reviews/elliott-0430-eye-of-the-beholder.html",
       "id": "Elliott_0430"
+    },
+    {
+      "title": "The In Crowd",
+      "page": "reviews/elliott-0532-the-in-crowd.html",
+      "id": "Elliott_0532"
     }
   ],
   "Infidelity": [
@@ -11520,6 +11580,11 @@
       "title": "Eye of the Beholder",
       "page": "reviews/elliott-0430-eye-of-the-beholder.html",
       "id": "Elliott_0430"
+    },
+    {
+      "title": "The In Crowd",
+      "page": "reviews/elliott-0532-the-in-crowd.html",
+      "id": "Elliott_0532"
     }
   ],
   "Substance": [
@@ -11979,6 +12044,69 @@
       "title": "Joe Dirt",
       "page": "reviews/elliott-0522-joe-dirt.html",
       "id": "Elliott_0522"
+    }
+  ],
+  "History": [
+    {
+      "title": "In The Beginning",
+      "page": "reviews/elliott-0533-in-the-beginning.html",
+      "id": "Elliott_0533"
+    }
+  ],
+  "Bible": [
+    {
+      "title": "In The Beginning",
+      "page": "reviews/elliott-0533-in-the-beginning.html",
+      "id": "Elliott_0533"
+    }
+  ],
+  "Materialism": [
+    {
+      "title": "Josie and the Pussycats",
+      "page": "reviews/elliott-0534-josie-and-the-pussycats.html",
+      "id": "Elliott_0534"
+    }
+  ],
+  "Commercialism": [
+    {
+      "title": "Josie and the Pussycats",
+      "page": "reviews/elliott-0534-josie-and-the-pussycats.html",
+      "id": "Elliott_0534"
+    }
+  ],
+  "Needs Vs Wants": [
+    {
+      "title": "Josie and the Pussycats",
+      "page": "reviews/elliott-0534-josie-and-the-pussycats.html",
+      "id": "Elliott_0534"
+    }
+  ],
+  "Servitude": [
+    {
+      "title": "Just Visiting",
+      "page": "reviews/elliott-0535-just-visiting.html",
+      "id": "Elliott_0535"
+    }
+  ],
+  "Servants": [
+    {
+      "title": "Just Visiting",
+      "page": "reviews/elliott-0535-just-visiting.html",
+      "id": "Elliott_0535"
+    }
+  ],
+  "Fools": [
+    {
+      "title": "Jay and Silent Bob Strike Back",
+      "page": "reviews/elliott-0538-jay-and-silent-bob-strike-back.html",
+      "id": "Elliott_0538"
+    }
+  ],
+  "Armor of God": [
+    {
+      "title": "Iron Monkey",
+      "page": "reviews/elliott-0539-iron-monkey.html",
+      "id": "Elliott_0539"
     }
   ]
 }
