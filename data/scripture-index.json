@@ -1388,6 +1388,11 @@
       "title": "Ella Enchanted",
       "page": "reviews/elliott-0079-ella-enchanted.html",
       "id": "Elliott_0079"
+    },
+    {
+      "title": "Love Actually",
+      "page": "reviews/elliott-0613-love-actually.html",
+      "id": "Elliott_0613"
     }
   ],
   "Jeremiah 13:23": [
@@ -2429,6 +2434,11 @@
       "title": "Exorcist: The Beginning",
       "page": "reviews/elliott-0077-exorcist-the-beginning.html",
       "id": "Elliott_0077"
+    },
+    {
+      "title": "The Last King of Scotland",
+      "page": "reviews/elliott-0611-the-last-king-of-scotland.html",
+      "id": "Elliott_0611"
     }
   ],
   "James 4:7": [
@@ -4453,6 +4463,11 @@
       "title": "Gosford Park",
       "page": "reviews/elliott-0483-gosford-park.html",
       "id": "Elliott_0483"
+    },
+    {
+      "title": "Remember the Titans",
+      "page": "reviews/elliott-0620-remember-the-titans.html",
+      "id": "Elliott_0620"
     }
   ],
   "Romans 2:11": [
@@ -4565,6 +4580,11 @@
       "title": "The Chronicles of Riddick",
       "page": "reviews/elliott-0363-the-chronicles-of-riddick.html",
       "id": "Elliott_0363"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "page": "reviews/elliott-0616-the-lord-of-the-rings-the-return-of-the-king.html",
+      "id": "Elliott_0616"
     }
   ],
   "Proverbs 29:6": [
@@ -4669,6 +4689,16 @@
       "title": "A History of Violence",
       "page": "reviews/elliott-0505-a-history-of-violence.html",
       "id": "Elliott_0505"
+    },
+    {
+      "title": "The Last Castle",
+      "page": "reviews/elliott-0612-the-last-castle.html",
+      "id": "Elliott_0612"
+    },
+    {
+      "title": "Les Miserables",
+      "page": "reviews/elliott-0619-les-miserables.html",
+      "id": "Elliott_0619"
     }
   ],
   "Ephesians 6:1": [
@@ -5222,6 +5252,16 @@
       "title": "Juno",
       "page": "reviews/elliott-0557-juno.html",
       "id": "Elliott_0557"
+    },
+    {
+      "title": "The Last Castle",
+      "page": "reviews/elliott-0612-the-last-castle.html",
+      "id": "Elliott_0612"
+    },
+    {
+      "title": "La Vie En Rose",
+      "page": "reviews/elliott-0615-la-vie-en-rose.html",
+      "id": "Elliott_0615"
     }
   ],
   "Job 42:10": [
@@ -6078,6 +6118,11 @@
       "title": "Harry Potter and The Chamber of Secrets",
       "page": "reviews/elliott-0481-harry-potter-and-the-chamber-of-secrets.html",
       "id": "Elliott_0481"
+    },
+    {
+      "title": "Remember the Titans",
+      "page": "reviews/elliott-0620-remember-the-titans.html",
+      "id": "Elliott_0620"
     }
   ],
   "Acts 8:30-31": [
@@ -6298,6 +6343,11 @@
       "title": "Instinct",
       "page": "reviews/elliott-0545-instinct.html",
       "id": "Elliott_0545"
+    },
+    {
+      "title": "Love Actually",
+      "page": "reviews/elliott-0613-love-actually.html",
+      "id": "Elliott_0613"
     }
   ],
   "Ephesians 1:4-5": [
@@ -6647,6 +6697,11 @@
       "title": "Almost Heroes",
       "page": "reviews/elliott-0251-almost-heroes.html",
       "id": "Elliott_0251"
+    },
+    {
+      "title": "The Legend of Bagger Vance",
+      "page": "reviews/elliott-0618-the-legend-of-bagger-vance.html",
+      "id": "Elliott_0618"
     }
   ],
   "2 Corinthians 4:4": [
@@ -9463,6 +9518,11 @@
       "title": "High Noon (1952)",
       "page": "reviews/elliott-0530-high-noon-1952.html",
       "id": "Elliott_0530"
+    },
+    {
+      "title": "The Legend of Bagger Vance",
+      "page": "reviews/elliott-0618-the-legend-of-bagger-vance.html",
+      "id": "Elliott_0618"
     }
   ],
   "Deuteronomy 31:6": [
@@ -9536,6 +9596,11 @@
       "title": "Eye of the Beholder",
       "page": "reviews/elliott-0430-eye-of-the-beholder.html",
       "id": "Elliott_0430"
+    },
+    {
+      "title": "The Last King of Scotland",
+      "page": "reviews/elliott-0611-the-last-king-of-scotland.html",
+      "id": "Elliott_0611"
     }
   ],
   "Matthew 15:8-9": [
@@ -10493,6 +10558,11 @@
       "title": "Little Secrets",
       "page": "reviews/elliott-0596-little-secrets.html",
       "id": "Elliott_0596"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "page": "reviews/elliott-0616-the-lord-of-the-rings-the-return-of-the-king.html",
+      "id": "Elliott_0616"
     }
   ],
   "John 8:16": [
@@ -11601,6 +11671,118 @@
       "title": "The Lake House",
       "page": "reviews/elliott-0610-the-lake-house.html",
       "id": "Elliott_0610"
+    }
+  ],
+  "Psalms 64:2-5": [
+    {
+      "title": "The Last King of Scotland",
+      "page": "reviews/elliott-0611-the-last-king-of-scotland.html",
+      "id": "Elliott_0611"
+    }
+  ],
+  "John 8:3-11": [
+    {
+      "title": "The Last Castle",
+      "page": "reviews/elliott-0612-the-last-castle.html",
+      "id": "Elliott_0612"
+    }
+  ],
+  "1 John 4:16": [
+    {
+      "title": "Love Actually",
+      "page": "reviews/elliott-0613-love-actually.html",
+      "id": "Elliott_0613"
+    }
+  ],
+  "Proverbs 1:8-9": [
+    {
+      "title": "Life Is Beautiful (La Vita e Bella)",
+      "page": "reviews/elliott-0614-life-is-beautiful-la-vita-e-bella.html",
+      "id": "Elliott_0614"
+    }
+  ],
+  "John 3:35": [
+    {
+      "title": "Life Is Beautiful (La Vita e Bella)",
+      "page": "reviews/elliott-0614-life-is-beautiful-la-vita-e-bella.html",
+      "id": "Elliott_0614"
+    }
+  ],
+  "1 John 3:1-2": [
+    {
+      "title": "Life Is Beautiful (La Vita e Bella)",
+      "page": "reviews/elliott-0614-life-is-beautiful-la-vita-e-bella.html",
+      "id": "Elliott_0614"
+    }
+  ],
+  "2 Corinthians 7:10": [
+    {
+      "title": "La Vie En Rose",
+      "page": "reviews/elliott-0615-la-vie-en-rose.html",
+      "id": "Elliott_0615"
+    }
+  ],
+  "Ecclesiastes &;10": [
+    {
+      "title": "La Vie En Rose",
+      "page": "reviews/elliott-0615-la-vie-en-rose.html",
+      "id": "Elliott_0615"
+    }
+  ],
+  "Ephesians 6:13": [
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "page": "reviews/elliott-0616-the-lord-of-the-rings-the-return-of-the-king.html",
+      "id": "Elliott_0616"
+    }
+  ],
+  "Matthew 13:55": [
+    {
+      "title": "Legally Blonde",
+      "page": "reviews/elliott-0617-legally-blonde.html",
+      "id": "Elliott_0617"
+    }
+  ],
+  "John 1:46": [
+    {
+      "title": "Legally Blonde",
+      "page": "reviews/elliott-0617-legally-blonde.html",
+      "id": "Elliott_0617"
+    }
+  ],
+  "1 Corinthians 10:7": [
+    {
+      "title": "Legally Blonde",
+      "page": "reviews/elliott-0617-legally-blonde.html",
+      "id": "Elliott_0617"
+    }
+  ],
+  "Isaiah 40:28-31": [
+    {
+      "title": "The Legend of Bagger Vance",
+      "page": "reviews/elliott-0618-the-legend-of-bagger-vance.html",
+      "id": "Elliott_0618"
+    }
+  ],
+  "1 Peter 1:18-19": [
+    {
+      "title": "Les Miserables",
+      "page": "reviews/elliott-0619-les-miserables.html",
+      "id": "Elliott_0619"
+    }
+  ],
+  "Colossians 3:1-13": [
+    {
+      "title": "Les Miserables",
+      "page": "reviews/elliott-0619-les-miserables.html",
+      "id": "Elliott_0619"
+    }
+  ],
+  "Galatians 3:28": [
+    {
+      "title": "Remember the Titans",
+      "page": "reviews/elliott-0620-remember-the-titans.html",
+      "id": "Elliott_0620"
     }
   ]
 }
