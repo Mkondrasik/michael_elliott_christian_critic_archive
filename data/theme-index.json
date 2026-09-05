@@ -305,6 +305,11 @@
       "title": "Mona Lisa Smile",
       "page": "reviews/elliott-0627-mona-lisa-smile.html",
       "id": "Elliott_0627"
+    },
+    {
+      "title": "Mission Impossible III",
+      "page": "reviews/elliott-0679-mission-impossible-iii.html",
+      "id": "Elliott_0679"
     }
   ],
   "Courtship and Chivalry": [
@@ -426,6 +431,11 @@
       "title": "Monster-in-Law",
       "page": "reviews/elliott-0669-monster-in-law.html",
       "id": "Elliott_0669"
+    },
+    {
+      "title": "Must Love Dogs",
+      "page": "reviews/elliott-0672-must-love-dogs.html",
+      "id": "Elliott_0672"
     }
   ],
   "Family": [
@@ -1095,6 +1105,11 @@
       "title": "The Mexican",
       "page": "reviews/elliott-0658-the-mexican.html",
       "id": "Elliott_0658"
+    },
+    {
+      "title": "Must Love Dogs",
+      "page": "reviews/elliott-0672-must-love-dogs.html",
+      "id": "Elliott_0672"
     }
   ],
   "Hearing God": [
@@ -1354,6 +1369,11 @@
       "title": "A Man Apart",
       "page": "reviews/elliott-0652-a-man-apart.html",
       "id": "Elliott_0652"
+    },
+    {
+      "title": "Miami Vice",
+      "page": "reviews/elliott-0675-miami-vice.html",
+      "id": "Elliott_0675"
     }
   ],
   "Sexual Temptation": [
@@ -2666,6 +2686,11 @@
       "title": "Man on the Moon",
       "page": "reviews/elliott-0642-man-on-the-moon.html",
       "id": "Elliott_0642"
+    },
+    {
+      "title": "Mission Impossible III",
+      "page": "reviews/elliott-0679-mission-impossible-iii.html",
+      "id": "Elliott_0679"
     }
   ],
   "Adaptability": [
@@ -6129,6 +6154,11 @@
       "title": "Mickey",
       "page": "reviews/elliott-0663-mickey.html",
       "id": "Elliott_0663"
+    },
+    {
+      "title": "Man of the Year",
+      "page": "reviews/elliott-0671-man-of-the-year.html",
+      "id": "Elliott_0671"
     }
   ],
   "Compromise": [
@@ -6653,6 +6683,11 @@
       "title": "Matrix: Revolutions",
       "page": "reviews/elliott-0625-matrix-revolutions.html",
       "id": "Elliott_0625"
+    },
+    {
+      "title": "Must Love Dogs",
+      "page": "reviews/elliott-0672-must-love-dogs.html",
+      "id": "Elliott_0672"
     }
   ],
   "Memory": [
@@ -7289,6 +7324,11 @@
       "title": "The Best Man",
       "page": "reviews/elliott-0307-the-best-man.html",
       "id": "Elliott_0307"
+    },
+    {
+      "title": "Mean Girls",
+      "page": "reviews/elliott-0680-mean-girls.html",
+      "id": "Elliott_0680"
     }
   ],
   "Edifying Speech": [
@@ -8262,6 +8302,11 @@
       "title": "The Iron Giant",
       "page": "reviews/elliott-0566-the-iron-giant.html",
       "id": "Elliott_0566"
+    },
+    {
+      "title": "The Matador",
+      "page": "reviews/elliott-0674-the-matador.html",
+      "id": "Elliott_0674"
     }
   ],
   "Choosing Friends Wisely": [
@@ -8357,6 +8402,11 @@
       "title": "Gosford Park",
       "page": "reviews/elliott-0483-gosford-park.html",
       "id": "Elliott_0483"
+    },
+    {
+      "title": "Miss Potter",
+      "page": "reviews/elliott-0677-miss-potter.html",
+      "id": "Elliott_0677"
     }
   ],
   "Bloodline": [
@@ -9614,6 +9664,11 @@
       "title": "Everybody Famous! (Iedereen beroemd!)",
       "page": "reviews/elliott-0424-everybody-famous-iedereen-beroemd.html",
       "id": "Elliott_0424"
+    },
+    {
+      "title": "Monster House",
+      "page": "reviews/elliott-0676-monster-house.html",
+      "id": "Elliott_0676"
     }
   ],
   "Spiritual Strength": [
@@ -10103,6 +10158,11 @@
       "title": "Mr. Deeds",
       "page": "reviews/elliott-0624-mr-deeds.html",
       "id": "Elliott_0624"
+    },
+    {
+      "title": "Miss Potter",
+      "page": "reviews/elliott-0677-miss-potter.html",
+      "id": "Elliott_0677"
     }
   ],
   "Riches": [
@@ -11486,6 +11546,11 @@
       "title": "Because of Winn-Dixie",
       "page": "reviews/elliott-0278-because-of-winn-dixie.html",
       "id": "Elliott_0278"
+    },
+    {
+      "title": "The Matador",
+      "page": "reviews/elliott-0674-the-matador.html",
+      "id": "Elliott_0674"
     }
   ],
   "Brotherly Love": [
@@ -12559,6 +12624,11 @@
       "title": "Digimon: The Movie",
       "page": "reviews/elliott-0400-digimon-the-movie.html",
       "id": "Elliott_0400"
+    },
+    {
+      "title": "The Matador",
+      "page": "reviews/elliott-0674-the-matador.html",
+      "id": "Elliott_0674"
     }
   ],
   "Two by Two": [
@@ -13664,6 +13734,27 @@
       "title": "Madagascar",
       "page": "reviews/elliott-0670-madagascar.html",
       "id": "Elliott_0670"
+    }
+  ],
+  "Luck": [
+    {
+      "title": "Match Point",
+      "page": "reviews/elliott-0673-match-point.html",
+      "id": "Elliott_0673"
+    }
+  ],
+  "Class Distinctions": [
+    {
+      "title": "Miss Potter",
+      "page": "reviews/elliott-0677-miss-potter.html",
+      "id": "Elliott_0677"
+    }
+  ],
+  "Impact": [
+    {
+      "title": "Mission Impossible III",
+      "page": "reviews/elliott-0679-mission-impossible-iii.html",
+      "id": "Elliott_0679"
     }
   ]
 }
