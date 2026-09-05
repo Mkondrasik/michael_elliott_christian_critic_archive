@@ -134,6 +134,11 @@
       "title": "A Midsummer Night's Dream",
       "page": "reviews/elliott-0648-a-midsummer-night-s-dream.html",
       "id": "Elliott_0648"
+    },
+    {
+      "title": "Outfoxed: Rupert Murdoch's War on Journalism",
+      "page": "reviews/elliott-0700-outfoxed-rupert-murdoch-s-war-on-journalism.html",
+      "id": "Elliott_0700"
     }
   ],
   "False Prophets": [
@@ -1120,6 +1125,11 @@
       "title": "Martian Child",
       "page": "reviews/elliott-0684-martian-child.html",
       "id": "Elliott_0684"
+    },
+    {
+      "title": "Original Sin",
+      "page": "reviews/elliott-0696-original-sin.html",
+      "id": "Elliott_0696"
     }
   ],
   "Hearing God": [
@@ -1798,6 +1808,11 @@
       "title": "Mercury Rising",
       "page": "reviews/elliott-0635-mercury-rising.html",
       "id": "Elliott_0635"
+    },
+    {
+      "title": "The Negotiator",
+      "page": "reviews/elliott-0697-the-negotiator.html",
+      "id": "Elliott_0697"
     }
   ],
   "Faith": [
@@ -2228,6 +2243,21 @@
       "title": "Little Secrets",
       "page": "reviews/elliott-0596-little-secrets.html",
       "id": "Elliott_0596"
+    },
+    {
+      "title": "The Others",
+      "page": "reviews/elliott-0694-the-others.html",
+      "id": "Elliott_0694"
+    },
+    {
+      "title": "The Negotiator",
+      "page": "reviews/elliott-0697-the-negotiator.html",
+      "id": "Elliott_0697"
+    },
+    {
+      "title": "Outfoxed: Rupert Murdoch's War on Journalism",
+      "page": "reviews/elliott-0700-outfoxed-rupert-murdoch-s-war-on-journalism.html",
+      "id": "Elliott_0700"
     }
   ],
   "God's Provision": [
@@ -3870,6 +3900,11 @@
       "title": "Little Black Book",
       "page": "reviews/elliott-0606-little-black-book.html",
       "id": "Elliott_0606"
+    },
+    {
+      "title": "On The Line",
+      "page": "reviews/elliott-0693-on-the-line.html",
+      "id": "Elliott_0693"
     }
   ],
   "Self-fulfilling Expectations": [
@@ -5025,6 +5060,11 @@
       "title": "Me Myself & Irene",
       "page": "reviews/elliott-0641-me-myself-irene.html",
       "id": "Elliott_0641"
+    },
+    {
+      "title": "Osmosis Jones",
+      "page": "reviews/elliott-0695-osmosis-jones.html",
+      "id": "Elliott_0695"
     }
   ],
   "God's Promise": [
@@ -5141,6 +5181,11 @@
       "title": "The Butterfly Effect",
       "page": "reviews/elliott-0304-the-butterfly-effect.html",
       "id": "Elliott_0304"
+    },
+    {
+      "title": "Orange County",
+      "page": "reviews/elliott-0692-orange-county.html",
+      "id": "Elliott_0692"
     }
   ],
   "Prodigal Son": [
@@ -5211,6 +5256,11 @@
       "title": "High Fidelity",
       "page": "reviews/elliott-0520-high-fidelity.html",
       "id": "Elliott_0520"
+    },
+    {
+      "title": "Orange County",
+      "page": "reviews/elliott-0692-orange-county.html",
+      "id": "Elliott_0692"
     }
   ],
   "Sacrifice": [
@@ -5679,6 +5729,11 @@
       "title": "Jersey Girl",
       "page": "reviews/elliott-0577-jersey-girl.html",
       "id": "Elliott_0577"
+    },
+    {
+      "title": "Napoleon Dynamite",
+      "page": "reviews/elliott-0699-napoleon-dynamite.html",
+      "id": "Elliott_0699"
     }
   ],
   "Usefulness": [
@@ -6406,6 +6461,11 @@
       "title": "Mr. Deeds",
       "page": "reviews/elliott-0624-mr-deeds.html",
       "id": "Elliott_0624"
+    },
+    {
+      "title": "Original Sin",
+      "page": "reviews/elliott-0696-original-sin.html",
+      "id": "Elliott_0696"
     }
   ],
   "Earning Trust": [
@@ -7615,6 +7675,11 @@
       "title": "Hollow Man",
       "page": "reviews/elliott-0107-hollow-man.html",
       "id": "Elliott_0107"
+    },
+    {
+      "title": "Osmosis Jones",
+      "page": "reviews/elliott-0695-osmosis-jones.html",
+      "id": "Elliott_0695"
     }
   ],
   "Workmanship": [
@@ -7833,6 +7898,11 @@
       "title": "Muppets From Space",
       "page": "reviews/elliott-0636-muppets-from-space.html",
       "id": "Elliott_0636"
+    },
+    {
+      "title": "Orange County",
+      "page": "reviews/elliott-0692-orange-county.html",
+      "id": "Elliott_0692"
     }
   ],
   "Mankind": [
@@ -8988,6 +9058,11 @@
       "title": "The Basket",
       "page": "reviews/elliott-0261-the-basket.html",
       "id": "Elliott_0261"
+    },
+    {
+      "title": "Napoleon Dynamite",
+      "page": "reviews/elliott-0699-napoleon-dynamite.html",
+      "id": "Elliott_0699"
     }
   ],
   "Seeing Beyond the Surface": [
@@ -9910,6 +9985,11 @@
       "title": "Rules of Engagement",
       "page": "reviews/elliott-0184-rules-of-engagement.html",
       "id": "Elliott_0184"
+    },
+    {
+      "title": "The Negotiator",
+      "page": "reviews/elliott-0697-the-negotiator.html",
+      "id": "Elliott_0697"
     }
   ],
   "Loyalty": [
@@ -11207,6 +11287,11 @@
       "title": "I, Robot",
       "page": "reviews/elliott-0576-i-robot.html",
       "id": "Elliott_0576"
+    },
+    {
+      "title": "Napoleon Dynamite",
+      "page": "reviews/elliott-0699-napoleon-dynamite.html",
+      "id": "Elliott_0699"
     }
   ],
   "Cooperation": [
@@ -11626,6 +11711,11 @@
       "title": "The Matador",
       "page": "reviews/elliott-0674-the-matador.html",
       "id": "Elliott_0674"
+    },
+    {
+      "title": "One Hour Photo",
+      "page": "reviews/elliott-0691-one-hour-photo.html",
+      "id": "Elliott_0691"
     }
   ],
   "Brotherly Love": [
@@ -11710,6 +11800,11 @@
       "title": "Forces of Nature",
       "page": "reviews/elliott-0440-forces-of-nature.html",
       "id": "Elliott_0440"
+    },
+    {
+      "title": "Osmosis Jones",
+      "page": "reviews/elliott-0695-osmosis-jones.html",
+      "id": "Elliott_0695"
     }
   ],
   "Awe": [
@@ -11945,6 +12040,11 @@
       "title": "Jesus",
       "page": "reviews/elliott-0590-jesus.html",
       "id": "Elliott_0590"
+    },
+    {
+      "title": "The Nativity Story",
+      "page": "reviews/elliott-0698-the-nativity-story.html",
+      "id": "Elliott_0698"
     }
   ],
   "Biblical Order": [
@@ -12336,6 +12436,11 @@
       "title": "8 Mile",
       "page": "reviews/elliott-0428-8-mile.html",
       "id": "Elliott_0428"
+    },
+    {
+      "title": "On The Line",
+      "page": "reviews/elliott-0693-on-the-line.html",
+      "id": "Elliott_0693"
     }
   ],
   "Christmas": [
@@ -12579,6 +12684,11 @@
       "title": "Elizabeth",
       "page": "reviews/elliott-0434-elizabeth.html",
       "id": "Elliott_0434"
+    },
+    {
+      "title": "The Others",
+      "page": "reviews/elliott-0694-the-others.html",
+      "id": "Elliott_0694"
     }
   ],
   "Sexuality": [
@@ -13898,6 +14008,48 @@
       "title": "The Man in the Iron Mask",
       "page": "reviews/elliott-0690-the-man-in-the-iron-mask.html",
       "id": "Elliott_0690"
+    }
+  ],
+  "Spiritual Reality": [
+    {
+      "title": "One Hour Photo",
+      "page": "reviews/elliott-0691-one-hour-photo.html",
+      "id": "Elliott_0691"
+    }
+  ],
+  "Fullness of Life": [
+    {
+      "title": "One Hour Photo",
+      "page": "reviews/elliott-0691-one-hour-photo.html",
+      "id": "Elliott_0691"
+    }
+  ],
+  "Initiative": [
+    {
+      "title": "On The Line",
+      "page": "reviews/elliott-0693-on-the-line.html",
+      "id": "Elliott_0693"
+    }
+  ],
+  "Rightly Dividing the Word": [
+    {
+      "title": "The Others",
+      "page": "reviews/elliott-0694-the-others.html",
+      "id": "Elliott_0694"
+    }
+  ],
+  "Lust": [
+    {
+      "title": "Original Sin",
+      "page": "reviews/elliott-0696-original-sin.html",
+      "id": "Elliott_0696"
+    }
+  ],
+  "Media Bias": [
+    {
+      "title": "Outfoxed: Rupert Murdoch's War on Journalism",
+      "page": "reviews/elliott-0700-outfoxed-rupert-murdoch-s-war-on-journalism.html",
+      "id": "Elliott_0700"
     }
   ]
 }
