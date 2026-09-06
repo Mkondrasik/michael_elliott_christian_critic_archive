@@ -139,6 +139,11 @@
       "title": "Outfoxed: Rupert Murdoch's War on Journalism",
       "page": "reviews/elliott-0700-outfoxed-rupert-murdoch-s-war-on-journalism.html",
       "id": "Elliott_0700"
+    },
+    {
+      "title": "Pokemon the First Movie: Mewtwo Strikes Back",
+      "page": "reviews/elliott-0711-pokemon-the-first-movie-mewtwo-strikes-back.html",
+      "id": "Elliott_0711"
     }
   ],
   "False Prophets": [
@@ -563,6 +568,11 @@
       "title": "Meet the Fockers",
       "page": "reviews/elliott-0665-meet-the-fockers.html",
       "id": "Elliott_0665"
+    },
+    {
+      "title": "Price of Glory",
+      "page": "reviews/elliott-0714-price-of-glory.html",
+      "id": "Elliott_0714"
     }
   ],
   "Belonging": [
@@ -695,6 +705,16 @@
       "title": "The Matrix",
       "page": "reviews/elliott-0686-the-matrix.html",
       "id": "Elliott_0686"
+    },
+    {
+      "title": "Practical Magic",
+      "page": "reviews/elliott-0713-practical-magic.html",
+      "id": "Elliott_0713"
+    },
+    {
+      "title": "The Opposite of Sex",
+      "page": "reviews/elliott-0719-the-opposite-of-sex.html",
+      "id": "Elliott_0719"
     }
   ],
   "False Apostles": [
@@ -2506,6 +2526,11 @@
       "title": "October Sky",
       "page": "reviews/elliott-0705-october-sky.html",
       "id": "Elliott_0705"
+    },
+    {
+      "title": "Play It To The Bone",
+      "page": "reviews/elliott-0718-play-it-to-the-bone.html",
+      "id": "Elliott_0718"
     }
   ],
   "Creation": [
@@ -2944,6 +2969,11 @@
       "title": "The Horse Whisperer",
       "page": "reviews/elliott-0518-the-horse-whisperer.html",
       "id": "Elliott_0518"
+    },
+    {
+      "title": "One Night at McCool's",
+      "page": "reviews/elliott-0716-one-night-at-mccool-s.html",
+      "id": "Elliott_0716"
     }
   ],
   "Moral Compromise": [
@@ -3068,6 +3098,16 @@
       "title": "My Baby's Daddy",
       "page": "reviews/elliott-0662-my-baby-s-daddy.html",
       "id": "Elliott_0662"
+    },
+    {
+      "title": "Pokemon the First Movie: Mewtwo Strikes Back",
+      "page": "reviews/elliott-0711-pokemon-the-first-movie-mewtwo-strikes-back.html",
+      "id": "Elliott_0711"
+    },
+    {
+      "title": "Practical Magic",
+      "page": "reviews/elliott-0713-practical-magic.html",
+      "id": "Elliott_0713"
     }
   ],
   "Instruction": [
@@ -3219,6 +3259,11 @@
       "title": "Big Daddy",
       "page": "reviews/elliott-0023-big-daddy.html",
       "id": "Elliott_0023"
+    },
+    {
+      "title": "Out of Sight",
+      "page": "reviews/elliott-0717-out-of-sight.html",
+      "id": "Elliott_0717"
     }
   ],
   "Judgment": [
@@ -6309,6 +6354,11 @@
       "title": "The Man in the Iron Mask",
       "page": "reviews/elliott-0690-the-man-in-the-iron-mask.html",
       "id": "Elliott_0690"
+    },
+    {
+      "title": "The Perfect Score",
+      "page": "reviews/elliott-0720-the-perfect-score.html",
+      "id": "Elliott_0720"
     }
   ],
   "Compromise": [
@@ -7422,6 +7472,11 @@
       "title": "Hidalgo",
       "page": "reviews/elliott-0515-hidalgo.html",
       "id": "Elliott_0515"
+    },
+    {
+      "title": "Play It To The Bone",
+      "page": "reviews/elliott-0718-play-it-to-the-bone.html",
+      "id": "Elliott_0718"
     }
   ],
   "Teaching": [
@@ -8424,6 +8479,11 @@
       "title": "Music of the Heart",
       "page": "reviews/elliott-0689-music-of-the-heart.html",
       "id": "Elliott_0689"
+    },
+    {
+      "title": "Play It To The Bone",
+      "page": "reviews/elliott-0718-play-it-to-the-bone.html",
+      "id": "Elliott_0718"
     }
   ],
   "Spiritual Discipline": [
@@ -8563,6 +8623,11 @@
       "title": "Macbeth in Manhattan",
       "page": "reviews/elliott-0633-macbeth-in-manhattan.html",
       "id": "Elliott_0633"
+    },
+    {
+      "title": "Quills",
+      "page": "reviews/elliott-0715-quills.html",
+      "id": "Elliott_0715"
     }
   ],
   "Possibility": [
@@ -8675,6 +8740,11 @@
       "title": "40 Days and 40 Nights",
       "page": "reviews/elliott-0445-40-days-and-40-nights.html",
       "id": "Elliott_0445"
+    },
+    {
+      "title": "The Prince of Egypt",
+      "page": "reviews/elliott-0712-the-prince-of-egypt.html",
+      "id": "Elliott_0712"
     }
   ],
   "Honoring Christ": [
@@ -9391,6 +9461,11 @@
       "title": "Lost & Found",
       "page": "reviews/elliott-0571-lost-found.html",
       "id": "Elliott_0571"
+    },
+    {
+      "title": "The Opposite of Sex",
+      "page": "reviews/elliott-0719-the-opposite-of-sex.html",
+      "id": "Elliott_0719"
     }
   ],
   "Motivation": [
@@ -9855,6 +9930,11 @@
       "title": "Bandits",
       "page": "reviews/elliott-0269-bandits.html",
       "id": "Elliott_0269"
+    },
+    {
+      "title": "Out of Sight",
+      "page": "reviews/elliott-0717-out-of-sight.html",
+      "id": "Elliott_0717"
     }
   ],
   "Inner Character": [
@@ -10182,6 +10262,11 @@
       "title": "Reindeer Games",
       "page": "reviews/elliott-0189-reindeer-games.html",
       "id": "Elliott_0189"
+    },
+    {
+      "title": "Out of Sight",
+      "page": "reviews/elliott-0717-out-of-sight.html",
+      "id": "Elliott_0717"
     }
   ],
   "Conduct": [
@@ -11265,6 +11350,11 @@
       "title": "The Mask of Zorro",
       "page": "reviews/elliott-0661-the-mask-of-zorro.html",
       "id": "Elliott_0661"
+    },
+    {
+      "title": "Pokemon the First Movie: Mewtwo Strikes Back",
+      "page": "reviews/elliott-0711-pokemon-the-first-movie-mewtwo-strikes-back.html",
+      "id": "Elliott_0711"
     }
   ],
   "Obstacles": [
@@ -11436,6 +11526,11 @@
       "title": "The Hulk",
       "page": "reviews/elliott-0514-the-hulk.html",
       "id": "Elliott_0514"
+    },
+    {
+      "title": "Price of Glory",
+      "page": "reviews/elliott-0714-price-of-glory.html",
+      "id": "Elliott_0714"
     }
   ],
   "Standards": [
@@ -11514,6 +11609,11 @@
       "title": "The Final Cut",
       "page": "reviews/elliott-0458-the-final-cut.html",
       "id": "Elliott_0458"
+    },
+    {
+      "title": "One Night at McCool's",
+      "page": "reviews/elliott-0716-one-night-at-mccool-s.html",
+      "id": "Elliott_0716"
     }
   ],
   "Talent": [
@@ -11918,6 +12018,11 @@
       "title": "The Object of My Affection",
       "page": "reviews/elliott-0709-the-object-of-my-affection.html",
       "id": "Elliott_0709"
+    },
+    {
+      "title": "The Opposite of Sex",
+      "page": "reviews/elliott-0719-the-opposite-of-sex.html",
+      "id": "Elliott_0719"
     }
   ],
   "Problem of Evil": [
@@ -13336,6 +13441,11 @@
       "title": "Fantasia 2000",
       "page": "reviews/elliott-0469-fantasia-2000.html",
       "id": "Elliott_0469"
+    },
+    {
+      "title": "Quills",
+      "page": "reviews/elliott-0715-quills.html",
+      "id": "Elliott_0715"
     }
   ],
   "Guilt": [
@@ -13967,6 +14077,11 @@
       "title": "Mickey",
       "page": "reviews/elliott-0663-mickey.html",
       "id": "Elliott_0663"
+    },
+    {
+      "title": "The Perfect Score",
+      "page": "reviews/elliott-0720-the-perfect-score.html",
+      "id": "Elliott_0720"
     }
   ],
   "Double-Mindedness": [
@@ -14128,6 +14243,11 @@
       "title": "Original Sin",
       "page": "reviews/elliott-0696-original-sin.html",
       "id": "Elliott_0696"
+    },
+    {
+      "title": "One Night at McCool's",
+      "page": "reviews/elliott-0716-one-night-at-mccool-s.html",
+      "id": "Elliott_0716"
     }
   ],
   "Media Bias": [
@@ -14184,6 +14304,55 @@
       "title": "One Night with the King",
       "page": "reviews/elliott-0710-one-night-with-the-king.html",
       "id": "Elliott_0710"
+    }
+  ],
+  "Moses": [
+    {
+      "title": "The Prince of Egypt",
+      "page": "reviews/elliott-0712-the-prince-of-egypt.html",
+      "id": "Elliott_0712"
+    }
+  ],
+  "Biblical Accuracy": [
+    {
+      "title": "The Prince of Egypt",
+      "page": "reviews/elliott-0712-the-prince-of-egypt.html",
+      "id": "Elliott_0712"
+    }
+  ],
+  "Witchcraft": [
+    {
+      "title": "Practical Magic",
+      "page": "reviews/elliott-0713-practical-magic.html",
+      "id": "Elliott_0713"
+    }
+  ],
+  "Magic": [
+    {
+      "title": "Practical Magic",
+      "page": "reviews/elliott-0713-practical-magic.html",
+      "id": "Elliott_0713"
+    }
+  ],
+  "Glory": [
+    {
+      "title": "Price of Glory",
+      "page": "reviews/elliott-0714-price-of-glory.html",
+      "id": "Elliott_0714"
+    }
+  ],
+  "Moral Discernment": [
+    {
+      "title": "Quills",
+      "page": "reviews/elliott-0715-quills.html",
+      "id": "Elliott_0715"
+    }
+  ],
+  "Approval": [
+    {
+      "title": "The Perfect Score",
+      "page": "reviews/elliott-0720-the-perfect-score.html",
+      "id": "Elliott_0720"
     }
   ]
 }
