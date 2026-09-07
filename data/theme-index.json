@@ -730,6 +730,16 @@
       "title": "The Opposite of Sex",
       "page": "reviews/elliott-0719-the-opposite-of-sex.html",
       "id": "Elliott_0719"
+    },
+    {
+      "title": "The Producers",
+      "page": "reviews/elliott-0742-the-producers.html",
+      "id": "Elliott_0742"
+    },
+    {
+      "title": "The Quiet American",
+      "page": "reviews/elliott-0749-the-quiet-american.html",
+      "id": "Elliott_0749"
     }
   ],
   "False Apostles": [
@@ -4070,6 +4080,11 @@
       "title": "Planet of the Apes",
       "page": "reviews/elliott-0740-planet-of-the-apes.html",
       "id": "Elliott_0740"
+    },
+    {
+      "title": "Pearl Harbor",
+      "page": "reviews/elliott-0746-pearl-harbor.html",
+      "id": "Elliott_0746"
     }
   ],
   "Self-fulfilling Expectations": [
@@ -4477,6 +4492,11 @@
       "title": "My Baby's Daddy",
       "page": "reviews/elliott-0662-my-baby-s-daddy.html",
       "id": "Elliott_0662"
+    },
+    {
+      "title": "Snow Day",
+      "page": "reviews/elliott-0750-snow-day.html",
+      "id": "Elliott_0750"
     }
   ],
   "Shepherding": [
@@ -5245,6 +5265,11 @@
       "title": "Osmosis Jones",
       "page": "reviews/elliott-0695-osmosis-jones.html",
       "id": "Elliott_0695"
+    },
+    {
+      "title": "The Passion of the Christ",
+      "page": "reviews/elliott-0744-the-passion-of-the-christ.html",
+      "id": "Elliott_0744"
     }
   ],
   "God's Promise": [
@@ -5518,6 +5543,11 @@
       "title": "Mercury Rising",
       "page": "reviews/elliott-0635-mercury-rising.html",
       "id": "Elliott_0635"
+    },
+    {
+      "title": "The Passion of the Christ",
+      "page": "reviews/elliott-0744-the-passion-of-the-christ.html",
+      "id": "Elliott_0744"
     }
   ],
   "Giving One's Life": [
@@ -7612,6 +7642,11 @@
       "title": "Play It To The Bone",
       "page": "reviews/elliott-0718-play-it-to-the-bone.html",
       "id": "Elliott_0718"
+    },
+    {
+      "title": "The Pursuit of Happyness",
+      "page": "reviews/elliott-0745-the-pursuit-of-happyness.html",
+      "id": "Elliott_0745"
     }
   ],
   "Teaching": [
@@ -7653,6 +7688,11 @@
       "title": "The One",
       "page": "reviews/elliott-0706-the-one.html",
       "id": "Elliott_0706"
+    },
+    {
+      "title": "The Perfect Storm",
+      "page": "reviews/elliott-0748-the-perfect-storm.html",
+      "id": "Elliott_0748"
     }
   ],
   "God as the Source of Power": [
@@ -8969,6 +9009,11 @@
       "title": "The Bourne Supremacy",
       "page": "reviews/elliott-0275-the-bourne-supremacy.html",
       "id": "Elliott_0275"
+    },
+    {
+      "title": "Snow Day",
+      "page": "reviews/elliott-0750-snow-day.html",
+      "id": "Elliott_0750"
     }
   ],
   "Overcoming Limitations": [
@@ -10052,6 +10097,11 @@
       "title": "Ice Princess",
       "page": "reviews/elliott-0560-ice-princess.html",
       "id": "Elliott_0560"
+    },
+    {
+      "title": "The Prestige",
+      "page": "reviews/elliott-0747-the-prestige.html",
+      "id": "Elliott_0747"
     }
   ],
   "Mistakes": [
@@ -10826,6 +10876,11 @@
       "title": "Meet Joe Black",
       "page": "reviews/elliott-0649-meet-joe-black.html",
       "id": "Elliott_0649"
+    },
+    {
+      "title": "Pearl Harbor",
+      "page": "reviews/elliott-0746-pearl-harbor.html",
+      "id": "Elliott_0746"
     }
   ],
   "Resisting Temptation": [
@@ -12405,6 +12460,11 @@
       "title": "Planet of the Apes",
       "page": "reviews/elliott-0740-planet-of-the-apes.html",
       "id": "Elliott_0740"
+    },
+    {
+      "title": "The Passion of the Christ",
+      "page": "reviews/elliott-0744-the-passion-of-the-christ.html",
+      "id": "Elliott_0744"
     }
   ],
   "Biblical Order": [
@@ -13521,6 +13581,11 @@
       "title": "Fahrenheit 9/11",
       "page": "reviews/elliott-0459-fahrenheit-9-11.html",
       "id": "Elliott_0459"
+    },
+    {
+      "title": "The Quiet American",
+      "page": "reviews/elliott-0749-the-quiet-american.html",
+      "id": "Elliott_0749"
     }
   ],
   "Glorifying God": [
@@ -13878,6 +13943,11 @@
       "title": "Love and Death on Long Island",
       "page": "reviews/elliott-0582-love-and-death-on-long-island.html",
       "id": "Elliott_0582"
+    },
+    {
+      "title": "The Prestige",
+      "page": "reviews/elliott-0747-the-prestige.html",
+      "id": "Elliott_0747"
     }
   ],
   "Spiritual Race": [
@@ -14647,6 +14717,20 @@
       "title": "The Prince & Me",
       "page": "reviews/elliott-0739-the-prince-me.html",
       "id": "Elliott_0739"
+    }
+  ],
+  "Moderation": [
+    {
+      "title": "The Prestige",
+      "page": "reviews/elliott-0747-the-prestige.html",
+      "id": "Elliott_0747"
+    }
+  ],
+  "Nature": [
+    {
+      "title": "The Perfect Storm",
+      "page": "reviews/elliott-0748-the-perfect-storm.html",
+      "id": "Elliott_0748"
     }
   ]
 }
