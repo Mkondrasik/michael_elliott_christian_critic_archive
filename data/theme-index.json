@@ -350,6 +350,21 @@
       "title": "The Stepford Wives",
       "page": "reviews/elliott-0801-the-stepford-wives.html",
       "id": "Elliott_0801"
+    },
+    {
+      "title": "Stepmom",
+      "page": "reviews/elliott-0812-stepmom.html",
+      "id": "Elliott_0812"
+    },
+    {
+      "title": "Stuck on You",
+      "page": "reviews/elliott-0816-stuck-on-you.html",
+      "id": "Elliott_0816"
+    },
+    {
+      "title": "Something's Gotta Give",
+      "page": "reviews/elliott-0817-something-s-gotta-give.html",
+      "id": "Elliott_0817"
     }
   ],
   "Courtship and Chivalry": [
@@ -648,6 +663,11 @@
       "title": "Spin",
       "page": "reviews/elliott-0781-spin.html",
       "id": "Elliott_0781"
+    },
+    {
+      "title": "Stepmom",
+      "page": "reviews/elliott-0812-stepmom.html",
+      "id": "Elliott_0812"
     }
   ],
   "Belonging": [
@@ -815,6 +835,11 @@
       "title": "She's the Man",
       "page": "reviews/elliott-0796-she-s-the-man.html",
       "id": "Elliott_0796"
+    },
+    {
+      "title": "Shattered Glass",
+      "page": "reviews/elliott-0813-shattered-glass.html",
+      "id": "Elliott_0813"
     }
   ],
   "False Apostles": [
@@ -1525,6 +1550,11 @@
       "title": "Serenity",
       "page": "reviews/elliott-0808-serenity.html",
       "id": "Elliott_0808"
+    },
+    {
+      "title": "Star Wars: Episode 1 - The Phantom Menace",
+      "page": "reviews/elliott-0815-star-wars-episode-1-the-phantom-menace.html",
+      "id": "Elliott_0815"
     }
   ],
   "Death and Afterlife": [
@@ -2503,6 +2533,11 @@
       "title": "Saved!",
       "page": "reviews/elliott-0809-saved.html",
       "id": "Elliott_0809"
+    },
+    {
+      "title": "Shattered Glass",
+      "page": "reviews/elliott-0813-shattered-glass.html",
+      "id": "Elliott_0813"
     }
   ],
   "God's Provision": [
@@ -3229,6 +3264,11 @@
       "title": "One Night at McCool's",
       "page": "reviews/elliott-0716-one-night-at-mccool-s.html",
       "id": "Elliott_0716"
+    },
+    {
+      "title": "Star Wars Episode II: Attack of the Clones",
+      "page": "reviews/elliott-0814-star-wars-episode-ii-attack-of-the-clones.html",
+      "id": "Elliott_0814"
     }
   ],
   "Moral Compromise": [
@@ -3908,6 +3948,11 @@
       "title": "The Princess Diaries 2: Royal Engagement",
       "page": "reviews/elliott-0701-the-princess-diaries-2-royal-engagement.html",
       "id": "Elliott_0701"
+    },
+    {
+      "title": "Stuck on You",
+      "page": "reviews/elliott-0816-stuck-on-you.html",
+      "id": "Elliott_0816"
     }
   ],
   "Gifts": [
@@ -4045,6 +4090,11 @@
       "title": "Analyze This",
       "page": "reviews/elliott-0255-analyze-this.html",
       "id": "Elliott_0255"
+    },
+    {
+      "title": "Star Wars Episode II: Attack of the Clones",
+      "page": "reviews/elliott-0814-star-wars-episode-ii-attack-of-the-clones.html",
+      "id": "Elliott_0814"
     }
   ],
   "Self-deception": [
@@ -6844,6 +6894,16 @@
       "title": "The Sweetest Thing",
       "page": "reviews/elliott-0760-the-sweetest-thing.html",
       "id": "Elliott_0760"
+    },
+    {
+      "title": "Shattered Glass",
+      "page": "reviews/elliott-0813-shattered-glass.html",
+      "id": "Elliott_0813"
+    },
+    {
+      "title": "Spartan",
+      "page": "reviews/elliott-0819-spartan.html",
+      "id": "Elliott_0819"
     }
   ],
   "Compromise": [
@@ -7396,6 +7456,16 @@
       "title": "Serenity",
       "page": "reviews/elliott-0808-serenity.html",
       "id": "Elliott_0808"
+    },
+    {
+      "title": "Star Wars: Episode 1 - The Phantom Menace",
+      "page": "reviews/elliott-0815-star-wars-episode-1-the-phantom-menace.html",
+      "id": "Elliott_0815"
+    },
+    {
+      "title": "Spartan",
+      "page": "reviews/elliott-0819-spartan.html",
+      "id": "Elliott_0819"
     }
   ],
   "Choice": [
@@ -7850,6 +7920,11 @@
       "title": "Saving Private Ryan",
       "page": "reviews/elliott-0792-saving-private-ryan.html",
       "id": "Elliott_0792"
+    },
+    {
+      "title": "Star Trek - Insurrection",
+      "page": "reviews/elliott-0811-star-trek-insurrection.html",
+      "id": "Elliott_0811"
     }
   ],
   "Parental Love": [
@@ -8344,6 +8419,11 @@
       "title": "Deep Impact",
       "page": "reviews/elliott-0393-deep-impact.html",
       "id": "Elliott_0393"
+    },
+    {
+      "title": "Star Trek - Insurrection",
+      "page": "reviews/elliott-0811-star-trek-insurrection.html",
+      "id": "Elliott_0811"
     }
   ],
   "Living by God’s Word": [
@@ -9202,6 +9282,11 @@
       "title": "Starsky & Hutch",
       "page": "reviews/elliott-0788-starsky-hutch.html",
       "id": "Elliott_0788"
+    },
+    {
+      "title": "The Station Agent",
+      "page": "reviews/elliott-0818-the-station-agent.html",
+      "id": "Elliott_0818"
     }
   ],
   "Choosing Friends Wisely": [
@@ -9715,6 +9800,11 @@
       "title": "Something New",
       "page": "reviews/elliott-0798-something-new.html",
       "id": "Elliott_0798"
+    },
+    {
+      "title": "The Station Agent",
+      "page": "reviews/elliott-0818-the-station-agent.html",
+      "id": "Elliott_0818"
     }
   ],
   "Mutual Support": [
@@ -9883,6 +9973,11 @@
       "title": "Napoleon Dynamite",
       "page": "reviews/elliott-0699-napoleon-dynamite.html",
       "id": "Elliott_0699"
+    },
+    {
+      "title": "The Station Agent",
+      "page": "reviews/elliott-0818-the-station-agent.html",
+      "id": "Elliott_0818"
     }
   ],
   "Seeing Beyond the Surface": [
@@ -10677,6 +10772,11 @@
       "title": "Andrew Lloyd Webber's The Phantom of the Opera",
       "page": "reviews/elliott-0172-andrew-lloyd-webber-s-the-phantom-of-the-opera.html",
       "id": "Elliott_0172"
+    },
+    {
+      "title": "Shrek 2",
+      "page": "reviews/elliott-0820-shrek-2.html",
+      "id": "Elliott_0820"
     }
   ],
   "Heart": [
@@ -11948,6 +12048,11 @@
       "title": "Saved!",
       "page": "reviews/elliott-0809-saved.html",
       "id": "Elliott_0809"
+    },
+    {
+      "title": "Shrek 2",
+      "page": "reviews/elliott-0820-shrek-2.html",
+      "id": "Elliott_0820"
     }
   ],
   "False Images": [
@@ -13279,6 +13384,11 @@
       "title": "The Bourne Ultimatum",
       "page": "reviews/elliott-0315-the-bourne-ultimatum.html",
       "id": "Elliott_0315"
+    },
+    {
+      "title": "Star Wars Episode II: Attack of the Clones",
+      "page": "reviews/elliott-0814-star-wars-episode-ii-attack-of-the-clones.html",
+      "id": "Elliott_0814"
     }
   ],
   "Winning": [
@@ -13321,6 +13431,11 @@
       "title": "The Crew",
       "page": "reviews/elliott-0322-the-crew.html",
       "id": "Elliott_0322"
+    },
+    {
+      "title": "Something's Gotta Give",
+      "page": "reviews/elliott-0817-something-s-gotta-give.html",
+      "id": "Elliott_0817"
     }
   ],
   "Respect for Elders": [
@@ -13879,6 +13994,11 @@
       "title": "The Matador",
       "page": "reviews/elliott-0674-the-matador.html",
       "id": "Elliott_0674"
+    },
+    {
+      "title": "Something's Gotta Give",
+      "page": "reviews/elliott-0817-something-s-gotta-give.html",
+      "id": "Elliott_0817"
     }
   ],
   "Two by Two": [
@@ -14026,6 +14146,11 @@
       "title": "Maid in Manhattan",
       "page": "reviews/elliott-0653-maid-in-manhattan.html",
       "id": "Elliott_0653"
+    },
+    {
+      "title": "Shrek 2",
+      "page": "reviews/elliott-0820-shrek-2.html",
+      "id": "Elliott_0820"
     }
   ],
   "Infidelity": [
@@ -14313,6 +14438,11 @@
       "title": "Godzilla",
       "page": "reviews/elliott-0466-godzilla.html",
       "id": "Elliott_0466"
+    },
+    {
+      "title": "Star Trek - Insurrection",
+      "page": "reviews/elliott-0811-star-trek-insurrection.html",
+      "id": "Elliott_0811"
     }
   ],
   "Tolerance": [
@@ -15644,6 +15774,34 @@
       "title": "Sin City",
       "page": "reviews/elliott-0806-sin-city.html",
       "id": "Elliott_0806"
+    }
+  ],
+  "Long-Suffering": [
+    {
+      "title": "Stepmom",
+      "page": "reviews/elliott-0812-stepmom.html",
+      "id": "Elliott_0812"
+    }
+  ],
+  "Good vs. Evil": [
+    {
+      "title": "Star Wars: Episode 1 - The Phantom Menace",
+      "page": "reviews/elliott-0815-star-wars-episode-1-the-phantom-menace.html",
+      "id": "Elliott_0815"
+    }
+  ],
+  "One Flesh": [
+    {
+      "title": "Stuck on You",
+      "page": "reviews/elliott-0816-stuck-on-you.html",
+      "id": "Elliott_0816"
+    }
+  ],
+  "Higher Authority": [
+    {
+      "title": "Spartan",
+      "page": "reviews/elliott-0819-spartan.html",
+      "id": "Elliott_0819"
     }
   ]
 }
