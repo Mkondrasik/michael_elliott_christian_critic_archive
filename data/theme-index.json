@@ -377,6 +377,13 @@
       "id": "Elliott_0609"
     }
   ],
+  "Apocalypse": [
+    {
+      "title": "Revelation: Apocalypse II",
+      "page": "reviews/elliott-0857-revelation-apocalypse-ii.html",
+      "id": "Elliott_0857"
+    }
+  ],
   "Appearance": [
     {
       "title": "Deuce Bigalow: European Gigolo",
@@ -713,6 +720,11 @@
       "title": "Secondhand Lions",
       "page": "reviews/elliott-0835-secondhand-lions.html",
       "id": "Elliott_0835"
+    },
+    {
+      "title": "Revelation: Apocalypse II",
+      "page": "reviews/elliott-0857-revelation-apocalypse-ii.html",
+      "id": "Elliott_0857"
     }
   ],
   "Belonging": [
@@ -1161,11 +1173,25 @@
       "id": "Elliott_0762"
     }
   ],
+  "Child-Rearing": [
+    {
+      "title": "The Royal Tenenbaums",
+      "page": "reviews/elliott-0854-the-royal-tenenbaums.html",
+      "id": "Elliott_0854"
+    }
+  ],
   "Childhood": [
     {
       "title": "Superbabies: Baby Geniuses 2",
       "page": "reviews/elliott-0783-superbabies-baby-geniuses-2.html",
       "id": "Elliott_0783"
+    }
+  ],
+  "Childishness": [
+    {
+      "title": "Recess: School's Out",
+      "page": "reviews/elliott-0855-recess-schools-out.html",
+      "id": "Elliott_0855"
     }
   ],
   "Childlike Belief": [
@@ -1327,6 +1353,11 @@
       "title": "Michael Clayton",
       "page": "reviews/elliott-0685-michael-clayton.html",
       "id": "Elliott_0685"
+    },
+    {
+      "title": "Return to Paradise",
+      "page": "reviews/elliott-0859-return-to-paradise.html",
+      "id": "Elliott_0859"
     }
   ],
   "Choices and Consequences": [
@@ -3519,6 +3550,13 @@
       "id": "Elliott_0071"
     }
   ],
+  "Earth": [
+    {
+      "title": "Red Planet",
+      "page": "reviews/elliott-0856-red-planet.html",
+      "id": "Elliott_0856"
+    }
+  ],
   "Edification": [
     {
       "title": "Punch Drunk Love",
@@ -3573,6 +3611,11 @@
       "title": "Slackers",
       "page": "reviews/elliott-0762-slackers.html",
       "id": "Elliott_0762"
+    },
+    {
+      "title": "Rushmore",
+      "page": "reviews/elliott-0858-rushmore.html",
+      "id": "Elliott_0858"
     }
   ],
   "Ego": [
@@ -3715,6 +3758,11 @@
       "title": "Starsky & Hutch",
       "page": "reviews/elliott-0788-starsky-hutch.html",
       "id": "Elliott_0788"
+    },
+    {
+      "title": "Reversal",
+      "page": "reviews/elliott-0851-reversal.html",
+      "id": "Elliott_0851"
     }
   ],
   "End of Days": [
@@ -3722,6 +3770,11 @@
       "title": "Armageddon",
       "page": "reviews/elliott-0230-armageddon.html",
       "id": "Elliott_0230"
+    },
+    {
+      "title": "Revelation: Apocalypse II",
+      "page": "reviews/elliott-0857-revelation-apocalypse-ii.html",
+      "id": "Elliott_0857"
     }
   ],
   "End Times": [
@@ -4752,6 +4805,16 @@
       "title": "Spin",
       "page": "reviews/elliott-0781-spin.html",
       "id": "Elliott_0781"
+    },
+    {
+      "title": "Reversal",
+      "page": "reviews/elliott-0851-reversal.html",
+      "id": "Elliott_0851"
+    },
+    {
+      "title": "The Royal Tenenbaums",
+      "page": "reviews/elliott-0854-the-royal-tenenbaums.html",
+      "id": "Elliott_0854"
     }
   ],
   "Fathers": [
@@ -4911,6 +4974,11 @@
       "title": "The Siege",
       "page": "reviews/elliott-0830-the-siege.html",
       "id": "Elliott_0830"
+    },
+    {
+      "title": "Reign of Fire",
+      "page": "reviews/elliott-0852-reign-of-fire.html",
+      "id": "Elliott_0852"
     }
   ],
   "Fear of God": [
@@ -5507,6 +5575,13 @@
       "title": "Paycheck",
       "page": "reviews/elliott-0721-paycheck.html",
       "id": "Elliott_0721"
+    }
+  ],
+  "Gambling": [
+    {
+      "title": "Rounders",
+      "page": "reviews/elliott-0860-rounders.html",
+      "id": "Elliott_0860"
     }
   ],
   "Gender": [
@@ -6375,6 +6450,11 @@
       "title": "A Simple Plan",
       "page": "reviews/elliott-0841-a-simple-plan.html",
       "id": "Elliott_0841"
+    },
+    {
+      "title": "Rounders",
+      "page": "reviews/elliott-0860-rounders.html",
+      "id": "Elliott_0860"
     }
   ],
   "Grief": [
@@ -7360,6 +7440,11 @@
       "title": "Dungeons & Dragons",
       "page": "reviews/elliott-0398-dungeons-and-dragons.html",
       "id": "Elliott_0398"
+    },
+    {
+      "title": "Recess: School's Out",
+      "page": "reviews/elliott-0855-recess-schools-out.html",
+      "id": "Elliott_0855"
     }
   ],
   "Imitation": [
@@ -8780,6 +8865,11 @@
       "title": "A Simple Plan",
       "page": "reviews/elliott-0841-a-simple-plan.html",
       "id": "Elliott_0841"
+    },
+    {
+      "title": "Rounders",
+      "page": "reviews/elliott-0860-rounders.html",
+      "id": "Elliott_0860"
     }
   ],
   "Love Your Neighbor": [
@@ -9448,6 +9538,13 @@
       "title": "8 MM",
       "page": "reviews/elliott-0431-8-mm.html",
       "id": "Elliott_0431"
+    }
+  ],
+  "Moral Dilemma": [
+    {
+      "title": "Return to Paradise",
+      "page": "reviews/elliott-0859-return-to-paradise.html",
+      "id": "Elliott_0859"
     }
   ],
   "Moral Discernment": [
@@ -10348,6 +10445,11 @@
       "title": "The Guardian",
       "page": "reviews/elliott-0489-the-guardian.html",
       "id": "Elliott_0489"
+    },
+    {
+      "title": "The Royal Tenenbaums",
+      "page": "reviews/elliott-0854-the-royal-tenenbaums.html",
+      "id": "Elliott_0854"
     }
   ],
   "Peer Pressure": [
@@ -10911,6 +11013,11 @@
       "title": "The Man",
       "page": "reviews/elliott-0632-the-man.html",
       "id": "Elliott_0632"
+    },
+    {
+      "title": "Rushmore",
+      "page": "reviews/elliott-0858-rushmore.html",
+      "id": "Elliott_0858"
     }
   ],
   "Problem of Evil": [
@@ -11316,6 +11423,11 @@
       "title": "The Limey",
       "page": "reviews/elliott-0136-the-limey.html",
       "id": "Elliott_0136"
+    },
+    {
+      "title": "Rushmore",
+      "page": "reviews/elliott-0858-rushmore.html",
+      "id": "Elliott_0858"
     }
   ],
   "Redemption": [
@@ -12394,6 +12506,11 @@
       "title": "Saving Private Ryan",
       "page": "reviews/elliott-0792-saving-private-ryan.html",
       "id": "Elliott_0792"
+    },
+    {
+      "title": "Return to Paradise",
+      "page": "reviews/elliott-0859-return-to-paradise.html",
+      "id": "Elliott_0859"
     }
   ],
   "Safety": [
@@ -12485,6 +12602,11 @@
       "title": "Star Trek - Insurrection",
       "page": "reviews/elliott-0811-star-trek-insurrection.html",
       "id": "Elliott_0811"
+    },
+    {
+      "title": "Red Planet",
+      "page": "reviews/elliott-0856-red-planet.html",
+      "id": "Elliott_0856"
     }
   ],
   "Satan": [
@@ -13336,6 +13458,18 @@
       "id": "Elliott_0375"
     }
   ],
+  "Spiritual Combat": [
+    {
+      "title": "Reign of Fire",
+      "page": "reviews/elliott-0852-reign-of-fire.html",
+      "id": "Elliott_0852"
+    },
+    {
+      "title": "Resident Evil",
+      "page": "reviews/elliott-0853-resident-evil.html",
+      "id": "Elliott_0853"
+    }
+  ],
   "Spiritual Competition": [
     {
       "title": "BASEketball",
@@ -13641,6 +13775,11 @@
       "title": "The Green Mile",
       "page": "reviews/elliott-0484-the-green-mile.html",
       "id": "Elliott_0484"
+    },
+    {
+      "title": "Resident Evil",
+      "page": "reviews/elliott-0853-resident-evil.html",
+      "id": "Elliott_0853"
     }
   ],
   "Spiritual Protection": [
@@ -14002,6 +14141,11 @@
       "title": "Lost in Space",
       "page": "reviews/elliott-0583-lost-in-space.html",
       "id": "Elliott_0583"
+    },
+    {
+      "title": "Red Planet",
+      "page": "reviews/elliott-0856-red-planet.html",
+      "id": "Elliott_0856"
     }
   ],
   "Stewardship of Life": [
@@ -14579,6 +14723,16 @@
       "title": "The Avengers",
       "page": "reviews/elliott-0252-the-avengers.html",
       "id": "Elliott_0252"
+    },
+    {
+      "title": "Reign of Fire",
+      "page": "reviews/elliott-0852-reign-of-fire.html",
+      "id": "Elliott_0852"
+    },
+    {
+      "title": "Resident Evil",
+      "page": "reviews/elliott-0853-resident-evil.html",
+      "id": "Elliott_0853"
     }
   ],
   "The Future": [
@@ -16261,6 +16415,11 @@
       "title": "Sleepover",
       "page": "reviews/elliott-0784-sleepover.html",
       "id": "Elliott_0784"
+    },
+    {
+      "title": "Recess: School's Out",
+      "page": "reviews/elliott-0855-recess-schools-out.html",
+      "id": "Elliott_0855"
     }
   ],
   "Zeal": [
@@ -16268,6 +16427,11 @@
       "title": "School of Rock",
       "page": "reviews/elliott-0836-school-of-rock.html",
       "id": "Elliott_0836"
+    },
+    {
+      "title": "Reversal",
+      "page": "reviews/elliott-0851-reversal.html",
+      "id": "Elliott_0851"
     }
   ]
 }
