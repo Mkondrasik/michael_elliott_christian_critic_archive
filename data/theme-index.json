@@ -200,6 +200,13 @@
       "id": "Elliott_0468"
     }
   ],
+  "Adultery": [
+    {
+      "title": "Town & County",
+      "page": "reviews/elliott-0900-town-county.html",
+      "id": "Elliott_0900"
+    }
+  ],
   "Adversity": [
     {
       "title": "Lemony Snicket's A Series of Unfortunate Events",
@@ -310,6 +317,11 @@
       "title": "Sweet Smell of Success (1957)",
       "page": "reviews/elliott-0850-sweet-smell-of-success-1957.html",
       "id": "Elliott_0850"
+    },
+    {
+      "title": "Van Wilder",
+      "page": "reviews/elliott-0898-van-wilder.html",
+      "id": "Elliott_0898"
     }
   ],
   "Angels": [
@@ -329,6 +341,11 @@
       "title": "Dirt",
       "page": "reviews/elliott-0410-dirt.html",
       "id": "Elliott_0410"
+    },
+    {
+      "title": "28 Days Later",
+      "page": "reviews/elliott-0892-28-days-later.html",
+      "id": "Elliott_0892"
     }
   ],
   "Animals": [
@@ -1410,6 +1427,11 @@
       "title": "Return to Paradise",
       "page": "reviews/elliott-0859-return-to-paradise.html",
       "id": "Elliott_0859"
+    },
+    {
+      "title": "25th Hour",
+      "page": "reviews/elliott-0895-25th-hour.html",
+      "id": "Elliott_0895"
     }
   ],
   "Choices and Consequences": [
@@ -1900,6 +1922,11 @@
       "title": "The Spitfire Grill",
       "page": "reviews/elliott-0775-the-spitfire-grill.html",
       "id": "Elliott_0775"
+    },
+    {
+      "title": "Tears of the Sun",
+      "page": "reviews/elliott-0894-tears-of-the-sun.html",
+      "id": "Elliott_0894"
     }
   ],
   "Competition": [
@@ -2152,6 +2179,11 @@
       "title": "3000 Miles to Graceland",
       "page": "reviews/elliott-0882-3000-miles-to-graceland.html",
       "id": "Elliott_0882"
+    },
+    {
+      "title": "25th Hour",
+      "page": "reviews/elliott-0895-25th-hour.html",
+      "id": "Elliott_0895"
     }
   ],
   "Contentiousness": [
@@ -2948,6 +2980,11 @@
       "title": "Sahara",
       "page": "reviews/elliott-0790-sahara.html",
       "id": "Elliott_0790"
+    },
+    {
+      "title": "Trapped",
+      "page": "reviews/elliott-0896-trapped.html",
+      "id": "Elliott_0896"
     }
   ],
   "Demonic Possession": [
@@ -3641,6 +3678,11 @@
       "title": "Raise Your Voice",
       "page": "reviews/elliott-0877-raise-your-voice.html",
       "id": "Elliott_0877"
+    },
+    {
+      "title": "A View From The Top",
+      "page": "reviews/elliott-0893-a-view-from-the-top.html",
+      "id": "Elliott_0893"
     }
   ],
   "Drug Use": [
@@ -3994,6 +4036,11 @@
       "title": "The Pursuit of Happyness",
       "page": "reviews/elliott-0745-the-pursuit-of-happyness.html",
       "id": "Elliott_0745"
+    },
+    {
+      "title": "The Time Machine",
+      "page": "reviews/elliott-0899-the-time-machine.html",
+      "id": "Elliott_0899"
     }
   ],
   "Entertainment and Responsibility": [
@@ -4103,6 +4150,11 @@
       "title": "Red Eye",
       "page": "reviews/elliott-0867-red-eye.html",
       "id": "Elliott_0867"
+    },
+    {
+      "title": "Trapped",
+      "page": "reviews/elliott-0896-trapped.html",
+      "id": "Elliott_0896"
     }
   ],
   "Esther": [
@@ -4547,6 +4599,11 @@
       "title": "Rabbit Proof Fence",
       "page": "reviews/elliott-0863-rabbit-proof-fence.html",
       "id": "Elliott_0863"
+    },
+    {
+      "title": "Time Changer",
+      "page": "reviews/elliott-0897-time-changer.html",
+      "id": "Elliott_0897"
     }
   ],
   "Faith Against Odds": [
@@ -5371,6 +5428,11 @@
       "title": "Jackass: The Movie",
       "page": "reviews/elliott-0524-jackass-the-movie.html",
       "id": "Elliott_0524"
+    },
+    {
+      "title": "Van Wilder",
+      "page": "reviews/elliott-0898-van-wilder.html",
+      "id": "Elliott_0898"
     }
   ],
   "Fools": [
@@ -5750,6 +5812,13 @@
       "id": "Elliott_0691"
     }
   ],
+  "Fundamentals": [
+    {
+      "title": "Uptown Girls",
+      "page": "reviews/elliott-0891-uptown-girls.html",
+      "id": "Elliott_0891"
+    }
+  ],
   "Future": [
     {
       "title": "Paycheck",
@@ -5956,6 +6025,11 @@
       "title": "Rudy (1993)",
       "page": "reviews/elliott-0871-rudy-1993.html",
       "id": "Elliott_0871"
+    },
+    {
+      "title": "A View From The Top",
+      "page": "reviews/elliott-0893-a-view-from-the-top.html",
+      "id": "Elliott_0893"
     }
   ],
   "God": [
@@ -6025,6 +6099,13 @@
       "title": "102 Dalmatians",
       "page": "reviews/elliott-0161-102-dalmatians.html",
       "id": "Elliott_0161"
+    }
+  ],
+  "God's Creation": [
+    {
+      "title": "The Time Machine",
+      "page": "reviews/elliott-0899-the-time-machine.html",
+      "id": "Elliott_0899"
     }
   ],
   "God's Definition of Love": [
@@ -6753,6 +6834,11 @@
       "title": "Orange County",
       "page": "reviews/elliott-0692-orange-county.html",
       "id": "Elliott_0692"
+    },
+    {
+      "title": "Uptown Girls",
+      "page": "reviews/elliott-0891-uptown-girls.html",
+      "id": "Elliott_0891"
     }
   ],
   "Guarding the Mind": [
@@ -8141,6 +8227,11 @@
       "title": "Superman Returns",
       "page": "reviews/elliott-0810-superman-returns.html",
       "id": "Elliott_0810"
+    },
+    {
+      "title": "Time Changer",
+      "page": "reviews/elliott-0897-time-changer.html",
+      "id": "Elliott_0897"
     }
   ],
   "Joy": [
@@ -9421,6 +9512,11 @@
       "title": "Tumbleweeds",
       "page": "reviews/elliott-0887-tumbleweeds.html",
       "id": "Elliott_0887"
+    },
+    {
+      "title": "Town & County",
+      "page": "reviews/elliott-0900-town-county.html",
+      "id": "Elliott_0900"
     }
   ],
   "Material Wealth": [
@@ -9497,6 +9593,11 @@
       "title": "Sleepover",
       "page": "reviews/elliott-0784-sleepover.html",
       "id": "Elliott_0784"
+    },
+    {
+      "title": "Uptown Girls",
+      "page": "reviews/elliott-0891-uptown-girls.html",
+      "id": "Elliott_0891"
     }
   ],
   "Meaning": [
@@ -9835,6 +9936,13 @@
       "id": "Elliott_0368"
     }
   ],
+  "Moral Obligation": [
+    {
+      "title": "Tears of the Sun",
+      "page": "reviews/elliott-0894-tears-of-the-sun.html",
+      "id": "Elliott_0894"
+    }
+  ],
   "Moral Standards": [
     {
       "title": "Ocean's Eleven",
@@ -9902,6 +10010,11 @@
       "title": "Scary Movie 4",
       "page": "reviews/elliott-0797-scary-movie-4.html",
       "id": "Elliott_0797"
+    },
+    {
+      "title": "Time Changer",
+      "page": "reviews/elliott-0897-time-changer.html",
+      "id": "Elliott_0897"
     }
   ],
   "Mortality": [
@@ -11002,6 +11115,11 @@
       "title": "Topsy Turvy",
       "page": "reviews/elliott-0888-topsy-turvy.html",
       "id": "Elliott_0888"
+    },
+    {
+      "title": "A View From The Top",
+      "page": "reviews/elliott-0893-a-view-from-the-top.html",
+      "id": "Elliott_0893"
     }
   ],
   "Personal Transformation": [
@@ -11690,6 +11808,13 @@
       "id": "Elliott_0768"
     }
   ],
+  "Rage": [
+    {
+      "title": "28 Days Later",
+      "page": "reviews/elliott-0892-28-days-later.html",
+      "id": "Elliott_0892"
+    }
+  ],
   "Raising Children": [
     {
       "title": "Almost Famous",
@@ -11716,6 +11841,11 @@
       "title": "Anger Management",
       "page": "reviews/elliott-0238-anger-management.html",
       "id": "Elliott_0238"
+    },
+    {
+      "title": "28 Days Later",
+      "page": "reviews/elliott-0892-28-days-later.html",
+      "id": "Elliott_0892"
     }
   ],
   "Reconciliation": [
@@ -12271,6 +12401,11 @@
       "title": "The Day of the Beast",
       "page": "reviews/elliott-0392-the-day-of-the-beast.html",
       "id": "Elliott_0392"
+    },
+    {
+      "title": "Tears of the Sun",
+      "page": "reviews/elliott-0894-tears-of-the-sun.html",
+      "id": "Elliott_0894"
     }
   ],
   "Resisting Temptation": [
@@ -12465,6 +12600,11 @@
       "title": "Raising Helen",
       "page": "reviews/elliott-0878-raising-helen.html",
       "id": "Elliott_0878"
+    },
+    {
+      "title": "Van Wilder",
+      "page": "reviews/elliott-0898-van-wilder.html",
+      "id": "Elliott_0898"
     }
   ],
   "Rest": [
@@ -13717,6 +13857,11 @@
       "title": "The Curve",
       "page": "reviews/elliott-0324-the-curve.html",
       "id": "Elliott_0324"
+    },
+    {
+      "title": "25th Hour",
+      "page": "reviews/elliott-0895-25th-hour.html",
+      "id": "Elliott_0895"
     }
   ],
   "Speaking the Truth": [
@@ -15047,6 +15192,11 @@
       "title": "Six Days, Seven Nights",
       "page": "reviews/elliott-0842-six-days-seven-nights.html",
       "id": "Elliott_0842"
+    },
+    {
+      "title": "Town & County",
+      "page": "reviews/elliott-0900-town-county.html",
+      "id": "Elliott_0900"
     }
   ],
   "Ten Commandments": [
@@ -15367,6 +15517,11 @@
       "title": "Minority Report",
       "page": "reviews/elliott-0682-minority-report.html",
       "id": "Elliott_0682"
+    },
+    {
+      "title": "The Time Machine",
+      "page": "reviews/elliott-0899-the-time-machine.html",
+      "id": "Elliott_0899"
     }
   ],
   "Tithing": [
@@ -15630,6 +15785,11 @@
       "title": "Tea With Mussolini",
       "page": "reviews/elliott-0890-tea-with-mussolini.html",
       "id": "Elliott_0890"
+    },
+    {
+      "title": "Trapped",
+      "page": "reviews/elliott-0896-trapped.html",
+      "id": "Elliott_0896"
     }
   ],
   "Trust and Honesty": [
