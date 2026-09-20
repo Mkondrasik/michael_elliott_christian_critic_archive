@@ -131,6 +131,11 @@
       "title": "On The Line",
       "page": "reviews/elliott-0693-on-the-line.html",
       "id": "Elliott_0693"
+    },
+    {
+      "title": "Robots",
+      "page": "reviews/elliott-0875-robots.html",
+      "id": "Elliott_0875"
     }
   ],
   "Actions": [
@@ -624,6 +629,13 @@
       "id": "Elliott_0767"
     }
   ],
+  "Behavior": [
+    {
+      "title": "RV",
+      "page": "reviews/elliott-0873-rv.html",
+      "id": "Elliott_0873"
+    }
+  ],
   "Behavior Patterns": [
     {
       "title": "After the Sunset",
@@ -735,6 +747,16 @@
       "title": "Revelation: Apocalypse II",
       "page": "reviews/elliott-0857-revelation-apocalypse-ii.html",
       "id": "Elliott_0857"
+    },
+    {
+      "title": "Rudy (1993)",
+      "page": "reviews/elliott-0871-rudy-1993.html",
+      "id": "Elliott_0871"
+    },
+    {
+      "title": "Racing Stripes",
+      "page": "reviews/elliott-0876-racing-stripes.html",
+      "id": "Elliott_0876"
     }
   ],
   "Belonging": [
@@ -957,6 +979,11 @@
       "title": "Flyboys",
       "page": "reviews/elliott-0449-flyboys.html",
       "id": "Elliott_0449"
+    },
+    {
+      "title": "Rush Hour 3",
+      "page": "reviews/elliott-0872-rush-hour-3.html",
+      "id": "Elliott_0872"
     }
   ],
   "Brotherly Love": [
@@ -1260,6 +1287,11 @@
       "title": "Soldier",
       "page": "reviews/elliott-0756-soldier.html",
       "id": "Elliott_0756"
+    },
+    {
+      "title": "Rugrats Go Wild",
+      "page": "reviews/elliott-0880-rugrats-go-wild.html",
+      "id": "Elliott_0880"
     }
   ],
   "Children as A Blessing": [
@@ -3216,6 +3248,11 @@
       "title": "Serendipity",
       "page": "reviews/elliott-0840-serendipity.html",
       "id": "Elliott_0840"
+    },
+    {
+      "title": "The Reckoning",
+      "page": "reviews/elliott-0879-the-reckoning.html",
+      "id": "Elliott_0879"
     }
   ],
   "Discipleship": [
@@ -3380,6 +3417,16 @@
       "title": "Slums of Beverly Hills",
       "page": "reviews/elliott-0844-slums-of-beverly-hills.html",
       "id": "Elliott_0844"
+    },
+    {
+      "title": "Raising Helen",
+      "page": "reviews/elliott-0878-raising-helen.html",
+      "id": "Elliott_0878"
+    },
+    {
+      "title": "Rugrats Go Wild",
+      "page": "reviews/elliott-0880-rugrats-go-wild.html",
+      "id": "Elliott_0880"
     }
   ],
   "Disciplined Thinking": [
@@ -3539,6 +3586,11 @@
       "title": "October Sky",
       "page": "reviews/elliott-0705-october-sky.html",
       "id": "Elliott_0705"
+    },
+    {
+      "title": "Raise Your Voice",
+      "page": "reviews/elliott-0877-raise-your-voice.html",
+      "id": "Elliott_0877"
     }
   ],
   "Drug Use": [
@@ -3792,6 +3844,11 @@
       "title": "Reversal",
       "page": "reviews/elliott-0851-reversal.html",
       "id": "Elliott_0851"
+    },
+    {
+      "title": "Racing Stripes",
+      "page": "reviews/elliott-0876-racing-stripes.html",
+      "id": "Elliott_0876"
     }
   ],
   "End of Days": [
@@ -4240,6 +4297,11 @@
       "title": "Kicking and Screaming",
       "page": "reviews/elliott-0578-kicking-and-screaming.html",
       "id": "Elliott_0578"
+    },
+    {
+      "title": "RV",
+      "page": "reviews/elliott-0873-rv.html",
+      "id": "Elliott_0873"
     }
   ],
   "Excellence": [
@@ -4773,6 +4835,13 @@
       "title": "My Big Fat Greek Wedding",
       "page": "reviews/elliott-0687-my-big-fat-greek-wedding.html",
       "id": "Elliott_0687"
+    }
+  ],
+  "Family Ties": [
+    {
+      "title": "Rush Hour 3",
+      "page": "reviews/elliott-0872-rush-hour-3.html",
+      "id": "Elliott_0872"
     }
   ],
   "Fantasies": [
@@ -5822,6 +5891,11 @@
       "title": "The Prince & Me",
       "page": "reviews/elliott-0739-the-prince-me.html",
       "id": "Elliott_0739"
+    },
+    {
+      "title": "Rudy (1993)",
+      "page": "reviews/elliott-0871-rudy-1993.html",
+      "id": "Elliott_0871"
     }
   ],
   "God": [
@@ -7305,6 +7379,11 @@
       "title": "Miss Congeniality 2: Armed and Fabulous",
       "page": "reviews/elliott-0668-miss-congeniality-2-armed-and-fabulous.html",
       "id": "Elliott_0668"
+    },
+    {
+      "title": "Rebound",
+      "page": "reviews/elliott-0874-rebound.html",
+      "id": "Elliott_0874"
     }
   ],
   "Humor": [
@@ -7733,6 +7812,13 @@
       "title": "Oliver Twist",
       "page": "reviews/elliott-0703-oliver-twist.html",
       "id": "Elliott_0703"
+    }
+  ],
+  "Inner Worth": [
+    {
+      "title": "Robots",
+      "page": "reviews/elliott-0875-robots.html",
+      "id": "Elliott_0875"
     }
   ],
   "Inspiration": [
@@ -9411,6 +9497,11 @@
       "title": "Star Wars III: Revenge of the Sith",
       "page": "reviews/elliott-0807-star-wars-iii-revenge-of-the-sith.html",
       "id": "Elliott_0807"
+    },
+    {
+      "title": "Rebound",
+      "page": "reviews/elliott-0874-rebound.html",
+      "id": "Elliott_0874"
     }
   ],
   "Members of the Body": [
@@ -9742,6 +9833,11 @@
       "title": "Carman: The Champion",
       "page": "reviews/elliott-0378-carman-the-champion.html",
       "id": "Elliott_0378"
+    },
+    {
+      "title": "Rebound",
+      "page": "reviews/elliott-0874-rebound.html",
+      "id": "Elliott_0874"
     }
   ],
   "Moving Forward": [
@@ -9827,6 +9923,13 @@
       "id": "Elliott_0748"
     }
   ],
+  "Need": [
+    {
+      "title": "Robots",
+      "page": "reviews/elliott-0875-robots.html",
+      "id": "Elliott_0875"
+    }
+  ],
   "Needs": [
     {
       "title": "Godzilla",
@@ -9839,6 +9942,13 @@
       "title": "Josie and the Pussycats",
       "page": "reviews/elliott-0534-josie-and-the-pussycats.html",
       "id": "Elliott_0534"
+    }
+  ],
+  "Negativity": [
+    {
+      "title": "Racing Stripes",
+      "page": "reviews/elliott-0876-racing-stripes.html",
+      "id": "Elliott_0876"
     }
   ],
   "New Age": [
@@ -10405,6 +10515,16 @@
       "title": "Small Soldiers",
       "page": "reviews/elliott-0845-small-soldiers.html",
       "id": "Elliott_0845"
+    },
+    {
+      "title": "Raising Helen",
+      "page": "reviews/elliott-0878-raising-helen.html",
+      "id": "Elliott_0878"
+    },
+    {
+      "title": "Rugrats Go Wild",
+      "page": "reviews/elliott-0880-rugrats-go-wild.html",
+      "id": "Elliott_0880"
     }
   ],
   "Parents": [
@@ -10772,6 +10892,16 @@
       "title": "Ray",
       "page": "reviews/elliott-0868-ray.html",
       "id": "Elliott_0868"
+    },
+    {
+      "title": "Rudy (1993)",
+      "page": "reviews/elliott-0871-rudy-1993.html",
+      "id": "Elliott_0871"
+    },
+    {
+      "title": "Raise Your Voice",
+      "page": "reviews/elliott-0877-raise-your-voice.html",
+      "id": "Elliott_0877"
     }
   ],
   "Personal Transformation": [
@@ -12215,6 +12345,11 @@
       "title": "See Spot Run",
       "page": "reviews/elliott-0767-see-spot-run.html",
       "id": "Elliott_0767"
+    },
+    {
+      "title": "Raising Helen",
+      "page": "reviews/elliott-0878-raising-helen.html",
+      "id": "Elliott_0878"
     }
   ],
   "Rest": [
@@ -12811,6 +12946,11 @@
       "title": "I ♥ Huckabees",
       "page": "reviews/elliott-0118-i-huckabees.html",
       "id": "Elliott_0118"
+    },
+    {
+      "title": "The Reckoning",
+      "page": "reviews/elliott-0879-the-reckoning.html",
+      "id": "Elliott_0879"
     }
   ],
   "Seeking Knowledge": [
@@ -15654,6 +15794,11 @@
       "title": "Shattered Glass",
       "page": "reviews/elliott-0813-shattered-glass.html",
       "id": "Elliott_0813"
+    },
+    {
+      "title": "The Reckoning",
+      "page": "reviews/elliott-0879-the-reckoning.html",
+      "id": "Elliott_0879"
     }
   ],
   "Truth and Revelation": [
@@ -16028,6 +16173,11 @@
       "title": "October Sky",
       "page": "reviews/elliott-0705-october-sky.html",
       "id": "Elliott_0705"
+    },
+    {
+      "title": "Raise Your Voice",
+      "page": "reviews/elliott-0877-raise-your-voice.html",
+      "id": "Elliott_0877"
     }
   ],
   "Vows": [
