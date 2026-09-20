@@ -322,6 +322,11 @@
       "title": "Van Wilder",
       "page": "reviews/elliott-0898-van-wilder.html",
       "id": "Elliott_0898"
+    },
+    {
+      "title": "Vanity Fair",
+      "page": "reviews/elliott-0905-vanity-fair.html",
+      "id": "Elliott_0905"
     }
   ],
   "Angels": [
@@ -346,6 +351,11 @@
       "title": "28 Days Later",
       "page": "reviews/elliott-0892-28-days-later.html",
       "id": "Elliott_0892"
+    },
+    {
+      "title": "The Upside of Anger",
+      "page": "reviews/elliott-0902-the-upside-of-anger.html",
+      "id": "Elliott_0902"
     }
   ],
   "Animals": [
@@ -402,6 +412,11 @@
       "title": "Lucky Number Slevin",
       "page": "reviews/elliott-0609-lucky-number-slevin.html",
       "id": "Elliott_0609"
+    },
+    {
+      "title": "Taxi",
+      "page": "reviews/elliott-0904-taxi.html",
+      "id": "Elliott_0904"
     }
   ],
   "Apocalypse": [
@@ -656,6 +671,11 @@
       "title": "RV",
       "page": "reviews/elliott-0873-rv.html",
       "id": "Elliott_0873"
+    },
+    {
+      "title": "Twisted",
+      "page": "reviews/elliott-0908-twisted.html",
+      "id": "Elliott_0908"
     }
   ],
   "Behavior Patterns": [
@@ -825,6 +845,13 @@
       "title": "In The Beginning",
       "page": "reviews/elliott-0533-in-the-beginning.html",
       "id": "Elliott_0533"
+    }
+  ],
+  "Bible Stories": [
+    {
+      "title": "Timeline",
+      "page": "reviews/elliott-0910-timeline.html",
+      "id": "Elliott_0910"
     }
   ],
   "Biblical Accuracy": [
@@ -1011,6 +1038,11 @@
       "title": "Rush Hour 3",
       "page": "reviews/elliott-0872-rush-hour-3.html",
       "id": "Elliott_0872"
+    },
+    {
+      "title": "Undertow",
+      "page": "reviews/elliott-0901-undertow.html",
+      "id": "Elliott_0901"
     }
   ],
   "Brotherly Love": [
@@ -1432,6 +1464,11 @@
       "title": "25th Hour",
       "page": "reviews/elliott-0895-25th-hour.html",
       "id": "Elliott_0895"
+    },
+    {
+      "title": "Torque",
+      "page": "reviews/elliott-0909-torque.html",
+      "id": "Elliott_0909"
     }
   ],
   "Choices and Consequences": [
@@ -1959,6 +1996,11 @@
       "title": "The Prestige",
       "page": "reviews/elliott-0747-the-prestige.html",
       "id": "Elliott_0747"
+    },
+    {
+      "title": "Undertow",
+      "page": "reviews/elliott-0901-undertow.html",
+      "id": "Elliott_0901"
     }
   ],
   "Complementarity": [
@@ -2184,6 +2226,11 @@
       "title": "25th Hour",
       "page": "reviews/elliott-0895-25th-hour.html",
       "id": "Elliott_0895"
+    },
+    {
+      "title": "Torque",
+      "page": "reviews/elliott-0909-torque.html",
+      "id": "Elliott_0909"
     }
   ],
   "Contentiousness": [
@@ -2238,6 +2285,13 @@
       "title": "Shark Tale",
       "page": "reviews/elliott-0803-shark-tale.html",
       "id": "Elliott_0803"
+    }
+  ],
+  "Control": [
+    {
+      "title": "The Upside of Anger",
+      "page": "reviews/elliott-0902-the-upside-of-anger.html",
+      "id": "Elliott_0902"
     }
   ],
   "Conviction": [
@@ -3079,6 +3133,13 @@
       "id": "Elliott_0087"
     }
   ],
+  "Devilish Influences": [
+    {
+      "title": "Twisted",
+      "page": "reviews/elliott-0908-twisted.html",
+      "id": "Elliott_0908"
+    }
+  ],
   "Diligence": [
     {
       "title": "Inspector Gadget 2",
@@ -3760,6 +3821,11 @@
       "title": "Scary Movie 4",
       "page": "reviews/elliott-0797-scary-movie-4.html",
       "id": "Elliott_0797"
+    },
+    {
+      "title": "Taking Lives",
+      "page": "reviews/elliott-0907-taking-lives.html",
+      "id": "Elliott_0907"
     }
   ],
   "Edifying Speech": [
@@ -4089,6 +4155,11 @@
       "title": "Gladiator",
       "page": "reviews/elliott-0500-gladiator.html",
       "id": "Elliott_0500"
+    },
+    {
+      "title": "Undertow",
+      "page": "reviews/elliott-0901-undertow.html",
+      "id": "Elliott_0901"
     }
   ],
   "Epistles": [
@@ -5690,6 +5761,11 @@
       "title": "Sliding Doors",
       "page": "reviews/elliott-0843-sliding-doors.html",
       "id": "Elliott_0843"
+    },
+    {
+      "title": "Team America: World Police",
+      "page": "reviews/elliott-0903-team-america-world-police.html",
+      "id": "Elliott_0903"
     }
   ],
   "Freedom": [
@@ -7039,6 +7115,11 @@
       "title": "The Replacements",
       "page": "reviews/elliott-0862-the-replacements.html",
       "id": "Elliott_0862"
+    },
+    {
+      "title": "Taking Lives",
+      "page": "reviews/elliott-0907-taking-lives.html",
+      "id": "Elliott_0907"
     }
   ],
   "Heaven": [
@@ -7135,6 +7216,11 @@
       "title": "In The Beginning",
       "page": "reviews/elliott-0533-in-the-beginning.html",
       "id": "Elliott_0533"
+    },
+    {
+      "title": "Timeline",
+      "page": "reviews/elliott-0910-timeline.html",
+      "id": "Elliott_0910"
     }
   ],
   "Holiness": [
@@ -10152,6 +10238,13 @@
       "id": "Elliott_0534"
     }
   ],
+  "Negative Thoughts": [
+    {
+      "title": "Taking Lives",
+      "page": "reviews/elliott-0907-taking-lives.html",
+      "id": "Elliott_0907"
+    }
+  ],
   "Negativity": [
     {
       "title": "Racing Stripes",
@@ -10776,6 +10869,11 @@
       "title": "School of Rock",
       "page": "reviews/elliott-0836-school-of-rock.html",
       "id": "Elliott_0836"
+    },
+    {
+      "title": "The Two Best Years",
+      "page": "reviews/elliott-0906-the-two-best-years.html",
+      "id": "Elliott_0906"
     }
   ],
   "Past": [
@@ -10874,6 +10972,11 @@
       "title": "Red Eye",
       "page": "reviews/elliott-0867-red-eye.html",
       "id": "Elliott_0867"
+    },
+    {
+      "title": "Taxi",
+      "page": "reviews/elliott-0904-taxi.html",
+      "id": "Elliott_0904"
     }
   ],
   "Peer Pressure": [
@@ -11120,6 +11223,11 @@
       "title": "A View From The Top",
       "page": "reviews/elliott-0893-a-view-from-the-top.html",
       "id": "Elliott_0893"
+    },
+    {
+      "title": "The Two Best Years",
+      "page": "reviews/elliott-0906-the-two-best-years.html",
+      "id": "Elliott_0906"
     }
   ],
   "Personal Transformation": [
@@ -12605,6 +12713,11 @@
       "title": "Van Wilder",
       "page": "reviews/elliott-0898-van-wilder.html",
       "id": "Elliott_0898"
+    },
+    {
+      "title": "Team America: World Police",
+      "page": "reviews/elliott-0903-team-america-world-police.html",
+      "id": "Elliott_0903"
     }
   ],
   "Rest": [
@@ -13110,6 +13223,13 @@
       "title": "End of Days",
       "page": "reviews/elliott-0429-end-of-days.html",
       "id": "Elliott_0429"
+    }
+  ],
+  "Satisfaction": [
+    {
+      "title": "Vanity Fair",
+      "page": "reviews/elliott-0905-vanity-fair.html",
+      "id": "Elliott_0905"
     }
   ],
   "Scribes": [
@@ -13743,6 +13863,11 @@
       "title": "Road to Perdition",
       "page": "reviews/elliott-0861-road-to-perdition.html",
       "id": "Elliott_0861"
+    },
+    {
+      "title": "Twisted",
+      "page": "reviews/elliott-0908-twisted.html",
+      "id": "Elliott_0908"
     }
   ],
   "Sincerity": [
@@ -16334,6 +16459,18 @@
       "title": "Bad News Bears",
       "page": "reviews/elliott-0318-bad-news-bears.html",
       "id": "Elliott_0318"
+    },
+    {
+      "title": "Team America: World Police",
+      "page": "reviews/elliott-0903-team-america-world-police.html",
+      "id": "Elliott_0903"
+    }
+  ],
+  "Vanity": [
+    {
+      "title": "Vanity Fair",
+      "page": "reviews/elliott-0905-vanity-fair.html",
+      "id": "Elliott_0905"
     }
   ],
   "Vengeance": [
@@ -16998,6 +17135,11 @@
       "title": "Dirt",
       "page": "reviews/elliott-0410-dirt.html",
       "id": "Elliott_0410"
+    },
+    {
+      "title": "The Upside of Anger",
+      "page": "reviews/elliott-0902-the-upside-of-anger.html",
+      "id": "Elliott_0902"
     }
   ],
   "Youth": [
@@ -17042,6 +17184,11 @@
       "title": "Reversal",
       "page": "reviews/elliott-0851-reversal.html",
       "id": "Elliott_0851"
+    },
+    {
+      "title": "The Two Best Years",
+      "page": "reviews/elliott-0906-the-two-best-years.html",
+      "id": "Elliott_0906"
     }
   ]
 }
