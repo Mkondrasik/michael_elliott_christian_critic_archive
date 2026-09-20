@@ -225,6 +225,11 @@
       "title": "Oliver Twist",
       "page": "reviews/elliott-0703-oliver-twist.html",
       "id": "Elliott_0703"
+    },
+    {
+      "title": "Ray",
+      "page": "reviews/elliott-0868-ray.html",
+      "id": "Elliott_0868"
     }
   ],
   "Aging": [
@@ -567,6 +572,11 @@
       "title": "Snow Dogs",
       "page": "reviews/elliott-0763-snow-dogs.html",
       "id": "Elliott_0763"
+    },
+    {
+      "title": "Rush Hour",
+      "page": "reviews/elliott-0870-rush-hour.html",
+      "id": "Elliott_0870"
     }
   ],
   "Authorship": [
@@ -1563,6 +1573,13 @@
       "id": "Elliott_0053"
     }
   ],
+  "Church Leadership": [
+    {
+      "title": "Rush Hour",
+      "page": "reviews/elliott-0870-rush-hour.html",
+      "id": "Elliott_0870"
+    }
+  ],
   "Class Distinctions": [
     {
       "title": "Miss Potter",
@@ -1928,6 +1945,11 @@
       "title": "Crocodile Dundee in Los Angeles",
       "page": "reviews/elliott-0377-crocodile-dundee-in-los-angeles.html",
       "id": "Elliott_0377"
+    },
+    {
+      "title": "Ride With The Devil",
+      "page": "reviews/elliott-0869-ride-with-the-devil.html",
+      "id": "Elliott_0869"
     }
   ],
   "Confession": [
@@ -2916,6 +2938,13 @@
       "title": "Sliding Doors",
       "page": "reviews/elliott-0843-sliding-doors.html",
       "id": "Elliott_0843"
+    }
+  ],
+  "Determination": [
+    {
+      "title": "Rabbit Proof Fence",
+      "page": "reviews/elliott-0863-rabbit-proof-fence.html",
+      "id": "Elliott_0863"
     }
   ],
   "Developing Abilities": [
@@ -3962,6 +3991,13 @@
       "id": "Elliott_0828"
     }
   ],
+  "Escape": [
+    {
+      "title": "Red Eye",
+      "page": "reviews/elliott-0867-red-eye.html",
+      "id": "Elliott_0867"
+    }
+  ],
   "Esther": [
     {
       "title": "One Night with the King",
@@ -4384,6 +4420,11 @@
       "title": "The Polar Express",
       "page": "reviews/elliott-0730-the-polar-express.html",
       "id": "Elliott_0730"
+    },
+    {
+      "title": "Rabbit Proof Fence",
+      "page": "reviews/elliott-0863-rabbit-proof-fence.html",
+      "id": "Elliott_0863"
     }
   ],
   "Faith Against Odds": [
@@ -4455,6 +4496,11 @@
       "title": "Shanghai Noon",
       "page": "reviews/elliott-0824-shanghai-noon.html",
       "id": "Elliott_0824"
+    },
+    {
+      "title": "Ride With The Devil",
+      "page": "reviews/elliott-0869-ride-with-the-devil.html",
+      "id": "Elliott_0869"
     }
   ],
   "False and Selfish Love": [
@@ -5379,6 +5425,16 @@
       "title": "The Simpsons Movie",
       "page": "reviews/elliott-0849-the-simpsons-movie.html",
       "id": "Elliott_0849"
+    },
+    {
+      "title": "Road to Perdition",
+      "page": "reviews/elliott-0861-road-to-perdition.html",
+      "id": "Elliott_0861"
+    },
+    {
+      "title": "Reservation Road",
+      "page": "reviews/elliott-0865-reservation-road.html",
+      "id": "Elliott_0865"
     }
   ],
   "Foundation": [
@@ -6517,6 +6573,11 @@
       "title": "Reign Over Me",
       "page": "reviews/elliott-0846-reign-over-me.html",
       "id": "Elliott_0846"
+    },
+    {
+      "title": "Reservation Road",
+      "page": "reviews/elliott-0865-reservation-road.html",
+      "id": "Elliott_0865"
     }
   ],
   "Grievances": [
@@ -6621,6 +6682,11 @@
       "title": "After the Sunset",
       "page": "reviews/elliott-0041-after-the-sunset.html",
       "id": "Elliott_0041"
+    },
+    {
+      "title": "Ride With The Devil",
+      "page": "reviews/elliott-0869-ride-with-the-devil.html",
+      "id": "Elliott_0869"
     }
   ],
   "Habits": [
@@ -6709,6 +6775,11 @@
       "title": "Stigmata",
       "page": "reviews/elliott-0769-stigmata.html",
       "id": "Elliott_0769"
+    },
+    {
+      "title": "Reservation Road",
+      "page": "reviews/elliott-0865-reservation-road.html",
+      "id": "Elliott_0865"
     }
   ],
   "Hearing God": [
@@ -6733,6 +6804,11 @@
       "title": "Monster House",
       "page": "reviews/elliott-0676-monster-house.html",
       "id": "Elliott_0676"
+    },
+    {
+      "title": "The Replacements",
+      "page": "reviews/elliott-0862-the-replacements.html",
+      "id": "Elliott_0862"
     }
   ],
   "Heaven": [
@@ -9159,6 +9235,11 @@
       "title": "Something's Gotta Give",
       "page": "reviews/elliott-0817-something-s-gotta-give.html",
       "id": "Elliott_0817"
+    },
+    {
+      "title": "Rumor Has It",
+      "page": "reviews/elliott-0866-rumor-has-it.html",
+      "id": "Elliott_0866"
     }
   ],
   "Material Wealth": [
@@ -9921,6 +10002,11 @@
       "title": "Spartan",
       "page": "reviews/elliott-0819-spartan.html",
       "id": "Elliott_0819"
+    },
+    {
+      "title": "Rush Hour",
+      "page": "reviews/elliott-0870-rush-hour.html",
+      "id": "Elliott_0870"
     }
   ],
   "Objectification": [
@@ -9994,6 +10080,11 @@
       "title": "S.W.A.T.",
       "page": "reviews/elliott-0789-s-w-a-t.html",
       "id": "Elliott_0789"
+    },
+    {
+      "title": "Red Eye",
+      "page": "reviews/elliott-0867-red-eye.html",
+      "id": "Elliott_0867"
     }
   ],
   "Oppression": [
@@ -10450,6 +10541,11 @@
       "title": "The Royal Tenenbaums",
       "page": "reviews/elliott-0854-the-royal-tenenbaums.html",
       "id": "Elliott_0854"
+    },
+    {
+      "title": "Red Eye",
+      "page": "reviews/elliott-0867-red-eye.html",
+      "id": "Elliott_0867"
     }
   ],
   "Peer Pressure": [
@@ -10666,6 +10762,16 @@
       "title": "The Straight Story",
       "page": "reviews/elliott-0779-the-straight-story.html",
       "id": "Elliott_0779"
+    },
+    {
+      "title": "Rabbit Proof Fence",
+      "page": "reviews/elliott-0863-rabbit-proof-fence.html",
+      "id": "Elliott_0863"
+    },
+    {
+      "title": "Ray",
+      "page": "reviews/elliott-0868-ray.html",
+      "id": "Elliott_0868"
     }
   ],
   "Personal Transformation": [
@@ -12628,6 +12734,11 @@
       "title": "The Muse",
       "page": "reviews/elliott-0646-the-muse.html",
       "id": "Elliott_0646"
+    },
+    {
+      "title": "The Red Violin",
+      "page": "reviews/elliott-0864-the-red-violin.html",
+      "id": "Elliott_0864"
     }
   ],
   "Second Chances": [
@@ -13227,6 +13338,11 @@
       "title": "Sin City",
       "page": "reviews/elliott-0806-sin-city.html",
       "id": "Elliott_0806"
+    },
+    {
+      "title": "Road to Perdition",
+      "page": "reviews/elliott-0861-road-to-perdition.html",
+      "id": "Elliott_0861"
     }
   ],
   "Sincerity": [
@@ -14204,6 +14320,11 @@
       "title": "Lethal Weapon IV",
       "page": "reviews/elliott-0588-lethal-weapon-iv.html",
       "id": "Elliott_0588"
+    },
+    {
+      "title": "Ray",
+      "page": "reviews/elliott-0868-ray.html",
+      "id": "Elliott_0868"
     }
   ],
   "Strength in Numbers": [
@@ -14511,6 +14632,11 @@
       "title": "Starsky & Hutch",
       "page": "reviews/elliott-0788-starsky-hutch.html",
       "id": "Elliott_0788"
+    },
+    {
+      "title": "The Replacements",
+      "page": "reviews/elliott-0862-the-replacements.html",
+      "id": "Elliott_0862"
     }
   ],
   "Technology": [
@@ -14864,6 +14990,11 @@
       "title": "Exorcist: The Beginning",
       "page": "reviews/elliott-0077-exorcist-the-beginning.html",
       "id": "Elliott_0077"
+    },
+    {
+      "title": "The Red Violin",
+      "page": "reviews/elliott-0864-the-red-violin.html",
+      "id": "Elliott_0864"
     }
   ],
   "Theft": [
@@ -15573,6 +15704,11 @@
       "title": "Entrapment",
       "page": "reviews/elliott-0433-entrapment.html",
       "id": "Elliott_0433"
+    },
+    {
+      "title": "The Red Violin",
+      "page": "reviews/elliott-0864-the-red-violin.html",
+      "id": "Elliott_0864"
     }
   ],
   "Uniqueness": [
@@ -15677,6 +15813,18 @@
       "title": "Spy Kids",
       "page": "reviews/elliott-0837-spy-kids.html",
       "id": "Elliott_0837"
+    },
+    {
+      "title": "The Replacements",
+      "page": "reviews/elliott-0862-the-replacements.html",
+      "id": "Elliott_0862"
+    }
+  ],
+  "Unrighteousness": [
+    {
+      "title": "Road to Perdition",
+      "page": "reviews/elliott-0861-road-to-perdition.html",
+      "id": "Elliott_0861"
     }
   ],
   "Unseen": [
