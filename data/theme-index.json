@@ -505,6 +505,11 @@
       "title": "Van Helsing",
       "page": "reviews/elliott-0930-van-helsing.html",
       "id": "Elliott_0930"
+    },
+    {
+      "title": "Undercover Brother",
+      "page": "reviews/elliott-0934-undercover-brother.html",
+      "id": "Elliott_0934"
     }
   ],
   "Appreciation": [
@@ -638,6 +643,13 @@
       "title": "Battlefield Earth",
       "page": "reviews/elliott-0293-battlefield-earth.html",
       "id": "Elliott_0293"
+    }
+  ],
+  "Awareness": [
+    {
+      "title": "Stranger than Fiction",
+      "page": "reviews/elliott-0938-stranger-than-fiction.html",
+      "id": "Elliott_0938"
     }
   ],
   "Awe": [
@@ -2857,6 +2869,11 @@
       "title": "The Sixth Sense",
       "page": "reviews/elliott-0822-the-sixth-sense.html",
       "id": "Elliott_0822"
+    },
+    {
+      "title": "Stranger than Fiction",
+      "page": "reviews/elliott-0938-stranger-than-fiction.html",
+      "id": "Elliott_0938"
     }
   ],
   "Death and Afterlife": [
@@ -2994,6 +3011,16 @@
       "title": "Shattered Glass",
       "page": "reviews/elliott-0813-shattered-glass.html",
       "id": "Elliott_0813"
+    },
+    {
+      "title": "The Truman Show",
+      "page": "reviews/elliott-0936-the-truman-show.html",
+      "id": "Elliott_0936"
+    },
+    {
+      "title": "The Sentinel",
+      "page": "reviews/elliott-0939-the-sentinel.html",
+      "id": "Elliott_0939"
     }
   ],
   "Deceptions": [
@@ -3431,6 +3458,11 @@
       "title": "Van Helsing",
       "page": "reviews/elliott-0930-van-helsing.html",
       "id": "Elliott_0930"
+    },
+    {
+      "title": "The Truman Show",
+      "page": "reviews/elliott-0936-the-truman-show.html",
+      "id": "Elliott_0936"
     }
   ],
   "Discipleship": [
@@ -4078,6 +4110,11 @@
       "title": "Swordfish",
       "page": "reviews/elliott-0838-swordfish.html",
       "id": "Elliott_0838"
+    },
+    {
+      "title": "V for Vendetta",
+      "page": "reviews/elliott-0935-v-for-vendetta.html",
+      "id": "Elliott_0935"
     }
   ],
   "Ends Vs. Means": [
@@ -4425,6 +4462,11 @@
       "title": "3000 Miles to Graceland",
       "page": "reviews/elliott-0882-3000-miles-to-graceland.html",
       "id": "Elliott_0882"
+    },
+    {
+      "title": "V for Vendetta",
+      "page": "reviews/elliott-0935-v-for-vendetta.html",
+      "id": "Elliott_0935"
     }
   ],
   "Evil Influence": [
@@ -4591,6 +4633,13 @@
       "title": "Ever After",
       "page": "reviews/elliott-0432-ever-after.html",
       "id": "Elliott_0432"
+    }
+  ],
+  "Facades": [
+    {
+      "title": "The Truman Show",
+      "page": "reviews/elliott-0936-the-truman-show.html",
+      "id": "Elliott_0936"
     }
   ],
   "Facing the Future": [
@@ -6757,6 +6806,11 @@
       "title": "Star Wars: Episode 1 - The Phantom Menace",
       "page": "reviews/elliott-0815-star-wars-episode-1-the-phantom-menace.html",
       "id": "Elliott_0815"
+    },
+    {
+      "title": "3:10 to Yuma",
+      "page": "reviews/elliott-0932-3-10-to-yuma.html",
+      "id": "Elliott_0932"
     }
   ],
   "Good Works": [
@@ -6887,6 +6941,11 @@
       "title": "There Will Be Blood",
       "page": "reviews/elliott-0912-there-will-be-blood.html",
       "id": "Elliott_0912"
+    },
+    {
+      "title": "The Whole Ten Yards",
+      "page": "reviews/elliott-0931-the-whole-ten-yards.html",
+      "id": "Elliott_0931"
     }
   ],
   "Grief": [
@@ -8577,6 +8636,11 @@
       "title": "The Life of David Gale",
       "page": "reviews/elliott-0598-the-life-of-david-gale.html",
       "id": "Elliott_0598"
+    },
+    {
+      "title": "V for Vendetta",
+      "page": "reviews/elliott-0935-v-for-vendetta.html",
+      "id": "Elliott_0935"
     }
   ],
   "Keeping God First": [
@@ -8816,6 +8880,11 @@
       "title": "Talladega Nights",
       "page": "reviews/elliott-0911-talladega-nights.html",
       "id": "Elliott_0911"
+    },
+    {
+      "title": "The Sentinel",
+      "page": "reviews/elliott-0939-the-sentinel.html",
+      "id": "Elliott_0939"
     }
   ],
   "Life": [
@@ -11040,6 +11109,11 @@
       "title": "Thunderbirds",
       "page": "reviews/elliott-0913-thunderbirds.html",
       "id": "Elliott_0913"
+    },
+    {
+      "title": "The Terminal",
+      "page": "reviews/elliott-0937-the-terminal.html",
+      "id": "Elliott_0937"
     }
   ],
   "Peace": [
@@ -11498,6 +11572,11 @@
       "title": "Unbreakable",
       "page": "reviews/elliott-0922-unbreakable.html",
       "id": "Elliott_0922"
+    },
+    {
+      "title": "Underdog",
+      "page": "reviews/elliott-0933-underdog.html",
+      "id": "Elliott_0933"
     }
   ],
   "Power of God": [
@@ -11984,6 +12063,11 @@
       "title": "Toy Story 2",
       "page": "reviews/elliott-0924-toy-story-2.html",
       "id": "Elliott_0924"
+    },
+    {
+      "title": "The Terminal",
+      "page": "reviews/elliott-0937-the-terminal.html",
+      "id": "Elliott_0937"
     }
   ],
   "Putting God First": [
@@ -12039,6 +12123,11 @@
       "title": "Save The Last Dance",
       "page": "reviews/elliott-0828-save-the-last-dance.html",
       "id": "Elliott_0828"
+    },
+    {
+      "title": "Undercover Brother",
+      "page": "reviews/elliott-0934-undercover-brother.html",
+      "id": "Elliott_0934"
     }
   ],
   "Racism": [
@@ -12101,6 +12190,13 @@
       "title": "28 Days Later",
       "page": "reviews/elliott-0892-28-days-later.html",
       "id": "Elliott_0892"
+    }
+  ],
+  "Rebellion": [
+    {
+      "title": "Stick It",
+      "page": "reviews/elliott-0940-stick-it.html",
+      "id": "Elliott_0940"
     }
   ],
   "Reconciliation": [
@@ -14944,6 +15040,11 @@
       "title": "Soul Plane",
       "page": "reviews/elliott-0785-soul-plane.html",
       "id": "Elliott_0785"
+    },
+    {
+      "title": "Undercover Brother",
+      "page": "reviews/elliott-0934-undercover-brother.html",
+      "id": "Elliott_0934"
     }
   ],
   "Stewardship": [
@@ -16879,6 +16980,11 @@
       "title": "Big Momma's House",
       "page": "reviews/elliott-0265-big-momma-s-house.html",
       "id": "Elliott_0265"
+    },
+    {
+      "title": "The Terminal",
+      "page": "reviews/elliott-0937-the-terminal.html",
+      "id": "Elliott_0937"
     }
   ],
   "War": [
