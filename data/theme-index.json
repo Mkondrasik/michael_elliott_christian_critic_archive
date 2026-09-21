@@ -500,6 +500,11 @@
       "title": "Showtime",
       "page": "reviews/elliott-0761-showtime.html",
       "id": "Elliott_0761"
+    },
+    {
+      "title": "Van Helsing",
+      "page": "reviews/elliott-0930-van-helsing.html",
+      "id": "Elliott_0930"
     }
   ],
   "Appreciation": [
@@ -1412,6 +1417,11 @@
       "title": "Serenity",
       "page": "reviews/elliott-0808-serenity.html",
       "id": "Elliott_0808"
+    },
+    {
+      "title": "Three Kings",
+      "page": "reviews/elliott-0926-three-kings.html",
+      "id": "Elliott_0926"
     }
   ],
   "Choices": [
@@ -2344,6 +2354,11 @@
       "title": "Snow Falling on Cedars",
       "page": "reviews/elliott-0751-snow-falling-on-cedars.html",
       "id": "Elliott_0751"
+    },
+    {
+      "title": "Three Kings",
+      "page": "reviews/elliott-0926-three-kings.html",
+      "id": "Elliott_0926"
     }
   ],
   "Cooperation": [
@@ -2583,6 +2598,11 @@
       "title": "Shark Tale",
       "page": "reviews/elliott-0803-shark-tale.html",
       "id": "Elliott_0803"
+    },
+    {
+      "title": "The Talented Mr. Ripley",
+      "page": "reviews/elliott-0925-the-talented-mr-ripley.html",
+      "id": "Elliott_0925"
     }
   ],
   "Creation": [
@@ -3406,6 +3426,11 @@
       "title": "Tea With Mussolini",
       "page": "reviews/elliott-0890-tea-with-mussolini.html",
       "id": "Elliott_0890"
+    },
+    {
+      "title": "Van Helsing",
+      "page": "reviews/elliott-0930-van-helsing.html",
+      "id": "Elliott_0930"
     }
   ],
   "Discipleship": [
@@ -4180,6 +4205,11 @@
       "title": "Undertow",
       "page": "reviews/elliott-0901-undertow.html",
       "id": "Elliott_0901"
+    },
+    {
+      "title": "The Talented Mr. Ripley",
+      "page": "reviews/elliott-0925-the-talented-mr-ripley.html",
+      "id": "Elliott_0925"
     }
   ],
   "Epistles": [
@@ -5307,6 +5337,11 @@
       "title": "They Shoot Movies Don't They?",
       "page": "reviews/elliott-0917-they-shoot-movies-dont-they.html",
       "id": "Elliott_0917"
+    },
+    {
+      "title": "The Village",
+      "page": "reviews/elliott-0929-the-village.html",
+      "id": "Elliott_0929"
     }
   ],
   "Fear of God": [
@@ -5548,6 +5583,11 @@
       "title": "Paycheck",
       "page": "reviews/elliott-0721-paycheck.html",
       "id": "Elliott_0721"
+    },
+    {
+      "title": "Terminator 3: Rise of the Machines",
+      "page": "reviews/elliott-0923-terminator-3-rise-of-the-machines.html",
+      "id": "Elliott_0923"
     }
   ],
   "Forgeries": [
@@ -6109,6 +6149,11 @@
       "title": "Price of Glory",
       "page": "reviews/elliott-0714-price-of-glory.html",
       "id": "Elliott_0714"
+    },
+    {
+      "title": "There's Something About Mary",
+      "page": "reviews/elliott-0928-theres-something-about-mary.html",
+      "id": "Elliott_0928"
     }
   ],
   "Goals": [
@@ -8848,6 +8893,11 @@
       "title": "Sinbad: Legend of the Seven Seas",
       "page": "reviews/elliott-0770-sinbad-legend-of-the-seven-seas.html",
       "id": "Elliott_0770"
+    },
+    {
+      "title": "There's Something About Mary",
+      "page": "reviews/elliott-0928-theres-something-about-mary.html",
+      "id": "Elliott_0928"
     }
   ],
   "Light Versus Darkness": [
@@ -11443,6 +11493,11 @@
       "title": "The Perfect Storm",
       "page": "reviews/elliott-0748-the-perfect-storm.html",
       "id": "Elliott_0748"
+    },
+    {
+      "title": "Unbreakable",
+      "page": "reviews/elliott-0922-unbreakable.html",
+      "id": "Elliott_0922"
     }
   ],
   "Power of God": [
@@ -11544,6 +11599,11 @@
       "title": "Tigerland",
       "page": "reviews/elliott-0883-tigerland.html",
       "id": "Elliott_0883"
+    },
+    {
+      "title": "U-571",
+      "page": "reviews/elliott-0921-u-571.html",
+      "id": "Elliott_0921"
     }
   ],
   "Present Choices": [
@@ -11914,6 +11974,16 @@
       "title": "Simon Birch",
       "page": "reviews/elliott-0829-simon-birch.html",
       "id": "Elliott_0829"
+    },
+    {
+      "title": "Unbreakable",
+      "page": "reviews/elliott-0922-unbreakable.html",
+      "id": "Elliott_0922"
+    },
+    {
+      "title": "Toy Story 2",
+      "page": "reviews/elliott-0924-toy-story-2.html",
+      "id": "Elliott_0924"
     }
   ],
   "Putting God First": [
@@ -11940,6 +12010,13 @@
       "title": "Nutty Professor II: The Klumps",
       "page": "reviews/elliott-0159-nutty-professor-ii-the-klumps.html",
       "id": "Elliott_0159"
+    }
+  ],
+  "Quality": [
+    {
+      "title": "There's Something About Mary",
+      "page": "reviews/elliott-0928-theres-something-about-mary.html",
+      "id": "Elliott_0928"
     }
   ],
   "Race": [
@@ -13205,6 +13282,16 @@
       "title": "Return to Paradise",
       "page": "reviews/elliott-0859-return-to-paradise.html",
       "id": "Elliott_0859"
+    },
+    {
+      "title": "Terminator 3: Rise of the Machines",
+      "page": "reviews/elliott-0923-terminator-3-rise-of-the-machines.html",
+      "id": "Elliott_0923"
+    },
+    {
+      "title": "Titanic",
+      "page": "reviews/elliott-0927-titanic.html",
+      "id": "Elliott_0927"
     }
   ],
   "Safety": [
@@ -13301,6 +13388,11 @@
       "title": "Red Planet",
       "page": "reviews/elliott-0856-red-planet.html",
       "id": "Elliott_0856"
+    },
+    {
+      "title": "Terminator 3: Rise of the Machines",
+      "page": "reviews/elliott-0923-terminator-3-rise-of-the-machines.html",
+      "id": "Elliott_0923"
     }
   ],
   "Satan": [
@@ -13595,6 +13687,11 @@
       "title": "Scooby-Doo 2: Monsters Unleashed",
       "page": "reviews/elliott-0786-scooby-doo-2-monsters-unleashed.html",
       "id": "Elliott_0786"
+    },
+    {
+      "title": "The Talented Mr. Ripley",
+      "page": "reviews/elliott-0925-the-talented-mr-ripley.html",
+      "id": "Elliott_0925"
     }
   ],
   "Selfishness": [
@@ -14139,6 +14236,13 @@
       "id": "Elliott_0772"
     }
   ],
+  "Spiritual Abilities": [
+    {
+      "title": "Unbreakable",
+      "page": "reviews/elliott-0922-unbreakable.html",
+      "id": "Elliott_0922"
+    }
+  ],
   "Spiritual Adversary": [
     {
       "title": "The Deep End of the Ocean",
@@ -14278,6 +14382,11 @@
       "title": "Spirited Away",
       "page": "reviews/elliott-0772-spirited-away.html",
       "id": "Elliott_0772"
+    },
+    {
+      "title": "Titanic",
+      "page": "reviews/elliott-0927-titanic.html",
+      "id": "Elliott_0927"
     }
   ],
   "Spiritual Discipline": [
@@ -14976,6 +15085,11 @@
       "title": "Music of the Heart",
       "page": "reviews/elliott-0689-music-of-the-heart.html",
       "id": "Elliott_0689"
+    },
+    {
+      "title": "U-571",
+      "page": "reviews/elliott-0921-u-571.html",
+      "id": "Elliott_0921"
     }
   ],
   "Studying God's Word": [
@@ -15785,6 +15899,11 @@
       "title": "Soldier",
       "page": "reviews/elliott-0756-soldier.html",
       "id": "Elliott_0756"
+    },
+    {
+      "title": "U-571",
+      "page": "reviews/elliott-0921-u-571.html",
+      "id": "Elliott_0921"
     }
   ],
   "Training Children": [
@@ -16331,6 +16450,11 @@
       "title": "Twilight",
       "page": "reviews/elliott-0889-twilight.html",
       "id": "Elliott_0889"
+    },
+    {
+      "title": "Three Kings",
+      "page": "reviews/elliott-0926-three-kings.html",
+      "id": "Elliott_0926"
     }
   ],
   "Truth and Revelation": [
