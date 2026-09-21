@@ -205,6 +205,11 @@
       "title": "Town & County",
       "page": "reviews/elliott-0900-town-county.html",
       "id": "Elliott_0900"
+    },
+    {
+      "title": "We Don't Live Here Anymore",
+      "page": "reviews/elliott-0942-we-dont-live-here-anymore.html",
+      "id": "Elliott_0942"
     }
   ],
   "Adversity": [
@@ -1690,6 +1695,11 @@
       "title": "Amazing Grace",
       "page": "reviews/elliott-0229-amazing-grace.html",
       "id": "Elliott_0229"
+    },
+    {
+      "title": "Shaolin Soccer",
+      "page": "reviews/elliott-0941-shaolin-soccer.html",
+      "id": "Elliott_0941"
     }
   ],
   "Christmas": [
@@ -2322,6 +2332,11 @@
       "title": "Shark Tale",
       "page": "reviews/elliott-0803-shark-tale.html",
       "id": "Elliott_0803"
+    },
+    {
+      "title": "The Weather Man",
+      "page": "reviews/elliott-0948-the-weather-man.html",
+      "id": "Elliott_0948"
     }
   ],
   "Control": [
@@ -2874,6 +2889,16 @@
       "title": "Stranger than Fiction",
       "page": "reviews/elliott-0938-stranger-than-fiction.html",
       "id": "Elliott_0938"
+    },
+    {
+      "title": "White Noise",
+      "page": "reviews/elliott-0945-white-noise.html",
+      "id": "Elliott_0945"
+    },
+    {
+      "title": "What Lies Beneath",
+      "page": "reviews/elliott-0949-what-lies-beneath.html",
+      "id": "Elliott_0949"
     }
   ],
   "Death and Afterlife": [
@@ -3463,6 +3488,11 @@
       "title": "The Truman Show",
       "page": "reviews/elliott-0936-the-truman-show.html",
       "id": "Elliott_0936"
+    },
+    {
+      "title": "Shaolin Soccer",
+      "page": "reviews/elliott-0941-shaolin-soccer.html",
+      "id": "Elliott_0941"
     }
   ],
   "Discipleship": [
@@ -4955,6 +4985,13 @@
       "id": "Elliott_0803"
     }
   ],
+  "Familiar Spirits": [
+    {
+      "title": "What Lies Beneath",
+      "page": "reviews/elliott-0949-what-lies-beneath.html",
+      "id": "Elliott_0949"
+    }
+  ],
   "Family": [
     {
       "title": "Lilo & Stitch",
@@ -5811,6 +5848,11 @@
       "title": "Reservation Road",
       "page": "reviews/elliott-0865-reservation-road.html",
       "id": "Elliott_0865"
+    },
+    {
+      "title": "Woman, Thou Art Loosed",
+      "page": "reviews/elliott-0944-woman-thou-art-loosed.html",
+      "id": "Elliott_0944"
     }
   ],
   "Foundation": [
@@ -8005,6 +8047,11 @@
       "title": "Mission Impossible III",
       "page": "reviews/elliott-0679-mission-impossible-iii.html",
       "id": "Elliott_0679"
+    },
+    {
+      "title": "xXx: State of the Union",
+      "page": "reviews/elliott-0947-xxx-state-of-the-union.html",
+      "id": "Elliott_0947"
     }
   ],
   "Impact On Others": [
@@ -8096,6 +8143,11 @@
       "title": "Possession",
       "page": "reviews/elliott-0724-possession.html",
       "id": "Elliott_0724"
+    },
+    {
+      "title": "We Don't Live Here Anymore",
+      "page": "reviews/elliott-0942-we-dont-live-here-anymore.html",
+      "id": "Elliott_0942"
     }
   ],
   "Influence": [
@@ -8885,6 +8937,11 @@
       "title": "The Sentinel",
       "page": "reviews/elliott-0939-the-sentinel.html",
       "id": "Elliott_0939"
+    },
+    {
+      "title": "The Wedding Date",
+      "page": "reviews/elliott-0946-the-wedding-date.html",
+      "id": "Elliott_0946"
     }
   ],
   "Life": [
@@ -9468,6 +9525,18 @@
       "title": "There Will Be Blood",
       "page": "reviews/elliott-0912-there-will-be-blood.html",
       "id": "Elliott_0912"
+    },
+    {
+      "title": "Where the Money Is",
+      "page": "reviews/elliott-0950-where-the-money-is.html",
+      "id": "Elliott_0950"
+    }
+  ],
+  "Love of money": [
+    {
+      "title": "Without a Paddle",
+      "page": "reviews/elliott-0943-without-a-paddle.html",
+      "id": "Elliott_0943"
     }
   ],
   "Love Your Neighbor": [
@@ -9538,6 +9607,13 @@
       "title": "The Tailor of Panama",
       "page": "reviews/elliott-0881-the-tailor-of-panama.html",
       "id": "Elliott_0881"
+    }
+  ],
+  "Lying Spirits": [
+    {
+      "title": "White Noise",
+      "page": "reviews/elliott-0945-white-noise.html",
+      "id": "Elliott_0945"
     }
   ],
   "Magic": [
@@ -9787,6 +9863,11 @@
       "title": "The Thing About My Folks",
       "page": "reviews/elliott-0919-the-thing-about-my-folks.html",
       "id": "Elliott_0919"
+    },
+    {
+      "title": "We Don't Live Here Anymore",
+      "page": "reviews/elliott-0942-we-dont-live-here-anymore.html",
+      "id": "Elliott_0942"
     }
   ],
   "Material Wealth": [
@@ -9992,6 +10073,13 @@
       "title": "Memento",
       "page": "reviews/elliott-0623-memento.html",
       "id": "Elliott_0623"
+    }
+  ],
+  "Mental Attitude": [
+    {
+      "title": "The Weather Man",
+      "page": "reviews/elliott-0948-the-weather-man.html",
+      "id": "Elliott_0948"
     }
   ],
   "Mental Soundness": [
@@ -10406,6 +10494,11 @@
       "title": "Robots",
       "page": "reviews/elliott-0875-robots.html",
       "id": "Elliott_0875"
+    },
+    {
+      "title": "Without a Paddle",
+      "page": "reviews/elliott-0943-without-a-paddle.html",
+      "id": "Elliott_0943"
     }
   ],
   "Needs": [
@@ -10633,6 +10726,13 @@
       "title": "Almost Heroes",
       "page": "reviews/elliott-0251-almost-heroes.html",
       "id": "Elliott_0251"
+    }
+  ],
+  "Occult": [
+    {
+      "title": "What Lies Beneath",
+      "page": "reviews/elliott-0949-what-lies-beneath.html",
+      "id": "Elliott_0949"
     }
   ],
   "Old Man": [
@@ -11577,6 +11677,11 @@
       "title": "Underdog",
       "page": "reviews/elliott-0933-underdog.html",
       "id": "Elliott_0933"
+    },
+    {
+      "title": "Shaolin Soccer",
+      "page": "reviews/elliott-0941-shaolin-soccer.html",
+      "id": "Elliott_0941"
     }
   ],
   "Power of God": [
@@ -11591,6 +11696,13 @@
       "title": "The Apostle",
       "page": "reviews/elliott-0254-the-apostle.html",
       "id": "Elliott_0254"
+    }
+  ],
+  "Power of the Individual": [
+    {
+      "title": "xXx: State of the Union",
+      "page": "reviews/elliott-0947-xxx-state-of-the-union.html",
+      "id": "Elliott_0947"
     }
   ],
   "Power of Words": [
@@ -16840,6 +16952,13 @@
       "title": "In The Bedroom",
       "page": "reviews/elliott-0567-in-the-bedroom.html",
       "id": "Elliott_0567"
+    }
+  ],
+  "Victim Mentality": [
+    {
+      "title": "The Weather Man",
+      "page": "reviews/elliott-0948-the-weather-man.html",
+      "id": "Elliott_0948"
     }
   ],
   "Victory": [

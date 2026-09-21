@@ -1,4 +1,11 @@
 {
+  "1 Chronicles 10:13": [
+    {
+      "title": "What Lies Beneath",
+      "page": "reviews/elliott-0949-what-lies-beneath.html",
+      "id": "Elliott_0949"
+    }
+  ],
   "1 Chronicles 15:15-16": [
     {
       "title": "Fantasia 2000",
@@ -1073,6 +1080,11 @@
       "title": "Innocence",
       "page": "reviews/elliott-0536-innocence.html",
       "id": "Elliott_0536"
+    },
+    {
+      "title": "We Don't Live Here Anymore",
+      "page": "reviews/elliott-0942-we-dont-live-here-anymore.html",
+      "id": "Elliott_0942"
     }
   ],
   "1 Corinthians 7:33-34": [
@@ -2239,6 +2251,13 @@
       "id": "Elliott_0501"
     }
   ],
+  "1 Samuel 28:3-30": [
+    {
+      "title": "White Noise",
+      "page": "reviews/elliott-0945-white-noise.html",
+      "id": "Elliott_0945"
+    }
+  ],
   "1 Samuel 3:3-10": [
     {
       "title": "Drowning Mona",
@@ -2814,6 +2833,11 @@
       "title": "The Whole Ten Yards",
       "page": "reviews/elliott-0931-the-whole-ten-yards.html",
       "id": "Elliott_0931"
+    },
+    {
+      "title": "Where the Money Is",
+      "page": "reviews/elliott-0950-where-the-money-is.html",
+      "id": "Elliott_0950"
     }
   ],
   "1 Timothy 6:17": [
@@ -3066,6 +3090,11 @@
       "title": "Ray",
       "page": "reviews/elliott-0868-ray.html",
       "id": "Elliott_0868"
+    },
+    {
+      "title": "The Weather Man",
+      "page": "reviews/elliott-0948-the-weather-man.html",
+      "id": "Elliott_0948"
     }
   ],
   "2 Corinthians 1:3-4": [
@@ -3341,6 +3370,11 @@
       "title": "Oliver Twist",
       "page": "reviews/elliott-0703-oliver-twist.html",
       "id": "Elliott_0703"
+    },
+    {
+      "title": "The Weather Man",
+      "page": "reviews/elliott-0948-the-weather-man.html",
+      "id": "Elliott_0948"
     }
   ],
   "2 Corinthians 7:10": [
@@ -4640,6 +4674,16 @@
       "title": "Surviving Christmas",
       "page": "reviews/elliott-0847-surviving-christmas.html",
       "id": "Elliott_0847"
+    },
+    {
+      "title": "Shaolin Soccer",
+      "page": "reviews/elliott-0941-shaolin-soccer.html",
+      "id": "Elliott_0941"
+    },
+    {
+      "title": "Without a Paddle",
+      "page": "reviews/elliott-0943-without-a-paddle.html",
+      "id": "Elliott_0943"
     }
   ],
   "Acts 8:26-31": [
@@ -4856,6 +4900,16 @@
       "title": "Secret Window",
       "page": "reviews/elliott-0787-secret-window.html",
       "id": "Elliott_0787"
+    },
+    {
+      "title": "Woman, Thou Art Loosed",
+      "page": "reviews/elliott-0944-woman-thou-art-loosed.html",
+      "id": "Elliott_0944"
+    },
+    {
+      "title": "Woman, Thou Art Loosed",
+      "page": "reviews/elliott-0944-woman-thou-art-loosed.html",
+      "id": "Elliott_0944"
     }
   ],
   "Colossians 3:14": [
@@ -5188,6 +5242,13 @@
       "title": "Practical Magic",
       "page": "reviews/elliott-0713-practical-magic.html",
       "id": "Elliott_0713"
+    }
+  ],
+  "Deuteronomy 18:10-12": [
+    {
+      "title": "What Lies Beneath",
+      "page": "reviews/elliott-0949-what-lies-beneath.html",
+      "id": "Elliott_0949"
     }
   ],
   "Deuteronomy 20:3": [
@@ -5799,6 +5860,11 @@
       "title": "The Life Aquatic with Steve Zissou",
       "page": "reviews/elliott-0574-the-life-aquatic-with-steve-zissou.html",
       "id": "Elliott_0574"
+    },
+    {
+      "title": "White Noise",
+      "page": "reviews/elliott-0945-white-noise.html",
+      "id": "Elliott_0945"
     }
   ],
   "Ecclesiastes 9:11": [
@@ -6043,6 +6109,16 @@
       "title": "The Prince & Me",
       "page": "reviews/elliott-0739-the-prince-me.html",
       "id": "Elliott_0739"
+    },
+    {
+      "title": "Shaolin Soccer",
+      "page": "reviews/elliott-0941-shaolin-soccer.html",
+      "id": "Elliott_0941"
+    },
+    {
+      "title": "Without a Paddle",
+      "page": "reviews/elliott-0943-without-a-paddle.html",
+      "id": "Elliott_0943"
     }
   ],
   "Ephesians 4:1-2": [
@@ -6594,6 +6670,13 @@
       "title": "Whipped",
       "page": "reviews/elliott-0006-whipped.html",
       "id": "Elliott_0006"
+    }
+  ],
+  "Ephesians 5:28-29": [
+    {
+      "title": "We Don't Live Here Anymore",
+      "page": "reviews/elliott-0942-we-dont-live-here-anymore.html",
+      "id": "Elliott_0942"
     }
   ],
   "Ephesians 5:3-4": [
@@ -7691,6 +7774,13 @@
       "id": "Elliott_0111"
     }
   ],
+  "Genesis 2:24": [
+    {
+      "title": "We Don't Live Here Anymore",
+      "page": "reviews/elliott-0942-we-dont-live-here-anymore.html",
+      "id": "Elliott_0942"
+    }
+  ],
   "Genesis 2:25": [
     {
       "title": "Mrs. Henderson Presents",
@@ -8641,6 +8731,11 @@
       "title": "The Producers",
       "page": "reviews/elliott-0742-the-producers.html",
       "id": "Elliott_0742"
+    },
+    {
+      "title": "The Wedding Date",
+      "page": "reviews/elliott-0946-the-wedding-date.html",
+      "id": "Elliott_0946"
     }
   ],
   "Isaiah 44:21-22": [
@@ -8826,6 +8921,11 @@
       "title": "Mickey",
       "page": "reviews/elliott-0663-mickey.html",
       "id": "Elliott_0663"
+    },
+    {
+      "title": "The Wedding Date",
+      "page": "reviews/elliott-0946-the-wedding-date.html",
+      "id": "Elliott_0946"
     }
   ],
   "Isaiah 59:8-14": [
@@ -10163,6 +10263,13 @@
       "id": "Elliott_0074"
     }
   ],
+  "John 21:25": [
+    {
+      "title": "xXx: State of the Union",
+      "page": "reviews/elliott-0947-xxx-state-of-the-union.html",
+      "id": "Elliott_0947"
+    }
+  ],
   "John 3:15": [
     {
       "title": "Pan's Labyrinth",
@@ -10423,6 +10530,11 @@
       "title": "The Sentinel",
       "page": "reviews/elliott-0939-the-sentinel.html",
       "id": "Elliott_0939"
+    },
+    {
+      "title": "The Wedding Date",
+      "page": "reviews/elliott-0946-the-wedding-date.html",
+      "id": "Elliott_0946"
     }
   ],
   "Jonah 4:10-11": [
@@ -10498,6 +10610,11 @@
       "title": "Valiant",
       "page": "reviews/elliott-0920-valiant.html",
       "id": "Elliott_0920"
+    },
+    {
+      "title": "xXx: State of the Union",
+      "page": "reviews/elliott-0947-xxx-state-of-the-union.html",
+      "id": "Elliott_0947"
     }
   ],
   "Joshua 24:15": [
@@ -10587,6 +10704,13 @@
       "title": "The Animal",
       "page": "reviews/elliott-0038-the-animal.html",
       "id": "Elliott_0038"
+    }
+  ],
+  "Leviticus 19:31": [
+    {
+      "title": "What Lies Beneath",
+      "page": "reviews/elliott-0949-what-lies-beneath.html",
+      "id": "Elliott_0949"
     }
   ],
   "Leviticus 20:13": [
@@ -10730,6 +10854,13 @@
       "id": "Elliott_0383"
     }
   ],
+  "Luke 17:3-4": [
+    {
+      "title": "Woman, Thou Art Loosed",
+      "page": "reviews/elliott-0944-woman-thou-art-loosed.html",
+      "id": "Elliott_0944"
+    }
+  ],
   "Luke 18:11": [
     {
       "title": "Ocean's Twelve",
@@ -10866,6 +10997,13 @@
       "title": "40 Days and 40 Nights",
       "page": "reviews/elliott-0445-40-days-and-40-nights.html",
       "id": "Elliott_0445"
+    }
+  ],
+  "Luke 4:18-19": [
+    {
+      "title": "xXx: State of the Union",
+      "page": "reviews/elliott-0947-xxx-state-of-the-union.html",
+      "id": "Elliott_0947"
     }
   ],
   "Luke 4:5-12": [
@@ -12598,6 +12736,11 @@
       "title": "Oliver Twist",
       "page": "reviews/elliott-0703-oliver-twist.html",
       "id": "Elliott_0703"
+    },
+    {
+      "title": "The Weather Man",
+      "page": "reviews/elliott-0948-the-weather-man.html",
+      "id": "Elliott_0948"
     }
   ],
   "Philippians 4:13": [
@@ -14338,6 +14481,11 @@
       "title": "The Honeymooners",
       "page": "reviews/elliott-0506-the-honeymooners.html",
       "id": "Elliott_0506"
+    },
+    {
+      "title": "Where the Money Is",
+      "page": "reviews/elliott-0950-where-the-money-is.html",
+      "id": "Elliott_0950"
     }
   ],
   "Proverbs 28:26": [
@@ -15416,6 +15564,11 @@
       "title": "The Iron Giant",
       "page": "reviews/elliott-0566-the-iron-giant.html",
       "id": "Elliott_0566"
+    },
+    {
+      "title": "White Noise",
+      "page": "reviews/elliott-0945-white-noise.html",
+      "id": "Elliott_0945"
     }
   ],
   "Psalms 149:3": [
@@ -15715,6 +15868,16 @@
       "title": "Barbershop",
       "page": "reviews/elliott-0311-barbershop.html",
       "id": "Elliott_0311"
+    },
+    {
+      "title": "Shaolin Soccer",
+      "page": "reviews/elliott-0941-shaolin-soccer.html",
+      "id": "Elliott_0941"
+    },
+    {
+      "title": "Without a Paddle",
+      "page": "reviews/elliott-0943-without-a-paddle.html",
+      "id": "Elliott_0943"
     }
   ],
   "Psalms 51:13": [
@@ -15805,6 +15968,11 @@
       "title": "The Score",
       "page": "reviews/elliott-0839-the-score.html",
       "id": "Elliott_0839"
+    },
+    {
+      "title": "Where the Money Is",
+      "page": "reviews/elliott-0950-where-the-money-is.html",
+      "id": "Elliott_0950"
     }
   ],
   "Psalms 62:11": [
