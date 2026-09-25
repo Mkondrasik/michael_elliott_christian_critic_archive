@@ -8,3 +8,20 @@
 .review blockquote em {
   font-style: italic;
 }
+
+/* SEARCH_BROWSE_UPGRADE */
+.search-help{margin:.55rem 0 0;color:#6d6a62;font-size:.9rem}
+.empty-state{grid-column:1/-1;background:white;border:1px solid #d9d3c7;padding:24px}
+.scriptures a{color:#205844;text-decoration:none}
+.scriptures a:hover{text-decoration:underline}
+.alpha-nav{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 28px;padding:12px 0;border-bottom:1px solid #d9d3c7}
+.alpha-nav a{display:inline-block;min-width:30px;text-align:center;padding:4px 7px;background:white;border:1px solid #d9d3c7;border-radius:4px;color:#205844;text-decoration:none;font-family:Arial,sans-serif;font-weight:700}
+.index-letter{margin:34px 0 8px;padding-bottom:5px;border-bottom:2px solid #b99a55}
+.index-entry{padding:9px 0 12px;border-bottom:1px solid #e4dfd5}
+.index-entry a{color:#205844}
+[hidden]{display:none!important}
+@media(max-width:600px){
+  .alpha-nav{gap:5px}
+  .alpha-nav a{min-width:28px;padding:3px 6px}
+  .index-entry{font-size:.98rem}
+}
