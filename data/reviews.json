@@ -128,7 +128,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "2000-09-01",
-    "rating": "No stars",
+    "rating": "0 stars",
     "scripture_references": [
       "Proverbs 31:10-30",
       "Ephesians 5:25-33",
@@ -441,7 +441,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "2000-03-10",
-    "rating": "No stars — cannot recommend",
+    "rating": "0 stars",
     "scripture_references": [
       "Matthew 19:14",
       "Psalms 139:14",
@@ -1809,6 +1809,8 @@
     "publication_date": "2005-01-14",
     "rating": "1 star",
     "scripture_references": [
+      "John 11:1-44",
+      "Acts 9:36-41",
       "1 Kings 17:9-24"
     ],
     "primary_scripture": "1 Kings 17:9-24",
@@ -2069,7 +2071,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1999-10-15",
-    "rating": "No stars",
+    "rating": "0 stars",
     "scripture_references": [
       "James 4:1-3",
       "Ephesians 6:12",
@@ -2721,7 +2723,7 @@
     "scripture_references": [
       "Ephesians 2:19",
       "Galatians 4:4-7",
-      "John 1:12"
+      "1 John 3:1"
     ],
     "primary_scripture": "Ephesians 2:19",
     "translation": "NIV",
@@ -4709,7 +4711,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1999-06-30",
-    "rating": "no stars",
+    "rating": "0 stars",
     "scripture_references": [
       "Galatians 5:13",
       "1 Peter 2:15-16",
@@ -4757,7 +4759,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "2000-07-07",
-    "rating": "no stars",
+    "rating": "0 stars",
     "scripture_references": [
       "2 Timothy 2:16-17",
       "1 Corinthians 15:33",
@@ -6080,7 +6082,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-02-20",
-    "rating": "2 1/2 stars",
+    "rating": "2½ stars",
     "scripture_references": [
       "James 4:7",
       "1 Corinthians 14:40",
@@ -8929,7 +8931,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1999-03-05",
-    "rating": "No stars",
+    "rating": "0 stars",
     "scripture_references": [
       "Proverbs 22:15",
       "2 Timothy 3:13",
@@ -8979,7 +8981,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-06-12",
-    "rating": "2 1/2 stars",
+    "rating": "2½ stars",
     "scripture_references": [
       "2 Timothy 1:7",
       "Joshua 1:9",
@@ -9204,7 +9206,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "2000-08-18",
-    "rating": "No stars",
+    "rating": "0 stars",
     "scripture_references": [
       "Romans 12:2",
       "2 Peter 2:5",
@@ -9279,7 +9281,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-02-20",
-    "rating": "2 1/2 stars",
+    "rating": "2½ stars",
     "scripture_references": [
       "Titus 2:3-5",
       "Matthew 12:14",
@@ -9504,7 +9506,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-08-21",
-    "rating": "1 1/2 stars",
+    "rating": "1½ stars",
     "scripture_references": [
       "Psalms 150:4",
       "Exodus 15:20-21",
@@ -10228,7 +10230,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1999-07-16",
-    "rating": "No stars",
+    "rating": "0 stars",
     "scripture_references": [
       "Song of Solomon 8:6",
       "Numbers 5:29-31",
@@ -10902,7 +10904,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "2001-04-20",
-    "rating": "No stars",
+    "rating": "0 stars",
     "scripture_references": [
       "Colossians 3:21",
       "Ephesians 6:4",
@@ -10977,7 +10979,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-05-22",
-    "rating": "no stars",
+    "rating": "0 stars",
     "scripture_references": [
       "Revelation 18:23",
       "Isaiah 19:14",
@@ -12824,7 +12826,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "2002-10-25",
-    "rating": "no stars",
+    "rating": "0 stars",
     "scripture_references": [
       "Proverbs 27:22",
       "Proverbs 10:23",
@@ -13300,7 +13302,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-01-23",
-    "rating": "1 1/2 stars",
+    "rating": "1½ stars",
     "scripture_references": [
       "2 Corinthians 4:4",
       "Proverbs 1:10-19",
@@ -14448,7 +14450,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-01-06",
-    "rating": "1 1/2 star",
+    "rating": "1½ stars",
     "scripture_references": [
       "1 Thessalonians 5:21",
       "Proverbs 22:6",
@@ -15196,7 +15198,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-05-01",
-    "rating": "2 1/2 stars",
+    "rating": "2½ stars",
     "scripture_references": [
       "1 Peter 1:18-19",
       "Ephesians 4:22-24",
@@ -17444,7 +17446,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-04-17",
-    "rating": "no stars",
+    "rating": "0 stars",
     "scripture_references": [
       "Leviticus 18:22",
       "Romans 1:26-28",
@@ -17543,7 +17545,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-10-16",
-    "rating": "no stars",
+    "rating": "0 stars",
     "scripture_references": [
       "Galatians 5:19-21",
       "2 Chronicles 33:6",
@@ -17593,7 +17595,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "2000-12-15",
-    "rating": "no stars",
+    "rating": "0 stars",
     "scripture_references": [
       "Mark 7:21-23",
       "Matthew 10:16",
@@ -17918,7 +17920,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-06-05",
-    "rating": "2 1/2 stars",
+    "rating": "2½ stars",
     "scripture_references": [
       "Romans 1:29-31",
       "Proverbs 6:16-19",
@@ -18567,7 +18569,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-04-17",
-    "rating": "2 1/2 stars",
+    "rating": "2½ stars",
     "scripture_references": [
       "2 Corinthians 2:11",
       "Ecclesiastes 7:12",
@@ -18817,7 +18819,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "2001-07-04",
-    "rating": "no stars",
+    "rating": "0 stars",
     "scripture_references": [
       "2 Timothy 2:16-17",
       "Mark 7:21-22",
@@ -20806,7 +20808,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1999-01-25",
-    "rating": "2 1/2 stars",
+    "rating": "2½ stars",
     "scripture_references": [
       "Proverbs 29:15",
       "Deuteronomy 6:7",
@@ -21885,7 +21887,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-03-06",
-    "rating": "1 1/2 stars",
+    "rating": "1½ stars",
     "scripture_references": [
       "John 8:44",
       "Titus 1:2",
@@ -22793,7 +22795,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1997-12-19",
-    "rating": "3 1/2 stars",
+    "rating": "3½ stars",
     "scripture_references": [
       "Ephesians 5:25",
       "Isaiah 35:8-9",
@@ -23393,7 +23395,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1999-12-10",
-    "rating": "no stars",
+    "rating": "0 stars",
     "scripture_references": [
       "1 Corinthians 5:1",
       "Ephesians 6:12",
@@ -23561,7 +23563,7 @@
     "byline": "Michael Elliott",
     "series": "Movie Parables",
     "publication_date": "1998-08-28",
-    "rating": "2 1/2 stars",
+    "rating": "2½ stars",
     "scripture_references": [
       "Ephesians 5:25-28",
       "2 John 1:6",
@@ -24533,29 +24535,5 @@
     "internet_archive_url": null,
     "source_scan_public_status": "Pending cleaned/approved Internet Archive deposit",
     "page": "reviews/elliott-0999-20-feet-from-stardom.html"
-  },
-  {
-    "id": "Elliott_1000",
-    "number": "1000",
-    "title": "Play It To The Bone",
-    "slug": "elliott-1000-play-it-to-the-bone",
-    "author": "Michael Ondrasik",
-    "byline": "Michael Elliott",
-    "series": "Movie Parables",
-    "publication_date": "2000-01-10",
-    "rating": "1 star",
-    "scripture_references": [
-      "1 Corinthians 9:24",
-      "2 Timothy 4:7",
-      "James 1:2"
-    ],
-    "primary_scripture": "1 Corinthians 9:24",
-    "translation": "KJV",
-    "sermon_spiritual_topic": "Perseverance; Victory; Goals",
-    "source_type": "Original Author Copy",
-    "verification_status": "Author Verified",
-    "internet_archive_url": null,
-    "source_scan_public_status": "Pending cleaned/approved Internet Archive deposit",
-    "page": "reviews/elliott-1000-play-it-to-the-bone.html"
   }
 ]
