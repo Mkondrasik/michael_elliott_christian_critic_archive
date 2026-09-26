@@ -1,37 +1,45 @@
 # The Michael Elliott / Christian Critic Archive
 
-Static public repository for the film reviews written by **Michael Ondrasik** under the byline **Michael Elliott**.
+Static public archive of film reviews written by **Michael Ondrasik** under the byline **Michael Elliott**.
 
-## Version 1
+## Version 1.0
 
-- 50 author-verified review pages (`Elliott_0001`–`Elliott_0050`)
+- 1,066 author-verified review pages
+- Archival IDs retain their original numbering; seven confirmed duplicate records were retired, so intentional gaps remain
+- Publication dates represented in the recovered corpus span 1997–2014
 - Client-side search by film title, Scripture, review ID, publication date, and sermon/spiritual topic
 - Scripture → Film index
-- Sermon/Spiritual Topic index
+- Sermon / Spiritual Topic index
 - Structured JSON data under `/data`
 - Internet Archive URL field reserved for each review
-- Source scans intentionally excluded until public-facing copies are approved
+- Source scans are not included in this repository unless separately approved for public release
+
+## Collection scope
+
+This Version 1.0 release contains **1,066 recovered and author-verified reviews**.
+
+Michael Ondrasik has stated that approximately 400 additional reviews were written as part of a special project for Tyndale but have not yet been recovered. They are not assigned placeholder archive numbers and are not represented as missing files in this release. If source copies are later recovered and verified, they can be added as a future archive version.
 
 ## Repository structure
 
 - `index.html` — searchable review index
 - `scripture.html` — Scripture → Film index
-- `themes.html` — theme index
-- `about.html` — provenance/editorial policy
+- `themes.html` — sermon / spiritual topic index
+- `about.html` — provenance and editorial policy
 - `reviews/` — permanent review pages
 - `data/reviews.json` — public metadata
 - `data/scripture-index.json` — generated Scripture index
-- `data/theme-index.json` — generated theme index
+- `data/theme-index.json` — generated topic index
 - `assets/` — CSS and JavaScript
 
-## Date policy
+## Provenance and verification
 
-The public site does **not** expose legacy printed/reprint/template dates. Only an established original publication date is displayed. At this stage, dates established by the author for `Elliott_0041`–`Elliott_0050` are included; other dates remain “To be established.”
+The archive preserves Michael Ondrasik's film criticism under the byline Michael Elliott. Review text was transcribed from surviving source copies and author-verified. Source types include **Original Author Copy**, **Reconstructed Author Copy**, **Published Web Version**, and **Third-Party Reprint**.
+
+`Elliott_0006` (*Whipped*) is a Reconstructed Author Copy, retyped by the author in August 2026 after damage to the paper original.
 
 ## Internet Archive
 
-Each review record contains `internet_archive_url: null`. After an approved archival scan is deposited at Internet Archive, replace that value with the item URL and update the corresponding review page. See `INTERNET_ARCHIVE_WORKFLOW.md`.
+Version 1.0 is prepared for preservation as a complete digital collection at Internet Archive. Individual review records retain an `internet_archive_url` field for future source-scan deposits or related archival links.
 
-## GitHub Pages
-
-This repository is plain HTML/CSS/JavaScript and requires no build system. Upload these files to the root of a GitHub repository and enable Pages from the repository root. See `PUBLISHING.md`.
+See `INTERNET_ARCHIVE_WORKFLOW.md` for the source-scan preservation workflow.
