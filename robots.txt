@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mkondrasik.github.io/michael_elliott_christian_critic_archive/sitemap.xml
