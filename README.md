@@ -40,6 +40,9 @@ The archive preserves Michael Ondrasik's film criticism under the byline Michael
 
 ## Internet Archive
 
-Version 1.0 is prepared for preservation as a complete digital collection at Internet Archive. Individual review records retain an `internet_archive_url` field for future source-scan deposits or related archival links.
+Version 1.0 of the complete recovered digital archive is preserved at Internet Archive:
 
-See `INTERNET_ARCHIVE_WORKFLOW.md` for the source-scan preservation workflow.
+https://archive.org/details/michael-elliott-christian-critic-archive-v-1.0
+
+The Internet Archive item contains the Version 1.0 preservation ZIP, README, structured metadata, manifest, and SHA-256 checksums. Individual review records retain an `internet_archive_url` field for future source-scan deposits or related archival links.
+

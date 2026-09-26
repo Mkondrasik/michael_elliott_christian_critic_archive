@@ -19,3 +19,9 @@ The recovered corpus spans publication dates from 1997 through 2014.
 Approximately 400 additional reviews are known by the author to have existed as part of a special Tyndale project, but source copies have not yet been recovered. They are outside the Version 1.0 corpus and have not been assigned placeholder archival IDs.
 
 This release preserves the current digital archive. Original/source scans remain subject to the separate public-scan approval workflow described in `INTERNET_ARCHIVE_WORKFLOW.md`.
+
+## Internet Archive preservation
+
+The Version 1.0 preservation package is deposited at Internet Archive:
+
+https://archive.org/details/michael-elliott-christian-critic-archive-v-1.0

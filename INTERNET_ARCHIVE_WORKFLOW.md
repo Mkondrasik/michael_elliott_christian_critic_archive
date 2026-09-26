@@ -10,3 +10,9 @@ For each review:
 6. Add a visible “View preserved source at Internet Archive” link to that review page.
 
 Source types used by this project include **Original Author Copy**, **Reconstructed Author Copy**, **Published Web Version**, and **Third-Party Reprint**. `Elliott_0006` (Whipped) is a Reconstructed Author Copy, retyped by the author in August 2026 after damage to the paper original.
+
+## Version 1.0 collection deposit
+
+The complete Version 1.0 digital archive preservation item is available at:
+
+https://archive.org/details/michael-elliott-christian-critic-archive-v-1.0
